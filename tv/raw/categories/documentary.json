@@ -846,7 +846,8 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/70/index.m3u8"
+        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -867,6 +868,20 @@
       "ara"
     ],
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3sxG7fzO8BuxxG",
+    "name": "Arsenal",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1020,21 +1035,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOal2u88RSp40P",
-    "name": "Chemodan TV",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/399/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "sources": {
@@ -1048,6 +1048,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1212,6 +1226,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c1drY7BVrYSt3w",
+    "name": "DocuBox Russia",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2fMuVMErYSbQJN",
     "name": "Documentary+ International",
     "sources": {
@@ -1283,20 +1311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
-    "sources": {
-      "streams": [
-        "https://eplhls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ok1XbdadbIAXgd",
     "name": "Francophonie24",
     "sources": {
@@ -1337,37 +1351,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pwNSvcC8tmy7wH",
-    "name": "History",
-    "sources": {
-      "streams": [
-        "https://45.177.114.114/HISTORY/index.m3u8",
-        "https://170.83.16.50/HISTORY/index.m3u8",
-        "https://45.190.28.50/HISTORY_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LibEmLeog5q1Cm",
-    "name": "History 2 Latin America Brazil",
-    "sources": {
-      "streams": [
-        "https://45.177.114.114/HISTORY_2/index.m3u8",
-        "https://45.190.28.50/H2_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1430,6 +1413,34 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dS9WZLHmmG45EL",
+    "name": "History Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/History_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zguiwIb77EwhFw",
+    "name": "History2 Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/H2-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8BTlRgfNWp7SGA",
@@ -1610,7 +1621,6 @@
     "name": "Nano",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/419/index.m3u8",
         "https://s1.tv-nano.com/Nano_rec/index.m3u8"
       ]
     },
@@ -1639,7 +1649,8 @@
     "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/116/index.m3u8"
+        "https://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
+        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1735,20 +1746,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWF8Imk61O9FuP",
-    "name": "Nauka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/125/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
     "sources": {
@@ -1781,7 +1778,6 @@
     "name": "Persiana Travel",
     "sources": {
       "streams": [
-        "https://mardomhls.wns.live/hls/stream.m3u8",
         "https://ptravelhls.persiana.live/hls/stream.m3u8"
       ]
     },
@@ -1789,6 +1785,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -1890,20 +1900,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bEnt0TUe16DLhv",
-    "name": "Tochka RF",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/161/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ExqfRu5vFNM6yj",
     "name": "Total Crime CA",
     "sources": {
@@ -1946,20 +1942,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9qxiwyypjNrlXI",
-    "name": "Viasat History",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PfbaswQwxPL2la",
     "name": "Viasat History",
     "sources": {
@@ -1992,7 +1974,7 @@
     "name": "viju Explore",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/239/index.m3u8"
+        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2006,7 +1988,7 @@
     "name": "viju History",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/101/index.m3u8"
+        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2020,21 +2002,8 @@
     "name": "viju Nature",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dod05Sp6xlTtg2",
-    "name": "viju+ Planet",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/240/index.m3u8"
+        "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

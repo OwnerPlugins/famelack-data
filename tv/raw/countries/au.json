@@ -26,6 +26,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v83xg8X6mcPJfC",
+    "name": "ABC Entertains Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-me.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pBX0n0NNoCv2oI",
+    "name": "ABC Kids Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-kids.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e5UVFol9mf1Sy9",
     "name": "ABC News Australia",
     "sources": {
@@ -200,6 +228,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/19Y7R-lUndA"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pPdE8C8cpyAqht",
+    "name": "Force Thirteen Earthquakes",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ROrs0sHdo4A"
+      ]
+    },
     "languages": [
       "eng"
     ],

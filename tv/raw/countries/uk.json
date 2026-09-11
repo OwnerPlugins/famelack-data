@@ -353,7 +353,7 @@
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iVQJRxmux8Q"
+        "https://www.youtube-nocookie.com/embed/bLAJZTSl2_Y"
       ]
     },
     "languages": [
@@ -405,20 +405,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hk3PCZlSdlk7No",
-    "name": "Boomerang: The Tom and Jerry Show",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/_XeGYNTiuSM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lbVppOys0N4toA",
     "name": "Born to Kill",
     "sources": {
@@ -439,6 +425,21 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "sources": {
+      "streams": [
+        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -972,6 +973,7 @@
     "name": "GOD TV",
     "sources": {
       "streams": [
+        "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
       ]
     },
@@ -1219,20 +1221,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WNYH3Yw8Ugl7X8",
-    "name": "Iqra Bangla",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "stream_urls": [
@@ -1272,24 +1260,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/150/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1600,6 +1570,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "orMV5kjpjMECfw",
+    "name": "MTA4 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7HUreojw7Nl7Wt",
+    "name": "MTA5 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8aepLLt93YRC0U",
     "name": "MTA6 Asia",
     "sources": {
@@ -1614,6 +1618,20 @@
       "ind",
       "tam",
       "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jVLg1Tk3qRtGOF",
+    "name": "MTA8 America",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2066,7 +2084,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
+        "https://www.youtube-nocookie.com/embed/SFx6100d2Fw"
       ]
     },
     "languages": [
@@ -2103,6 +2121,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dxmNzNdEqt5bY8",
+    "name": "Sangat TV",
+    "sources": {
+      "streams": [
+        "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuT4hF41jXyjM4",
     "name": "Sanskar UK",
     "sources": {
@@ -2112,21 +2144,6 @@
     },
     "languages": [
       "hin"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xbZXBsOIAbJVyE",
-    "name": "Setanta Sports",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/313/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2229,7 +2246,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2nJ8pU3XKGE"
+        "https://www.youtube-nocookie.com/embed/bMFRPomEUfQ"
       ]
     },
     "languages": [
@@ -2243,7 +2260,8 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
       ]
     },
     "languages": [

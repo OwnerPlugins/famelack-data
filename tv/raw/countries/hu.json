@@ -69,20 +69,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oh8HdDJ2MJ0IrA",
-    "name": "Budapest Europa Televizio",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7lZXVo773nUBKh",
     "name": "ESTV",
     "sources": {
@@ -264,6 +250,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zMW8FE1xQLG090",
+    "name": "Orszaggyules: OGY TAB",
+    "sources": {
+      "streams": [
+        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vyv7aN2DLRtAEV",
     "name": "Oxygen Music",
     "stream_urls": [
@@ -332,7 +332,7 @@
     "name": "Tatai TV",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [

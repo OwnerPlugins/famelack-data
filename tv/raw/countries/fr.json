@@ -155,20 +155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fc5hpz0dRxh3M6",
-    "name": "Alpe d'Huez TV",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MV7j6dHcEiwyvr",
     "name": "Antenne Reunion",
     "sources": {
@@ -222,6 +208,7 @@
     "name": "BFM Lyon",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
       ]
     },
@@ -236,6 +223,7 @@
     "name": "BFM2",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
         "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
       ]
     },
@@ -384,6 +372,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "sources": {
@@ -393,25 +393,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vyAlDaoF9WU1Q1",
-    "name": "Euronews English",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/EURONEWS_HD/index.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -923,20 +904,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LMz39hxqiqUJdI",
-    "name": "Mezzo Live",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/276/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5oNNwRbeufUj8K",
     "name": "Monte Carlo Digital Television",
     "sources": {
@@ -955,7 +922,7 @@
     "name": "Mosaïk Cristal",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/h8jhsRixcJw"
+        "https://www.youtube-nocookie.com/embed/3A1M2zSRsTc"
       ]
     },
     "languages": [
@@ -1785,11 +1752,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4t9nyKLy4BlsIu",
-    "name": "TV5Monde Africa",
+    "nanoid": "inGlxKW8S2QpWf",
+    "name": "TV3V",
     "sources": {
       "streams": [
-        "https://5.9.121.178/tv5monde/index.m3u8"
+        "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
       ]
     },
     "languages": [
@@ -1797,20 +1764,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DCLTXwqB1NQz9D",
-    "name": "TV5Monde Asia",
-    "sources": {
-      "streams": [
-        "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

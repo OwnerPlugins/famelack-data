@@ -18,7 +18,8 @@
     "name": "Abai TV",
     "sources": {
       "streams": [
-        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
+        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+        "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -100,51 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNGjHMqNYvq17P",
-    "name": "Arte 1",
-    "sources": {
-      "streams": [
-        "https://45.177.114.115/ARTE1/index.m3u8",
-        "https://168.197.104.22/ARTE1/index.m3u8",
-        "https://170.83.16.50/ARTE_1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/asiritv/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Scw8Lr2omhvthD",
-    "name": "ATR",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/244/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFiAYQi0p17BXu",
     "name": "ATXN3",
     "sources": {
@@ -173,18 +129,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
+    "nanoid": "sdiObwInEYoWku",
+    "name": "Balchi TV",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+        "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8"
       ]
     },
     "languages": [
-      "bel",
-      "rus"
+      "nld",
+      "pap"
     ],
-    "country": "by",
+    "country": "aw",
     "isGeoBlocked": false
   },
   {
@@ -346,18 +302,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uXMcPHTew9graP",
-    "name": "Channel S",
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
     "sources": {
       "streams": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
+        "https://v2.tustreaming.cl/chiloered/index.m3u8"
       ]
     },
     "languages": [
-      "ben",
-      "eng"
+      "spa"
     ],
-    "country": "bd",
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -594,6 +549,20 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "io7IYy4iGHXtAl",
+    "name": "FNX KVCR-DT",
+    "sources": {
+      "streams": [
+        "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "2QHwYMt2XZKYvG",
@@ -879,20 +848,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "veVA32nZqDrhse",
-    "name": "KulturMD",
-    "sources": {
-      "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TBLEe7xTZlOnb",
     "name": "Lanzhou Culture & Tourism Channel",
     "sources": {
@@ -905,20 +860,6 @@
     ],
     "country": "cn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zUGGz2dbNzhVAw",
-    "name": "LRT Plius",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/353/index.m3u8"
-      ]
-    },
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "VOTDSHArm72ENB",
@@ -1103,7 +1044,8 @@
     "name": "NTV Mir",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/213.m3u8"
+        "https://streaming.thestream.cyou/live/213.m3u8",
+        "https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1209,6 +1151,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYkeshgW48vaJo",
+    "name": "Qausain TV",
+    "sources": {
+      "streams": [
+        "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wqtEMGQtkW2vmM",
     "name": "Radio Suyai TV",
     "sources": {
@@ -1251,40 +1207,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/229/index.m3u8",
+        "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
-        "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
+        "https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1395,6 +1324,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QP7DyV43LNSLl9",
     "name": "StoryChannel TV",
     "sources": {
@@ -1444,20 +1387,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "StgkKPI7ePVzMC",
-    "name": "Suspilne. Kultura",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/435/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -1521,11 +1450,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "46bhWZVm1EdjmB",
     "name": "TV Cartago Digital",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
         "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
@@ -1617,6 +1559,20 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BCqlMDAwIJgW3B",
+    "name": "UAA TV",
+    "sources": {
+      "streams": [
+        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

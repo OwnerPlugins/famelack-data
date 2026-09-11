@@ -164,20 +164,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sM7rYQFLMt6qyU",
-    "name": "Bravo Farsi TV",
-    "sources": {
-      "streams": [
-        "https://bravoohls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JIDClGIovnJEWq",
     "name": "Cafe Film",
     "sources": {
@@ -238,20 +224,6 @@
       "https://rdejhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
-    "sources": {
-      "streams": [
-        "https://eplhls.wns.live/hls/stream.m3u8"
-      ]
-    },
     "languages": [
       "fas"
     ],
@@ -743,7 +715,7 @@
     "name": "Mihan TV",
     "sources": {
       "streams": [
-        "https://tv.iraniancongress.com/stream/tv.m3u8"
+        "https://iptv.mihantv.com/mihantv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -907,27 +879,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fcecLpv40jkIKK",
-    "name": "Persiana Latino",
-    "sources": {
-      "streams": [
-        "https://latinohls.persiana.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas",
-      "spa"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "plcbFbhZX5D3nx",
     "name": "Persiana Medical",
     "sources": {
       "streams": [
-        "https://phd2hls.persiana.live/hls/stream.m3u8",
-        "https://tfnhls.wns.live/hls/stream.m3u8"
+        "https://phd2hls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -965,20 +921,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P7HHjZISueKx11",
-    "name": "Persiana Reality",
-    "sources": {
-      "streams": [
-        "https://twohls.persiana.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pyxg7WrXUVQ7nj",
     "name": "Persiana Series",
     "sources": {
@@ -997,7 +939,6 @@
     "name": "Persiana Travel",
     "sources": {
       "streams": [
-        "https://mardomhls.wns.live/hls/stream.m3u8",
         "https://ptravelhls.persiana.live/hls/stream.m3u8"
       ]
     },
@@ -1037,15 +978,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z0k0qEYEWnFz7F",
-    "name": "Press TV",
+    "nanoid": "gm4xqddWtJR9Ev",
+    "name": "Press TV French",
     "sources": {
       "streams": [
-        "https://live.presstv.ir/hls/presstv.m3u8"
+        "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "fra"
     ],
     "country": "ir",
     "isGeoBlocked": false
@@ -1083,20 +1024,6 @@
     "sources": {
       "streams": [
         "https://sltwohls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yBa18DitYklzQT",
-    "name": "SNN TV",
-    "sources": {
-      "streams": [
-        "https://live2.snn.ir/hls/snn2_hd720/index.m3u8"
       ]
     },
     "languages": [

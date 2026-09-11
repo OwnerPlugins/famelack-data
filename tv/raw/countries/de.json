@@ -97,20 +97,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DkYyR4OdRG7yGO",
-    "name": "Auto Addiction",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/r0HiHmvjj00"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uVgni6lRnPbvo9",
     "name": "BBC Top Gear Germany",
     "sources": {
@@ -436,6 +422,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "sources": {
@@ -497,20 +495,6 @@
       ]
     },
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ad0Rnfz9vcM"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -673,20 +657,6 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/C5TQUybjYQI"
       ]
     },
     "languages": [
@@ -1107,7 +1077,7 @@
     "name": "Pearl TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
+        "https://www.youtube-nocookie.com/embed/HwnR8DmTJqg"
       ]
     },
     "languages": [
@@ -1136,20 +1106,6 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dQC6hnK8bEtRAv",
-    "name": "PUNKTum Fernsehen",
-    "sources": {
-      "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1230,6 +1186,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
+    "sources": {
+      "streams": [
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rahlDGPnE1FWrR",
     "name": "Rakuten TV Crime Series Germany",
     "sources": {
@@ -1285,22 +1255,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "eDxTJNmoxWEurz",
-    "name": "RBW",
-    "sources": {
-      "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "sources": {
@@ -1333,22 +1287,7 @@
     "name": "RFH",
     "sources": {
       "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
         "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wm5wGl36SAC05e",
-    "name": "RFO",
-    "sources": {
-      "streams": [
-        "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1669,47 +1608,6 @@
     "sources": {
       "streams": [
         "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "APsiDTtaBUvYQA",
-    "name": "teltOwkanal",
-    "sources": {
-      "streams": [
-        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "sources": {
-      "streams": [
-        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26XgnwsMGpjD8v",
-    "name": "Tide TV",
-    "sources": {
-      "streams": [
-        "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
-        "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
       ]
     },
     "languages": [

@@ -46,9 +46,7 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://186.219.52.187/agro_canal/index.m3u8",
-        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -128,17 +126,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOcIh9UUF5nbfq",
-    "name": "Canal Rural",
+    "nanoid": "sYvKtrPKv77vYD",
+    "name": "Chacra TV",
     "sources": {
       "streams": [
-        "https://186.219.52.187/canal_rural/index.m3u8"
+        "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
       ]
     },
     "languages": [
-      "por"
+      "spa"
     ],
-    "country": "br",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -168,34 +166,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DIlZLkrC2C3Vr6",
-    "name": "Dikaya okhota",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/274/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9YLJY2DWypB09G",
-    "name": "Dikaya rybalka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/275/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -312,8 +282,7 @@
     "name": "Moya Planeta",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/124/index.m3u8",
-        "https://91.226.120.120/chid210/tracks-v1a1/mono.m3u8"
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -327,7 +296,6 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -404,7 +372,7 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ita"
+      "rus"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -479,21 +447,6 @@
       "eng"
     ],
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NpwExVTLVpI32y",
-    "name": "Trofei",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/357/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {

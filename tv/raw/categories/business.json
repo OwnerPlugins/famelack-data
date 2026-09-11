@@ -26,6 +26,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hNpror6ZnqPuws",
+    "name": "Aleph Business",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sPGmyALtlBkjD3",
     "name": "Ameritrade",
     "sources": {
@@ -97,6 +111,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o33GtxEONALntd",
+    "name": "Atameken Business",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OTtgOdMuzH3Ad4",
     "name": "Ausbiz TV",
     "sources": {
@@ -125,6 +153,23 @@
     ],
     "country": "ph",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "KsjaxPP1L7V1lh",
+    "name": "Biznes TV",
+    "sources": {
+      "streams": [
+        "https://biznestv.az/hls/live.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/M-B_IPBij-Y"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "FjXyVOsqcRFgVP",
@@ -477,6 +522,34 @@
       "fra"
     ],
     "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNA8RP7NoiPpEi",
+    "name": "Le Nouveau Manager TV",
+    "sources": {
+      "streams": [
+        "https://lnmlive.com/live/lnmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pRWBJuGYx6Sqyn",
+    "name": "MNTV",
+    "sources": {
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
     "isGeoBlocked": false
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "LyB1P5SiU3vOaG",
+    "name": "6 Wise Tv",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8150/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "sources": {
@@ -52,6 +66,20 @@
       "spa"
     ],
     "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I0aYULW1ftUCOM",
+    "name": "Detvora+",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -243,17 +271,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oLnLTQ4nnHeCAZ",
-    "name": "Soweto TV",
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
     "sources": {
       "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "za",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -261,9 +289,9 @@
     "name": "STS",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/138/index.m3u8",
         "https://flussonic.linkintel.ru/sts/index.m3u8",
-        "https://tshift-1.telecoma.tv/sts/index.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -277,8 +305,8 @@
     "name": "STS Love",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/183/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
+        "https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -354,6 +382,62 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3Qjh79yX39qnbD",
+    "name": "Velvet. European Movies",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "azHfQH8FY4oXMw",
+    "name": "Velvet. Series Hits",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zf5QDcOrGzyTlQ",
+    "name": "Velvet. Svaty",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IEcEQnjFt8MHSV",
+    "name": "Velvet. World Series",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

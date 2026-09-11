@@ -292,6 +292,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sfr4boA9nNaI9M",
+    "name": "DLTV 15",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "omZ8ESluZncX8u",
     "name": "GMM 25",
     "sources": {
@@ -423,8 +438,7 @@
     "name": "News1",
     "sources": {
       "streams": [
-        "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8",
-        "https://news1.live14.com/stream/news1.m3u8"
+        "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8"
       ]
     },
     "languages": [

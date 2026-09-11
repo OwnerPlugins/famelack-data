@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "OzdPy3Brp6JZA9",
+    "name": "Alpha Digital",
+    "sources": {
+      "streams": [
+        "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t2mBHms7Nuow3E",
     "name": "Ark TV",
     "sources": {
@@ -95,6 +109,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tFPGGM3ymV3m1A",
+    "name": "Rwenzori TV",
+    "sources": {
+      "streams": [
+        "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "koo"
     ],
     "country": "ug",
     "isGeoBlocked": false

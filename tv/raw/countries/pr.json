@@ -331,14 +331,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6DxixUnn8FbaeV",
+    "nanoid": "XvwjE3r4OPSQQQ",
     "name": "WKAQ-DT1 (Telemundo PR)",
     "sources": {
       "streams": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "pr",
     "isGeoBlocked": false
   },
@@ -374,6 +376,18 @@
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IiR71uuMJmqUVL",
+    "name": "WWXY-DT3 (Maranatha Radio Ministries)",
+    "sources": {
+      "streams": [
+        "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
       ]
     },
     "languages": [],

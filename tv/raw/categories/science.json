@@ -1,16 +1,30 @@
 [
   {
-    "nanoid": "8RfZ4RajNstT0l",
-    "name": ".sci-fi",
+    "nanoid": "oMWoXuzyayZcUr",
+    "name": "BFM Tech & Co",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/180/index.m3u8"
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
       ]
     },
     "languages": [
-      "rus"
+      "fra"
     ],
-    "country": "ru",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
+    "sources": {
+      "streams": [
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -100,26 +114,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zby3EFKjfMDiTX",
-    "name": "Nauka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/403/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PsC2Ff8IrDt4Uv",
     "name": "Su_Root: Earthquake Monitoring",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/o9qwtM1wZDw"
+        "https://www.youtube-nocookie.com/embed/mCYGHvCZtP0"
       ]
     },
     "languages": [

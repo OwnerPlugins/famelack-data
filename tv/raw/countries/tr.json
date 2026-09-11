@@ -220,7 +220,7 @@
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SAqH6cYIiK0"
+        "https://www.youtube-nocookie.com/embed/QlLx7bRrqW0"
       ]
     },
     "languages": [
@@ -286,11 +286,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
+    "nanoid": "9cbMZrwOtdSUeq",
+    "name": "Bir TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -300,11 +301,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lnPH0Jssl2BDkS",
-    "name": "Bric ve Satranc TV",
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
     "sources": {
       "streams": [
-        "https://139.162.182.79/live/test/index.m3u8"
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -415,8 +416,7 @@
     "name": "Cem TV",
     "sources": {
       "streams": [
-        "https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8",
-        "https://tv.cemtv.net:19360/cemtv/cemtv.m3u8"
+        "https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8"
       ]
     },
     "languages": [],
@@ -571,11 +571,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LBjTYLrmef2uC7",
+    "name": "Ekoturk",
+    "sources": {
+      "streams": [
+        "https://cdn.ekoturk.net/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZF8u92PVuJI4iM",
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jmbQFDeeBsQ"
+        "https://www.youtube-nocookie.com/embed/jInhvH8CkgQ"
       ]
     },
     "languages": [
@@ -1636,7 +1650,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VQikpQEquwA"
+        "https://www.youtube-nocookie.com/embed/ZgDiaQoLwMs"
       ]
     },
     "languages": [
@@ -1819,20 +1833,6 @@
     "sources": {
       "streams": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yWrfqyUbeSLDpm",
-    "name": "Number 1 Dance",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2120,6 +2120,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5GoagSnDbPwxmH",
+    "name": "Tele 1",
+    "sources": {
+      "streams": [
+        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTUvBY4x4L3ji9",
     "name": "Telenews",
     "sources": {
@@ -2182,7 +2196,7 @@
         "https://tjktv-live.tjk.org/tjktv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TF0iIhhUhP8"
+        "https://www.youtube-nocookie.com/embed/vcYgt03oXz4"
       ]
     },
     "languages": [
@@ -2316,6 +2330,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "owJJC4tX2SQL4u",

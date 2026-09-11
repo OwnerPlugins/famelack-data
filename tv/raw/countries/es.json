@@ -162,8 +162,7 @@
     "name": "Alcarria TV",
     "sources": {
       "streams": [
-        "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
-        "https://217.182.77.27/live/alcarriatv-livestream.m3u8"
+        "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -394,20 +393,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ppVAYeEG6FqcRw",
-    "name": "Canal 2000",
-    "sources": {
-      "streams": [
-        "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LtD5RiPuecwLxV",
     "name": "Canal Coin TV",
     "sources": {
@@ -588,20 +573,6 @@
     },
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k3p0dVcqLJhpnV",
-    "name": "Cetelmon TV",
-    "sources": {
-      "streams": [
-        "https://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -842,6 +813,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -1048,6 +1034,20 @@
       "streams": [
         "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
         "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h9YxHU0Ug32YMW",
+    "name": "HOLA! Play",
+    "sources": {
+      "streams": [
+        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
       ]
     },
     "languages": [
@@ -1322,6 +1322,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "sources": {
+      "streams": [
+        "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eus",
       "spa"
     ],
     "country": "es",
@@ -1654,6 +1669,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vDun3PAY1zC641",
+    "name": "Tac12",
+    "sources": {
+      "streams": [
+        "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gwo0Rl1MzhMfE6",
     "name": "Taroteame",
     "sources": {
@@ -1691,6 +1720,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9WgfAeppTstCFn",
+    "name": "Tele Safor",
+    "sources": {
+      "streams": [
+        "https://video.telesafor.com/hls/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1968,6 +2011,20 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f4MvB70GxNwe4i",
+    "name": "VOTV",
+    "sources": {
+      "streams": [
+        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

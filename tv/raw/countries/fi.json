@@ -63,6 +63,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FW4NkK3uUVOi0W",
+    "name": "Liv",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lfrIvAovke3yk8",
     "name": "Moomin Official",
     "sources": {
@@ -73,6 +87,42 @@
     "languages": [
       "eng"
     ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vXBPuMXUanBxnj",
+    "name": "MTV Ava",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/ava/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XIT46ZkepuHyd7",
+    "name": "MTV Sub",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/sub/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sJ0IwCxQ3PFQw5",
+    "name": "MTV3",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "fi",
     "isGeoBlocked": false
   },
@@ -95,8 +145,7 @@
     "name": "Navahang TV",
     "sources": {
       "streams": [
-        "https://hls.navahang.live/hls/stream.m3u8",
-        "https://simahls.wns.live/hls/stream.m3u8"
+        "https://hls.navahang.live/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -106,11 +155,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2woYjnnnE6JSW8",
-    "name": "Nopola News",
+    "nanoid": "ic6PikdPKAa3mo",
+    "name": "Nelonen",
     "sources": {
       "streams": [
-        "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8"
+        "https://live-fi.tvkaista.net/nelonen/live.m3u8"
       ]
     },
     "languages": [
@@ -162,6 +211,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3kvMeRQNc7yJgV",
+    "name": "World of Love Island",
+    "sources": {
+      "streams": [
+        "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TpuV7cZ7ley7jL",
     "name": "Yle Teema & Fem",
     "sources": {
@@ -180,7 +241,8 @@
     "name": "Yle TV1",
     "sources": {
       "streams": [
-        "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+        "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "https://live-fi.tvkaista.net/yle-tv1/live.m3u8"
       ]
     },
     "languages": [
