@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "gnXbQSLxnNAtTV",
-    "name": "4 Fun TV",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -98,16 +84,44 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NHCXMxoKr3soBB",
-    "name": "BTB 2",
+    "nanoid": "DHR1El8JiIdfUH",
+    "name": "BTB 3",
     "sources": {
       "streams": [
-        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+        "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8"
       ]
     },
     "languages": [
       "pol"
     ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpkwHa7GwFnKLp",
+    "name": "BTB Music",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -135,6 +149,20 @@
     },
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -364,6 +392,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -766,6 +808,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "sources": {
+      "streams": [
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "sources": {
@@ -841,7 +898,7 @@
     "name": "ZTV live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QV9hs_eh7q4"
+        "https://www.youtube-nocookie.com/embed/xd8Twy6cafA"
       ]
     },
     "languages": [

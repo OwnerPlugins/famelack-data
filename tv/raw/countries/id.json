@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fEk1aZZhOygCxY",
-    "name": "Ahsan TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vNzaBFNwp2L4XM",
     "name": "AKTV",
     "sources": {
@@ -106,20 +92,6 @@
     "sources": {
       "streams": [
         "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YJjt1kMM9xV6J0",
-    "name": "Astro Blitar TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -425,20 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XTEtIon4adh6d",
-    "name": "Indonesiana.TV",
-    "sources": {
-      "streams": [
-        "https://tvstreamcast.com/indonesiana.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AwWVoTg8nnvs2w",
     "name": "Jambi TV",
     "sources": {
@@ -552,20 +510,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JrD2RnvvTP4"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6Oy6l4nSQLXeVV",
     "name": "Matrix TV Yogyakarta",
     "sources": {
@@ -598,9 +542,6 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
-      "streams": [
-        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
@@ -823,39 +764,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Cx1Butu3HjYB81",
-    "name": "Sampit TV",
-    "sources": {
-      "streams": [
-        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4WttbEI2P66IMh",
     "name": "Sangaji TV",
     "sources": {
       "streams": [
         "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2XkFMpRoLYu9Ma",
-    "name": "Selaparang TV",
-    "sources": {
-      "streams": [
-        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
       ]
     },
     "languages": [
@@ -992,6 +905,20 @@
     "languages": [
       "ind",
       "sun"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8hJ23CyupQeWvg",
+    "name": "Suara Surabaya Visual Radio",
+    "sources": {
+      "streams": [
+        "https://ssfm.siar.us/ssfm/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false

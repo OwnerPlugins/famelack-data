@@ -75,8 +75,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -130,16 +129,14 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Rbhi1IeYnyJ3gG",
-    "name": "Cedros TV",
+    "nanoid": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
     "sources": {
       "streams": [
-        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
+        "https://latamvdo.com:3870/hybrid/play.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -278,21 +275,6 @@
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "spa"
     ],
     "country": "cr",
@@ -592,6 +574,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oFBYYfrHTKyW0r",
+    "name": "TV Nosara",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "sources": {
@@ -639,34 +633,6 @@
     "sources": {
       "streams": [
         "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
       ]
     },
     "languages": [

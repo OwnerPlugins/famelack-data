@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7g4HH41gB1MWxY",
+    "name": "Capital TV HD",
+    "sources": {
+      "streams": [
+        "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+        "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
+      ]
+    },
+    "languages": [
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DfD3tq4WpLgfKH",
     "name": "Divya Darshan TV",
     "sources": {
@@ -59,18 +74,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yq9I4GUJy9xQLc",
-    "name": "NH BollyFlix",
-    "sources": {
-      "streams": [
-        "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Zb16918imcG8X",
     "name": "NH BollyRaga",
     "sources": {
@@ -79,6 +82,22 @@
       ]
     },
     "languages": [],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SkFJ0oflDSmfA2",
+    "name": "Ray TV HD",
+    "sources": {
+      "streams": [
+        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+        "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
+      ]
+    },
+    "languages": [
+      "mai",
+      "nep"
+    ],
     "country": "np",
     "isGeoBlocked": false
   },

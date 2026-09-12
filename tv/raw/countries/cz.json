@@ -14,39 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4DOfz9kyXADZca",
-    "name": "Barrandov Krimi",
-    "sources": {
-      "streams": [
-        "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BIDI8yaoxL4vBI",
     "name": "CT24",
     "sources": {
       "streams": [
         "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sGGYcG95nzGgeJ",
-    "name": "Elektrika TV",
-    "sources": {
-      "streams": [
-        "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -93,34 +65,6 @@
     },
     "languages": [
       "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Msa0rkk2Ovcz6v",
-    "name": "Jihoceska televize",
-    "sources": {
-      "streams": [
-        "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P2Oc28VYPqtx0J",
-    "name": "KVIFF TV",
-    "sources": {
-      "streams": [
-        "https://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cze"
     ],
     "country": "cz",
     "isGeoBlocked": false
@@ -211,25 +155,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IT22OI7L0wA3hQ",
-    "name": "Plzen TV",
-    "sources": {
-      "streams": [
-        "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TJaXKOg9obT2nw",
     "name": "Polar TV",
     "sources": {
       "streams": [
-        "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
         "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8"
       ]
     },
@@ -244,8 +173,7 @@
     "name": "Retro Music TV",
     "sources": {
       "streams": [
-        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -297,20 +225,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "fTApFWHNaUxcOH",
-    "name": "TV Brno 1",
-    "sources": {
-      "streams": [
-        "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iIeqZQ118HX5Yv",
     "name": "TV Noe",
     "sources": {
@@ -344,20 +258,6 @@
     "sources": {
       "streams": [
         "https://dash.antik.sk/live/test_upnetwork/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cWzKFLiigGaQzp",
-    "name": "UTV",
-    "sources": {
-      "streams": [
-        "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
       ]
     },
     "languages": [

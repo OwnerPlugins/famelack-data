@@ -253,6 +253,9 @@
     "nanoid": "K4DoGz5aRpSeyC",
     "name": "Canal E",
     "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/svekeJWi27o"
       ]
@@ -576,6 +579,20 @@
       "fra"
     ],
     "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
