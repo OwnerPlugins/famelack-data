@@ -128,20 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3VqJp1fO3TYTIw",
-    "name": "Angel TV Russian",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dp26BhBSy3QLvt",
     "name": "Arkhyz 24",
     "sources": {
@@ -411,20 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BfwqBiX5DmpUq5",
-    "name": "Channel 8 Krasnoyarsk",
-    "sources": {
-      "streams": [
-        "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jXS8I8IchjQyqy",
     "name": "Channel 8 Novosibirsk",
     "sources": {
@@ -488,34 +460,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIOxlnAu1GPh23",
-    "name": "City Eden TV",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34246/index.m3u8"
       ]
     },
     "languages": [
@@ -673,8 +617,7 @@
     "name": "Dorama",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
+        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -2093,20 +2036,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "h6xlBNAG4NibAI",
-    "name": "Pro Business",
-    "sources": {
-      "streams": [
-        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "baWp5QhTh81ABF",
     "name": "Prodvizhenie",
     "sources": {
@@ -2718,6 +2647,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "SlVG4fjzQNKF0Y",
+    "name": "Sportivnyy",
+    "sources": {
+      "streams": [
+        "https://live-3.otcnet.ru/sportivny/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bGtZkBQX1pajI4",
     "name": "Star Cinema",
     "sources": {
@@ -2792,9 +2735,9 @@
     "name": "STS",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/sts/index.m3u8",
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2993,7 +2936,6 @@
     "name": "TNT4",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/tnt4/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
       ]
     },
@@ -3348,20 +3290,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IEcEQnjFt8MHSV",
-    "name": "Velvet. World Series",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tk0mG4VFLQVdIQ",
     "name": "Vesti FM",
     "sources": {
@@ -3468,8 +3396,7 @@
     "name": "viju+ Sport",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv"
+        "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [

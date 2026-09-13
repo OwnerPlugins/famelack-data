@@ -47,9 +47,6 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XhgIFZIQLW8"
       ]
     },
     "languages": [
@@ -1318,6 +1315,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "98eWq0MPbJaBZ4",
+    "name": "Aliento Vision",
+    "sources": {
+      "streams": [
+        "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7Pe4yDjmiaBu9L",
     "name": "Alkarma TV Australia",
     "sources": {
@@ -2102,8 +2113,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -2401,34 +2411,6 @@
     "sources": {
       "streams": [
         "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0b7ildxmxVxqYI",
-    "name": "BEK News",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3904,7 +3886,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/37SsYQOtsdY"
+        "https://www.youtube-nocookie.com/embed/0xpHjgLzWD4"
       ]
     },
     "languages": [
@@ -6182,7 +6164,7 @@
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
         "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
-        "https://estrellatv-glewed.amagi.tv/playlist.m3u8"
+        "https://estrellatv-oando.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6647,20 +6629,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ZlkeMII1Cl5GKN",
-    "name": "Food Network",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/_Ajb6_yPe_4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sb6GvEdU1AtYzB",
     "name": "Forged In Fire",
     "sources": {
@@ -6875,20 +6843,6 @@
     "sources": {
       "streams": [
         "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Lf1rr8yQyew"
       ]
     },
     "languages": [
@@ -9237,7 +9191,8 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8"
+        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
+        "https://tvsen7.aynascope.net/laff/index.m3u8"
       ]
     },
     "languages": [
@@ -10713,6 +10668,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -11311,18 +11267,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I1a9VkHVImdCuf",
-    "name": "NBC Sports Philadelphia",
+    "nanoid": "1cMUm2YnhrYVgK",
+    "name": "NBC West (San Diego)",
     "sources": {
       "streams": [
-        "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Nym192LS730UQa",
@@ -11451,20 +11407,6 @@
     "sources": {
       "streams": [
         "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EmHOTWEORpvSsZ",
-    "name": "News12 Brooklyn",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
       ]
     },
     "languages": [
@@ -13418,7 +13360,8 @@
     "name": "Real Wild",
     "sources": {
       "streams": [
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+        "https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -14698,7 +14641,7 @@
     "name": "SonLife Broadcasting Network",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6qSyOAgvVy4"
+        "https://www.youtube-nocookie.com/embed/7K_InAtHj8A"
       ]
     },
     "languages": [
@@ -15591,7 +15534,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -18165,20 +18109,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RBsulEFm06gD0b",
-    "name": "We TV East",
-    "sources": {
-      "streams": [
-        "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rsgBN1CiczuZvL",
     "name": "WeatherNation",
     "sources": {
@@ -19272,7 +19202,7 @@
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1qQ2vXLtsdw"
+        "https://www.youtube-nocookie.com/embed/S2hYp-IICAQ"
       ]
     },
     "languages": [

@@ -46,7 +46,8 @@
     "name": "Carac 2",
     "sources": {
       "streams": [
-        "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8"
+        "https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
+        "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8"
       ]
     },
     "languages": [
@@ -221,20 +222,6 @@
     },
     "languages": [
       "ita"
-    ],
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "48RqSkShlJpBo8",
-    "name": "RTV Pendimi",
-    "sources": {
-      "streams": [
-        "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8"
-      ]
-    },
-    "languages": [
-      "sqi"
     ],
     "country": "ch",
     "isGeoBlocked": false

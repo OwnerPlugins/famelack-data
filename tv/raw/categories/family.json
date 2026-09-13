@@ -202,41 +202,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bOQ2ElnoGQqKTy",
-    "name": "Somos Entre Rios",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oLnLTQ4nnHeCAZ",
-    "name": "Soweto TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/sts/index.m3u8",
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -275,20 +247,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OFNCxJwQlhXnh3",
-    "name": "Tshwane TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GmMshdsdBRXuib",
     "name": "TV Familia",
     "sources": {
@@ -300,6 +258,20 @@
       "spa"
     ],
     "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "usETpjVP1bzVNN",
+    "name": "TV Famille",
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
     "isGeoBlocked": false
   },
   {
@@ -364,20 +336,6 @@
     "sources": {
       "streams": [
         "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IEcEQnjFt8MHSV",
-    "name": "Velvet. World Series",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8"
       ]
     },
     "languages": [

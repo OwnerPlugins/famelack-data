@@ -396,20 +396,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/S4zgKzlOMBU"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -735,6 +721,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kDus67YWLDmlSH",
+    "name": "JNE TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "sources": {
@@ -760,6 +760,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "sources": {
+      "streams": [
+        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1236,7 +1250,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1HzaivOVg6M"
+        "https://www.youtube-nocookie.com/embed/LbBSfD6TAEo"
       ]
     },
     "languages": [

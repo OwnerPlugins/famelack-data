@@ -262,7 +262,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/37SsYQOtsdY"
+        "https://www.youtube-nocookie.com/embed/0xpHjgLzWD4"
       ]
     },
     "languages": [
@@ -522,6 +522,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "pILTgjKOONeKEW",
+    "name": "El 33 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -676,6 +691,20 @@
       "hin"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
     "isGeoBlocked": false
   },
   {
@@ -877,6 +906,20 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EwK4bC43UwqpBP",
+    "name": "Manavision",
+    "sources": {
+      "streams": [
+        "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -1096,34 +1139,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V3b7nvXml8zERG",
-    "name": "Paci Contemporary Channel",
-    "sources": {
-      "streams": [
-        "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DKHLUT1IqpMkXM",
-    "name": "Presumiendo Mexico",
-    "sources": {
-      "streams": [
-        "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SYkeshgW48vaJo",
     "name": "Qausain TV",
     "sources": {
@@ -1297,20 +1312,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bOQ2ElnoGQqKTy",
-    "name": "Somos Entre Rios",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QP7DyV43LNSLl9",
     "name": "StoryChannel TV",
     "sources": {
@@ -1407,18 +1408,20 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BpkMtsoRspK7u5",
-    "name": "TRT Genc",
+    "nanoid": "SQGH8tX9KocSpb",
+    "name": "Trishul Broadcasting Network",
     "sources": {
       "streams": [
-        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+        "https://live.suricloud.com/hls/tbntv/index.m3u8"
       ]
     },
     "languages": [
-      "tur"
+      "eng",
+      "hin",
+      "nld"
     ],
-    "country": "tr",
-    "isGeoBlocked": true
+    "country": "sr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "46bhWZVm1EdjmB",

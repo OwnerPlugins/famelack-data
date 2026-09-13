@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "aANHgmWHyppMiE",
-    "name": "1062 Mad Radio Live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/OvEebY53NtE"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F0m8xOZdwpScCP",
     "name": "Acheloos TV",
     "sources": {
@@ -239,6 +225,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HQxmczuRTCLJHk",
+    "name": "Ellinikos FM",
+    "sources": {
+      "streams": [
+        "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwC9NJaJZp5UMP",
     "name": "Epiloges TV",
     "sources": {
@@ -293,20 +293,6 @@
     ],
     "country": "gr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "sources": {
-      "streams": [
-        "https://s1.cystream.net/live/faros2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "BBnkN7RuoWZuoo",

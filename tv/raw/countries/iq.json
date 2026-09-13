@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ddrr8smWgDPaNo",
-    "name": "Afarin Baxcha",
-    "sources": {
-      "streams": [
-        "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AeG4E88wj1aN3z",
     "name": "Afarin TV",
     "sources": {
@@ -117,6 +103,20 @@
     "sources": {
       "streams": [
         "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gqagHcGI6e4lYf",
+    "name": "Al-Jawadain TV",
+    "sources": {
+      "streams": [
+        "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -472,6 +472,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pWcgyQ1N65tvlP",
+    "name": "Marjaeyat TV English",
+    "sources": {
+      "streams": [
+        "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NA2Yy8jnyc36WT",
     "name": "Marjaeyat TV Persian",
     "sources": {
@@ -577,8 +591,7 @@
     "name": "Zagros TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
-        "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8"
       ]
     },
     "languages": [

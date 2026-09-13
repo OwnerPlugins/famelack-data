@@ -62,7 +62,6 @@
     "name": "Ayush TV",
     "sources": {
       "streams": [
-        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
       ]
     },
@@ -127,20 +126,6 @@
       "eng"
     ],
     "country": "tt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {

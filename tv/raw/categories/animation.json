@@ -5,9 +5,6 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XhgIFZIQLW8"
       ]
     },
     "languages": [
@@ -183,20 +180,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -465,6 +448,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -476,6 +473,20 @@
       "pol"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mi17BkbSFMtULi",
+    "name": "Kuriakos Kids",
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
     "isGeoBlocked": false
   },
   {

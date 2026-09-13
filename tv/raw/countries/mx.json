@@ -84,20 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yq7NxSgMJ0x6ko",
-    "name": "Antena TV",
-    "sources": {
-      "streams": [
-        "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L4rlrnY8qxe1Zl",
     "name": "Azteca Deportes Network",
     "sources": {
@@ -154,11 +140,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
+    "nanoid": "z9NmlAa4TNcIbD",
+    "name": "BAMOS TV",
     "sources": {
       "streams": [
-        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qhvLdupfMqmZsq",
+    "name": "Canal 5 TV Cozumel",
+    "sources": {
+      "streams": [
+        "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8"
       ]
     },
     "languages": [
@@ -662,11 +662,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DKHLUT1IqpMkXM",
-    "name": "Presumiendo Mexico",
+    "nanoid": "eg1gONSWrKSqw4",
+    "name": "PSN",
     "sources": {
       "streams": [
-        "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+        "https://srspsn.live/live/livestream.m3u8"
       ]
     },
     "languages": [
@@ -676,11 +676,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eg1gONSWrKSqw4",
-    "name": "PSN",
+    "nanoid": "rGCqu82AwJbUrk",
+    "name": "PSN Canal 45.2",
     "sources": {
       "streams": [
-        "https://srspsn.live/live/livestream.m3u8"
+        "https://srspsn2.live/live/livestream.m3u8"
       ]
     },
     "languages": [
@@ -723,21 +723,6 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UQFSkPCl4JMKWc",
-    "name": "SET Televisión Canal 26.1",
-    "sources": {
-      "streams": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
       ]
     },
     "languages": [
@@ -902,20 +887,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDHdYFZTyUWlzE",
-    "name": "Televisa Del Golfo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/VH-ykKCM_tU"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MFKuXvwOZbfP2b",
     "name": "Televisa Guadalajara",
     "sources": {
@@ -958,11 +929,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cKKDqnHB2z0"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jiv0dDh9RrbAvZ",
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9uISHoaQBZ0"
+        "https://www.youtube-nocookie.com/embed/0mmmbhZP1Ak"
       ]
     },
     "languages": [
@@ -1061,20 +1046,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/pe_yloLaJ-Q"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nvgVlQtD4CwYJb",
-    "name": "Televisa Zacatecas",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/8_yJ9hWrYUs"
       ]
     },
     "languages": [
@@ -1468,6 +1439,20 @@
     "sources": {
       "streams": [
         "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "73XssOK3RAP6Kw",
+    "name": "XHTTG-TDT",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
       ]
     },
     "languages": [

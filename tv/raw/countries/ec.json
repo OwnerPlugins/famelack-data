@@ -112,6 +112,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XNa5AM5I0Mvv8Q",
+    "name": "Capricho TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "sources": {
@@ -327,6 +341,20 @@
     "sources": {
       "streams": [
         "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EwK4bC43UwqpBP",
+    "name": "Manavision",
+    "sources": {
+      "streams": [
+        "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
       ]
     },
     "languages": [
@@ -560,6 +588,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LX5wXVXTxx5iPK",
+    "name": "Telerama",
+    "sources": {
+      "streams": [
+        "https://play.once.net.ec/telerama/live.tv/538.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "sources": {
@@ -593,20 +635,6 @@
     "sources": {
       "streams": [
         "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MNXObrhpcNUXdr",
-    "name": "TVC",
-    "sources": {
-      "streams": [
-        "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [

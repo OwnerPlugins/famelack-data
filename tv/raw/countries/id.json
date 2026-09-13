@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fEk1aZZhOygCxY",
+    "name": "Ahsan TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vNzaBFNwp2L4XM",
     "name": "AKTV",
     "sources": {
@@ -38,22 +52,6 @@
     "languages": [
       "ind",
       "msa"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o2PfBDwt7tySj4",
-    "name": "Angel TV Indonesia",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ind",
-      "tam"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -92,6 +90,20 @@
     "sources": {
       "streams": [
         "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YJjt1kMM9xV6J0",
+    "name": "Astro Blitar TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -199,20 +211,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "JTbs2lIH8ln5ro",
-    "name": "Davika TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ksjOnBMCR8R7y0",
     "name": "Dhamma TV",
     "sources": {
@@ -246,20 +244,6 @@
     "sources": {
       "streams": [
         "https://tvstreamcast.com/tawaftv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTv1lAQngiwpQF",
-    "name": "dTVi",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dtvi.m3u8"
       ]
     },
     "languages": [
@@ -397,6 +381,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4XTEtIon4adh6d",
+    "name": "Indonesiana.TV",
+    "sources": {
+      "streams": [
+        "https://tvstreamcast.com/indonesiana.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AwWVoTg8nnvs2w",
     "name": "Jambi TV",
     "sources": {
@@ -416,6 +414,20 @@
     "sources": {
       "streams": [
         "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       ]
     },
     "languages": [
@@ -451,21 +463,6 @@
     ],
     "country": "id",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "sources": {
-      "streams": [
-        "https://lingkartv.my.id/hls/lingkartv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind",
-      "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "76VjihbmJOrWcW",
@@ -542,6 +539,9 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
@@ -651,6 +651,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "sources": {
+      "streams": [
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3v2UZx2WqrnRDM",
     "name": "Radar Tasikmalaya TV",
     "sources": {
@@ -707,20 +721,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FbrCzMwlpQjYEF",
-    "name": "Rodja TV",
-    "sources": {
-      "streams": [
-        "https://rodjatv.com/rodjatv/live.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "4XHmhUHFvR9eAr",
     "name": "RRI Net",
     "sources": {
@@ -764,11 +764,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Cx1Butu3HjYB81",
+    "name": "Sampit TV",
+    "sources": {
+      "streams": [
+        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4WttbEI2P66IMh",
     "name": "Sangaji TV",
     "sources": {
       "streams": [
         "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2XkFMpRoLYu9Ma",
+    "name": "Selaparang TV",
+    "sources": {
+      "streams": [
+        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
       ]
     },
     "languages": [
@@ -999,20 +1027,6 @@
     "sources": {
       "streams": [
         "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AIvndURhkfCKoa",
-    "name": "TVKU",
-    "sources": {
-      "streams": [
-        "https://tvku.tv/hlsstream/hls/live.m3u8"
       ]
     },
     "languages": [
@@ -1504,6 +1518,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/_9cb9QWOKW0"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
+    "sources": {
+      "streams": [
+        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
       ]
     },
     "languages": [

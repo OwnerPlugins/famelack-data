@@ -44,20 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YD8ihVxcEILfkx",
-    "name": "Azan TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fruS79xWb73ha2",
     "name": "Barney the Dinosaur",
     "sources": {
@@ -395,20 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZXvLfybRDCi9xD",
-    "name": "DesheBideshe TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v0OeMdvjnnVO4J",
     "name": "Deshi TV",
     "sources": {
@@ -569,9 +541,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -988,20 +960,6 @@
     "sources": {
       "streams": [
         "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "sources": {
-      "streams": [
-        "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
       ]
     },
     "languages": [

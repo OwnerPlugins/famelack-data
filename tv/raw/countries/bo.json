@@ -82,20 +82,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "szKNdNWx1GqWTX",
     "name": "Coral TV",
     "sources": {
@@ -166,6 +152,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "R8JVtILfHbuO4E",
+    "name": "FAP TV",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/faptv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4r0QKfGoGD09Z7",
     "name": "FTV",
     "sources": {
@@ -184,7 +184,8 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [],
@@ -262,11 +263,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pYqhwxhr9gjeaq",
-    "name": "Radio Centro",
+    "nanoid": "4frDgMPDz0NOom",
+    "name": "PTV",
     "sources": {
       "streams": [
-        "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
+        "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
       ]
     },
     "languages": [
@@ -276,11 +277,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnzbysvLZ1mHZ2",
-    "name": "Radio Clasica TV",
+    "nanoid": "pYqhwxhr9gjeaq",
+    "name": "Radio Centro",
     "sources": {
       "streams": [
-        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
+        "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -429,20 +430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VvgjeRVvJxgn4n",
-    "name": "TELE 6",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FQtLVabcRW3R96",
     "name": "Tele Fe Bolivia",
     "sources": {
@@ -491,20 +478,6 @@
       "streams": [
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ztTWlTaxLQDSi1",
-    "name": "TV OFF",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [
@@ -566,6 +539,18 @@
     "languages": [
       "spa"
     ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8XmRascOPMJDcT",
+    "name": "Unitel Santa Cruz",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "bo",
     "isGeoBlocked": false
   },
