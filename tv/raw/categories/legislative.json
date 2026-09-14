@@ -580,20 +580,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xnU10BQX3X7Kmm",
-    "name": "Fernandina Beach Channel",
-    "sources": {
-      "streams": [
-        "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zgZETkiLQsKXGO",
     "name": "Glendale 11 AZ",
     "sources": {
@@ -1002,6 +988,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1250,7 +1250,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LbBSfD6TAEo"
+        "https://www.youtube-nocookie.com/embed/epes8-bPCto"
       ]
     },
     "languages": [

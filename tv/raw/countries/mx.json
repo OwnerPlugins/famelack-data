@@ -140,11 +140,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
     "sources": {
       "streams": [
-        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
       ]
     },
     "languages": [
@@ -180,20 +180,6 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gwICuV95fTarKx",
-    "name": "Canal 22 Nacional",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "v6b78NmVD9WnBy",
@@ -480,6 +466,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nrfOukOVxLA"
+      ]
+    },
+    "languages": [],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZiZzS4tyBeE4oz",
     "name": "ITV Deportes",
     "sources": {
@@ -732,34 +730,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inKpcU1CFpY4af",
-    "name": "SIPSE TV 8.1",
-    "sources": {
-      "streams": [
-        "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqZG2nHHXJFyOO",
-    "name": "SIPSE TVCUN 8.1",
-    "sources": {
-      "streams": [
-        "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zMvnkO0BSIigRy",
     "name": "Sistema Michoacano de TV",
     "sources": {
@@ -901,6 +871,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EFVw1Ewvb3Y"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "sources": {
@@ -933,7 +917,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cKKDqnHB2z0"
+        "https://www.youtube-nocookie.com/embed/YpzSfdCo7I4"
       ]
     },
     "languages": [
@@ -947,7 +931,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0mmmbhZP1Ak"
+        "https://www.youtube-nocookie.com/embed/cUGSdeElgW4"
       ]
     },
     "languages": [
@@ -1046,6 +1030,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/pe_yloLaJ-Q"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nvgVlQtD4CwYJb",
+    "name": "Televisa Zacatecas",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9f_VKfeZy-c"
       ]
     },
     "languages": [

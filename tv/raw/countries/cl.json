@@ -196,20 +196,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uljtuIG4U9gilS",
-    "name": "Arica TV",
-    "sources": {
-      "streams": [
-        "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Kc3HHZPOGrmJWv",
     "name": "Atacama Noticias",
     "sources": {
@@ -521,6 +507,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4dKzonwHr1dN8",
+    "name": "ChileVision",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IPjiGqPHqnk"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YVZxTC9dQaBTqc",
     "name": "Chocolate FM",
     "sources": {
@@ -539,7 +539,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9h8io_Vln_0"
+        "https://www.youtube-nocookie.com/embed/nj5lk5u0pro"
       ]
     },
     "languages": [
@@ -554,6 +554,20 @@
     "sources": {
       "streams": [
         "https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GDeVF43cbBphiD",
+    "name": "ClickTV Chile",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -624,20 +638,6 @@
     "sources": {
       "streams": [
         "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XDbtm1nI0M6XvU",
-    "name": "Cultura Online",
-    "sources": {
-      "streams": [
-        "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8"
       ]
     },
     "languages": [
@@ -1207,20 +1207,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h3HPkQF4LR8v0k",
-    "name": "Maray TV",
-    "sources": {
-      "streams": [
-        "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6zSMJVVZeWHmWN",
     "name": "Marga Marga TV",
     "sources": {
@@ -1254,7 +1240,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pwZKQpiGbzg"
+        "https://www.youtube-nocookie.com/embed/lSJ9tQ6zRWg"
       ]
     },
     "languages": [],
@@ -1267,20 +1253,6 @@
     "sources": {
       "streams": [
         "https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "sources": {
-      "streams": [
-        "https://live.mtna.tv/hls/mtna/mtna.m3u8"
       ]
     },
     "languages": [
@@ -1323,20 +1295,6 @@
     "sources": {
       "streams": [
         "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P6lzZnxjomDNhM",
-    "name": "Nina TV",
-    "sources": {
-      "streams": [
-        "https://tv1.ninatv.cl/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1452,21 +1410,6 @@
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "eng",
       "spa"
     ],
     "country": "cl",
@@ -2057,7 +2000,6 @@
     "name": "Solo Bailalo",
     "sources": {
       "streams": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
         "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
       ]
     },
@@ -2087,20 +2029,6 @@
     "sources": {
       "streams": [
         "https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ap4jlb2z9FPcau",
-    "name": "T-Vinet",
-    "sources": {
-      "streams": [
-        "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2278,20 +2206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "sources": {
-      "streams": [
-        "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mulUKV72fKmCtE",
     "name": "Turismo Travel TV",
     "sources": {
@@ -2329,20 +2243,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVZRJWcuDSdGT",
-    "name": "TV Show Fortaleza",
-    "sources": {
-      "streams": [
-        "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
     ],
     "country": "cl",
     "isGeoBlocked": false
@@ -2606,21 +2506,6 @@
     "sources": {
       "streams": [
         "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "55jNFzDbCSLLQk",
-    "name": "VTV Valle de Aconcagua",
-    "sources": {
-      "streams": [
-        "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
       ]
     },
     "languages": [

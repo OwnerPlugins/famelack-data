@@ -85,18 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yzW6NOlMnAd0SK",
-    "name": "Faith TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9eVfcO2wEVPW89",
     "name": "Family Feud Africa",
     "sources": {
@@ -210,6 +198,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4rmcF4iC9PInk",
+    "name": "SABC Lehae",
+    "sources": {
+      "streams": [
+        "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nbl",
+      "sfs",
+      "ssw",
+      "tso",
+      "ven",
+      "xho",
+      "zul"
+    ],
+    "country": "za",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "MbDAAgrzqTFxUc",
     "name": "SABC News",
     "sources": {
@@ -222,6 +231,20 @@
     ],
     "country": "za",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OFNCxJwQlhXnh3",
+    "name": "Tshwane TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Es7qApbSf615KN",

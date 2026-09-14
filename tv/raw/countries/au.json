@@ -370,8 +370,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -580,6 +579,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rh2TMvjYLEWCNX",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9sW5mZnXNxTjSv",
     "name": "Shalom World Prayer",
     "sources": {
@@ -696,6 +707,20 @@
       ]
     },
     "languages": [],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OD7DttF8Cnh4Xu",
+    "name": "ticker News",
+    "sources": {
+      "streams": [
+        "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "au",
     "isGeoBlocked": false
   },

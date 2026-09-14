@@ -207,20 +207,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zzw5XdFQULzoOQ",
-    "name": "Aras TV",
-    "sources": {
-      "streams": [
-        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -254,7 +240,6 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -634,15 +619,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6TzIP2eJ3m8bpX",
-    "name": "Elsharq TV",
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
     "sources": {
-      "streams": [
-        "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rt_gjY9SFhg"
       ]
     },
     "languages": [
-      "ara"
+      "tur"
     ],
     "country": "tr",
     "isGeoBlocked": false
@@ -674,20 +659,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GJHn2TfHunPgwd",
-    "name": "ERTV",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "WHkVQZYPgkweaG",
@@ -840,21 +811,6 @@
       ]
     },
     "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOMdLvvyu3y5ss",
-    "name": "GZT",
-    "sources": {
-      "streams": [
-        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "tur"
     ],
     "country": "tr",
@@ -1317,7 +1273,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZgDiaQoLwMs"
+        "https://www.youtube-nocookie.com/embed/B8TLLwCojuM"
       ]
     },
     "languages": [
@@ -1733,20 +1689,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
-    "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -1808,20 +1750,6 @@
     "sources": {
       "streams": [
         "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5GoagSnDbPwxmH",
-    "name": "Tele 1",
-    "sources": {
-      "streams": [
-        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
       ]
     },
     "languages": [
@@ -2003,6 +1931,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "owJJC4tX2SQL4u",
     "name": "TRT Haber",
     "sources": {
@@ -2072,7 +2014,7 @@
         "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ox9v0q-ohLM"
+        "https://www.youtube-nocookie.com/embed/9CucucyxECM"
       ]
     },
     "languages": [
@@ -2086,7 +2028,7 @@
     "name": "TRT عربي",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VX0GbGliJHc"
+        "https://www.youtube-nocookie.com/embed/sat-YpJQ-fg"
       ]
     },
     "languages": [
@@ -2209,9 +2151,6 @@
     "nanoid": "fiUFmaRESDKun4",
     "name": "TVNET",
     "sources": {
-      "streams": [
-        "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Z5bqy4gwEmc"
       ]

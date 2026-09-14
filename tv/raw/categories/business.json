@@ -136,6 +136,9 @@
     "sources": {
       "streams": [
         "https://biznestv.az/hls/live.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/i452tYQhhmE"
       ]
     },
     "languages": [
@@ -233,20 +236,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b8gunvy17bdMzO",
-    "name": "Cafe Trade TV",
-    "sources": {
-      "streams": [
-        "https://cafetradehls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K4DoGz5aRpSeyC",
     "name": "Canal E",
     "sources": {
@@ -261,6 +250,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0w7Ai7GtLMZNLS",
+    "name": "Canal Pro",
+    "sources": {
+      "streams": [
+        "https://www.desde-paraguay.com/pro.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -439,7 +442,7 @@
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jZTmLIpFPGI"
+        "https://www.youtube-nocookie.com/embed/_uXud4lIURs"
       ]
     },
     "languages": [
@@ -562,6 +565,20 @@
       "fra"
     ],
     "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
