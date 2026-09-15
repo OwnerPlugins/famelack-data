@@ -174,24 +174,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
       "streams": [
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
     },
@@ -214,20 +201,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "gIVpxumuFFQfY2",
-    "name": "Canal Showsport",
-    "sources": {
-      "streams": [
-        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Mut1mafEBDelBc",
@@ -256,6 +229,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "fKZLucUhJYe0vc",
+    "name": "CCTV-5+",
+    "sources": {
+      "streams": [
+        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ASHioV3EjpMKWq",
@@ -304,7 +291,8 @@
     "name": "DD Sports",
     "sources": {
       "streams": [
-        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/13/master.m3u8"
       ]
     },
     "languages": [
@@ -339,6 +327,20 @@
       "vie"
     ],
     "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "efmLnGoMatsGBL",
+    "name": "DP World Tour",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NxjISF5OIEc"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1165,6 +1167,8 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-firetv.amagi.tv/playlist.m3u8",
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1316,7 +1320,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Z4MMDRIAr3Lbyf",
@@ -1612,7 +1616,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1824,7 +1827,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vtSycR8Kbn52EY",
@@ -1832,6 +1835,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/clsmwskUF6c"
       ]
     },
     "languages": [
@@ -1897,6 +1903,20 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aE41LbUT8Fnd7w",
+    "name": "Turf Movil",
+    "sources": {
+      "streams": [
+        "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {

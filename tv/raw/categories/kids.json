@@ -582,6 +582,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ioAW5Hy7e9f7fU",
+    "name": "Chithiram",
+    "sources": {
+      "streams": [
+        "https://cdn.pishow.tv/ott/live/1243/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZGN8qIsLaa0z0Z",
     "name": "Cine+ Kids",
     "sources": {
@@ -649,20 +663,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I0aYULW1ftUCOM",
-    "name": "Detvora+",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1397,6 +1397,7 @@
     "name": "Mama",
     "sources": {
       "streams": [
+        "https://flussonic.linkintel.ru/mama/index.m3u8",
         "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2083,6 +2084,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/taSzbuOIPFg"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
@@ -2109,20 +2124,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GzjkBwRPP1x8dy",
-    "name": "Reino Infantil",
-    "sources": {
-      "streams": [
-        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -2323,25 +2324,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/qp5Km8sujJ8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AvAGUeNeiPw"
+        "https://www.youtube-nocookie.com/embed/-sIwyfPcG6c"
       ]
     },
     "languages": [
@@ -2355,7 +2342,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_E8gfv5PBkI"
+        "https://www.youtube-nocookie.com/embed/T95DRYGtQvg"
       ]
     },
     "languages": [
@@ -2448,20 +2435,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m5MgU7qKVzOReb",
-    "name": "The Smurfs",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/SgFhzFF2tYA"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2713,7 +2686,7 @@
     "name": "WildBrain Kids",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iP6kpac2tpg"
+        "https://www.youtube-nocookie.com/embed/iX1I3Hd3r70"
       ]
     },
     "languages": [
@@ -2755,7 +2728,7 @@
     "name": "WildBrain: Teletubbies",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pf3WgatoPUE"
+        "https://www.youtube-nocookie.com/embed/Q7RmINiZI_Y"
       ]
     },
     "languages": [

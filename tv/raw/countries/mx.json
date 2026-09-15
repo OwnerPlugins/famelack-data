@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "drwJ1KWzBTlLLz",
-    "name": "Alcance TV",
-    "sources": {
-      "streams": [
-        "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "14OgEakSRkYx8J",
     "name": "AMX Noticias",
     "sources": {
@@ -182,6 +168,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gwICuV95fTarKx",
+    "name": "Canal 22 Nacional",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "v6b78NmVD9WnBy",
     "name": "Canal 23 Televisa Ensenada",
     "sources": {
@@ -284,9 +284,6 @@
     "nanoid": "dE1MtHTFsxve60",
     "name": "CreaLaTV",
     "sources": {
-      "streams": [
-        "https://stream.crealatv.com/live.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/7vfbJk26QWQ"
       ]
@@ -470,7 +467,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nrfOukOVxLA"
+        "https://www.youtube-nocookie.com/embed/y8mlBtjhsEg"
       ]
     },
     "languages": [],
@@ -660,6 +657,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DKHLUT1IqpMkXM",
+    "name": "Presumiendo Mexico",
+    "sources": {
+      "streams": [
+        "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eg1gONSWrKSqw4",
     "name": "PSN",
     "sources": {
@@ -721,6 +732,49 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UQFSkPCl4JMKWc",
+    "name": "SET Televisión Canal 26.1",
+    "sources": {
+      "streams": [
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "inKpcU1CFpY4af",
+    "name": "SIPSE TV 8.1",
+    "sources": {
+      "streams": [
+        "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqZG2nHHXJFyOO",
+    "name": "SIPSE TVCUN 8.1",
+    "sources": {
+      "streams": [
+        "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
       ]
     },
     "languages": [
@@ -857,6 +911,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EDHdYFZTyUWlzE",
+    "name": "Televisa Del Golfo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/seXvEdvDQYs"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MFKuXvwOZbfP2b",
     "name": "Televisa Guadalajara",
     "sources": {
@@ -917,7 +985,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YpzSfdCo7I4"
+        "https://www.youtube-nocookie.com/embed/ZmXXs9DzyZ8"
       ]
     },
     "languages": [
@@ -931,7 +999,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cUGSdeElgW4"
+        "https://www.youtube-nocookie.com/embed/fwvDXoIR8VU"
       ]
     },
     "languages": [
@@ -946,6 +1014,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/7TjYX6wXlZ8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nASLS2roa0P0yB",
+    "name": "Televisa Querétaro",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xKvpAB1hWVc"
       ]
     },
     "languages": [
@@ -1015,7 +1097,7 @@
     "name": "Televisa Veracruz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-5z_tF3kq3A"
+        "https://www.youtube-nocookie.com/embed/EWT3GRLlfws"
       ]
     },
     "languages": [
@@ -1353,6 +1435,20 @@
     "sources": {
       "streams": [
         "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
       ]
     },
     "languages": [

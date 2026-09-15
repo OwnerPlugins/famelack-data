@@ -89,22 +89,7 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mAl50UnEXvw3NE",
-    "name": "Afontovo",
-    "sources": {
-      "streams": [
-        "https://stream.afontovo.ru/hd.m3u8"
+        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -119,20 +104,6 @@
     "sources": {
       "streams": [
         "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3VqJp1fO3TYTIw",
-    "name": "Angel TV Russian",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -511,95 +482,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BN8UK0JlgAMrEm",
-    "name": "City Eden Birma Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34364/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lk2MXbqIFnMEMM",
     "name": "City Eden Classic Music",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/47400/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
       ]
     },
     "languages": [
@@ -623,53 +510,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N0XF0zTYtjf6Vc",
     "name": "City Eden KinoKomediya",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -735,6 +580,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JIOxlnAu1GPh23",
+    "name": "City Eden TV",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2Gi4riOGPwTn6u",
     "name": "Current Time TV",
     "sources": {
@@ -770,20 +629,6 @@
     "sources": {
       "streams": [
         "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I0aYULW1ftUCOM",
-    "name": "Detvora+",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
       ]
     },
     "languages": [
@@ -1094,7 +939,7 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1433,8 +1278,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
-        "https://live-3.otcnet.ru/congresstv/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1602,6 +1446,7 @@
     "name": "Mama",
     "sources": {
       "streams": [
+        "https://flussonic.linkintel.ru/mama/index.m3u8",
         "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1733,6 +1578,20 @@
     "sources": {
       "streams": [
         "https://moymir.ru/hls/onair.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2005,6 +1864,20 @@
     "sources": {
       "streams": [
         "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZKYBGybJlsgcz0",
+    "name": "NTS",
+    "sources": {
+      "streams": [
+        "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2291,6 +2164,7 @@
     "name": "Prodvizhenie",
     "sources": {
       "streams": [
+        "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8",
         "https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8"
       ]
     },
@@ -2307,6 +2181,20 @@
       "streams": [
         "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
         "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8G4v5aSAbUit9l",
+    "name": "Radio 1",
+    "sources": {
+      "streams": [
+        "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8"
       ]
     },
     "languages": [
@@ -2451,8 +2339,8 @@
     "sources": {
       "streams": [
         "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
-        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3371,6 +3259,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "HLEoRKBCS06HUI",
+    "name": "Ugra-TV",
+    "sources": {
+      "streams": [
+        "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wDy5L6UWLImGOC",
     "name": "Unikum",
     "sources": {
@@ -3420,118 +3322,6 @@
       "streams": [
         "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
         "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3Qjh79yX39qnbD",
-    "name": "Velvet. European Movies",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CrOPrTaXmBrTtv",
-    "name": "Velvet. Golden Collection",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ev5cZksHds3JrU",
-    "name": "Velvet. Mentovskiye Serialy",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ha89SOYxCAGb48",
-    "name": "Velvet. Scary",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "azHfQH8FY4oXMw",
-    "name": "Velvet. Series Hits",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qDAulk0VBGhon",
-    "name": "Velvet. Sovetskoe Kino",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zf5QDcOrGzyTlQ",
-    "name": "Velvet. Svaty",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IEcEQnjFt8MHSV",
-    "name": "Velvet. World Series",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8"
       ]
     },
     "languages": [

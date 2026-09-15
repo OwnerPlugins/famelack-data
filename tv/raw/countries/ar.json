@@ -113,11 +113,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SHCgFbO79Hh4Z8",
-    "name": "Beats Radio",
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
     "sources": {
       "streams": [
-        "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+        "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -226,20 +226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IWvykabh19mF8z",
-    "name": "Canal 2 Mar del Plata",
-    "sources": {
-      "streams": [
-        "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dP9dVYSF14RSuM",
     "name": "Canal 2 Misiones",
     "sources": {
@@ -296,6 +282,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HiSqdLo7Vz02nV",
+    "name": "Canal 3 Las Heras",
+    "sources": {
+      "streams": [
+        "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orfuIaNTEmG6BY",
+    "name": "Canal 3 Pinamar",
+    "sources": {
+      "streams": [
+        "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kmjpquId56QTiI",
     "name": "Canal 4 Esquel",
     "sources": {
@@ -343,6 +357,20 @@
     "sources": {
       "streams": [
         "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5VJcSR2emAtR9y",
+    "name": "Canal 4 Teleaire",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
       ]
     },
     "languages": [
@@ -481,9 +509,6 @@
     "nanoid": "zBHIZ3xX6aJN4H",
     "name": "Canal 8 San Juan",
     "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/ya126Vdtgvg"
       ]
@@ -739,20 +764,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gIVpxumuFFQfY2",
-    "name": "Canal Showsport",
-    "sources": {
-      "streams": [
-        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5RVA7yz4BPlJbJ",
     "name": "Canal TDC",
     "sources": {
@@ -911,7 +922,8 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
       ]
     },
     "languages": [
@@ -1023,7 +1035,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1DltHHEEoKg"
+        "https://www.youtube-nocookie.com/embed/tEDQ5AMCGkw"
       ]
     },
     "languages": [
@@ -1093,7 +1105,7 @@
     "name": "El Tres TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jKGQGfORJWc"
+        "https://www.youtube-nocookie.com/embed/GIjv23v9fmE"
       ]
     },
     "languages": [
@@ -1208,6 +1220,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/FEWZjXJ7M0c"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4QXgwdYwMkY8d0",
+    "name": "LAMIL35 TV",
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
       ]
     },
     "languages": [
@@ -1555,11 +1581,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xizVh4f6gDU2kH",
-    "name": "Solive TV",
+    "nanoid": "rPtKuLjPt7QNrN",
+    "name": "Sicardi TV",
     "sources": {
       "streams": [
-        "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8"
+        "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8"
       ]
     },
     "languages": [
@@ -1569,11 +1595,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bOQ2ElnoGQqKTy",
-    "name": "Somos Entre Rios",
+    "nanoid": "xizVh4f6gDU2kH",
+    "name": "Solive TV",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+        "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1835,6 +1861,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HowIZnmgVTXqy2",
+    "name": "Uniteve",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BCglO22FLrAJM4",
     "name": "Urban Mix",
     "sources": {
@@ -1853,7 +1893,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BOLm-VUZgZg"
+        "https://www.youtube-nocookie.com/embed/wuROYm47Fbw"
       ]
     },
     "languages": [

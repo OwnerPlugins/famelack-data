@@ -637,7 +637,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rt_gjY9SFhg"
+        "https://www.youtube-nocookie.com/embed/7n0Qs8iAi1c"
       ]
     },
     "languages": [
@@ -687,20 +687,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GJHn2TfHunPgwd",
-    "name": "ERTV",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "WHkVQZYPgkweaG",
@@ -1145,6 +1131,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s5TJFofoYPgAud",
+    "name": "Kanal B",
+    "sources": {
+      "streams": [
+        "https://tv.kanalb.tr/hls/kanalb/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LoETX183ZYEwUc",
     "name": "Kanal Firat",
     "sources": {
@@ -1302,7 +1302,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/30w_E4a2h14"
+        "https://www.youtube-nocookie.com/embed/QYjD0SDP97w"
       ]
     },
     "languages": [
@@ -1718,22 +1718,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GOBdXHd7gdoheA",
-    "name": "Sercem TV",
-    "sources": {
-      "streams": [
-        "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "kur",
-      "tur",
-      "zza"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e6ku1z7iZYh6lv",
     "name": "Show Max",
     "sources": {
@@ -1830,6 +1814,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5GoagSnDbPwxmH",
+    "name": "Tele 1",
+    "sources": {
+      "streams": [
+        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTUvBY4x4L3ji9",
     "name": "Telenews",
     "sources": {
@@ -1894,6 +1892,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/clsmwskUF6c"
       ]
     },
     "languages": [

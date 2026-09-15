@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uzMnROBDMiNzKY",
+    "name": "Anhui TV",
+    "sources": {
+      "streams": [
+        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -76,6 +90,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vNVp6bxkL1c"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fKZLucUhJYe0vc",
+    "name": "CCTV-5+",
+    "sources": {
+      "streams": [
+        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
       ]
     },
     "languages": [
@@ -323,6 +351,20 @@
     "sources": {
       "streams": [
         "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f1nxbKF3lgdEIT",
+    "name": "Harbin Comprehensive News Channel",
+    "sources": {
+      "streams": [
+        "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
       ]
     },
     "languages": [
@@ -679,42 +721,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "G8jMlVl14mEiZk",
-    "name": "宿州公共",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LhzYAfOxktXLl3",
-    "name": "宿州新闻综合",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ez5NBYjpiihwmc",
-    "name": "宿州科教",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
@@ -945,30 +951,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HGBni7wKrtguXm",
-    "name": "萧山新闻综合",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hlJLT7eqdRNqcv",
-    "name": "蕭山生活頻道",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpZu4VK2VQIwa6",
     "name": "辽源新闻综合",
     "sources": {
@@ -1015,17 +997,5 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6nQrzZYDFKwB5C",
-    "name": "餘姚姚江文化",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   }
 ]
