@@ -155,6 +155,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VMCmeG0FLaHmw1",
+    "name": "arte",
+    "sources": {
+      "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "SFsrKozwjoLj8R",
     "name": "B SMART",
     "sources": {
@@ -981,6 +995,20 @@
       ]
     },
     "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Grm4rZFIs5yHyN",
+    "name": "ILTV",
+    "sources": {
+      "streams": [
+        "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },

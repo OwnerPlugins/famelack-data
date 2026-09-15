@@ -70,6 +70,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BvK3O8hdKgrGDc",
+    "name": "Kunskapskanalen",
+    "sources": {
+      "streams": [
+        "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2HIWnf5qai2JwL",
     "name": "Miracle Channel",
     "sources": {
@@ -96,6 +110,58 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nC1I40bq1XGfc7",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://amg00426-littledotstudio-realcrimebeta-samsungse-lpne7.amagi.tv/playlist/amg00426-littledotstudio-realcrimebeta-samsungse/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "se",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "aQXhoexepdhwNn",
+    "name": "SVT Barn/SVT24",
+    "sources": {
+      "streams": [
+        "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls"
+      ]
+    },
+    "languages": [],
+    "country": "se",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RT7AULalGgFeEr",
+    "name": "SVT1",
+    "sources": {
+      "streams": [
+        "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0LY9cmzJoiqxqS",
+    "name": "SVT2",
+    "sources": {
+      "streams": [
+        "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "yRFpQt0Uge4TEm",
     "name": "The Wicked Tuna Channel",
     "sources": {
@@ -118,5 +184,17 @@
     "languages": [],
     "country": "se",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YVVMS6gChYdMgm",
+    "name": "World of Love Island",
+    "sources": {
+      "streams": [
+        "https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "se",
+    "isGeoBlocked": true
   }
 ]

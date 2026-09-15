@@ -1,5 +1,50 @@
 [
   {
+    "nanoid": "KB99Wa2uILCWk1",
+    "name": "3Cat Exclusiu 1",
+    "sources": {
+      "streams": [
+        "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "j3tl4h3LoJOG0p",
+    "name": "3Cat Exclusiu 2",
+    "sources": {
+      "streams": [
+        "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Kwb4zYk9mkeksQ",
+    "name": "3Cat Exclusiu 3",
+    "sources": {
+      "streams": [
+        "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "SbKSg1Uc6JQCXF",
     "name": "3CatInfo",
     "sources": {
@@ -6561,6 +6606,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tHnMhw9wheLA87",
+    "name": "LCN",
+    "sources": {
+      "streams": [
+        "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "kgGtkbabuK6Sj3",
     "name": "Lenca TV",
     "sources": {
@@ -7310,6 +7369,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w5lhgktYgsc1eM",
+    "name": "Nachrichten 360",
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YpG1ImfWO1Q3HO",
     "name": "Naftemporiki TV",
     "sources": {
@@ -7853,6 +7926,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yJ6qb835TTUKh1",
+    "name": "News12 Bronx",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "EmHOTWEORpvSsZ",
     "name": "News12 Brooklyn",
     "sources": {
@@ -7867,11 +7954,39 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "kStaIms86sY53l",
     "name": "News12 Hudson Valley",
     "sources": {
       "streams": [
         "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dr5pYcUriuuOto",
+    "name": "News12 Long Island",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
       ]
     },
     "languages": [

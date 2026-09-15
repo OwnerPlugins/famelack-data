@@ -569,6 +569,7 @@
     "sources": {
       "streams": [
         "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
@@ -577,6 +578,21 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "GOMdLvvyu3y5ss",
+    "name": "GZT",
+    "sources": {
+      "streams": [
+        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "o7sYxVV5UOCp3h",
@@ -629,8 +645,8 @@
     "sources": {
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
-        "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8",
-        "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8"
+        "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8",
+        "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1151,6 +1167,7 @@
     "name": "Todo Novelas",
     "sources": {
       "streams": [
+        "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
         "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
       ]
     },

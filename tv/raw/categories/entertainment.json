@@ -428,6 +428,7 @@
     "name": "arte",
     "sources": {
       "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
         "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
       ]
     },
@@ -435,6 +436,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VMCmeG0FLaHmw1",
+    "name": "arte",
+    "sources": {
+      "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": true
   },
   {
@@ -778,6 +793,20 @@
     ],
     "country": "ar",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5HdR8I0ojOAnOH",
+    "name": "Canale 5",
+    "sources": {
+      "streams": [
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ShieRphx7QNWj7",
@@ -2195,6 +2224,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "1B0HsMgfip50yF",
+    "name": "Iris",
+    "sources": {
+      "streams": [
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": true
   },
   {

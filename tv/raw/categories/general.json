@@ -114,6 +114,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lEFAH9ZvqddODv",
+    "name": "3sat",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "0DxYL5OpmCaJwV",
     "name": "5tv",
     "sources": {
@@ -1862,6 +1876,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zzw5XdFQULzoOQ",
+    "name": "Aras TV",
+    "sources": {
+      "streams": [
+        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -6887,6 +6915,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6TzIP2eJ3m8bpX",
+    "name": "Elsharq TV",
+    "sources": {
+      "streams": [
+        "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zUcAH8PhyR9Rfb",
     "name": "Emporda TV",
     "sources": {
@@ -7088,6 +7130,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GJHn2TfHunPgwd",
+    "name": "ERTV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "dikaN7zl5U7F3z",
     "name": "Erz-TV Stollberg",
     "sources": {
@@ -7170,6 +7226,34 @@
     ],
     "country": "hu",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UwOjLzXnioCc12",
+    "name": "ETB 1",
+    "sources": {
+      "streams": [
+        "https://cdn1.etbon.eus/etb1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eus"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Z9Fl1El6fiaKQC",
+    "name": "ETB 2",
+    "sources": {
+      "streams": [
+        "https://cdn1.etbon.eus/etb2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ry2G3plOdgjsxG",
@@ -10699,6 +10783,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mLqk6X9SKEkaE7",
+    "name": "Maestrat TV",
+    "sources": {
+      "streams": [
+        "https://stream.maestrat.tv/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ayjkn7ZDTaMfjh",
     "name": "Magna Channel",
     "sources": {
@@ -10965,10 +11063,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D9DLpbpBMDweEB",
+    "name": "MDR Fernsehen Sachsen",
+    "sources": {
+      "streams": [
+        "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dbXdJRoj2kmSYn",
+    "name": "MDR Fernsehen Sachsen-Anhalt",
+    "sources": {
+      "streams": [
+        "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "mUa6AudaIQeV3S",
     "name": "MDR Fernsehen Thüringen",
     "sources": {
       "streams": [
+        "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
         "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
       ]
     },
@@ -12130,6 +12257,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1cMUm2YnhrYVgK",
+    "name": "NBC West (San Diego)",
+    "sources": {
+      "streams": [
+        "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Vhaf6oXPlNRudx",
     "name": "NBT 2 HD",
     "sources": {
@@ -12588,6 +12729,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1lj5zvclavtoue",
+    "name": "noa4 Hamburg",
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tP3635LuUuZ9t3",
+    "name": "noa4 Norderstedt",
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cz0NSemk409jgG",
     "name": "NOOS TV",
     "sources": {
@@ -12879,6 +13048,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x90xuovG7tI1UK",
+    "name": "NTN",
+    "sources": {
+      "streams": [
+        "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kuBm514WWhIzx5",
     "name": "NTV",
     "sources": {
@@ -13149,6 +13332,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D4nMjd2d15gJap",
+    "name": "OK Kaiserslautern",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0ATgctzwJhYRU7",
+    "name": "OK Kassel",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "TAd1Ubg7TEmAUU",
     "name": "OK Kiel",
     "sources": {
@@ -13161,6 +13372,62 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WXS0fra9wbJjZY",
+    "name": "OK Rhein-Main",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F23o0isfrVABPH",
+    "name": "OK Trier",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8i2J4ObjaTLwEP",
+    "name": "OK4",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_ok4/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "yxO2PJ4t5WokqS",
+    "name": "OK54",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "MdeoF65PEO9tKW",
@@ -14220,6 +14487,62 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L0dEIQTJzvEZO6",
+    "name": "PTV Cordoba",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wyi6TV1fm0mxaX",
+    "name": "PTV Granada",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV-granada/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Cliy0YRCsxozG",
+    "name": "PTV Linares",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dZdJcGwwUlFFBA",
+    "name": "PTV Sevilla",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -19430,6 +19753,20 @@
     ],
     "country": "pe",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZLXArsAwZ4HS4v",
+    "name": "TVG2",
+    "sources": {
+      "streams": [
+        "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "glg"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "8Zval48r5m3T99",

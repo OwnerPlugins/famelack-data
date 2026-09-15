@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "lEFAH9ZvqddODv",
+    "name": "3sat",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YqOZOIkaCVFDwO",
     "name": "Adria Music Television",
     "sources": {
@@ -75,6 +89,7 @@
     "name": "arte",
     "sources": {
       "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
         "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
       ]
     },
@@ -394,6 +409,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "sources": {
@@ -674,10 +701,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D9DLpbpBMDweEB",
+    "name": "MDR Fernsehen Sachsen",
+    "sources": {
+      "streams": [
+        "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dbXdJRoj2kmSYn",
+    "name": "MDR Fernsehen Sachsen-Anhalt",
+    "sources": {
+      "streams": [
+        "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "mUa6AudaIQeV3S",
     "name": "MDR Fernsehen Thüringen",
     "sources": {
       "streams": [
+        "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
         "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
       ]
     },
@@ -715,6 +771,20 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w5lhgktYgsc1eM",
+    "name": "Nachrichten 360",
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "4YOpv1CYox1W50",
@@ -842,6 +912,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1lj5zvclavtoue",
+    "name": "noa4 Hamburg",
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tP3635LuUuZ9t3",
+    "name": "noa4 Norderstedt",
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "sources": {
@@ -884,6 +982,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D4nMjd2d15gJap",
+    "name": "OK Kaiserslautern",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0ATgctzwJhYRU7",
+    "name": "OK Kassel",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "TAd1Ubg7TEmAUU",
     "name": "OK Kiel",
     "sources": {
@@ -896,6 +1022,62 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WXS0fra9wbJjZY",
+    "name": "OK Rhein-Main",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F23o0isfrVABPH",
+    "name": "OK Trier",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8i2J4ObjaTLwEP",
+    "name": "OK4",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_ok4/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "yxO2PJ4t5WokqS",
+    "name": "OK54",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Klfns4fcw9PzFf",
@@ -954,6 +1136,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2mtONGj8VqZ5YV",
+    "name": "phoenix",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "Ubrmy3xb62Fg9U",
     "name": "ProSieben",
     "sources": {
@@ -1010,6 +1206,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KH90AFKJdwGqWU",
+    "name": "Radio Bremen Fernsehen",
+    "sources": {
+      "streams": [
+        "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
     "sources": {
@@ -1023,6 +1233,34 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o4WP2rghGfCA5R",
+    "name": "RBB Berlin",
+    "sources": {
+      "streams": [
+        "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "BaknNityjlaYBa",
+    "name": "RBB Brandenburg",
+    "sources": {
+      "streams": [
+        "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "D4fjmuUPITRfet",
@@ -1334,11 +1572,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "z0n7LNqsLBdlPj",
+    "name": "SWR Fernsehen Baden-Wurttemberg",
+    "sources": {
+      "streams": [
+        "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "UVie6AQ1A0Ge9j",
+    "name": "SWR Fernsehen Rheinland-Pfalz",
+    "sources": {
+      "streams": [
+        "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "dViXNUvwXWn2sW",
     "name": "tagesschau24",
     "sources": {
       "streams": [
         "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "APsiDTtaBUvYQA",
+    "name": "teltOwkanal",
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1742,6 +2022,48 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LnfMQF17CGNqsf",
+    "name": "ZDF",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "lFpgITSyqJzgp8",
+    "name": "ZDFinfo",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F6DTin16jti372",
+    "name": "ZDFneo",
+    "sources": {
+      "streams": [
+        "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "8MsgN6jc5yUJaz",

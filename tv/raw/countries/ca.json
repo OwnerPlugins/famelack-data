@@ -86,6 +86,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zBkZSnkjPvAVvt",
+    "name": "CBC Comedy",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "QVHMIn9gJSXGrf",
+    "name": "CBC Heartland",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HyAPd9MDJcE3zJ",
+    "name": "CBC Kids Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dvHZUEHna1F5C7",
+    "name": "CBC Murdoch Mysteries",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "dI7NVuffLmMf8X",
     "name": "CBC News Alberta: Calgary",
     "sources": {
@@ -112,6 +160,30 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gwewiALrANPzU",
+    "name": "CBC News BC",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "X088j36ZPQUXCB",
+    "name": "CBC News Explore",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "NrTK4ahuPqgFRE",
@@ -173,6 +245,18 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5qcCo1tyCFq9w7",
+    "name": "CBC News Toronto",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "KEt2V61QzSil5P",
@@ -386,7 +470,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -401,6 +486,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -442,9 +541,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
-        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -520,6 +619,104 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qTBBfgVQPSWPrA",
+    "name": "Ici Radio-Canada Télé",
+    "sources": {
+      "streams": [
+        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "w1gxGK7i1Tu1x2",
+    "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "YEdrOCcoQa6dKG",
+    "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "nHDxIofgkugzZk",
+    "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MxGLQzbmn1eRI9",
+    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PY9x4pkcZHp0a4",
+    "name": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "qpj1oGnAfj0tNs",
+    "name": "Ici Radio-Canada Télé Québec (CBVT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "VW8nguM4FsiBz7",
@@ -605,6 +802,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tHnMhw9wheLA87",
+    "name": "LCN",
+    "sources": {
+      "streams": [
+        "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "lQWrqWxPSBgWUI",
@@ -850,6 +1061,32 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vYhff99inYZrDY",
+    "name": "Radio Tele Evangile Sans Limite",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iAGIl1kw4w2Izl",
+    "name": "Schitt’s Creek Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "NYodd4ZllT4qNK",
@@ -1825,6 +2062,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "l4n46BVDM7izVj",
+    "name": "TVA CFTM-DT",
+    "sources": {
+      "streams": [
+        "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "XS1GBLfk5lOEUi",
     "name": "TVOKids",
     "sources": {
@@ -1834,6 +2085,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tfahh4mN8EFFmu",
+    "name": "Uvagut TV",
+    "sources": {
+      "streams": [
+        "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "iku"
     ],
     "country": "ca",
     "isGeoBlocked": false
