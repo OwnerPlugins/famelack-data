@@ -76,8 +76,8 @@
     "name": "88.5 WXPN",
     "sources": {
       "streams": [
-        "https://wxpn.xpn.org/xpnmp3hi",
-        "https://wxpnhi.xpn.org/xpnhi"
+        "https://wxpnhi.xpn.org/xpnhi",
+        "https://wxpn.xpn.org/xpnmp3hi"
       ]
     },
     "languages": [
@@ -1005,6 +1005,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rp73QbjFiUFzH0",
+    "name": "JB Radio",
+    "sources": {
+      "streams": [
+        "https://mediacp.jb-radio.net:8001/aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BBvW542f5zOUyE",
     "name": "Joint Radio Blues",
     "sources": {
@@ -1309,22 +1323,6 @@
     "sources": {
       "streams": [
         "https://streamer.radio.co/s4b5c8e335/listen"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DLF4dBJIIYaQoR",
-    "name": "Music City Roadhouse",
-    "sources": {
-      "streams": [
-        "https://streaming.live365.com/a73754",
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
-        "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
     "languages": [
@@ -1732,20 +1730,6 @@
       "eng"
     ],
     "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TZ25dJva9g6wak",
-    "name": "Radio Key West",
-    "sources": {
-      "streams": [
-        "https://streaming.live365.com/a26040"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2356,8 +2340,8 @@
     "name": "WUSF 89.7 FM",
     "sources": {
       "streams": [
-        "https://wusf.streamguys1.com/wusf-web",
-        "https://streaming.wusf.fm/wusf"
+        "https://streaming.wusf.fm/wusf",
+        "https://wusf.streamguys1.com/wusf-web"
       ]
     },
     "languages": [
@@ -2371,8 +2355,8 @@
     "name": "WWOZ 90.7 FM",
     "sources": {
       "streams": [
-        "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
         "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+        "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
         "https://www.wwoz.org/listen/hi"
       ]
     },

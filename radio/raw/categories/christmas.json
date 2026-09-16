@@ -1151,8 +1151,8 @@
     "name": "Christmas Vinyl",
     "sources": {
       "streams": [
-        "https://icecast.walmradio.com:8443/christmas",
         "https://walmradio.com:8443/christmas",
+        "https://icecast.walmradio.com:8443/christmas",
         "https://icecast.walmradio.com:8443/christmas_opus"
       ]
     },
@@ -1693,8 +1693,8 @@
     "name": "iHeartChristmas Classics",
     "sources": {
       "streams": [
-        "https://n44b-e2.revma.ihrhls.com/zc6137/hls.m3u8",
-        "https://stream.revma.ihrhls.com/zc6137/hls.m3u8"
+        "https://stream.revma.ihrhls.com/zc6137/hls.m3u8",
+        "https://n44b-e2.revma.ihrhls.com/zc6137/hls.m3u8"
       ]
     },
     "languages": [
@@ -1737,8 +1737,8 @@
     "name": "iHeartChristmas Rock",
     "sources": {
       "streams": [
-        "https://stream.revma.ihrhls.com/zc6410/hls.m3u8",
-        "https://n3db-e2.revma.ihrhls.com/zc6410/hls.m3u8"
+        "https://n3db-e2.revma.ihrhls.com/zc6410/hls.m3u8",
+        "https://stream.revma.ihrhls.com/zc6410/hls.m3u8"
       ]
     },
     "languages": [
@@ -1766,8 +1766,8 @@
     "name": "iHeartRadio Christmas Jazz",
     "sources": {
       "streams": [
-        "https://n31b-e2.revma.ihrhls.com/zc7251/hls.m3u8",
-        "https://stream.revma.ihrhls.com/zc7251/hls.m3u8"
+        "https://stream.revma.ihrhls.com/zc7251/hls.m3u8",
+        "https://n31b-e2.revma.ihrhls.com/zc7251/hls.m3u8"
       ]
     },
     "languages": [
@@ -3000,9 +3000,9 @@
     "name": "That Christmas Channel",
     "sources": {
       "streams": [
-        "https://ais-edge105-live365-dal02.cdnstream.com/a37180",
         "https://ais-sa5.cdnstream1.com/b55667_128mp3",
-        "https://streaming.live365.com/a37180"
+        "https://streaming.live365.com/a37180",
+        "https://ais-edge105-live365-dal02.cdnstream.com/a37180"
       ]
     },
     "languages": [
