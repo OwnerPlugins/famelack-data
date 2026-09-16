@@ -152,7 +152,6 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -207,20 +206,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GDeVF43cbBphiD",
-    "name": "ClickTV Chile",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -499,20 +484,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0kxX68lMX7LDk",
-    "name": "History East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/np3JstRE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HZEhjsWnhssch2",
     "name": "History Hit",
     "sources": {
@@ -779,20 +750,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hLMd0T3SoxEtoM",
-    "name": "National Geographic East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FmClQA6aIx4mGP",
     "name": "National Geographic Wild",
     "sources": {
@@ -921,6 +878,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "sources": {
@@ -963,20 +934,6 @@
       "mal"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1042,20 +999,6 @@
     "sources": {
       "streams": [
         "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9qxiwyypjNrlXI",
-    "name": "Viasat History",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
       ]
     },
     "languages": [

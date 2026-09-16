@@ -15,11 +15,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y5Fz3kBbZ6F9dL",
-    "name": "Citizen TV Kenya",
+    "nanoid": "4q1ZZQLc1olL3d",
+    "name": "Capuchin TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vN37-s-WZSM"
+      "streams": [
+        "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8"
       ]
     },
     "languages": [
@@ -29,12 +29,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MdBlLcplSVQXjK",
-    "name": "Family TV",
+    "nanoid": "Y5Fz3kBbZ6F9dL",
+    "name": "Citizen TV Kenya",
     "sources": {
-      "streams": [
-        "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
-        "https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MtU8jN2-vuk"
       ]
     },
     "languages": [
@@ -79,20 +78,6 @@
       "streams": [
         "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8",
         "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g5kwz1y6chFW7A",
-    "name": "K24TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/okRHoE0UH64"
       ]
     },
     "languages": [
@@ -149,11 +134,25 @@
     "name": "NTV Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gBe-n3wYJh0"
+        "https://www.youtube-nocookie.com/embed/A8BK2BYH_Xk"
       ]
     },
     "languages": [
       "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QNrQ5ZEGUQREnZ",
+    "name": "Ramogi TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nI-AM5lULzA"
+      ]
+    },
+    "languages": [
+      "luo"
     ],
     "country": "ke",
     "isGeoBlocked": false

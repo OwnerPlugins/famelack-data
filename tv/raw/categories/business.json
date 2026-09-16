@@ -31,6 +31,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -191,6 +205,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8jSnAgazSmGpyh",
+    "name": "BMG TV",
+    "sources": {
+      "streams": [
+        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
@@ -438,20 +466,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eNOYZvW4v10TNt",
-    "name": "Fox Business Network",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "sources": {
@@ -551,20 +565,6 @@
       "fra"
     ],
     "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h6xlBNAG4NibAI",
-    "name": "Pro Business",
-    "sources": {
-      "streams": [
-        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

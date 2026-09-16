@@ -556,7 +556,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5PNaMPnlMBM"
+        "https://www.youtube-nocookie.com/embed/Yw5IWwaR7K4"
       ]
     },
     "languages": [
@@ -729,7 +729,7 @@
     "name": "DP World Tour",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/NxjISF5OIEc"
+        "https://www.youtube-nocookie.com/embed/OBX_WfCeuOs"
       ]
     },
     "languages": [
@@ -1722,20 +1722,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uU0w6PP1NhQ9xR",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n2UntBRWIK7zqO",
     "name": "Ninja Warrior",
     "sources": {
@@ -1851,8 +1837,7 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2073,6 +2058,44 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "sources": {
+      "streams": [
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "sources": {
@@ -2113,7 +2136,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/H2QGkiKcFDg"
+        "https://www.youtube-nocookie.com/embed/s4qIdyuvh30"
       ]
     },
     "languages": [
@@ -2222,20 +2245,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/PvWa9XUzOz8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
       ]
     },
     "languages": [
@@ -2934,26 +2943,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "he2lOUztjAzsDr",
-    "name": "WildBrain: Teletubbies",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Q7RmINiZI_Y"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
