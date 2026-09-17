@@ -426,6 +426,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9RdvwjYBwgdvbP",
+    "name": "Kurdistan TV",
+    "sources": {
+      "streams": [
+        "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "kur",
+      "tur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8YNFXXuZHnJiGA",
     "name": "Kurdsat",
     "sources": {
@@ -603,7 +619,8 @@
     "name": "Zagros TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
+        "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
       ]
     },
     "languages": [

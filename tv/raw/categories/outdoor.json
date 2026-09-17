@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zLbErKeLWlYtjV",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CtdqbL5wtTjnvo",
     "name": "AgroCanal",
     "sources": {
@@ -173,6 +159,7 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/9/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
       ]
     },
@@ -216,8 +203,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

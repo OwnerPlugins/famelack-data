@@ -89,7 +89,8 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -496,6 +497,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eLHDrGKZWgbc15",
+    "name": "City Eden Sirtaki TV",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46421/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2Gi4riOGPwTn6u",
     "name": "Current Time TV",
     "sources": {
@@ -630,7 +673,8 @@
     "name": "Dorama",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1180,6 +1224,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
         "https://live-3.otcnet.ru/congresstv/index.m3u8"
       ]
     },
@@ -1640,20 +1685,6 @@
     "sources": {
       "streams": [
         "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FmClQA6aIx4mGP",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -3037,20 +3068,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

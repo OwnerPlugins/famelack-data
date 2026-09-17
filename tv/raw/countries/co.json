@@ -170,20 +170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pxpERTjTLU5biZ",
-    "name": "Canal CHD",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "btEJDr7vMTEkmk",
     "name": "Canal Cine Dios",
     "sources": {
@@ -218,6 +204,21 @@
       "streams": [
         "https://movil.ejeserver.com/live/teledoradahd.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QA1x5OQRH7UVPJ",
+    "name": "Canal Nets",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/nets.m3u8",
+        "https://video.ejeserver.com/live/nets.m3u8"
       ]
     },
     "languages": [
@@ -301,7 +302,7 @@
     "name": "CityTv",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_DdoXz60u3I"
+        "https://www.youtube-nocookie.com/embed/Q1CEBkYUkeM"
       ]
     },
     "languages": [
@@ -332,20 +333,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/cncbuga.m3u8",
         "https://video.ejeserver.com/live/cncbuga.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlNh6cGmLuP4h1",
-    "name": "CNC Pereira",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8"
       ]
     },
     "languages": [
@@ -445,20 +432,6 @@
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mshfkhqs41pHqb",
-    "name": "Fiesta TV",
-    "sources": {
-      "streams": [
-        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
       ]
     },
     "languages": [
@@ -680,6 +653,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vIdlh7SNXt3y4k",
+    "name": "Panche Television",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uhLgXXhXSYkGEa",
     "name": "Parranda Vallenata",
     "sources": {
@@ -835,20 +822,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -967,6 +940,20 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmiFkXyyhlLrz0",
+    "name": "Veo Televisión",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

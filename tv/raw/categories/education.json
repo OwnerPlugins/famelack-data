@@ -156,34 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7nyUSJn5aAWm7k",
-    "name": "Canal Educacao",
-    "sources": {
-      "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hrsVs9qqIiOboO",
-    "name": "Canal FDR",
-    "sources": {
-      "streams": [
-        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TAS6xjp5V4DYwH",
     "name": "Canal Universidad",
     "sources": {
@@ -329,6 +301,7 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/9/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
       ]
     },
@@ -1631,20 +1604,6 @@
       "khm"
     ],
     "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BCqlMDAwIJgW3B",
-    "name": "UAA TV",
-    "sources": {
-      "streams": [
-        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -33,6 +47,20 @@
     "sources": {
       "streams": [
         "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kJrXloIeM5KZgw",
+    "name": "Bialogardzka Telewizja Kablowa",
+    "sources": {
+      "streams": [
+        "https://bsmbialogard.pl/live/index.m3u8"
       ]
     },
     "languages": [
@@ -760,6 +788,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1vfIVAtz-1Q"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

@@ -470,7 +470,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dXMG7dyMci0"
+        "https://www.youtube-nocookie.com/embed/-8EBySE-bzw"
       ]
     },
     "languages": [],
@@ -904,7 +904,7 @@
     "name": "Televisa Del Bajio",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6VO0MWHhqpk"
+        "https://www.youtube-nocookie.com/embed/HF7ktwX6nNY"
       ]
     },
     "languages": [
@@ -974,7 +974,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/amn8idV85Z4"
+        "https://www.youtube-nocookie.com/embed/X7u2E27jbSA"
       ]
     },
     "languages": [
@@ -988,7 +988,21 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Hp9v4IOR9W4"
+        "https://www.youtube-nocookie.com/embed/0JAmxTSSyi8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wD23SQp1LmAaeS",
+    "name": "Televisa Puebla",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/v22UzMdy2Vw"
       ]
     },
     "languages": [
@@ -1136,6 +1150,20 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6duVJSjDym0PKb",
+    "name": "Transmedia Television Morelia",
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LIcwsfed7X4ZRx",
@@ -1326,34 +1354,6 @@
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qPMJMAbibR0k8d",
-    "name": "TVP Obregon",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BCqlMDAwIJgW3B",
-    "name": "UAA TV",
-    "sources": {
-      "streams": [
-        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
       ]
     },
     "languages": [

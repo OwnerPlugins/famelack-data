@@ -1002,6 +1002,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zMW8FE1xQLG090",
+    "name": "Orszaggyules: OGY TAB",
+    "sources": {
+      "streams": [
+        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "sources": {
+      "streams": [
+        "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eus",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1119,7 +1148,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b75FG_uz9n4"
+        "https://www.youtube-nocookie.com/embed/qf3wEOW4I6o"
       ]
     },
     "languages": [
@@ -1149,7 +1178,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
+        "https://cdn.pishow.tv/ott/live/39/master.m3u8"
       ]
     },
     "languages": [
@@ -1264,21 +1293,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GkHEDkVLBo4"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QrY7bSr5CSX6dm",
-    "name": "TV Assembleia Piaui",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
+        "https://www.youtube-nocookie.com/embed/x5L0M9MNz9A"
       ]
     },
     "languages": [
@@ -1306,7 +1321,7 @@
     "name": "TV Câmara Porto Alegre",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kjfOAQMgbtU"
+        "https://www.youtube-nocookie.com/embed/h2qy_SwTFp4"
       ]
     },
     "languages": [

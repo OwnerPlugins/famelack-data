@@ -43,6 +43,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MdBlLcplSVQXjK",
+    "name": "Family TV",
+    "sources": {
+      "streams": [
+        "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
+        "https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "j3cU74KjFvVxGm",
     "name": "Great Commission TV",
     "sources": {
@@ -78,6 +93,20 @@
       "streams": [
         "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8",
         "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g5kwz1y6chFW7A",
+    "name": "K24TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/55eZU4kFaeY"
       ]
     },
     "languages": [
@@ -148,7 +177,7 @@
     "name": "Ramogi TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nI-AM5lULzA"
+        "https://www.youtube-nocookie.com/embed/EbiGQx5LYTU"
       ]
     },
     "languages": [
