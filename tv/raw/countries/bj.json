@@ -30,20 +30,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wl7PXcvkmC0910",
-    "name": "KassouaTV",
-    "sources": {
-      "streams": [
-        "https://playtv4k.live/live/kassouatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hNA8RP7NoiPpEi",
     "name": "Le Nouveau Manager TV",
     "sources": {
@@ -58,14 +44,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wl2lwPjKKxNRiK",
-    "name": "ORTB TV",
+    "nanoid": "B7Ks8MnYsVfD8I",
+    "name": "Speedline TV",
     "sources": {
       "streams": [
-        "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8"
+        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "bj",
     "isGeoBlocked": false
   },

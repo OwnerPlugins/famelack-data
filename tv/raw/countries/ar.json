@@ -171,8 +171,8 @@
     "name": "Bravo TV",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -307,6 +307,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UUoSz4ieYffPkM",
+    "name": "Canal 3 Formosa",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MH4oTx0ElnuqXt",
     "name": "Canal 3 La Pampa",
     "sources": {
@@ -402,6 +416,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5btDuTFed3BZvV",
+    "name": "Canal 5 Del Pueblo",
+    "sources": {
+      "streams": [
+        "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qltnj6pxW46J3l",
     "name": "Canal 5 Santa Fe",
     "sources": {
@@ -421,20 +449,6 @@
     "sources": {
       "streams": [
         "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IMtD1PHBND4aSz",
-    "name": "Canal 6 ERTV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4rW0DDb-xQc"
       ]
     },
     "languages": [
@@ -906,7 +920,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pliWb2N9f9I"
+        "https://www.youtube-nocookie.com/embed/4KcviFLGc74"
       ]
     },
     "languages": [
@@ -957,7 +971,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/gPXFcQJdPys"
+        "https://www.youtube-nocookie.com/embed/6v6iCX_2WDA"
       ]
     },
     "languages": [
@@ -985,7 +999,7 @@
     "name": "El Tres TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mFO7WGFHifg"
+        "https://www.youtube-nocookie.com/embed/Fdxbp135bkQ"
       ]
     },
     "languages": [
@@ -1015,20 +1029,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/zcvuZx1RKhI"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MzJbIfUKCeqrsU",
-    "name": "Folcloreando TV",
-    "sources": {
-      "streams": [
-        "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1099,6 +1099,20 @@
     "sources": {
       "streams": [
         "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mZmnLqHFT8usTq",
+    "name": "Litus TV",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/litustv/index.m3u8"
       ]
     },
     "languages": [
@@ -1284,6 +1298,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yzztzhg09dFhfS",
+    "name": "NG Federal",
+    "sources": {
+      "streams": [
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ajBSt6NuLSUT5M",
     "name": "Pop Radio 101.5",
     "sources": {
@@ -1438,6 +1466,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xizVh4f6gDU2kH",
+    "name": "Solive TV",
+    "sources": {
+      "streams": [
+        "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bOQ2ElnoGQqKTy",
     "name": "Somos Entre Rios",
     "sources": {
@@ -1480,11 +1522,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "15KFLuGTzrHWsE",
-    "name": "Telecinco",
+    "nanoid": "Go5SKBRSJ9PYYw",
+    "name": "Telediario Digital",
     "sources": {
-      "streams": [
-        "https://videohd.live:19360/8016/8016.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/a44nJAOh73Y"
       ]
     },
     "languages": [
@@ -1756,6 +1798,20 @@
     "sources": {
       "streams": [
         "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "sources": {
+      "streams": [
+        "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
       ]
     },
     "languages": [

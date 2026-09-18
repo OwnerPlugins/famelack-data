@@ -931,8 +931,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -993,7 +992,6 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -1048,20 +1046,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1226,20 +1210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c1drY7BVrYSt3w",
-    "name": "DocuBox Russia",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2fMuVMErYSbQJN",
     "name": "Documentary+ International",
     "sources": {
@@ -1368,20 +1338,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0kxX68lMX7LDk",
-    "name": "History East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/np3JstRE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HZEhjsWnhssch2",
     "name": "History Hit",
     "stream_urls": [
@@ -1413,34 +1369,6 @@
     ],
     "country": "in",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "dS9WZLHmmG45EL",
-    "name": "History Ukraine",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/History_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zguiwIb77EwhFw",
-    "name": "History2 Ukraine",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/H2-HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "8BTlRgfNWp7SGA",
@@ -1483,6 +1411,20 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vWHREmfFSnsmrs",
+    "name": "Istoriya",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ydI9RzI56VdmqS",
@@ -1649,7 +1591,6 @@
     "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
         "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
       ]
     },
@@ -1657,20 +1598,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hLMd0T3SoxEtoM",
-    "name": "National Geographic East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1788,20 +1715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -1849,27 +1762,14 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8"
       ]
     },
     "languages": [
       "mal"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1933,6 +1833,20 @@
     "sources": {
       "streams": [
         "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9qxiwyypjNrlXI",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
       ]
     },
     "languages": [

@@ -99,21 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wChqagdBuBmsH1",
-    "name": "Konul Music TV",
-    "sources": {
-      "streams": [
-        "https://cdn4.yayin.com.tr/bakixebertv/video.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i8ut8D1XN8xZFx",
     "name": "Konul TV",
     "sources": {
@@ -182,6 +167,20 @@
     },
     "languages": [
       "ara",
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BRcYI5UTMS9jQ8",
+    "name": "Xezer TV",
+    "sources": {
+      "streams": [
+        "https://www.xezerxeber.az/stream/index.m3u8"
+      ]
+    },
+    "languages": [
       "aze"
     ],
     "country": "az",

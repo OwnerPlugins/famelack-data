@@ -5,8 +5,8 @@
     "sources": {
       "streams": [
         "https://14543.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://18063.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://26353.live.streamtheworld.com/977_SMOOJAZZ_SC"
+        "https://16693.live.streamtheworld.com/977_SMOOJAZZ_SC",
+        "https://15693.live.streamtheworld.com/977_SMOOJAZZ_SC"
       ]
     },
     "languages": [
@@ -742,9 +742,9 @@
     "name": "Adroit Jazz Underground",
     "sources": {
       "streams": [
-        "https://icecast.walmradio.com:8443/jazz",
         "https://walmradio.com:8443/jazz",
-        "https://icecast.walmradio.com:8443/jazz_opus"
+        "https://icecast.walmradio.com:8443/jazz_opus",
+        "https://icecast.walmradio.com:8443/jazz"
       ]
     },
     "languages": [
@@ -1044,9 +1044,9 @@
     "name": "Aspen Public Radio (KAJX)",
     "sources": {
       "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAJXFM_SC",
         "https://14093.live.streamtheworld.com/KAJXFM_SC",
-        "https://14943.live.streamtheworld.com/KAJXFM_SC",
-        "https://18253.live.streamtheworld.com/KAJXFM_SC"
+        "https://14943.live.streamtheworld.com/KAJXFM_SC"
       ]
     },
     "languages": [
@@ -1549,9 +1549,9 @@
     "name": "CapRadio Music",
     "sources": {
       "streams": [
+        "https://13743.live.streamtheworld.com/KXPR_SC",
         "https://18433.live.streamtheworld.com/KXPR_SC",
-        "https://22963.live.streamtheworld.com/KXPR_SC",
-        "https://13743.live.streamtheworld.com/KXPR_SC"
+        "https://22963.live.streamtheworld.com/KXPR_SC"
       ]
     },
     "languages": [
@@ -4571,8 +4571,8 @@
     "name": "Jazz 90.7 (KWMU-2)",
     "sources": {
       "streams": [
-        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u",
-        "https://kwmu.streamguys1.com/jazz-128"
+        "https://kwmu.streamguys1.com/jazz-128",
+        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u"
       ]
     },
     "languages": [
@@ -4597,9 +4597,9 @@
     "name": "Jazz 91.9 WCLK",
     "sources": {
       "streams": [
-        "https://17803.live.streamtheworld.com/WCLKFM_SC",
         "https://18323.live.streamtheworld.com/WCLKFM_SC",
-        "https://17993.live.streamtheworld.com/WCLKFM_SC"
+        "https://17803.live.streamtheworld.com/WCLKFM_SC",
+        "https://20603.live.streamtheworld.com/WCLKFM_SC"
       ]
     },
     "languages": [
@@ -4647,8 +4647,8 @@
     "name": "Jazz Con Class",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/a73229",
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73229"
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73229",
+        "https://streaming.live365.com/a73229"
       ]
     },
     "languages": [
@@ -5494,6 +5494,20 @@
     ]
   },
   {
+    "nanoid": "Rp73QbjFiUFzH0",
+    "name": "JB Radio",
+    "sources": {
+      "streams": [
+        "https://mediacp.jb-radio.net:8001/aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Iu8PxGuVZWo1cG",
     "name": "JFK Radio Ibiza",
     "sources": {
@@ -6182,8 +6196,8 @@
     "name": "KPBX",
     "sources": {
       "streams": [
-        "https://16613.live.streamtheworld.com/KPBX_FM_ADP_SC",
-        "https://18533.live.streamtheworld.com/KPBX_FM_ADP_SC",
+        "https://14623.live.streamtheworld.com/KPBX_FM_ADP_SC",
+        "https://14993.live.streamtheworld.com/KPBX_FM_ADP_SC",
         "https://14613.live.streamtheworld.com/KPBX_FM_ADP_SC"
       ]
     },
@@ -6269,9 +6283,9 @@
     "name": "KTEP 88.5 FM",
     "sources": {
       "streams": [
+        "https://18443.live.streamtheworld.com/KTEPFM_SC",
         "https://23023.live.streamtheworld.com/KTEPFM_SC",
-        "https://29325.live.streamtheworld.com/KTEPFM_SC",
-        "https://18443.live.streamtheworld.com/KTEPFM_SC"
+        "https://29325.live.streamtheworld.com/KTEPFM_SC"
       ]
     },
     "languages": [
@@ -6358,8 +6372,8 @@
     "name": "Legends Radio",
     "sources": {
       "streams": [
-        "https://ice3.securenetsystems.net:80/WLML",
-        "https://ice3.securenetsystems.net/WLML"
+        "https://ice3.securenetsystems.net/WLML",
+        "https://ice3.securenetsystems.net:80/WLML"
       ]
     },
     "languages": [
@@ -7454,9 +7468,9 @@
     "name": "Prairie Public Radio FM 3",
     "sources": {
       "streams": [
+        "https://15313.live.streamtheworld.com/KCNDHD3_SC",
         "https://27243.live.streamtheworld.com/KCNDHD3_SC",
-        "https://14833.live.streamtheworld.com/KCNDHD3_SC",
-        "https://18853.live.streamtheworld.com/KCNDHD3_SC"
+        "https://14833.live.streamtheworld.com/KCNDHD3_SC"
       ]
     },
     "languages": [
@@ -7484,9 +7498,9 @@
     "name": "Prairie Public Roots, Rock and Jazz",
     "sources": {
       "streams": [
-        "https://27153.live.streamtheworld.com/KCNDFM_SC",
+        "https://18153.live.streamtheworld.com/KCNDFM_SC",
         "https://26193.live.streamtheworld.com/KCNDFM_SC",
-        "https://18153.live.streamtheworld.com/KCNDFM_SC"
+        "https://27153.live.streamtheworld.com/KCNDFM_SC"
       ]
     },
     "languages": [
@@ -9664,8 +9678,8 @@
     "name": "Smooth Jazz JJZ",
     "sources": {
       "streams": [
-        "https://n24b-e2.revma.ihrhls.com/zc7390",
-        "https://stream.revma.ihrhls.com/zc7390"
+        "https://stream.revma.ihrhls.com/zc7390",
+        "https://n24b-e2.revma.ihrhls.com/zc7390"
       ]
     },
     "languages": [
@@ -10207,9 +10221,9 @@
     "name": "The Jazz Groove",
     "sources": {
       "streams": [
+        "https://audio-edge-5bkfj.fra.h.radiomast.io/f0ac4bf3-bbe5-4edb-b828-193e0fdc4f2f",
         "https://audio-edge-cmc51.fra.h.radiomast.io/f0ac4bf3-bbe5-4edb-b828-193e0fdc4f2f",
-        "https://mp3-128.streamthejazzgroove.com/;stream.mp3",
-        "https://audio-edge-5bkfj.fra.h.radiomast.io/f0ac4bf3-bbe5-4edb-b828-193e0fdc4f2f"
+        "https://mp3-128.streamthejazzgroove.com/;stream.mp3"
       ]
     },
     "languages": [
@@ -10221,9 +10235,9 @@
     "name": "The Jazz Groove: East",
     "sources": {
       "streams": [
-        "https://east-aac-64.streamthejazzgroove.com/stream",
         "https://audio-edge-ey5nr.ams.s.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7",
-        "https://east-mp3-128.streamthejazzgroove.com/stream"
+        "https://east-mp3-128.streamthejazzgroove.com/stream",
+        "https://audio-edge-ey5nr.ams.s.radiomast.io/ae0b58a2-0a97-484e-8f75-ef32ff194325"
       ]
     },
     "languages": [
@@ -10236,8 +10250,8 @@
     "sources": {
       "streams": [
         "https://west-mp3-128.streamthejazzgroove.com/;stream.mp3",
-        "https://audio-edge-kef8b.ams.s.radiomast.io/700d62fe-dcc8-4171-a430-0f0393320b3d",
-        "https://west-aac-64.streamthejazzgroove.com/stream"
+        "https://west-aac-64.streamthejazzgroove.com/stream",
+        "https://audio-edge-kef8b.ams.s.radiomast.io/700d62fe-dcc8-4171-a430-0f0393320b3d"
       ]
     },
     "languages": [
@@ -10781,6 +10795,20 @@
     ]
   },
   {
+    "nanoid": "ZxCUj8kYnVXRXD",
+    "name": "World Vibe Radio One",
+    "sources": {
+      "streams": [
+        "https://www.radioking.com/play/wvro/436102"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4bpDvvvCABDDW4",
     "name": "Worldwide FM",
     "sources": {
@@ -10887,8 +10915,8 @@
     "name": "WUSF 89.7 FM",
     "sources": {
       "streams": [
-        "https://wusf.streamguys1.com/wusf-web",
-        "https://streaming.wusf.fm/wusf"
+        "https://streaming.wusf.fm/wusf",
+        "https://wusf.streamguys1.com/wusf-web"
       ]
     },
     "languages": [
@@ -10924,9 +10952,9 @@
     "name": "WVIA Public Media",
     "sources": {
       "streams": [
+        "https://19263.live.streamtheworld.com/WVIAFM_SC",
         "https://19473.live.streamtheworld.com/WVIAFM_SC",
-        "https://27143.live.streamtheworld.com/WVIAFM_SC",
-        "https://26143.live.streamtheworld.com/WVIAFM_SC"
+        "https://27143.live.streamtheworld.com/WVIAFM_SC"
       ]
     },
     "languages": [

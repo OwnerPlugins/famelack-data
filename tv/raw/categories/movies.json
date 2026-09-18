@@ -69,20 +69,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P7GocxvCrb9Z27",
-    "name": "All Time Movies",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ndVRRmZjXvgvtL",
     "name": "Allo Cine",
     "sources": {
@@ -166,31 +152,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
+    "nanoid": "qS9h25t8tf42wr",
+    "name": "Aurora Media Films",
     "sources": {
       "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
       ]
     },
     "languages": [
-      "tgl"
+      "spa"
     ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GrExiW2MAUmLxv",
-    "name": "Asianet Movies",
-    "sources": {
-      "streams": [
-        "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
-    ],
-    "country": "in",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -449,20 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkyMh1FkUqryxv",
     "name": "Classic Cinema",
     "sources": {
@@ -495,8 +453,7 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
       ]
     },
     "languages": [
@@ -812,7 +769,22 @@
     "name": "Goldmines",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1459/master.m3u8",
         "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dwy85l2OvBjO8N",
+    "name": "Goldmines Action",
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8"
       ]
     },
     "languages": [
@@ -842,6 +814,7 @@
     "name": "Goldmines Movies",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
         "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
       ]
     },
@@ -937,35 +910,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b9hyRXnC242UxT",
-    "name": "HBO Hits East HD",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TTjsj6LVCttYVT",
-    "name": "Hollywood Ukraine",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sW1htecY1J2QHG",
     "name": "HomePlus",
     "sources": {
@@ -1041,6 +985,7 @@
     "name": "Kairali We",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1530/master.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
         "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8"
       ]
@@ -1135,10 +1080,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tWWWWJwjjkFKBL",
+    "name": "Maha Movie",
+    "sources": {
+      "streams": [
+        "https://cdn.pishow.tv/ott/live/10007/master.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzDxJa5Z3U6kt6",
     "name": "Manoranjan Grand",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
         "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
       ]
     },
@@ -1203,6 +1163,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3oZt6WW4bpgdn6",
+    "name": "MH One Movies",
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1431,6 +1405,7 @@
     "name": "Oscar Movies Bhojpuri",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/233/master.m3u8",
         "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8"
       ]
     },
@@ -1600,20 +1575,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zd0xHBMJgy6qgu",
-    "name": "Prokino",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/ProKino/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WcVSwnwXJXy7AW",
     "name": "Public Movies",
     "sources": {
@@ -1767,20 +1728,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "U4qFQGhb2lylGn",
-    "name": "Sine Plus",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ASIayZG97M5CC",
     "name": "SL 1",
     "sources": {
@@ -1896,20 +1843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FcRvyBZVm1fiOO",
-    "name": "Star Maa Movies",
-    "sources": {
-      "streams": [
-        "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8"
-      ]
-    },
-    "languages": [
-      "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9f7IFEFwv1iC1Z",
     "name": "START Air",
     "sources": {
@@ -1942,7 +1875,9 @@
     "name": "Studio One +",
     "sources": {
       "streams": [
-        "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8"
+        "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/276/master.m3u8",
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
     },
     "languages": [
@@ -2005,20 +1940,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q642f1lR53cD10",
     "name": "TVCARiB Cinema",
     "sources": {
@@ -2048,81 +1969,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3Qjh79yX39qnbD",
-    "name": "Velvet. European Movies",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CrOPrTaXmBrTtv",
-    "name": "Velvet. Golden Collection",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ha89SOYxCAGb48",
-    "name": "Velvet. Scary",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qDAulk0VBGhon",
-    "name": "Velvet. Sovetskoe Kino",
-    "sources": {
-      "streams": [
-        "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ny7Wt1WBD8NyDP",
     "name": "Viasat Kino",
     "sources": {
       "streams": [
-        "https://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104"
       ]
     },
@@ -2138,7 +1988,6 @@
     "name": "Viasat Kino Action",
     "sources": {
       "streams": [
-        "https://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105"
       ]
     },

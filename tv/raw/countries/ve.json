@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "k5rLNH9bb5U3R9",
-    "name": "AbejalesTV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8"
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -14,11 +14,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
+    "nanoid": "ciUS0lRhmTtePT",
+    "name": "Anzoategui TV",
     "sources": {
       "streams": [
-        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -46,6 +60,20 @@
     "sources": {
       "streams": [
         "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
+    "sources": {
+      "streams": [
+        "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8"
       ]
     },
     "languages": [
@@ -151,20 +179,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jm0NQzDK6O3XDE",
-    "name": "Lara en Redes",
-    "sources": {
-      "streams": [
-        "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
     "sources": {
@@ -257,20 +271,6 @@
     },
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y5blHOrOCn0tLM",
-    "name": "Portuguesa Television",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
-      ]
-    },
-    "languages": [
       "spa"
     ],
     "country": "ve",
@@ -494,6 +494,20 @@
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

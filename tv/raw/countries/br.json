@@ -153,20 +153,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bKmPdhZgXyjLSL",
-    "name": "BR8 TV",
-    "sources": {
-      "streams": [
-        "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yeGOxGUEcp1bap",
     "name": "Canal 25 Jundiai",
     "sources": {
@@ -406,12 +392,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uBGBZ1tmmDfH55",
+    "name": "Elemental Channel",
+    "sources": {
+      "streams": [
+        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vTgAI9VGNp0y8I",
     "name": "EUTV",
     "stream_urls": [
       "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3HmytgXpnq9Lw",
+    "name": "Fala Litoral",
+    "sources": {
+      "streams": [
+        "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -590,20 +604,6 @@
     "sources": {
       "streams": [
         "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TTOE5JAF2dsOwo",
-    "name": "O Dia TV",
-    "sources": {
-      "streams": [
-        "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -977,7 +977,7 @@
     "name": "SBT CENTRAL",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/C6FEK-V_f0k"
+        "https://www.youtube-nocookie.com/embed/3KzYuZTM55o"
       ]
     },
     "languages": [
@@ -1222,7 +1222,7 @@
     "name": "SBT RS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HV_44PfeQ0Y"
+        "https://www.youtube-nocookie.com/embed/B32XRuYqpIY"
       ]
     },
     "languages": [
@@ -1232,11 +1232,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wQwzJWldq22ymG",
-    "name": "SIC TV",
+    "nanoid": "LLNkgpUxL9eFFQ",
+    "name": "SOU TV",
     "sources": {
       "streams": [
-        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+        "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1409,21 +1409,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0YvMhM1xJBo"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QrY7bSr5CSX6dm",
-    "name": "TV Assembleia Piaui",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
+        "https://www.youtube-nocookie.com/embed/x5L0M9MNz9A"
       ]
     },
     "languages": [
@@ -1547,7 +1533,6 @@
     "name": "TV Cultura",
     "sources": {
       "streams": [
-        "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
         "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8"
       ]
     },
@@ -1591,6 +1576,20 @@
     "sources": {
       "streams": [
         "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NoqDxZd1Xoy0q1",
+    "name": "TV Futuro",
+    "sources": {
+      "streams": [
+        "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
       ]
     },
     "languages": [

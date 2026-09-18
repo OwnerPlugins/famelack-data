@@ -1637,12 +1637,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eg3goyColncJv1",
-    "name": "MTV Global",
+    "nanoid": "i781he5y7cbuXf",
+    "name": "MUTV",
     "sources": {
       "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8",
-        "https://dvr2.kablova.tv/MTV/index.m3u8"
+        "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8"
       ]
     },
     "languages": [
@@ -1712,20 +1711,6 @@
     "sources": {
       "streams": [
         "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uU0w6PP1NhQ9xR",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
       ]
     },
     "languages": [
@@ -1852,6 +1837,20 @@
       "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1A9pQWKNokfhPn",
+    "name": "Panjab TV",
+    "sources": {
+      "streams": [
+        "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2052,6 +2051,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "sources": {
@@ -2084,7 +2095,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SFx6100d2Fw"
+        "https://www.youtube-nocookie.com/embed/s4qIdyuvh30"
       ]
     },
     "languages": [
@@ -2167,20 +2178,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/PvWa9XUzOz8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
       ]
     },
     "languages": [
@@ -2846,7 +2843,7 @@
     "name": "WildBrain: Inspector Gadget",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pf3WgatoPUE"
+        "https://www.youtube-nocookie.com/embed/h7CV2gNxU-8"
       ]
     },
     "languages": [

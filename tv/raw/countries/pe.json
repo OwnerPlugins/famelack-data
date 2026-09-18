@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "zLbErKeLWlYtjV",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YeKuxDQNxxKjD2",
     "name": "Altura TV",
     "sources": {
@@ -322,20 +308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mHRulAqsRUqjO2",
-    "name": "Genios TV",
-    "sources": {
-      "streams": [
-        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tuNSJmr0wEebhR",
     "name": "Huacho Peru TV",
     "sources": {
@@ -397,20 +369,6 @@
     "sources": {
       "streams": [
         "https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jxlsDXo2Z9WhXZ",
-    "name": "Kora TV",
-    "sources": {
-      "streams": [
-        "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
       ]
     },
     "languages": [
@@ -631,20 +589,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wipt0975o9TTyh",
-    "name": "PBO",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1HAo4CqmpS0XAl",
     "name": "Primavera 15",
     "sources": {
@@ -802,7 +746,6 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
         "https://live.obslivestream.com/selvatv/index.m3u8"
       ]
     },
@@ -888,11 +831,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NDlCo3GFyqRAnN",
-    "name": "TV Kaliente",
+    "nanoid": "nXrcWfZsttDQtv",
+    "name": "TV MAR",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8"
       ]
     },
     "languages": [

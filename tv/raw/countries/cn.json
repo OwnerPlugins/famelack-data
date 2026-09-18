@@ -13,20 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uzMnROBDMiNzKY",
-    "name": "Anhui TV",
-    "sources": {
-      "streams": [
-        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -76,6 +62,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f6Kq93wnaZ8"
     ],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fKZLucUhJYe0vc",
+    "name": "CCTV-5+",
+    "sources": {
+      "streams": [
+        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+      ]
+    },
     "languages": [
       "zho"
     ],
@@ -412,21 +412,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ubE2VDVPE45pBe",
-    "name": "Nei Monggol TV",
-    "sources": {
-      "streams": [
-        "https://play1-qk.nmtv.cn/live/1769652018126032.m3u8"
-      ]
-    },
-    "languages": [
-      "mon",
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5kYv876l5SB1BL",
     "name": "Nei Monggol TV 2 Mongolian Culture Channel",
     "sources": {
@@ -493,6 +478,20 @@
     },
     "languages": [
       "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GaA5Gn9GUFGhgh",
+    "name": "Xinjiang TV 2",
+    "sources": {
+      "streams": [
+        "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0"
+      ]
+    },
+    "languages": [
+      "uig"
     ],
     "country": "cn",
     "isGeoBlocked": false
