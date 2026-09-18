@@ -84,11 +84,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oHC9km0oS5V3YT",
+    "name": "Antena 1",
+    "sources": {
+      "streams": [
+        "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gns5WkTHWUSX7n",
+    "name": "Antena International",
+    "sources": {
+      "streams": [
+        "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uXqlv34zzBQ5z0",
     "name": "Antena Stars",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+        "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8"
       ]
     },
     "languages": [
@@ -146,6 +188,20 @@
     "sources": {
       "streams": [
         "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nqC1XmTU0qJuuy",
+    "name": "Bollywood Film",
+    "sources": {
+      "streams": [
+        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
       ]
     },
     "languages": [
@@ -216,6 +272,20 @@
     "sources": {
       "streams": [
         "https://astra.emitv.ro/hls/emi/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qFwIIjAFYuKLPE",
+    "name": "Etno TV",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8"
       ]
     },
     "languages": [
@@ -351,6 +421,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "N75UOARV2lWn6k",
+    "name": "Inedit TV",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dwPib6Di7weUvt",
     "name": "Informatia TV",
     "sources": {
@@ -426,6 +510,34 @@
     "sources": {
       "streams": [
         "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HXUJ0Y6Fs5W3Ui",
+    "name": "Mooz Hits",
+    "sources": {
+      "streams": [
+        "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2U91fowazsObgI",
+    "name": "Mooz Ro!",
+    "sources": {
+      "streams": [
+        "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8"
       ]
     },
     "languages": [
@@ -679,6 +791,20 @@
     "sources": {
       "streams": [
         "https://dvb.tennet.ro/mobile_tv/telestar.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XUYPIY4ntZdroJ",
+    "name": "TraLaLa TV",
+    "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8"
       ]
     },
     "languages": [

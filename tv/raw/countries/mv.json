@@ -1,14 +1,14 @@
 [
   {
-    "nanoid": "goNrMuzefDwskd",
-    "name": "Maldives TV",
+    "nanoid": "ieSH1Df6dmiPew",
+    "name": "Channel 13",
     "sources": {
       "streams": [
-        "https://lana.psm.mv/live/mtv.m3u8"
+        "https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "div"
     ],
     "country": "mv",
     "isGeoBlocked": false
@@ -24,6 +24,20 @@
     "languages": [
       "div",
       "eng"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tXjtUJ8mVtddPt",
+    "name": "NTV",
+    "sources": {
+      "streams": [
+        "https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8"
+      ]
+    },
+    "languages": [
+      "div"
     ],
     "country": "mv",
     "isGeoBlocked": false

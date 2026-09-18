@@ -86,7 +86,8 @@
     "name": "Africanews English",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
@@ -557,6 +558,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "sources": {
@@ -961,6 +974,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OgCZtD8wAAsw56",
+    "name": "HANDICAP TV",
+    "sources": {
+      "streams": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "R7QQGzMYNAADi7",
     "name": "Homicide la chaîne du fait divers",
     "sources": {
@@ -1326,6 +1353,18 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
+    "sources": {
+      "streams": [
+        "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1747,8 +1786,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8",
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
       ]
     },
     "languages": [

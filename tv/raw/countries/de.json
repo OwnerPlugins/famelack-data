@@ -410,6 +410,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "sources": {
@@ -419,21 +431,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "sources": {
-      "streams": [
-        "https://media.finest.tv/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "deu",
-      "tur"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -706,20 +703,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Ztcv27i6GrEiFD",
-    "name": "Lausitzwelle",
-    "sources": {
-      "streams": [
-        "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HWTSet3C8bbwKJ",
     "name": "LooLoo Kids TV",
     "sources": {
@@ -830,18 +813,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "9oFKf7u6XNNE0e",
@@ -1294,16 +1265,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FT8VcZltRS1FOf",
-    "name": "Rakuten TV Action Movies Germany",
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
     "sources": {
       "streams": [
-        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
       ]
     },
-    "languages": [
-      "deu"
-    ],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1753,18 +1722,6 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "sources": {
-      "streams": [
-        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

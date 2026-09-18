@@ -245,20 +245,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ASHioV3EjpMKWq",
     "name": "CDN Deportes",
     "sources": {
@@ -306,11 +292,19 @@
     "sources": {
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/13/master.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
       ]
     },
     "languages": [
-      "hin"
+      "ben",
+      "bho",
+      "eng",
+      "hin",
+      "kan",
+      "sgn",
+      "tam",
+      "tel"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -359,6 +353,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3spET73XcwPAv7",
+    "name": "El-Heddaf TV",
+    "sources": {
+      "streams": [
+        "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G7PrVny1yyiQQU",
     "name": "ESPN8 The Ocho",
     "sources": {
@@ -386,6 +394,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "E8ErNhxgmnUtWl",
@@ -479,6 +502,7 @@
     "name": "FightBox",
     "sources": {
       "streams": [
+        "https://iptv.prosto.tv/ch118/index.m3u8",
         "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
       ]
@@ -798,7 +822,9 @@
         "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv"
       ]
     },
-    "languages": [],
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -843,20 +869,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GVTfU86YlWYBhq",
-    "name": "Lazio Style Channel",
-    "sources": {
-      "streams": [
-        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1125,6 +1137,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1508,6 +1521,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8Xm1zny7J1DGiP",
+    "name": "Sport+ Qazaqstan",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "sources": {
@@ -1572,7 +1599,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -1763,8 +1789,21 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7O0f51doBnpXtt",
+    "name": "Tennis Channel 2",
+    "sources": {
+      "streams": [
+        "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8"
       ]
     },
     "languages": [
@@ -1779,9 +1818,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4W0sslaHyfw"
       ]
     },
     "languages": [
@@ -1810,8 +1846,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8",
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2048,20 +2084,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "so5fgKy39odQZy",
-    "name": "VSBet HD",
-    "sources": {
-      "streams": [
-        "https://live05.meung.app/live/16226575.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
@@ -2115,20 +2137,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EZYzbbetjgxX2q",
-    "name": "World Poker Tour 1",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9OfkBpn2e2A"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {

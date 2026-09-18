@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
     "sources": {
@@ -62,6 +76,7 @@
     "name": "Ayush TV",
     "sources": {
       "streams": [
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
         "https://cdn.pishow.tv/ott/live/221/master.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
       ]
@@ -204,6 +219,7 @@
     "name": "CVR Health",
     "sources": {
       "streams": [
+        "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8",
         "https://cdn.pishow.tv/ott/live/395/master.m3u8"
       ]
     },
@@ -232,7 +248,8 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -246,8 +263,7 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
-        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
     "languages": [
@@ -409,6 +425,20 @@
       "fra"
     ],
     "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OgCZtD8wAAsw56",
+    "name": "HANDICAP TV",
+    "sources": {
+      "streams": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

@@ -556,7 +556,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Xlr69UlFRqQ"
+        "https://www.youtube-nocookie.com/embed/-dt-qgPOh5w"
       ]
     },
     "languages": [
@@ -1425,6 +1425,7 @@
     "sources": {
       "streams": [
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
         "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
@@ -1600,6 +1601,20 @@
     "sources": {
       "streams": [
         "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eg3goyColncJv1",
+    "name": "MTV Global",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MTVEurope/index.m3u8"
       ]
     },
     "languages": [
@@ -1903,7 +1918,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2030,37 +2045,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "6OObHoCz5T6mVt",
+    "name": "Rakuten TV Sci-Fi UK",
     "sources": {
       "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "sources": {
-      "streams": [
-        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
       ]
     },
     "languages": [],
@@ -2934,6 +2923,7 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2962,7 +2952,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

@@ -15,6 +15,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k0N3e27ge4nS6v",
+    "name": "31 Kanal",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "sources": {
@@ -121,7 +135,8 @@
     "name": "Jibek Joly",
     "sources": {
       "streams": [
-        "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8"
+        "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+        "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -147,12 +162,42 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qB76xClxVm71Nk",
+    "name": "KinoBoevik",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3AVsF9F3MmLx0i",
     "name": "KTK",
     "sources": {
       "streams": [
         "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
         "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BFxyMjB6LONXi",
+    "name": "Mirovoe kino",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -195,7 +240,6 @@
     "name": "Novoe televidenie",
     "sources": {
       "streams": [
-        "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
         "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
       ]
     },
@@ -314,6 +358,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "8Xm1zny7J1DGiP",
+    "name": "Sport+ Qazaqstan",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HKWXuzT38k7GF2",
     "name": "TDK 42",
     "sources": {
@@ -332,7 +390,7 @@
     "name": "Телеканал 24kz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wkG7xuK008Q"
+        "https://www.youtube-nocookie.com/embed/Dh9IpZhz5Rg"
       ]
     },
     "languages": [

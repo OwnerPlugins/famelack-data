@@ -309,20 +309,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "sources": {
-      "streams": [
-        "https://s1.cystream.net/live/faros2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "sources": {
@@ -399,6 +385,20 @@
     "sources": {
       "streams": [
         "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aD4cUpbRFASr0S",
+    "name": "Lepanto TV",
+    "sources": {
+      "streams": [
+        "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -554,6 +554,20 @@
     "sources": {
       "streams": [
         "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "axcim7j9dTO22W",
+    "name": "Start TV",
+    "sources": {
+      "streams": [
+        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
       ]
     },
     "languages": [

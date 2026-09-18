@@ -57,20 +57,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H8TtlIKgrW2bwo",
-    "name": "Antena Seis TV",
-    "sources": {
-      "streams": [
-        "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "sources": {
@@ -119,8 +105,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -310,6 +295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "puMweHvpz4B7Uc",
+    "name": "Impact Channel",
+    "sources": {
+      "streams": [
+        "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "sources": {
@@ -371,7 +370,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GNFoQAt2DAo"
+        "https://www.youtube-nocookie.com/embed/N1QXzQrs-CE"
       ]
     },
     "languages": [
@@ -676,6 +675,20 @@
     "sources": {
       "streams": [
         "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lyisHWGyNS2hyW",
+    "name": "VoiceOver Radio TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
       ]
     },
     "languages": [

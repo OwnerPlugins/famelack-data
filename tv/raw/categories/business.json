@@ -138,7 +138,7 @@
         "https://biznestv.az/hls/live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RdttzwmG2S8"
+        "https://www.youtube-nocookie.com/embed/150oxkVZfc8"
       ]
     },
     "languages": [
@@ -159,6 +159,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GQEjero7WWkJqT",
+    "name": "Bloomberg HT",
+    "sources": {
+      "streams": [
+        "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -185,6 +199,21 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/f39oHo6vFLg"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TGIxs2mxFIlLmz",
+    "name": "Bloomberg TV US",
+    "sources": {
+      "streams": [
+        "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8",
+        "https://tvsen6.aynaott.com/bloombergtv/index.m3u8"
       ]
     },
     "languages": [
@@ -540,6 +569,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7JXCY4HgFzlAMy",
+    "name": "News Capital Market",
+    "sources": {
+      "streams": [
+        "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987"
+      ]
+    },
+    "languages": [
+      "guj"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fEhuSbh6UZiVWk",
     "name": "NW Economie",
     "sources": {
@@ -551,6 +594,20 @@
       "fra"
     ],
     "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

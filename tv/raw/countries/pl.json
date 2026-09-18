@@ -4,7 +4,8 @@
     "name": "4 Fun TV",
     "sources": {
       "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+        "https://stream.4fun.tv:8888/hls/4f.m3u8",
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ]
     },
     "languages": [
@@ -130,6 +131,7 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -137,18 +139,6 @@
       "eng",
       "pol"
     ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QpkwHa7GwFnKLp",
-    "name": "BTB Music",
-    "sources": {
-      "streams": [
-        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -513,20 +503,6 @@
     "sources": {
       "streams": [
         "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Tux5aFzVVq0"
       ]
     },
     "languages": [

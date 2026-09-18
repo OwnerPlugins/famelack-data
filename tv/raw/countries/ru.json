@@ -7,7 +7,9 @@
         "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -91,20 +93,6 @@
       "streams": [
         "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8",
         "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mAl50UnEXvw3NE",
-    "name": "Afontovo",
-    "sources": {
-      "streams": [
-        "https://stream.afontovo.ru/hd.m3u8"
       ]
     },
     "languages": [
@@ -469,6 +457,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "Ypbxcr1PDcytnl",
+    "name": "Channel One CIS",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OhHE64oK7ZXx5g",
     "name": "Che!",
     "sources": {
@@ -488,6 +490,48 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41331/index.m3u8"
       ]
     },
     "languages": [
@@ -583,11 +627,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ixmcg0qBwezEhM",
+    "name": "Detskiy",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xUgG4Xe5635smX",
+    "name": "Dikij",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c1drY7BVrYSt3w",
+    "name": "DocuBox Russia",
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch093/index.m3u8"
       ]
     },
     "languages": [
@@ -644,7 +730,8 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -658,8 +745,7 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
-        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
     "languages": [
@@ -836,6 +922,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "DvvFbQYA85hLbG",
+    "name": "Friday! International Kazakhstan",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "qR0alRDphlQYmL",
@@ -1072,7 +1172,9 @@
         "https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv"
       ]
     },
-    "languages": [],
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -1224,8 +1326,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
-        "https://live-3.otcnet.ru/congresstv/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1694,6 +1795,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FmClQA6aIx4mGP",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RdBj6vEFVhj28o",
     "name": "Nick Jr.",
     "sources": {
@@ -2079,6 +2194,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "baWp5QhTh81ABF",
     "name": "Prodvizhenie",
     "sources": {
@@ -2454,6 +2583,20 @@
     "sources": {
       "streams": [
         "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jJzPjlZwq4ZxB5",
+    "name": "Rybalka i okhota",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -3077,6 +3220,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0777Rydu6yXF9D",
+    "name": "TV 21",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0hiQdgKd6nMh6h",
     "name": "TV BRICS Russian",
     "sources": {
@@ -3105,6 +3262,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "BMmPYSSruZhIpK",
+    "name": "TV Centr International",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jtxJjjvaYlzacH",
@@ -3169,20 +3340,6 @@
     "sources": {
       "streams": [
         "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wDy5L6UWLImGOC",
-    "name": "Unikum",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
