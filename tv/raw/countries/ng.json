@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mnVBWlVT6nGvWt",
-    "name": "Africa Independent Television",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/MNEsw5NpdLw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "sources": {
@@ -182,6 +168,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YSG1ZKKDkWTBCC",
+    "name": "LoveWorld Arabic",
+    "sources": {
+      "streams": [
+        "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8pEfgic6D8bCYA",
     "name": "LoveWorld Persia",
     "sources": {
@@ -244,20 +244,6 @@
     "sources": {
       "streams": [
         "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HUxeirBEJ9XVlF",
-    "name": "News Central",
-    "sources": {
-      "streams": [
-        "https://wf.newscentral.ng:8443/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -478,11 +464,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
+    "nanoid": "bmxTZy6nlmaoMM",
+    "name": "Wazobia Max TV Port-Harcourt",
     "sources": {
       "streams": [
-        "https://wazobia.live:8333/channel/wmax.m3u8"
+        "https://wazobia.live:8333/channel/wmaxph.m3u8"
       ]
     },
     "languages": [

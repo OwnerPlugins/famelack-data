@@ -56,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i0FCLehrB1FgEt",
+    "name": "Alankar TV",
+    "sources": {
+      "streams": [
+        "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ori"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ndVRRmZjXvgvtL",
     "name": "Allo Cine",
     "sources": {
@@ -82,20 +96,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -126,18 +126,6 @@
       "bho"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XP5bT3gL9RGIRP",
-    "name": "Bigscreen TV",
-    "sources": {
-      "streams": [
-        "https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -399,11 +387,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
+    "nanoid": "n4R8lzuArvLNkC",
+    "name": "City Eden KinoArt",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+        "https://cityeden.catcast.tv/content/38398/index.m3u8"
       ]
     },
     "languages": [
@@ -945,9 +933,9 @@
     "name": "Goldmines Bollywood",
     "sources": {
       "streams": [
+        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
-        "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
+        "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1533,6 +1521,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4JeYX90lm5Sxdq",
+    "name": "Movie Star",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MovieStar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6VfdM1XJEcjloD",
     "name": "Movies! KPVM-LD",
     "sources": {
@@ -1952,11 +1954,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rW6tKgiQ7jM4rF",
-    "name": "Rakuten TV Comedy Movies Italy",
+    "nanoid": "4XypCIgUkqx4tL",
+    "name": "Rakuten TV Action Movies Italy",
     "sources": {
       "streams": [
-        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
       ]
     },
     "languages": [
@@ -1966,18 +1968,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CECa40HPlHGlAI",
-    "name": "Rakuten TV Top Movies Finland",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "fin"
+      "eng"
     ],
-    "country": "fi",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2095,20 +2096,6 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "U4qFQGhb2lylGn",
-    "name": "Sine Plus",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "8ASIayZG97M5CC",
@@ -2324,20 +2311,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

@@ -102,6 +102,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mAl50UnEXvw3NE",
+    "name": "Afontovo",
+    "sources": {
+      "streams": [
+        "https://stream.afontovo.ru/hd.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -513,11 +527,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
+    "nanoid": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+        "https://cityeden.catcast.tv/content/47400/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4R8lzuArvLNkC",
+    "name": "City Eden KinoArt",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38398/index.m3u8"
       ]
     },
     "languages": [
@@ -541,39 +569,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rPl77qAXLXht7K",
-    "name": "City Eden MedZdrav",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47519/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eLHDrGKZWgbc15",
     "name": "City Eden Sirtaki TV",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/46421/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
       ]
     },
     "languages": [
@@ -745,7 +745,8 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1326,7 +1327,8 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+        "https://live-3.otcnet.ru/congresstv/index.m3u8"
       ]
     },
     "languages": [
@@ -1912,20 +1914,6 @@
     "sources": {
       "streams": [
         "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZKYBGybJlsgcz0",
-    "name": "NTS",
-    "sources": {
-      "streams": [
-        "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3211,20 +3199,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

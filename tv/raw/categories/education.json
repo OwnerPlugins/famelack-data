@@ -837,20 +837,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9NYf5msdVIxgC1",
-    "name": "ILCE Canal 15 Summa Saberes",
-    "sources": {
-      "streams": [
-        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
     "sources": {
@@ -862,6 +848,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1661,6 +1661,20 @@
       "spa"
     ],
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "sources": {
-      "streams": [
-        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KstfcDMjN0CcgR",
     "name": "Bendicion Channel",
     "sources": {
@@ -142,20 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8056/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4tOQsHNAnrUk50",
     "name": "Canal Calima TV",
     "sources": {
@@ -203,6 +175,21 @@
     "sources": {
       "streams": [
         "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nygDUxp3RgEFzv",
+    "name": "Canal Mas Television",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+        "https://video.ejeserver.com/live/teledoradahd.m3u8"
       ]
     },
     "languages": [
@@ -454,6 +441,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mshfkhqs41pHqb",
+    "name": "Fiesta TV",
+    "sources": {
+      "streams": [
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vrb0tQpIhi4WoL",
     "name": "Frecuencia F TV",
     "sources": {
@@ -694,6 +695,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cdawb9nEY3EP4F",
+    "name": "RCN Novelas",
+    "sources": {
+      "streams": [
+        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iEaQZyuCD9tKa4",
     "name": "Red+",
     "sources": {
@@ -821,20 +836,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -920,20 +921,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mlkKtAdauZwDoc",
-    "name": "TV3 La Plata",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s1gW58b5trEZhx",
     "name": "Ultra Casanare TV",
     "sources": {
@@ -953,6 +940,20 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmiFkXyyhlLrz0",
+    "name": "Veo Televisión",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

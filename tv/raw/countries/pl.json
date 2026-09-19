@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "gnXbQSLxnNAtTV",
-    "name": "4 Fun TV",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
-        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -76,20 +61,6 @@
     "sources": {
       "streams": [
         "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JwjTtBdIXCgMJP",
-    "name": "BTB",
-    "sources": {
-      "streams": [
-        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
       ]
     },
     "languages": [
@@ -728,7 +699,6 @@
     "name": "TVP Info",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8",
         "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
       ]
     },
@@ -743,7 +713,6 @@
     "name": "TVP Polonia",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
         "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
       ]
     },
@@ -758,7 +727,6 @@
     "name": "TVP World",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
         "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
       ]
     },
@@ -783,26 +751,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "sources": {
-      "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "sources": {
       "streams": [
-        "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
         "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
       ]
     },
