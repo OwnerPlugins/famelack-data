@@ -32,7 +32,6 @@
     "name": "360TuneBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch141/index.m3u8",
         "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8"
       ]
     },
@@ -40,7 +39,7 @@
       "eng"
     ],
     "country": "nl",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VW5KCkVwmL5Q1A",
@@ -175,7 +174,6 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch118/index.m3u8",
         "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
         "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
       ]

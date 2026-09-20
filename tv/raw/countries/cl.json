@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W9JICLAimFWyuU",
-    "name": "ADA TV",
-    "sources": {
-      "streams": [
-        "https://v4.tustreaming.cl/adatvchile/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qr32wZaF0dlwkY",
     "name": "ADN TV",
     "sources": {
@@ -493,11 +479,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ud3SPgHdcvR9fj",
-    "name": "China Channel",
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
     "sources": {
       "streams": [
-        "https://v2.tustreaming.cl/chinachannel/index.m3u8"
+        "https://v2.tustreaming.cl/chiloered/index.m3u8"
       ]
     },
     "languages": [
@@ -507,11 +493,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YVZxTC9dQaBTqc",
-    "name": "Chocolate FM",
+    "nanoid": "Ud3SPgHdcvR9fj",
+    "name": "China Channel",
     "sources": {
       "streams": [
-        "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8"
+        "https://v2.tustreaming.cl/chinachannel/index.m3u8"
       ]
     },
     "languages": [
@@ -708,20 +694,6 @@
     "sources": {
       "streams": [
         "https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qJZQAfwcNY9ug6",
-    "name": "El Centro TV",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8"
       ]
     },
     "languages": [
@@ -1240,7 +1212,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3opUtPrpZe0"
+        "https://www.youtube-nocookie.com/embed/T4YY2BZe8O8"
       ]
     },
     "languages": [],
@@ -1337,6 +1309,20 @@
     "sources": {
       "streams": [
         "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z8D0Y4EVxMHZlA",
+    "name": "Odisea TV",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/odiseatv/index.m3u8"
       ]
     },
     "languages": [
@@ -1631,6 +1617,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J3nTc19sodyB7X",
+    "name": "Radio Nuble",
+    "sources": {
+      "streams": [
+        "https://tv.telselec.cl:3376/live/nublefmlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qn58qijj5GaR6h",
     "name": "Radio Panoramica",
     "sources": {
@@ -1873,8 +1873,8 @@
     "name": "Ritoque TV",
     "sources": {
       "streams": [
-        "https://v2.tustreaming.cl/unetev/index.m3u8",
-        "https://streaming.purum.cl/ritoquetv/index.m3u8"
+        "https://streaming.purum.cl/ritoquetv/index.m3u8",
+        "https://v2.tustreaming.cl/unetev/index.m3u8"
       ]
     },
     "languages": [
@@ -2043,7 +2043,7 @@
     "name": "T13",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pu2KU7BKL4w"
+        "https://www.youtube-nocookie.com/embed/oy1dvCRd42s"
       ]
     },
     "languages": [],
@@ -2149,26 +2149,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GaYoXBebrwpYbk",
-    "name": "Tendencias Prime",
-    "sources": {
-      "streams": [
-        "https://v4.tustreaming.cl/tendenciastv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Buf371rRZBbDSG",
     "name": "Tevex",
     "sources": {
       "streams": [
-        "https://v2.tustreaming.cl/tevex/index.m3u8",
-        "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+        "https://v2.tustreaming.cl/tevex/index.m3u8"
       ]
     },
     "languages": [
@@ -2184,20 +2169,6 @@
       "streams": [
         "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
         "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k0nYFEHOKnqOiZ",
-    "name": "TNE",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/tnetv/index.m3u8"
       ]
     },
     "languages": [
@@ -2393,7 +2364,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [
