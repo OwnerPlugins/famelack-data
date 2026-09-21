@@ -127,6 +127,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SHCgFbO79Hh4Z8",
+    "name": "Beats Radio",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vjx9cYbBe3zOX1",
     "name": "Bragado TV",
     "sources": {
@@ -380,6 +394,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j1Mx0NYk5KtzPX",
+    "name": "Canal 4 San Juan",
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5VJcSR2emAtR9y",
     "name": "Canal 4 Teleaire",
     "sources": {
@@ -427,20 +455,6 @@
     "sources": {
       "streams": [
         "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lp6abhRcVXYInw",
-    "name": "Canal 5 TV Chepes",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
       ]
     },
     "languages": [
@@ -566,11 +580,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aoSHf7umzvQAal",
-    "name": "Canal 13 San Luis",
+    "nanoid": "Gu6k19yrwk0QaT",
+    "name": "Canal 13 San Juan",
     "sources": {
-      "streams": [
-        "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/V87IIREDn8g"
       ]
     },
     "languages": [
@@ -672,6 +686,20 @@
     "sources": {
       "streams": [
         "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dsRy8tOTgBsAJD",
+    "name": "Canal 79 Villa Maza",
+    "sources": {
+      "streams": [
+        "https://streamconex.com:19360/villamaza/villamaza.m3u8"
       ]
     },
     "languages": [
@@ -954,7 +982,8 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
       ]
     },
     "languages": [
@@ -1066,7 +1095,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6J2OcwSCE6M"
+        "https://www.youtube-nocookie.com/embed/Zaw4Cvd5zw0"
       ]
     },
     "languages": [
@@ -1080,7 +1109,7 @@
     "name": "El Ocho",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RCXfY3lEAoI"
+        "https://www.youtube-nocookie.com/embed/3KKPmc0mxvk"
       ]
     },
     "languages": [
@@ -1123,6 +1152,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KD0lgc9YPj4"
       ]
     },
     "languages": [
@@ -1584,20 +1627,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I0lf8kcKNHghge",
-    "name": "San Luis +",
-    "sources": {
-      "streams": [
-        "https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z6v7ZVW8wRdbxQ",
     "name": "Senal U",
     "sources": {
@@ -1673,6 +1702,20 @@
     "sources": {
       "streams": [
         "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1910,7 +1953,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jRyGVhJKA8M"
+        "https://www.youtube-nocookie.com/embed/o5MdaTl1Tv4"
       ]
     },
     "languages": [

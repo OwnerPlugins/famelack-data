@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/calimatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "sources": {
@@ -242,20 +228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rbVGB4gc6vGSpJ",
-    "name": "Canal PyC",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KjfXoBdjtuGuIn",
     "name": "Canal Telefamilia",
     "sources": {
@@ -288,7 +260,7 @@
     "name": "Caracol Televisión",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sPXHJdpAT7Q"
+        "https://www.youtube-nocookie.com/embed/HyuGqSkoeJg"
       ]
     },
     "languages": [
@@ -318,6 +290,21 @@
       "streams": [
         "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
         "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5UNNnPvR2HyEJi",
+    "name": "CNC Bugavision",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ]
     },
     "languages": [
@@ -726,6 +713,7 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -797,6 +785,20 @@
     "sources": {
       "streams": [
         "https://us.streaminghd.cl/suramtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
       ]
     },
     "languages": [

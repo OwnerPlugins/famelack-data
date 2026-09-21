@@ -75,7 +75,6 @@
     "name": "Channel 5",
     "sources": {
       "streams": [
-        "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
         "https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8"
       ]
     },
@@ -495,39 +494,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "chmBg2GBFNqXoJ",
-    "name": "Police TV",
-    "sources": {
-      "streams": [
-        "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3GZ46w4Jr2xtDE",
     "name": "Rama Channel",
     "sources": {
       "streams": [
         "https://ramach.ddns.net/live/ramalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IC0ZQA3k7HadtW",
-    "name": "SBB TV",
-    "sources": {
-      "streams": [
-        "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
       ]
     },
     "languages": [

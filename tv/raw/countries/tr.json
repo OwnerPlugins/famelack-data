@@ -207,20 +207,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zzw5XdFQULzoOQ",
-    "name": "Aras TV",
-    "sources": {
-      "streams": [
-        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -254,6 +240,7 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -638,6 +625,20 @@
     "sources": {
       "streams": [
         "https://cdn.ekoturk.net/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/jUu5pmUJwYQ"
       ]
     },
     "languages": [
@@ -1201,37 +1202,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZpyGz1uKyGaQ8R",
-    "name": "Kanal Urfa",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/kanalurfa/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JwNiVAH26fmfiw",
     "name": "Kanal V",
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eSS3Rjhr7Bc3Fu",
-    "name": "Karadeniz TV",
-    "sources": {
-      "streams": [
-        "https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8"
       ]
     },
     "languages": [
@@ -1344,7 +1319,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oNMq9PwC3DY"
+        "https://www.youtube-nocookie.com/embed/SB7JzpJGH2A"
       ]
     },
     "languages": [
@@ -1522,6 +1497,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
     "sources": {
@@ -1548,6 +1537,34 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJj7CtCAurdOs8",
+    "name": "Number 1 TV",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0p72M9hjYW3qLy",
+    "name": "OlayTurk TV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "fEdPdOM5VlxlUw",
@@ -1974,6 +1991,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "owJJC4tX2SQL4u",
     "name": "TRT Haber",
     "sources": {
@@ -1981,7 +2012,7 @@
         "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/eqxFPKDlloo"
+        "https://www.youtube-nocookie.com/embed/GefoJ-LXYfc"
       ]
     },
     "languages": [

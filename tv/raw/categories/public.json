@@ -136,6 +136,9 @@
     "sources": {
       "streams": [
         "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Q74FEqiq1ds"
       ]
     },
     "languages": [
@@ -244,21 +247,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "UwOjLzXnioCc12",
@@ -372,20 +360,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BCqlMDAwIJgW3B",
-    "name": "UAA TV",
-    "sources": {
-      "streams": [
-        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   }
 ]

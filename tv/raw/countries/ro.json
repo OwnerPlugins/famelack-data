@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XZ0ppzFYNKAs79",
-    "name": "Angelus TV",
-    "sources": {
-      "streams": [
-        "https://video.angelustv.ro/hls/angelustv.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oHC9km0oS5V3YT",
     "name": "Antena 1",
     "sources": {
@@ -693,6 +679,20 @@
     "sources": {
       "streams": [
         "https://media.3netmedia.ro/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BEYVH24fbdnqEV",
+    "name": "Radio Romania Antena Satelor 720p",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8"
       ]
     },
     "languages": [

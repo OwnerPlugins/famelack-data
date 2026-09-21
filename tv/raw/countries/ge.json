@@ -98,5 +98,20 @@
     ],
     "country": "ge",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ulKdgYZsOoWr3b",
+    "name": "Palitra News",
+    "sources": {
+      "streams": [
+        "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+        "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
   }
 ]
