@@ -497,7 +497,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/z0x59A5mvv4"
+        "https://www.youtube-nocookie.com/embed/zvqwJgtGqJ0"
       ]
     },
     "languages": [
@@ -553,7 +553,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/C7LB1mV7IYg"
+        "https://www.youtube-nocookie.com/embed/bjVcHfdpx1A"
       ]
     },
     "languages": [
@@ -1067,6 +1067,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tjoXlhaA3QUOnH",
+    "name": "Juntos TV",
+    "sources": {
+      "streams": [
+        "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ho8Vr9RWEm8tw1",
     "name": "La Chilena TV",
     "sources": {
@@ -1268,7 +1282,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/B84Lit1c2fE"
+        "https://www.youtube-nocookie.com/embed/DkQ2Y8vtfoM"
       ]
     },
     "languages": [],
@@ -1374,11 +1388,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pBr1jh0mgnQFNt",
-    "name": "Oli TV",
+    "nanoid": "Z8D0Y4EVxMHZlA",
+    "name": "Odisea TV",
     "sources": {
       "streams": [
-        "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
+        "https://v2.tustreaming.cl/odiseatv/index.m3u8"
       ]
     },
     "languages": [
@@ -1954,11 +1968,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JpwbyeUjUcBKfJ",
-    "name": "RTV Nuble",
+    "nanoid": "7RmFyrjQEfTQLH",
+    "name": "RTC Television",
     "sources": {
       "streams": [
-        "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8"
+        "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1968,11 +1982,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ktEDI2D3vAFfqP",
-    "name": "Sabor TV",
+    "nanoid": "JpwbyeUjUcBKfJ",
+    "name": "RTV Nuble",
     "sources": {
       "streams": [
-        "https://v1.tustreaming.cl/sabortv/index.m3u8"
+        "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8"
       ]
     },
     "languages": [

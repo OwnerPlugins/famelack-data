@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JSGP3ao4TkoM4K",
-    "name": "Alfa Omega TV",
+    "nanoid": "XZ0ppzFYNKAs79",
+    "name": "Angelus TV",
     "sources": {
       "streams": [
-        "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
+        "https://video.angelustv.ro/hls/angelustv.m3u8"
       ]
     },
     "languages": [
@@ -163,20 +163,6 @@
     },
     "languages": [
       "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wq27mSSdEnCXS6",
-    "name": "B1",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8"
-      ]
-    },
-    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -351,20 +337,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWlowLrwkzswqF",
-    "name": "Hunedoara 1",
-    "sources": {
-      "streams": [
-        "https://netstreaming.eu/hd1.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4ghiPmfhBHh5Ly",
     "name": "IasiTV Life",
     "sources": {
@@ -468,6 +440,20 @@
     "sources": {
       "streams": [
         "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LOoaceDLue8eJw",
+    "name": "MediCOOL TV",
+    "sources": {
+      "streams": [
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
       ]
     },
     "languages": [
@@ -903,20 +889,6 @@
     "sources": {
       "streams": [
         "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pZ7DVIEngrRQGF",
-    "name": "TVR Folclor",
-    "sources": {
-      "streams": [
-        "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
       ]
     },
     "languages": [

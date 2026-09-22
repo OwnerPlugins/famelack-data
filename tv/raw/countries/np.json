@@ -14,12 +14,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DfD3tq4WpLgfKH",
-    "name": "Divya Darshan TV",
+    "nanoid": "7g4HH41gB1MWxY",
+    "name": "Capital TV HD",
     "sources": {
       "streams": [
-        "https://live.divyadarshantv.com/hls/0/stream.m3u8",
-        "https://live.divyadarshantv.com/hls/stream.m3u8"
+        "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+        "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
       ]
     },
     "languages": [
@@ -79,6 +79,22 @@
       ]
     },
     "languages": [],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoKJMDHzQaixA6",
+    "name": "TV Today Janakpur",
+    "sources": {
+      "streams": [
+        "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "mai",
+      "nep"
+    ],
     "country": "np",
     "isGeoBlocked": false
   }

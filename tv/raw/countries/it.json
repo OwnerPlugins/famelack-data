@@ -1226,20 +1226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0AeHu53Cy2m0HP",
-    "name": "Radio Capital TiVu",
-    "sources": {
-      "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sF8X6IMP7gtNjw",
     "name": "Radio Ibiza TV",
     "sources": {
@@ -1502,6 +1488,20 @@
     },
     "languages": [
       "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4XypCIgUkqx4tL",
+    "name": "Rakuten TV Action Movies Italy",
+    "sources": {
+      "streams": [
+        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1837,7 +1837,6 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -2333,6 +2332,20 @@
     "sources": {
       "streams": [
         "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kVRqkfw56FIDW8",
+    "name": "TV Yes Italia",
+    "sources": {
+      "streams": [
+        "https://stream1.aswifi.it/radioyes/live/index.m3u8"
       ]
     },
     "languages": [
