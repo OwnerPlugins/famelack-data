@@ -104,20 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v8Zzxjpx6SD9DW",
-    "name": "ATG Live",
-    "sources": {
-      "streams": [
-        "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L4rlrnY8qxe1Zl",
     "name": "Azteca Deportes Network",
     "sources": {
@@ -458,7 +444,6 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
@@ -639,6 +624,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -1173,20 +1172,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A7KiTJBJvkHgIp",
-    "name": "Prime",
-    "sources": {
-      "streams": [
-        "https://mn-nl.mncdn.com/primetv/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RlDh4IHVR4WpZw",
     "name": "QazSport",
     "sources": {
@@ -1510,6 +1495,7 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -1552,6 +1538,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1769,7 +1756,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1799,9 +1787,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/cDS5i9lzoG8"
       ]
     },
     "languages": [

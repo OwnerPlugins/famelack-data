@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -483,20 +497,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/o_tSDppNq2U"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "sources": {
@@ -760,20 +760,6 @@
     },
     "languages": [
       "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fZI48V3oPHwUhn",
-    "name": "W Polsce PL",
-    "sources": {
-      "streams": [
-        "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
-      ]
-    },
-    "languages": [
       "pol"
     ],
     "country": "pl",

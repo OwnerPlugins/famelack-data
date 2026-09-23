@@ -32,7 +32,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xmyBi86i9TU"
+        "https://www.youtube-nocookie.com/embed/YpUaNRo-Ppo"
       ]
     },
     "languages": [
@@ -116,6 +116,7 @@
     "name": "Aik News",
     "sources": {
       "streams": [
+        "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
         "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
       ]
     },
@@ -134,6 +135,20 @@
       ]
     },
     "languages": [],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "snzVRw31EQRlDo",
+    "name": "ARY News",
+    "sources": {
+      "streams": [
+        "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -227,7 +242,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/o5gbTfDqmtY"
+        "https://www.youtube-nocookie.com/embed/z-BS0kjzd9U"
       ]
     },
     "languages": [
@@ -241,7 +256,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8566QuOXeDo"
+        "https://www.youtube-nocookie.com/embed/ZZHr_BfvTds"
       ]
     },
     "languages": [
@@ -256,7 +271,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LXjtWkqaY20"
+        "https://www.youtube-nocookie.com/embed/y2XWKiPC53k"
       ]
     },
     "languages": [
@@ -368,20 +383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IGkGdoXwnCTsO2",
-    "name": "God Stands Kids Club TV Arabic",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X2mzfNA1EyPeME",
     "name": "God Stands Kids Club TV Chinese",
     "sources": {
@@ -391,20 +392,6 @@
     },
     "languages": [
       "zho"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "97TDYmlPdbsepe",
-    "name": "God Stands Kids Club TV English",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -438,20 +425,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NcmIJl0QEk2Pmg",
-    "name": "God Stands TV Chinese",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GzFin24wHyjwSS",
     "name": "God Stands TV English",
     "sources": {
@@ -461,20 +434,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v05zRUt0wtjOm3",
-    "name": "God Stands TV Hindi",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -504,20 +463,6 @@
     },
     "languages": [
       "pan"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5jBZcISN5C325C",
-    "name": "God Stands TV Tagalog",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -984,20 +929,6 @@
     },
     "languages": [
       "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/xTsTuoCetgQ"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

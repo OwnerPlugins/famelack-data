@@ -654,7 +654,8 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },
     "languages": [
@@ -1100,6 +1101,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TGxMGkMiPXHlY0",
+    "name": "Rio TV Câmara",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1GKyawe74eI"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "sources": {
@@ -1120,6 +1135,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
         "https://cdn.pishow.tv/ott/live/39/master.m3u8"
       ]
     },
@@ -1235,7 +1251,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fXSqnPZ_bzA"
+        "https://www.youtube-nocookie.com/embed/Nra05vPf748"
       ]
     },
     "languages": [

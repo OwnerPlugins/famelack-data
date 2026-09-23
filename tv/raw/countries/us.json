@@ -435,9 +435,7 @@
         "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2040,8 +2038,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -2099,18 +2096,6 @@
     "languages": [
       "eng"
     ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C15FbEBL29pkFn",
-    "name": "Barney and Friends",
-    "sources": {
-      "streams": [
-        "https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2593,8 +2578,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3456,7 +3441,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rYoTgtL-0ng"
+        "https://www.youtube-nocookie.com/embed/gV9un1-Oh8I"
       ]
     },
     "languages": [
@@ -3706,7 +3691,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3XYCdnyJl74"
+        "https://www.youtube-nocookie.com/embed/kGK14-tHlSQ"
       ]
     },
     "languages": [
@@ -6444,9 +6429,7 @@
         "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -8366,21 +8349,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qp46ccpG1UGKBD",
-    "name": "KIIO-LD 10.4",
-    "sources": {
-      "streams": [
-        "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hye"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -10330,6 +10298,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -10606,9 +10575,7 @@
         "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10759,9 +10726,7 @@
         "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10845,7 +10810,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IbAPXnhW1Ts"
+        "https://www.youtube-nocookie.com/embed/A18oQde3UHc"
       ]
     },
     "languages": [
@@ -11006,20 +10971,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EmHOTWEORpvSsZ",
-    "name": "News12 Brooklyn",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "EtiKHivASIxm20",
     "name": "News12 Conneticut",
     "sources": {
@@ -11090,20 +11041,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q8agflF5shjdE5",
-    "name": "News12 Westchester",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "jLGAHvaIG3O3uP",
     "name": "Newsmax",
     "sources": {
@@ -11123,8 +11060,8 @@
     "sources": {
       "streams": [
         "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
-        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
-        "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+        "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11417,8 +11354,8 @@
     "name": "NRBTV",
     "sources": {
       "streams": [
-        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811",
-        "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+        "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
       ]
     },
     "languages": [
@@ -12148,9 +12085,7 @@
         "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -13515,6 +13450,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PwRDd0k3bMFcHM",
+    "name": "Science Channel",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zrxsGyAHbuw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uv4HAAH56A9NyT",
     "name": "Scientology Network",
     "sources": {
@@ -14279,6 +14228,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -15025,7 +14975,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -16868,7 +16819,7 @@
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mYIAEQZXdis"
+        "https://www.youtube-nocookie.com/embed/jhRfqWG6m74"
       ]
     },
     "languages": [
