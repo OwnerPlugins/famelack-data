@@ -112,20 +112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9UqseJeoJNwuVC",
-    "name": "Antena Monden",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uXqlv34zzBQ5z0",
     "name": "Antena Stars",
     "sources": {
@@ -342,6 +328,20 @@
     "sources": {
       "streams": [
         "https://s2.netstreaming.eu/hd365.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mHg6rpXR6VaVXj",
+    "name": "Hello Taste",
+    "sources": {
+      "streams": [
+        "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
       ]
     },
     "languages": [
@@ -804,7 +804,7 @@
     "name": "TRINITAS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9czLiKCZ21Y"
+        "https://www.youtube-nocookie.com/embed/gBveUPzZkuU"
       ]
     },
     "languages": [
@@ -889,34 +889,6 @@
     "sources": {
       "streams": [
         "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AgdBh1G6zjQQ1P",
-    "name": "TVR Cultural",
-    "sources": {
-      "streams": [
-        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pZ7DVIEngrRQGF",
-    "name": "TVR Folclor",
-    "sources": {
-      "streams": [
-        "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
       ]
     },
     "languages": [

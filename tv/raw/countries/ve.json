@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
-    "sources": {
-      "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6SYW2B8xTfiTLL",
     "name": "Catatumbo TV",
     "sources": {
@@ -174,6 +160,20 @@
     "sources": {
       "streams": [
         "https://stream.guarotv.net:3592/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L2vaUyfehZpjxw",
+    "name": "Inter TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -267,20 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kE8N5CkT9Xc9Iu",
-    "name": "Nortena Tv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -352,11 +338,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8UCD3Qx8hCNOEd",
+    "name": "Siembra TV",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hf8hQXiCJxWSk6",
     "name": "Somos TV",
     "sources": {
       "streams": [
         "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
       ]
     },
     "languages": [

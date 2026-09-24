@@ -552,20 +552,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DnG5YZJuTNo"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -1916,7 +1902,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
+        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2043,14 +2029,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
+    "nanoid": "c4Swg0nm0Rjn8G",
+    "name": "Rakuten TV Action Movies UK",
     "sources": {
       "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2060,6 +2048,18 @@
     "sources": {
       "streams": [
         "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -2652,20 +2652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BzEkhaJoomu7sR",
-    "name": "TV Warehouse",
-    "sources": {
-      "streams": [
-        "https://tvwarehouse.r.worldssl.net/mystream.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HftRDDm7Hb6ciM",
     "name": "U&Laughs",
     "sources": {
@@ -2906,7 +2892,7 @@
     "name": "WildBrain: Teletubbies",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/h7CV2gNxU-8"
+        "https://www.youtube-nocookie.com/embed/e9qoDmjvesY"
       ]
     },
     "languages": [
@@ -2950,6 +2936,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

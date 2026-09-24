@@ -6,9 +6,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-zSaswVrQ_M"
       ]
     },
     "languages": [
@@ -104,6 +101,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v8Zzxjpx6SD9DW",
+    "name": "ATG Live",
+    "sources": {
+      "streams": [
+        "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L4rlrnY8qxe1Zl",
     "name": "Azteca Deportes Network",
     "sources": {
@@ -164,7 +175,6 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
     },
@@ -826,20 +836,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GVTfU86YlWYBhq",
-    "name": "Lazio Style Channel",
-    "sources": {
-      "streams": [
-        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hQwO2hX6QgN3n6",
     "name": "M Sports",
     "sources": {
@@ -988,8 +984,7 @@
     "sources": {
       "streams": [
         "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
-        "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
-        "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+        "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8"
       ]
     },
     "languages": [
@@ -1404,6 +1399,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XkYvBK3s0q2AZ3",
+    "name": "Setanta Sports 1",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kWdBvQFz5aue5n",
     "name": "Sky Racing 1",
     "sources": {
@@ -1495,7 +1504,6 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -1787,6 +1795,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/YKWBwIVGaEk"
       ]
     },
     "languages": [
@@ -1866,20 +1877,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -2050,6 +2047,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "so5fgKy39odQZy",
+    "name": "VSBet HD",
+    "sources": {
+      "streams": [
+        "https://live05.meung.app/live/16226575.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
