@@ -103,8 +103,8 @@
     "name": "Antyradio Hard",
     "sources": {
       "streams": [
-        "https://an01.cdn.eurozet.pl/ANTHAR.mp3",
-        "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
+        "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
+        "https://an01.cdn.eurozet.pl/ANTHAR.mp3"
       ]
     },
     "languages": [
@@ -267,9 +267,9 @@
     "name": "Cmp3.eu",
     "sources": {
       "streams": [
-        "https://s.radiocmp3.eu/edm256",
+        "https://s.radiocmp3.eu/stream256",
         "https://s.radiocmp3.eu/djset256",
-        "https://s.radiocmp3.eu/stream256"
+        "https://s.radiocmp3.eu/edm256"
       ]
     },
     "languages": [
@@ -583,9 +583,9 @@
     "name": "Lem.fm",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/2fa0gbhr9bhvv",
+        "https://n0c.radiojar.com/2fa0gbhr9bhvv",
         "https://n08.radiojar.com/2fa0gbhr9bhvv",
-        "https://n0c.radiojar.com/2fa0gbhr9bhvv"
+        "https://stream.radiojar.com/2fa0gbhr9bhvv"
       ]
     },
     "languages": [
@@ -978,8 +978,8 @@
     "name": "Planeta FM",
     "sources": {
       "streams": [
-        "https://pa02.cdn.eurozet.pl/pla-net.mp3",
-        "https://pl01.cdn.eurozet.pl/pla-net.mp3"
+        "https://pl01.cdn.eurozet.pl/pla-net.mp3",
+        "https://pa02.cdn.eurozet.pl/pla-net.mp3"
       ]
     },
     "languages": [
@@ -1152,8 +1152,8 @@
     "name": "Radio 7",
     "sources": {
       "streams": [
-        "https://stream.radio7.pl/radio7.mp3",
-        "https://stream.radio7.pl/;"
+        "https://stream.radio7.pl/;",
+        "https://stream.radio7.pl/radio7.mp3"
       ]
     },
     "languages": [
@@ -1192,9 +1192,9 @@
     "name": "Radio 357",
     "sources": {
       "streams": [
-        "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
-        "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
-        "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
+        "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+        "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
+        "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8"
       ]
     },
     "languages": [
@@ -1304,8 +1304,8 @@
     "name": "Radio Bezpieczna Podróż",
     "sources": {
       "streams": [
-        "https://ssl-1.radiohost.pl:9344/live",
-        "https://ssl-1.radiohost.pl:9162/stream"
+        "https://ssl-1.radiohost.pl:9162/stream",
+        "https://ssl-1.radiohost.pl:9344/live"
       ]
     },
     "languages": [
@@ -1721,106 +1721,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "flbqgKZszyZX2G",
-    "name": "Radio Eska Gorąca 20",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/timeradio-p/6130-1.aac/playlist.m3u8",
-        "https://radio.stream.smcdn.pl/timeradio-p/6190-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fMmTgm7kVqY9gA",
-    "name": "Radio Eska Gorzów",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/timeradio-p/2040-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "a9LJtwLObjuYgP",
-    "name": "Radio Eska Grudziądz",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/timeradio-p/2450-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IyWQeyDiJtskBw",
-    "name": "Radio Eska Iława",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/icradio-p/2440-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DbWuhVFXHUrP8I",
-    "name": "Radio Eska Impreska",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/timeradio-p/6030-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hMr45JSxrZPpfK",
-    "name": "Radio Eska Kielce",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/timeradio-p/2050-2.aac/playlist.m3u8",
-        "https://radio.stream.smcdn.pl/timeradio-p/2050-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ULxd7WxgYD6B5Z",
-    "name": "Radio Eska Koszalin",
-    "sources": {
-      "streams": [
-        "https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X48BOewvrAIDrR",
     "name": "Radio Eska Kraków",
     "stream_urls": [
@@ -1909,8 +1809,7 @@
     "sources": {
       "streams": [
         "https://ic2.smcdn.pl/5380-1.mp3",
-        "https://n01-us.rcs.revma.com/1nnezw8qz7zuv",
-        "https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8"
+        "https://n08-us.rcs.revma.com/1nnezw8qz7zuv"
       ]
     },
     "languages": [
@@ -1934,8 +1833,7 @@
     "name": "Radio Eska Starachowice",
     "sources": {
       "streams": [
-        "https://ic1.smcdn.pl/2400-1.mp3",
-        "https://radio.stream.smcdn.pl/timeradio-p/2400-1.aac/playlist.m3u8"
+        "https://ic1.smcdn.pl/2400-1.mp3"
       ]
     },
     "languages": [
@@ -1983,9 +1881,7 @@
     "name": "Radio Eska Wrocław",
     "sources": {
       "streams": [
-        "https://ic2.smcdn.pl/2180-1.mp3",
-        "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8",
-        "https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8"
+        "https://ic2.smcdn.pl/2180-1.mp3"
       ]
     },
     "languages": [
@@ -2379,6 +2275,20 @@
     ]
   },
   {
+    "nanoid": "QcJQYQb2cBOHdg",
+    "name": "Radio KECh Nowogard",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7016/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DEvWuYFLVW7zcj",
     "name": "Radio Kolor 103 FM",
     "sources": {
@@ -2419,8 +2329,8 @@
     "name": "Radio Kuropatwa",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/ypspphhxfm8uv",
-        "https://n10.radiojar.com/ypspphhxfm8uv"
+        "https://n10.radiojar.com/ypspphhxfm8uv",
+        "https://stream.radiojar.com/ypspphhxfm8uv"
       ]
     },
     "languages": [
@@ -2715,20 +2625,6 @@
       "deu",
       "pol"
     ]
-  },
-  {
-    "nanoid": "Il4zmM82Mkt0Ip",
-    "name": "Radio MIX",
-    "sources": {
-      "streams": [
-        "https://radiozender.mpbnetwerken.nl/radiomix.mp3"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wM0cuEtYJv4Q14",
@@ -3075,8 +2971,8 @@
     "name": "Radio Plus Gdańsk",
     "sources": {
       "streams": [
-        "https://pl04.cdn.eurozet.pl/plu-gdn.mp3",
-        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3"
+        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
+        "https://pl04.cdn.eurozet.pl/plu-gdn.mp3"
       ]
     },
     "languages": [
@@ -3566,6 +3462,20 @@
     "languages": [
       "pol"
     ]
+  },
+  {
+    "nanoid": "zORdIzdjyjD2zS",
+    "name": "Radio Tango Uno",
+    "sources": {
+      "streams": [
+        "https://radiotangouno-online.pl/radio/8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8CtFdXXe9o0xao",
@@ -4087,16 +3997,45 @@
     ]
   },
   {
+    "nanoid": "2X2ONFqcxoikqO",
+    "name": "Radioparty.pl - DJ Mixes",
+    "sources": {
+      "streams": [
+        "https://djmixes.radioparty.pl:8035/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "84LEIbvoGZORq9",
     "name": "Radioparty.pl - Energy 2000",
     "sources": {
       "streams": [
+        "https://energy2000.radioparty.pl:8005/",
         "https://s2.radioparty.pl:8040/energy2000"
       ]
     },
     "languages": [
       "pol"
     ]
+  },
+  {
+    "nanoid": "3yMqCUCA9ZxZWT",
+    "name": "Radioparty.pl - House",
+    "sources": {
+      "streams": [
+        "https://house.radioparty.pl:8010/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zHzA7Y8tDB1v3f",
@@ -4115,7 +4054,8 @@
     "name": "Radioparty.pl - Trance",
     "sources": {
       "streams": [
-        "https://s2.radioparty.pl:8020/"
+        "https://s2.radioparty.pl:8020/",
+        "https://trance.radioparty.pl:8015/"
       ]
     },
     "languages": [
@@ -5265,7 +5205,6 @@
     "name": "Rock Radio",
     "sources": {
       "streams": [
-        "https://25633.live.streamtheworld.com/RADIO_ROCK.mp3",
         "https://radiostream.pl/tuba8-1.mp3"
       ]
     },
@@ -5582,9 +5521,7 @@
     "name": "VOX FM",
     "sources": {
       "streams": [
-        "https://ic2.smcdn.pl/3990-1.mp3",
-        "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8",
-        "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8"
+        "https://ic2.smcdn.pl/3990-1.mp3"
       ]
     },
     "languages": [

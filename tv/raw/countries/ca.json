@@ -507,7 +507,7 @@
     "name": "Garfield & Friends",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Di0YCcX0fi0"
+        "https://www.youtube-nocookie.com/embed/G51GABh5cfw"
       ]
     },
     "languages": [
@@ -672,6 +672,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "YEdrOCcoQa6dKG",
+    "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "nHDxIofgkugzZk",
+    "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -1683,10 +1711,13 @@
     "name": "Stingray TikTok Radio",
     "sources": {
       "streams": [
+        "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
         "https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },

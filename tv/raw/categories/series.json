@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aPpjoxS7Oyu4bM",
-    "name": "AWTV",
-    "sources": {
-      "streams": [
-        "https://awtv.nuvemplay.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "o0UvEWQ7gtWbCm",
     "name": "Baywatch",
     "stream_urls": [
@@ -224,6 +210,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -664,7 +664,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BAoOBh-6dSw"
+        "https://www.youtube-nocookie.com/embed/KsYy5qOJVhs"
       ]
     },
     "languages": [
@@ -871,7 +871,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vosJ1MimmKjovt",
@@ -1052,7 +1052,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "i5p0X5SsyFECKS",
@@ -1208,17 +1208,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EbXO2Dhy1HZFOu",
+    "nanoid": "SCBLYe0CLSFVgw",
     "name": "Z Nation",
     "sources": {
       "streams": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
       ]
     },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
+    "languages": [],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

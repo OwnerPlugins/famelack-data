@@ -19,9 +19,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9pGruMw_21g"
       ]
     },
     "languages": [
@@ -65,9 +62,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-zSaswVrQ_M"
       ]
     },
     "languages": [
@@ -302,11 +296,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
+    "nanoid": "GQEjero7WWkJqT",
+    "name": "Bloomberg HT",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
+        "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
       ]
     },
     "languages": [
@@ -491,6 +485,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GcJmEq9rilBOie",
+    "name": "Deniz Postasi TV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1OlKTVorbB1nZr",
     "name": "Diyanet TV",
     "stream_urls": [
@@ -576,7 +584,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7n0Qs8iAi1c"
+        "https://www.youtube-nocookie.com/embed/jUu5pmUJwYQ"
       ]
     },
     "languages": [
@@ -625,6 +633,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJHn2TfHunPgwd",
+    "name": "ERTV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "WHkVQZYPgkweaG",
@@ -1623,7 +1645,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/B8TLLwCojuM"
+        "https://www.youtube-nocookie.com/embed/SB7JzpJGH2A"
       ]
     },
     "languages": [
@@ -1801,6 +1823,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qe2ak6SCt98R2p",
     "name": "Number 1 Damar",
     "sources": {
@@ -1820,6 +1856,20 @@
     "sources": {
       "streams": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJj7CtCAurdOs8",
+    "name": "Number 1 TV",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2093,20 +2143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5GoagSnDbPwxmH",
-    "name": "Tele 1",
-    "sources": {
-      "streams": [
-        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rqkOBR323x5UjG",
     "name": "Tempo TV",
     "sources": {
@@ -2155,7 +2191,7 @@
         "https://tjktv-live.tjk.org/tjktv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4W0sslaHyfw"
+        "https://www.youtube-nocookie.com/embed/YKWBwIVGaEk"
       ]
     },
     "languages": [

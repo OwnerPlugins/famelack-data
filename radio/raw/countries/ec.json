@@ -103,8 +103,8 @@
     "name": "Contigo FM",
     "sources": {
       "streams": [
-        "https://panel.innovatestream.pe:10852/stream",
-        "https://panel.innovatestream.pe:10852/;"
+        "https://panel.innovatestream.pe:10852/;",
+        "https://panel.innovatestream.pe:10852/stream"
       ]
     },
     "languages": [
@@ -491,8 +491,7 @@
     "name": "La Voz del Tomebamba",
     "sources": {
       "streams": [
-        "https://streamingecuador.com:8074/lavozdeltomebamba",
-        "https://streamingecuador.net:8074/lavozdeltomebamba"
+        "https://streamingecuador.com:8074/lavozdeltomebamba"
       ]
     },
     "languages": [
@@ -664,7 +663,6 @@
     "name": "Radio 11Q",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8012/radio11q",
         "https://streamingecuador.net:8012/stream"
       ]
     },
@@ -798,9 +796,9 @@
     "name": "Radio Canela",
     "sources": {
       "streams": [
-        "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
         "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
-        "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
+        "https://canelaradio.makrodigital.com/stream/canelaradioibarra",
+        "https://canelaradio.makrodigital.com/stream/canelaradiomacas"
       ]
     },
     "languages": [
@@ -1017,7 +1015,6 @@
     "name": "Radio Naval",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8029/Radio_Naval",
         "https://streamingecuador.net:8029/radionaval"
       ]
     },
@@ -1446,6 +1443,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "UEY5i4lwWaslqy",
+    "name": "Tambo FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/uqwrvvpvhm0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ie2MXnXRjmyTPU",

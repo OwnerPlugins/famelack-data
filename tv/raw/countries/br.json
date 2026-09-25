@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aPpjoxS7Oyu4bM",
-    "name": "AWTV",
-    "sources": {
-      "streams": [
-        "https://awtv.nuvemplay.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "DWCfWX1a4zLh6X",
     "name": "Band",
     "sources": {
@@ -146,6 +132,20 @@
       "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bKmPdhZgXyjLSL",
+    "name": "BR8 TV",
+    "sources": {
+      "streams": [
+        "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -599,11 +599,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VvHhOWwHL2G6fH",
+    "name": "NickToons Brasil",
+    "sources": {
+      "streams": [
+        "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kuBm514WWhIzx5",
     "name": "NTV",
     "sources": {
       "streams": [
         "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TTOE5JAF2dsOwo",
+    "name": "O Dia TV",
+    "sources": {
+      "streams": [
+        "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1016,8 +1058,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pqj11LkViqg7gn",
-    "name": "SBT RIBEIRÃO PRETO",
+    "nanoid": "wQwzJWldq22ymG",
+    "name": "SIC TV",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/BLEoN63nOjg"
@@ -1409,7 +1451,21 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/x5L0M9MNz9A"
+        "https://www.youtube-nocookie.com/embed/2YkDyIWwgt4"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QrY7bSr5CSX6dm",
+    "name": "TV Assembleia Piaui",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1533,6 +1589,7 @@
     "name": "TV Cultura",
     "sources": {
       "streams": [
+        "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
         "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8"
       ]
     },
@@ -1723,20 +1780,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1D59YMlkgspAYG",
-    "name": "TV Mundo Maior",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CfzHGtF5Enw"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UyGsvptczRmJRz",
     "name": "TV Nordestina",
     "stream_urls": [],
@@ -1825,20 +1868,6 @@
     "sources": {
       "streams": [
         "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w2GfVNVMjp9Up3",
-    "name": "TV Petropolis",
-    "sources": {
-      "streams": [
-        "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2140,20 +2169,6 @@
     "sources": {
       "streams": [
         "https://umatv.nuvemplay.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UeLUueVRqvHR1",
-    "name": "Unisul TV",
-    "sources": {
-      "streams": [
-        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
       ]
     },
     "languages": [

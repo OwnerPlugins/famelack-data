@@ -40,7 +40,7 @@
     "name": "987FM",
     "sources": {
       "streams": [
-        "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+        "https://14033.live.streamtheworld.com/987FM_SC"
       ]
     },
     "languages": [
@@ -101,9 +101,9 @@
     "name": "CNA938",
     "sources": {
       "streams": [
-        "https://22903.live.streamtheworld.com/938NOW_PREM_SC",
-        "https://28333.live.streamtheworld.com/938NOW_PREM_SC",
-        "https://28373.live.streamtheworld.com/938NOW_PREM_SC"
+        "https://22393.live.streamtheworld.com/938NOW_PREM_SC",
+        "https://28313.live.streamtheworld.com/938NOW_PREM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac"
       ]
     },
     "languages": [
@@ -123,6 +123,20 @@
     ]
   },
   {
+    "nanoid": "CxqUrsIz2Tru1A",
+    "name": "indiego",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cKsDwmsayH0ZmW",
     "name": "Kiss92",
     "stream_urls": [
@@ -135,11 +149,12 @@
     ]
   },
   {
-    "nanoid": "cwpKXtlLBvDeZj",
-    "name": "Love 972",
+    "nanoid": "vmTnRt2nmMsVSM",
+    "name": "Money FM 89.3",
     "sources": {
       "streams": [
-        "https://22903.live.streamtheworld.com/LOVE972FMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
+        "https://22243.live.streamtheworld.com/MONEY_893AAC.aac"
       ]
     },
     "languages": [
@@ -147,12 +162,12 @@
     ]
   },
   {
-    "nanoid": "vmTnRt2nmMsVSM",
-    "name": "Money FM 89.3",
+    "nanoid": "H10XVLFs9jdJuQ",
+    "name": "Oli 968",
     "sources": {
       "streams": [
-        "https://22243.live.streamtheworld.com/MONEY_893AAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac"
       ]
     },
     "languages": [
@@ -166,7 +181,7 @@
       "streams": [
         "https://27223.live.streamtheworld.com/ONE_FM_913AAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC",
-        "https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC"
+        "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC"
       ]
     },
     "languages": [
@@ -204,8 +219,8 @@
     "name": "UFM 100.3",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
-        "https://28093.live.streamtheworld.com/UFM_1003AAC.aac"
+        "https://28093.live.streamtheworld.com/UFM_1003AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac"
       ]
     },
     "languages": [

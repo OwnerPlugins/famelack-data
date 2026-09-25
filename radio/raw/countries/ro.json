@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "6aUyURebwajtxR",
+    "name": "90s Energy",
+    "sources": {
+      "streams": [
+        "https://s11.ssl-stream.com/ssl/90s_energy"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v6oXigOy9GNReL",
     "name": "149FM",
     "sources": {
@@ -30,8 +44,8 @@
     "name": "Ade FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/rshamge8mgntv",
-        "https://stream.zeno.fm/nqjp3rems2rvv"
+        "https://stream.zeno.fm/nqjp3rems2rvv",
+        "https://stream.zeno.fm/rshamge8mgntv"
       ]
     },
     "languages": [
@@ -1099,9 +1113,9 @@
     "name": "Play Radio",
     "sources": {
       "streams": [
-        "https://live.playradio.org:8443/90HD",
+        "https://live.playradio.org:8443/FMHD",
         "https://live.playradio.org:9090/FMHD",
-        "https://live.playradio.org:8443/FMHD"
+        "https://live.playradio.org:8443/90HD"
       ]
     },
     "languages": [
@@ -1606,6 +1620,20 @@
     ]
   },
   {
+    "nanoid": "vVJiyi1b88tcTS",
+    "name": "Radio Dada 106.6 FM",
+    "sources": {
+      "streams": [
+        "https://live.laris.ro:8004/radiodada128.mp3"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q8EY3szz5WvM3N",
     "name": "Radio Deea",
     "sources": {
@@ -1820,6 +1848,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "tKDSQ8sg7g7sEf",
+    "name": "Rádió GaGa Háromszék",
+    "sources": {
+      "streams": [
+        "https://a3.my-control-panel.com:6670/radio.mp3"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uj1A3vyaoA8m2e",
@@ -2230,8 +2272,8 @@
     "name": "Radio Noise",
     "sources": {
       "streams": [
-        "https://live.radionoise.ro:9100/;",
-        "https://live.radionoise.ro:9100/stream"
+        "https://live.radionoise.ro:9100/stream",
+        "https://live.radionoise.ro:9100/;"
       ]
     },
     "languages": [
@@ -2578,8 +2620,8 @@
     "name": "Radio Stil Mix Manele",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/zt84vax7ptzuv",
-        "https://stream.zeno.fm/87sktrysmuqtv"
+        "https://stream.zeno.fm/87sktrysmuqtv",
+        "https://stream.zeno.fm/zt84vax7ptzuv"
       ]
     },
     "languages": [

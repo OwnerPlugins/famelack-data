@@ -175,6 +175,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tTG58hk1OTBxmu",
+    "name": "Khuzama Radio",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hpGJqvlTUw1RIB",
     "name": "Maura Radio",
     "sources": {
@@ -294,7 +308,8 @@
     "name": "Radio Asharq with Bloomberg",
     "sources": {
       "streams": [
-        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+        "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8"
       ]
     },
     "languages": [
@@ -331,7 +346,8 @@
     "name": "Riyadh Radio 91.5 FM",
     "sources": {
       "streams": [
-        "https://stream-154.zeno.fm/pdeizhgrtrstv"
+        "https://stream-154.zeno.fm/pdeizhgrtrstv",
+        "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8"
       ]
     },
     "languages": [
@@ -348,6 +364,21 @@
     },
     "languages": [
       "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xpMyBdzqavvpnp",
+    "name": "Saudia Radio 87.7 FM",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
     ],
     "country": "sa",
     "isGeoBlocked": false

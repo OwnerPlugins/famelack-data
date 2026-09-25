@@ -659,6 +659,21 @@
     ]
   },
   {
+    "nanoid": "XNn9UxURB3RQ1Y",
+    "name": "Darksynth Radio",
+    "sources": {
+      "streams": [
+        "https://darksynthradio.stream.laut.fm/darksynthradio"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pQnfrt6bFjDbPO",
     "name": "DrumandBass.FM",
     "sources": {
@@ -798,8 +813,8 @@
     "name": "I Love Deutschrap First",
     "sources": {
       "streams": [
-        "https://streams.ilovemusic.de/iloveradio104.mp3",
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst",
+        "https://streams.ilovemusic.de/iloveradio104.mp3"
       ]
     },
     "languages": [
@@ -1075,8 +1090,8 @@
     "name": "LoungeFM",
     "sources": {
       "streams": [
-        "https://s35.derstream.net/digital.mp3",
-        "https://s35.derstream.net/100austria.mp3"
+        "https://s35.derstream.net/100austria.mp3",
+        "https://s35.derstream.net/digital.mp3"
       ]
     },
     "languages": [
@@ -1524,7 +1539,8 @@
     "name": "Radio Arabella Hot",
     "sources": {
       "streams": [
-        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
+        "https://edge12.streams.arabella.at/arabella-hot"
       ]
     },
     "languages": [
@@ -1538,8 +1554,8 @@
     "name": "Radio Arabella Lovesongs",
     "sources": {
       "streams": [
-        "https://edge69.streams.arabella.at/arabella-lovesongs",
-        "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
+        "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
+        "https://edge69.streams.arabella.at/arabella-lovesongs"
       ]
     },
     "languages": [
@@ -2087,7 +2103,7 @@
     "sources": {
       "streams": [
         "https://live.u1-radio.at/",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
         "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },

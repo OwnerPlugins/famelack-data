@@ -1,5 +1,48 @@
 [
   {
+    "nanoid": "DrsEF8tv39HHeY",
+    "name": "Avtoradio",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PsZ39JP25LAMon",
+    "name": "GPB Radio 1",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uYenrtmRlQOzA2",
+    "name": "GPB Radio 2",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RT3CrgfS8nFMwC",
     "name": "LF Radio",
     "sources": {

@@ -15,8 +15,8 @@
     "name": "ADN Radio",
     "sources": {
       "streams": [
-        "https://27413.live.streamtheworld.com/ADNAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac",
+        "https://27413.live.streamtheworld.com/ADNAAC.aac"
       ]
     },
     "languages": [
@@ -401,8 +401,8 @@
     "sources": {
       "streams": [
         "https://23243.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://24413.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://27433.live.streamtheworld.com/FMDOSAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC",
+        "https://26573.live.streamtheworld.com/FMDOSAAC_SC"
       ]
     },
     "languages": [
@@ -597,8 +597,8 @@
     "name": "Radio 24/7 Chile",
     "sources": {
       "streams": [
-        "https://broadcast.radio247.net/radio/8000/;",
-        "https://broadcast.radio247.net/listen/live/radio.mp3"
+        "https://broadcast.radio247.net/listen/live/radio.mp3",
+        "https://broadcast.radio247.net/radio/8000/;"
       ]
     },
     "languages": [
@@ -809,9 +809,9 @@
     "name": "Radio Bío-Bío",
     "sources": {
       "streams": [
+        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
         "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
-        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio",
-        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio"
+        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio"
       ]
     },
     "languages": [
@@ -1316,9 +1316,9 @@
     "name": "Radio Dulce",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/yo6udiulqhbvv",
-        "https://stream.zeno.fm/bx6zuwssrnjvv",
-        "https://stream.zeno.fm/dzvavezs85ouv"
+        "https://stream.zeno.fm/dzvavezs85ouv",
+        "https://stream.zeno.fm/3yv0enxnp7zuv",
+        "https://stream.zeno.fm/kc5hofr05tavv"
       ]
     },
     "languages": [
@@ -1724,20 +1724,6 @@
     ]
   },
   {
-    "nanoid": "jUiBe2kpHb4pUc",
-    "name": "Radio Lafken Mawida",
-    "sources": {
-      "streams": [
-        "https://radio.latina.red/lafkenmawida.mp3"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K5o8numdMZ6Lvw",
     "name": "Radio Las Nieves",
     "sources": {
@@ -1952,6 +1938,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "RX1VXMZgbMfRUT",
+    "name": "Radio Picados",
+    "sources": {
+      "streams": [
+        "https://stream.picados.beer/radio/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "gKg8nI27AgwoYF",
@@ -2202,20 +2202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bmbFT4laSRnAeT",
-    "name": "Radio Sol Latina",
-    "sources": {
-      "streams": [
-        "https://us9.maindigitalstream.com/ssl/7435"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wC1ghIzIzks5If",
     "name": "Radio Sunrise Lounge",
     "sources": {
@@ -2250,6 +2236,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "Ywg6zdZlawG2rs",
+    "name": "Radio Tiempo Salvador",
+    "sources": {
+      "streams": [
+        "https://cast235.indax.cl/8024/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CMdulH9uBgJoo3",
@@ -2403,9 +2403,9 @@
     "name": "RadioActiva",
     "sources": {
       "streams": [
-        "https://23243.live.streamtheworld.com/ACTIVA_SC",
-        "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3",
-        "https://stream.zeno.fm/pvs6hqz3crtvv"
+        "https://stream.zeno.fm/pvs6hqz3crtvv",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC",
+        "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3"
       ]
     },
     "languages": [
@@ -2560,20 +2560,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "H8McFOoWf6jOIJ",
-    "name": "Trending Radio",
-    "sources": {
-      "streams": [
-        "https://cast6.my-control-panel.com/proxy/trending/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "ODe1zq4W3ePvp5",

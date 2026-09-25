@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "ieSH1Df6dmiPew",
+    "name": "Channel 13",
+    "sources": {
+      "streams": [
+        "https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8"
+      ]
+    },
+    "languages": [
+      "div"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "goNrMuzefDwskd",
     "name": "Maldives TV",
     "sources": {
@@ -19,6 +33,35 @@
     "sources": {
       "streams": [
         "https://sendlive.online/hls/mmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "div",
+      "eng"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tXjtUJ8mVtddPt",
+    "name": "NTV",
+    "sources": {
+      "streams": [
+        "https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8"
+      ]
+    },
+    "languages": [
+      "div"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1EonRCqkUpHOzE",
+    "name": "TV Maldives",
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/tvm.m3u8"
       ]
     },
     "languages": [

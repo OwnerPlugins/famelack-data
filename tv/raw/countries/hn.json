@@ -238,20 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A21O4Ec20dFXlG",
-    "name": "Globo TV",
-    "sources": {
-      "streams": [
-        "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7jZdYZLmUugc11",
     "name": "Guayape TV",
     "sources": {
@@ -285,6 +271,20 @@
     "sources": {
       "streams": [
         "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9jeKM3aw6Paup0",
+    "name": "Imagen FM 105.1",
+    "sources": {
+      "streams": [
+        "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -342,6 +342,20 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kgGtkbabuK6Sj3",
+    "name": "Lenca TV",
+    "sources": {
+      "streams": [
+        "https://lencatelevision.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -411,6 +425,20 @@
     "sources": {
       "streams": [
         "https://tv.webmedialive.com/fiestatv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nsgQYKfhfBKpgj",
+    "name": "Radio Ideal",
+    "sources": {
+      "streams": [
+        "https://www.idealfm104-7.com/hls/0/stream.m3u8"
       ]
     },
     "languages": [
@@ -509,6 +537,20 @@
     "sources": {
       "streams": [
         "https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "THKN8j8NPbhAcj",
+    "name": "Telemas",
+    "sources": {
+      "streams": [
+        "https://s.emisoras.tv:8081/telemas/index.m3u8"
       ]
     },
     "languages": [

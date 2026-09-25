@@ -15,15 +15,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pnA6yb0AQTRKeR",
-    "name": "Belarus-2",
+    "nanoid": "HbRUt7FKalezmx",
+    "name": "Belarus-4 Vitebsk",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8"
       ]
     },
     "languages": [
-      "bel",
       "rus"
     ],
     "country": "by",
@@ -34,7 +33,6 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
     },
@@ -49,7 +47,6 @@
     "name": "Belarus-24",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
         "https://streaming.thestream.cyou/live/7003.m3u8"
       ]
     },
@@ -126,20 +123,6 @@
     "sources": {
       "streams": [
         "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qXDjb50le3QgvB",
-    "name": "Vitebsk",
-    "sources": {
-      "streams": [
-        "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8"
       ]
     },
     "languages": [

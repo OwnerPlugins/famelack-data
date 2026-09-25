@@ -15,8 +15,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:4870/stream",
-        "https://radio.streemlion.com:1150/stream"
+        "https://radio.streemlion.com:1150/stream",
+        "https://radio.streemlion.com:4870/stream"
       ]
     },
     "languages": [
@@ -262,8 +262,8 @@
     "name": "Jovembsk",
     "sources": {
       "streams": [
-        "https://stream-42.zeno.fm/ppgb4k7vhqztv",
-        "https://stream-54.zeno.fm/ppgb4k7vhqztv"
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv",
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv"
       ]
     },
     "languages": [
@@ -626,39 +626,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rOiPp2gJiw6741",
-    "name": "Rádio Calheta",
-    "sources": {
-      "streams": [
-        "https://player.radiocalheta.pt/listen/radiocalheta/live"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "91r1bKe09plEXo",
     "name": "Rádio Campo Maior",
     "sources": {
       "streams": [
         "https://radios2.justweb.pt:8064/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JgxKM0ZpxOulDl",
-    "name": "Rádio Cantinho dos Emigrantes",
-    "sources": {
-      "streams": [
-        "https://cast.redewt.net:9825/stream"
       ]
     },
     "languages": [
@@ -1063,6 +1035,20 @@
       "streams": [
         "https://streamingv2.shoutcast.com/observador_64.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hmlHtQxMssmgH5",
+    "name": "Radio Orbital",
+    "sources": {
+      "streams": [
+        "https://ec2.yesstreaming.net:3025/stream"
       ]
     },
     "languages": [

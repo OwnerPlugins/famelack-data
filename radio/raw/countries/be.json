@@ -63,9 +63,9 @@
     "name": "AFN 360 Benelux",
     "sources": {
       "streams": [
-        "https://22183.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://27793.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://25453.live.streamtheworld.com/AFNE_BLX_SC"
+        "https://27863.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://28993.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC"
       ]
     },
     "languages": [
@@ -822,8 +822,8 @@
     "name": "Joe Lage Landen",
     "sources": {
       "streams": [
-        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac",
-        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac"
       ]
     },
     "languages": [
@@ -897,8 +897,8 @@
     "name": "Klara",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klara-high.mp3",
-        "https://icecast.vrtcdn.be/klara.aac"
+        "https://icecast.vrtcdn.be/klara.aac",
+        "https://icecast.vrtcdn.be/klara-high.mp3"
       ]
     },
     "languages": [
@@ -1355,8 +1355,8 @@
     "name": "Q-Allstars",
     "sources": {
       "streams": [
-        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
-        "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3"
+        "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
       ]
     },
     "languages": [
@@ -2541,7 +2541,7 @@
     "name": "VRT Radio 1",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/radio1-high.mp3",
+        "https://icecast.vrtcdn.be/radio1.aac",
         "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
         "https://icecast.vrtcdn.be/radio1-mid.mp3"
       ]
@@ -2663,8 +2663,8 @@
     "sources": {
       "streams": [
         "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
       ]
     },
     "languages": [

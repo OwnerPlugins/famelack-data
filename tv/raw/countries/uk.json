@@ -1464,6 +1464,7 @@
     "sources": {
       "streams": [
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
         "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
@@ -1628,6 +1629,20 @@
     "sources": {
       "streams": [
         "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eg3goyColncJv1",
+    "name": "MTV Global",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MTVEurope/index.m3u8"
       ]
     },
     "languages": [
@@ -2049,18 +2064,6 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "sources": {
-      "streams": [
-        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2592,20 +2595,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BzEkhaJoomu7sR",
-    "name": "TV Warehouse",
-    "sources": {
-      "streams": [
-        "https://tvwarehouse.r.worldssl.net/mystream.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HftRDDm7Hb6ciM",
     "name": "U&Laughs",
     "sources": {
@@ -2843,7 +2832,7 @@
     "name": "WildBrain: Inspector Gadget",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/h7CV2gNxU-8"
+        "https://www.youtube-nocookie.com/embed/e9qoDmjvesY"
       ]
     },
     "languages": [

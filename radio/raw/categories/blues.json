@@ -408,8 +408,8 @@
     "sources": {
       "streams": [
         "https://17813.live.streamtheworld.com/CBH_CBC_SC",
-        "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://29327.live.streamtheworld.com/CBH_CBC_SC"
+        "https://26733.live.streamtheworld.com/CBH_CBC_SC",
+        "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8"
       ]
     },
     "languages": [
@@ -434,9 +434,9 @@
     "name": "CBC Radio One Calgary",
     "sources": {
       "streams": [
-        "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
-        "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
-        "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC"
+        "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC",
+        "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC",
+        "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
       ]
     },
     "languages": [
@@ -595,8 +595,8 @@
     "name": "Exclusively Bonnie Raitt",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio",
-        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio"
+        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
+        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio"
       ]
     },
     "languages": [
@@ -676,6 +676,22 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "CaH6zkqeux88Nq",
+    "name": "FluxFM XJAZZ",
+    "sources": {
+      "streams": [
+        "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663",
+        "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
+        "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "HuTfJAwQ561RDd",
@@ -928,8 +944,8 @@
     "name": "Joint Radio Blues",
     "sources": {
       "streams": [
-        "https://star.jointil.net/proxy/jrn_blues",
-        "https://jointil.com/stream-blues"
+        "https://jointil.com/stream-blues",
+        "https://star.jointil.net/proxy/jrn_blues"
       ]
     },
     "languages": [
@@ -959,6 +975,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "GFwavUpIhmC4Vf",
+    "name": "KBRP 96.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s6588ec266/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8CTeDjatjCEeVu",
@@ -1038,9 +1068,9 @@
     "name": "KOFA Border Radio",
     "sources": {
       "streams": [
-        "https://18443.live.streamtheworld.com/KAWCAM_SC",
-        "https://23023.live.streamtheworld.com/KAWCAM_SC",
-        "https://23023.live.streamtheworld.com/KAWCAM.mp3"
+        "https://19253.live.streamtheworld.com/KAWCAM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC",
+        "https://18363.live.streamtheworld.com/KAWCAM_SC"
       ]
     },
     "languages": [
@@ -1159,6 +1189,20 @@
     ]
   },
   {
+    "nanoid": "loWIy5Fkr53SfT",
+    "name": "Mixadance FM - Jazz",
+    "sources": {
+      "streams": [
+        "https://stream.mixadance.fm/mixadancejazz"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6vPIankPPQG3k8",
     "name": "Morena FM 98",
     "sources": {
@@ -1202,6 +1246,22 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "DLF4dBJIIYaQoR",
+    "name": "Music City Roadhouse",
+    "sources": {
+      "streams": [
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+        "https://streaming.live365.com/a73754"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2BnQJiENSDHEap",
@@ -1437,7 +1497,7 @@
     "sources": {
       "streams": [
         "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
-        "https://streams.radiobob.de/blues/mp3-192/homepage",
+        "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de",
         "https://streams.radiobob.de/blues/mp3-192/mediaplayer"
       ]
     },
@@ -1452,7 +1512,7 @@
       "streams": [
         "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
         "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de"
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
       ]
     },
     "languages": [
@@ -1768,9 +1828,9 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
         "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
-        "https://stream.rockantenne.de/hair-metal/stream/mp3"
+        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
+        "https://stream.rockantenne.de/blues-rock/stream/mp3"
       ]
     },
     "languages": [
@@ -1869,20 +1929,6 @@
     "languages": [
       "eng"
     ]
-  },
-  {
-    "nanoid": "qAyVohlgjoa0MC",
-    "name": "Southern Rock Radio",
-    "sources": {
-      "streams": [
-        "https://southern-rock_radio.stream.laut.fm/southern-rock_radio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "9qhA2oxOUW5TRo",
@@ -2076,8 +2122,8 @@
     "name": "WUSF 89.7 FM",
     "sources": {
       "streams": [
-        "https://streaming.wusf.fm/wusf",
-        "https://wusf.streamguys1.com/wusf-web"
+        "https://wusf.streamguys1.com/wusf-web",
+        "https://streaming.wusf.fm/wusf"
       ]
     },
     "languages": [

@@ -7,7 +7,7 @@
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I7bLqZBO0XQ"
+        "https://www.youtube-nocookie.com/embed/qRxmjIrinz0"
       ]
     },
     "languages": [
@@ -119,7 +119,7 @@
     "name": "Aqua Teen Hunger Force",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FXRxnn2id6g"
+        "https://www.youtube-nocookie.com/embed/Bm1t60eYwBs"
       ]
     },
     "languages": [
@@ -196,6 +196,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -344,10 +358,7 @@
         "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8"
       ]
     },
-    "languages": [
-      "eng",
-      "jap"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -633,6 +644,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VvHhOWwHL2G6fH",
+    "name": "NickToons Brasil",
+    "sources": {
+      "streams": [
+        "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "sources": {
@@ -673,34 +712,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "scDZ3wRq1kFeHG",
-    "name": "Pokémon",
-    "sources": {
-      "streams": [
-        "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vffrjcRyojS9JW",
-    "name": "Pokémon",
-    "sources": {
-      "streams": [
-        "https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "Sw0hJi8gVOMHbV",

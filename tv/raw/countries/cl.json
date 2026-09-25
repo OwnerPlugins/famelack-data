@@ -167,11 +167,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JzJqSKhZTC60f6",
+    "name": "AM Canal",
+    "sources": {
+      "streams": [
+        "https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Md7ez9PVBYFZg7",
     "name": "Antofagasta TV",
     "sources": {
       "streams": [
         "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uljtuIG4U9gilS",
+    "name": "Arica TV",
+    "sources": {
+      "streams": [
+        "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8"
       ]
     },
     "languages": [
@@ -495,7 +523,21 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HNC9ujXrJiI"
+        "https://www.youtube-nocookie.com/embed/K_90585Gl-0"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/chiloered/index.m3u8"
       ]
     },
     "languages": [
@@ -824,20 +866,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i6l8MV9GANNiZj",
-    "name": "Enfoque Digital TV",
-    "sources": {
-      "streams": [
-        "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jta33fMEZzmlcL",
     "name": "EPA! TV",
     "sources": {
@@ -964,21 +992,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3BmuIRvVb70vt5",
-    "name": "Interactiva TV",
-    "sources": {
-      "streams": [
-        "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/interactivatv/interactivatv.smil/interactivatv/livestream0/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1C4lPPkddFmlSv",
     "name": "Iquique TV",
     "sources": {
@@ -1096,6 +1109,20 @@
     },
     "languages": [
       "jpn",
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jTLLLn47f5A3NB",
+    "name": "La Melinkana TV",
+    "sources": {
+      "streams": [
+        "https://v1.tustreaming.cl/melinkana/index.m3u8"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "cl",
@@ -1415,7 +1442,7 @@
         "https://pnt.janusmedia.tv/hls/pnt.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jd57QZxxTXs"
+        "https://www.youtube-nocookie.com/embed/oFNfp8r2IBg"
       ]
     },
     "languages": [
@@ -1723,6 +1750,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NXrxRZbnI9S3VQ",
+    "name": "San Nicolas TV",
+    "sources": {
+      "streams": [
+        "https://v4.tustreaming.cl/sannicolastv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YcrRaOKPB5tVF8",
     "name": "Santa Maria Television",
     "stream_urls": [
@@ -1755,7 +1796,8 @@
     "name": "Solo Bailalo",
     "sources": {
       "streams": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1811,7 +1853,7 @@
     "name": "T13",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pu2KU7BKL4w"
+        "https://www.youtube-nocookie.com/embed/oy1dvCRd42s"
       ]
     },
     "languages": [],
@@ -1907,7 +1949,7 @@
     "name": "Televisión del Senado",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QQ_1K792_ww"
+        "https://www.youtube-nocookie.com/embed/ScMO3oncXdM"
       ]
     },
     "languages": [
@@ -2261,20 +2303,6 @@
     "sources": {
       "streams": [
         "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OF0BAr2XBcHTkJ",
-    "name": "Vision TV",
-    "sources": {
-      "streams": [
-        "https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8"
       ]
     },
     "languages": [

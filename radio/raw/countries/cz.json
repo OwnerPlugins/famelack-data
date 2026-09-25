@@ -317,6 +317,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7lzBZt745ev5at",
+    "name": "ČRo Pardubice",
+    "sources": {
+      "streams": [
+        "https://rozhlas.stream/pardubice_high.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TGCDQZOWi5a0m2",
     "name": "ČRo Plus",
     "sources": {
@@ -483,6 +497,7 @@
     "name": "ČRo Vltava",
     "sources": {
       "streams": [
+        "https://rozhlas.stream/vltava_high.aac",
         "https://amp.cesnet.cz:8443/cro3.flac"
       ]
     },
@@ -855,8 +870,8 @@
     "name": "Hitrádio Osmdesátka",
     "sources": {
       "streams": [
-        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
-        "https://ice.abradio.cz/hit80128.mp3"
+        "https://ice.abradio.cz/hit80128.mp3",
+        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
       ]
     },
     "languages": [
@@ -1215,8 +1230,8 @@
     "sources": {
       "streams": [
         "https://icecast2.play.cz/beat128aac",
-        "https://icecast2.play.cz/radiobeat128.mp3",
-        "https://icecast1.play.cz/beat64.mp3"
+        "https://icecast1.play.cz/beat64.mp3",
+        "https://icecast2.play.cz/radiobeat128.mp3"
       ]
     },
     "languages": [
@@ -1231,7 +1246,7 @@
     "sources": {
       "streams": [
         "https://ice.abradio.cz/blanikcz128.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
         "https://ice.abradio.cz/blanikfm128.mp3"
       ]
     },
@@ -1347,9 +1362,9 @@
     "name": "Radio Farda",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/cp13r2cpn3quv",
         "https://n01.radiojar.com/cp13r2cpn3quv",
-        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
+        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+        "https://stream.radiojar.com/cp13r2cpn3quv"
       ]
     },
     "languages": [
@@ -2354,9 +2369,9 @@
     "name": "Радио Свобода",
     "sources": {
       "streams": [
-        "https://n08.radiojar.com/hcrb063nn3quv",
-        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
-        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
+        "https://n0c.radiojar.com/hcrb063nn3quv",
+        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
+        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
       ]
     },
     "languages": [

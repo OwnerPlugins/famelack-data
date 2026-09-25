@@ -184,20 +184,6 @@
     ]
   },
   {
-    "nanoid": "5Jp53wts5wCb7Q",
-    "name": "Авторадио Минск",
-    "sources": {
-      "streams": [
-        "https://live.humorfm.by:8443/avtoradio"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dvtjJcv8sylKyr",
     "name": "БР Радиус FM",
     "sources": {
@@ -595,6 +581,20 @@
     "sources": {
       "streams": [
         "https://stream.rusradio.by:8443/live128"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AWtfywR9jsaS7B",
+    "name": "Своё Радио",
+    "sources": {
+      "streams": [
+        "https://live.svoyoradio.by:8443/svoyoradio"
       ]
     },
     "languages": [
