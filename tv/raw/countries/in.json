@@ -395,6 +395,7 @@
     "name": "Aastha Telugu",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/262/master.m3u8",
         "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8"
       ]
@@ -715,6 +716,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hJ3iu0hLUptUwg",
+    "name": "Angel TV America",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -3681,6 +3696,7 @@
     "name": "Kappa TV",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1123/master.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
       ]
@@ -4558,6 +4574,20 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Zdh4EadiBvrnaF",
+    "name": "Nambikkai TV",
+    "sources": {
+      "streams": [
+        "https://cdn.pishow.tv/ott/live/1389/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0f87UpjKC6qmjD",
@@ -6796,7 +6826,7 @@
     "name": "Sakshi TV",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/409/master.m3u8",
+        "https://cdn.pishow.tv/ott/live/1607/master.m3u8",
         "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8",
         "https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8"
       ],
@@ -8647,6 +8677,20 @@
     "sources": {
       "streams": [
         "https://server.zillarbarta.com/zbbhakti/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/zbcatun/video.m3u8"
       ]
     },
     "languages": [

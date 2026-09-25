@@ -55,6 +55,22 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "k6kILJ1P88D8yy",
+    "name": "CLTV 36",
+    "sources": {
+      "streams": [
+        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pam",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xO426KlalATtSy",
     "name": "Dream TV Philippines",
     "sources": {
@@ -180,6 +196,22 @@
       ]
     },
     "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RhkfgHInexT7iQ",
+    "name": "Mindanow Network TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ceb",
       "eng",
       "tgl"
     ],
