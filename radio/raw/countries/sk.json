@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g1VmtcKaILXpac",
+    "name": "Best FM",
+    "sources": {
+      "streams": [
+        "https://stream3.bestfm.sk:8000/160.aac",
+        "https://stream3.bestfm.sk:8000/128.mp3"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "R4SnK7899a581z",
     "name": "Detské rádio",
     "sources": {
@@ -47,6 +62,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/kxwhyvz2fm0uv"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nch2xCW6pjQcXV",
+    "name": "Europa 2",
+    "sources": {
+      "streams": [
+        "https://stream.bauermedia.sk/europa2.mp3"
       ]
     },
     "languages": [
@@ -299,7 +328,8 @@
     "name": "Rádio Expres",
     "sources": {
       "streams": [
-        "https://stream.bauermedia.sk/128.mp3"
+        "https://stream.bauermedia.sk/128.mp3",
+        "https://stream.expres.sk/128.mp3"
       ]
     },
     "languages": [
@@ -577,6 +607,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "THRZsdxp9umd0f",
+    "name": "Rádio SiTy",
+    "sources": {
+      "streams": [
+        "https://radiosity.online:8000/aac"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PGA1rmanjFV5Fh",
     "name": "Radio Slovakia International",
     "sources": {
@@ -798,6 +842,20 @@
     "sources": {
       "streams": [
         "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xP7jlsQLuC8dPK",
+    "name": "TV Lux",
+    "sources": {
+      "streams": [
+        "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [

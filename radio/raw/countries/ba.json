@@ -245,8 +245,8 @@
     "name": "Kontakt Radio",
     "sources": {
       "streams": [
-        "https://s1.mojstream.eu:8114/;",
-        "https://mojstream.eu:8114/kontaktradio"
+        "https://mojstream.eu:8114/kontaktradio",
+        "https://s1.mojstream.eu:8114/;"
       ]
     },
     "languages": [
@@ -296,6 +296,20 @@
     "languages": [
       "bos",
       "hrv"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uh6tGMKStO4Fyj",
+    "name": "ORV Radio",
+    "sources": {
+      "streams": [
+        "https://otv.ovh/live_radio/orv/icecast.audio"
+      ]
+    },
+    "languages": [
+      "bos"
     ],
     "country": "ba",
     "isGeoBlocked": false
@@ -632,20 +646,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y2oaeoXmQCpRgL",
-    "name": "Radio Goražde",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
-      ]
-    },
-    "languages": [
-      "bos"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TjzT0ktgHfO3tn",
     "name": "Radio Gračanica",
     "sources": {
@@ -669,6 +669,21 @@
     },
     "languages": [
       "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IFxrhp6I8DwsD7",
+    "name": "Radio Grude",
+    "sources": {
+      "streams": [
+        "https://radio.pa-hosting.de:1040/;"
+      ]
+    },
+    "languages": [
+      "bos",
+      "hrv"
     ],
     "country": "ba",
     "isGeoBlocked": false
@@ -1123,6 +1138,34 @@
     },
     "languages": [
       "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tDw1Yls3Yma2L2",
+    "name": "Radio USK 2",
+    "sources": {
+      "streams": [
+        "https://radiousk2.radioca.st/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "puutpY6aptdQ5t",
+    "name": "Radio Usora",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/radio_usora.m3u8"
+      ]
+    },
+    "languages": [
+      "hrv"
     ],
     "country": "ba",
     "isGeoBlocked": false

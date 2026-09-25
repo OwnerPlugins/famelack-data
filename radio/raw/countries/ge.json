@@ -1,5 +1,48 @@
 [
   {
+    "nanoid": "DrsEF8tv39HHeY",
+    "name": "Avtoradio",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PsZ39JP25LAMon",
+    "name": "GPB Radio 1",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uYenrtmRlQOzA2",
+    "name": "GPB Radio 2",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RT3CrgfS8nFMwC",
     "name": "LF Radio",
     "sources": {
@@ -53,6 +96,78 @@
     },
     "languages": [
       "eng",
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WowJKkWxDm46jk",
+    "name": "Radio Ar Daidardo",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uAjmezILxrMZ1R",
+    "name": "Radio Chveneburi",
+    "sources": {
+      "streams": [
+        "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
+        "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zd1u0JJ21zUKIL",
+    "name": "Radio Commersant",
+    "sources": {
+      "streams": [
+        "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aM4zPHwEfgWo0W",
+    "name": "Radio Fortuna",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "86tQRYt2943voC",
+    "name": "Radio Imedi",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+      ]
+    },
+    "languages": [
       "kat"
     ],
     "country": "ge",

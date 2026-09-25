@@ -724,9 +724,9 @@
     "name": "Dance Wave!",
     "sources": {
       "streams": [
+        "https://dancewave.online/station/dance-wave-ogg",
         "https://dancewave.online/dance.aac",
-        "https://dancewave.online/dance.flac.ogg",
-        "https://dancewave.online/station/dance-wave-ogg"
+        "https://dancewave.online/dance.flac.ogg"
       ]
     },
     "languages": [
@@ -880,6 +880,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "05tjoYvAYW8QMc",
+    "name": "Hír FM",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/wevb267khf9uv",
+        "https://n43a-eu.rcs.revma.com/wevb267khf9uv"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6mqUu9wsoPoY0W",
     "name": "I Love Pécs Rádió",
     "sources": {
@@ -899,20 +914,6 @@
     "sources": {
       "streams": [
         "https://stream.infostart.hu/lejatszo/index.html"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lex6o9LqcmTKt2",
-    "name": "JazzRadio.hu",
-    "sources": {
-      "streams": [
-        "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
       ]
     },
     "languages": [
@@ -982,7 +983,6 @@
     "name": "Klasszik Rádió 92.1",
     "sources": {
       "streams": [
-        "https://s04.diazol.hu:9600/live.mp3",
         "https://www.klasszikradio.hu/klasszik.mp3"
       ]
     },
@@ -1040,8 +1040,8 @@
     "name": "Lahmacun Radio",
     "sources": {
       "streams": [
-        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
-        "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
+        "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
+        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3"
       ]
     },
     "languages": [
@@ -1491,11 +1491,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z1pvIPtPO6AQHn",
+    "name": "Oxygen Xmas",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8000/xmas_320"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9c4XmzHs5KKZ0y",
     "name": "Ozone FM",
     "sources": {
       "streams": [
-        "https://oxygenmusic.hu:8443/ozonefm_320"
+        "https://oxygenmusic.hu:8443/ozonefm_320",
+        "https://oxygenmusic.hu:8000/ozonefm_128"
       ]
     },
     "languages": [
@@ -1866,8 +1881,8 @@
     "name": "Retro Rádió",
     "sources": {
       "streams": [
-        "https://icast.connectmedia.hu/5002/live.mp3",
         "https://icast.connectmedia.hu/5001/live.mp3",
+        "https://icast.connectmedia.hu/5002/live.mp3",
         "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a"
       ]
     },
@@ -2009,8 +2024,8 @@
     "name": "SuperDj Rádió",
     "sources": {
       "streams": [
-        "https://s03.diazol.hu:35152/stream",
-        "https://s03.diazol.hu:35150/live"
+        "https://s03.diazol.hu:35150/live",
+        "https://s03.diazol.hu:35152/stream"
       ]
     },
     "languages": [

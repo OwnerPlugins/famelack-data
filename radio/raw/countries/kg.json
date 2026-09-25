@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "AMOgK0jQXRKMSs",
+    "name": "Birinchi Radio",
+    "sources": {
+      "streams": [
+        "https://liveradio.utrk.kg/1radio"
+      ]
+    },
+    "languages": [
+      "kir"
+    ],
+    "country": "kg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7F9zQlfbq818xJ",
     "name": "ColdStar Online Radio",
     "sources": {
@@ -31,6 +45,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VewCMXRfGZj4j5",
+    "name": "Kyrgyzstan Obondoru",
+    "sources": {
+      "streams": [
+        "https://cdn.radioplayer.kg:8443/obondoru64"
+      ]
+    },
+    "languages": [
+      "kir"
+    ],
+    "country": "kg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k6RlVjTt8hVR86",
+    "name": "Min Kyal",
+    "sources": {
+      "streams": [
+        "https://liveradio.utrk.kg/1000kiyal"
+      ]
+    },
+    "languages": [
+      "kir"
+    ],
+    "country": "kg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TnVR4Z1OlSPjQG",
     "name": "Retro FM Kyrgyzstan",
     "sources": {
@@ -50,8 +92,8 @@
     "name": "Suiunchu FM",
     "sources": {
       "streams": [
-        "https://cdn.radioplayer.kg:8443/suiunchu64",
-        "https://cdn.radioplayer.kg:8443//suiunchu64"
+        "https://cdn.radioplayer.kg:8443//suiunchu64",
+        "https://cdn.radioplayer.kg:8443/suiunchu64"
       ]
     },
     "languages": [

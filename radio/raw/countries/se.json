@@ -18,8 +18,8 @@
     "name": "BozRadio",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/a80252",
-        "https://ais-edge08-live365-dal02.cdnstream.com/a80252"
+        "https://ais-edge08-live365-dal02.cdnstream.com/a80252",
+        "https://streaming.live365.com/a80252"
       ]
     },
     "languages": [
@@ -207,8 +207,8 @@
     "name": "Mix Megapol 104.3",
     "sources": {
       "streams": [
-        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
-        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3"
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp"
       ]
     },
     "languages": [
@@ -387,6 +387,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EcdzSGM8Oato8n",
+    "name": "Radio Orinoco",
+    "sources": {
+      "streams": [
+        "https://icecast.radio-orinoco.com/orinoco"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZnwoyqjzqWFjfX",
     "name": "Radio Rivendell",
     "sources": {
@@ -513,6 +527,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v1Y0unadGCjOJ3",
+    "name": "SceneSat Radio",
+    "sources": {
+      "streams": [
+        "https://streams.scenesat.com/main/mobile.aac",
+        "https://streams.scenesat.com/main/hq.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YmJptfb0kgQ6Hr",
     "name": "Spinning Seal FM",
     "sources": {
@@ -532,20 +561,6 @@
     "sources": {
       "streams": [
         "https://mediaserv38.live-streams.nl:8107/stream"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9pc86yz7rEZurF",
-    "name": "Svensk Pop",
-    "sources": {
-      "streams": [
-        "https://edge-bauerse-02-thn.sharp-stream.com/svenskpop_se_mp3"
       ]
     },
     "languages": [
@@ -1000,6 +1015,7 @@
     "name": "Sveriges Radio P4 Västernorrland",
     "sources": {
       "streams": [
+        "https://live1.sr.se/p4vnrl-aac-320",
         "https://live1.sr.se/p4vnrl-mp3-96",
         "https://ljud1-cdn.sr.se/lc/p4vnrl.m3u8"
       ]
@@ -1045,20 +1061,6 @@
     "sources": {
       "streams": [
         "https://s5.radio.co/s8ace52d32/listen"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d4HmkADCBuWWAg",
-    "name": "Vinyl FM",
-    "sources": {
-      "streams": [
-        "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3"
       ]
     },
     "languages": [

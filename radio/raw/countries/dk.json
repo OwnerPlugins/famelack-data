@@ -218,9 +218,9 @@
     "name": "DR P4 Bornholm",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
+        "https://live-icy.gss.dr.dk/A/A06H.mp3",
         "https://live-icy.dr.dk/A/A30H.mp3",
-        "https://live-icy.gss.dr.dk/A/A06H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A06H.mp3"
       ]
     },
     "languages": [
@@ -435,9 +435,9 @@
     "name": "DR P6 Beat",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A29H.mp3",
         "https://live-icy.gss.dr.dk/A/A29H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A29H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
+        "https://live-icy.dr.dk/A/A29H.mp3"
       ]
     },
     "languages": [
@@ -566,8 +566,8 @@
     "name": "NOVA",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
-        "https://live-bauerdk.sharp-stream.com/nova128.mp3"
+        "https://live-bauerdk.sharp-stream.com/nova128.mp3",
+        "https://live-bauerdk.sharp-stream.com/nova_dk_mp3"
       ]
     },
     "languages": [
@@ -666,8 +666,8 @@
     "name": "Radio 100",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
-        "https://live-bauerdk.sharp-stream.com/100fm_live.mp3"
+        "https://live-bauerdk.sharp-stream.com/100fm_live.mp3",
+        "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
       ]
     },
     "languages": [
@@ -1016,21 +1016,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dUL1WWTz6d6nHB",
-    "name": "Radio Stinesen",
-    "sources": {
-      "streams": [
-        "https://st1.stinesen.dk/StineM320"
-      ]
-    },
-    "languages": [
-      "dan",
-      "eng"
-    ],
-    "country": "dk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "saY0uDKFLpPwLf",
     "name": "Radio Viborg",
     "sources": {
@@ -1194,8 +1179,8 @@
     "name": "The Voice",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/voice128.mp3",
-        "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
+        "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+        "https://live-bauerdk.sharp-stream.com/voice128.mp3"
       ]
     },
     "languages": [

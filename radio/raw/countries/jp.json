@@ -1,26 +1,11 @@
 [
   {
-    "nanoid": "qbJxgnvtKfuZ7u",
-    "name": "AFN The Eagle Misawa",
-    "sources": {
-      "streams": [
-        "https://22963.live.streamtheworld.com/AFNP_MSWAAC.aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mvDQPbI0k5qgTZ",
     "name": "AFN Tokyo",
     "sources": {
       "streams": [
-        "https://22963.live.streamtheworld.com/AFNP_TKO_SC",
         "https://13743.live.streamtheworld.com/AFNP_TKO_SC",
-        "https://18433.live.streamtheworld.com/AFNP_TKO_SC"
+        "https://17633.live.streamtheworld.com/AFNP_TKO_SC"
       ]
     },
     "languages": [
@@ -307,8 +292,8 @@
     "sources": {
       "streams": [
         "https://listen.moe/fallback",
-        "https://listen.moe/stream",
-        "https://listen.moe/opus"
+        "https://listen.moe/opus",
+        "https://listen.moe/stream"
       ]
     },
     "languages": [
@@ -323,8 +308,8 @@
     "sources": {
       "streams": [
         "https://listen.moe/kpop/fallback",
-        "https://listen.moe/kpop/stream",
-        "https://listen.moe/kpop/opus"
+        "https://listen.moe/kpop/opus",
+        "https://listen.moe/kpop/stream"
       ]
     },
     "languages": [
@@ -360,20 +345,6 @@
     },
     "languages": [
       "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "usKRpN4ADShRlB",
-    "name": "NHK World Radio Japan",
-    "sources": {
-      "streams": [
-        "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "jp",
     "isGeoBlocked": false

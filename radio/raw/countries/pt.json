@@ -4,8 +4,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:4870/stream",
-        "https://radio.streemlion.com:1150/stream"
+        "https://radio.streemlion.com:1150/stream",
+        "https://radio.streemlion.com:4870/stream"
       ]
     },
     "languages": [
@@ -34,9 +34,9 @@
     "name": "Antena 1",
     "sources": {
       "streams": [
-        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
-        "https://radiocast.rtp.pt/antena180a.mp3"
+        "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8",
+        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -108,8 +108,8 @@
     "name": "Antena 2",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena280a.mp3"
       ]
     },
@@ -155,8 +155,8 @@
     "name": "Antena 3",
     "sources": {
       "streams": [
-        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
+        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena380a.mp3"
       ]
     },
@@ -329,8 +329,8 @@
     "name": "Jovembsk",
     "sources": {
       "streams": [
-        "https://stream-42.zeno.fm/ppgb4k7vhqztv",
-        "https://stream-54.zeno.fm/ppgb4k7vhqztv"
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv",
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv"
       ]
     },
     "languages": [
@@ -723,39 +723,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rOiPp2gJiw6741",
-    "name": "Rádio Calheta",
-    "sources": {
-      "streams": [
-        "https://player.radiocalheta.pt/listen/radiocalheta/live"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "91r1bKe09plEXo",
     "name": "Rádio Campo Maior",
     "sources": {
       "streams": [
         "https://radios2.justweb.pt:8064/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JgxKM0ZpxOulDl",
-    "name": "Rádio Cantinho dos Emigrantes",
-    "sources": {
-      "streams": [
-        "https://cast.redewt.net:9825/stream"
       ]
     },
     "languages": [
@@ -1079,8 +1051,8 @@
     "name": "Radio Metal On: The Heavy",
     "sources": {
       "streams": [
-        "https://radiometalon.com/radio/8000/radio.mp3",
-        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
+        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
+        "https://radiometalon.com/radio/8000/radio.mp3"
       ]
     },
     "languages": [
@@ -1180,6 +1152,20 @@
       "streams": [
         "https://streamingv2.shoutcast.com/observador_64.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hmlHtQxMssmgH5",
+    "name": "Radio Orbital",
+    "sources": {
+      "streams": [
+        "https://ec2.yesstreaming.net:3025/stream"
       ]
     },
     "languages": [
@@ -1467,7 +1453,7 @@
       "streams": [
         "https://22593.live.streamtheworld.com/RFMAAC.aac",
         "https://23603.live.streamtheworld.com/RFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3"
       ]
     },
     "languages": [

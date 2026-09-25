@@ -170,20 +170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e4sOTrrPaZCnwI",
-    "name": "DanPen Radio",
-    "sources": {
-      "streams": [
-        "https://server.danpenradio.net/listen/danpen_radio/radio.mp3"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "alW7aYJsdzHpOm",
     "name": "Darik Radio",
     "sources": {
@@ -842,12 +828,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vr5DFHiLODGhmZ",
+    "name": "Tangra Mega Rock",
+    "sources": {
+      "streams": [
+        "https://restreamer.radiotangra.com/Tangra-high"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FNa0mqIPuWSPPc",
     "name": "The Voice",
     "sources": {
       "streams": [
-        "https://bss1.neterra.tv/thevoicefm/stream_0.m3u8",
-        "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8"
+        "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+        "https://bss1.neterra.tv/thevoicefm/stream_0.m3u8"
       ]
     },
     "languages": [

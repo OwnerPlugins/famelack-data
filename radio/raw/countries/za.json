@@ -19,8 +19,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://25583.live.streamtheworld.com/FM702_SC",
-        "https://25603.live.streamtheworld.com/FM702_SC"
+        "https://22533.live.streamtheworld.com/FM702_SC",
+        "https://25683.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -34,8 +34,8 @@
     "name": "919",
     "sources": {
       "streams": [
-        "https://edge.iono.fm/xice/112_medium.aac",
-        "https://edge.iono.fm/xice/112_low.aac"
+        "https://edge.iono.fm/xice/112_low.aac",
+        "https://edge.iono.fm/xice/112_medium.aac"
       ]
     },
     "languages": [
@@ -49,9 +49,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://21633.live.streamtheworld.com/FM947_SC",
-        "https://22653.live.streamtheworld.com/FM947_SC",
-        "https://23543.live.streamtheworld.com/FM947_SC"
+        "https://22353.live.streamtheworld.com/FM947AAC_SC",
+        "https://27863.live.streamtheworld.com/FM947_SC",
+        "https://27943.live.streamtheworld.com/FM947_SC"
       ]
     },
     "languages": [
@@ -66,21 +66,6 @@
     "sources": {
       "streams": [
         "https://streamer.radio.co/s919e54210/listen"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UEL4CizobsJz0W",
-    "name": "Al-Ansaar Radio",
-    "sources": {
-      "streams": [
-        "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3",
-        "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3"
       ]
     },
     "languages": [
@@ -106,8 +91,8 @@
     "name": "Amapiano FM",
     "sources": {
       "streams": [
-        "https://stream-37.zeno.fm/xs6zeac1ts8uv",
-        "https://stream.zeno.fm/xs6zeac1ts8uv"
+        "https://stream.zeno.fm/xs6zeac1ts8uv",
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv"
       ]
     },
     "languages": [
@@ -186,9 +171,9 @@
     "name": "Cape Talk",
     "sources": {
       "streams": [
-        "https://25453.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://25643.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://28513.live.streamtheworld.com/CAPE_TALK_SC"
+        "https://28513.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
       ]
     },
     "languages": [
@@ -528,7 +513,7 @@
     "sources": {
       "streams": [
         "https://live.jacarandafm.com/jacarandahigh.mp3",
-        "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+        "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
         "https://live.jacarandafm.com/jacarandalow.aac"
       ]
     },
@@ -1388,35 +1373,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YQp86fTnDfnSk5",
-    "name": "Springbok Radio",
-    "sources": {
-      "streams": [
-        "https://springbokradio.xyz:8443/main"
-      ]
-    },
-    "languages": [],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dm7h9dBciAyX8k",
     "name": "TAMBO FM",
     "sources": {
       "streams": [
         "https://listen.radioking.com/radio/326599/stream/374668"
-      ]
-    },
-    "languages": [],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DR0LeDTR5HZs0c",
-    "name": "The Better dot FM",
-    "sources": {
-      "streams": [
-        "https://radio.eclipse-streaming.co.za/listen/the_better_dot_fm/radio.mp3"
       ]
     },
     "languages": [],

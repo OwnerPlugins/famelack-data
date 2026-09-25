@@ -1,5 +1,20 @@
 [
   {
+    "nanoid": "DeBV19KyyojAEH",
+    "name": "Capital Radio",
+    "sources": {
+      "streams": [
+        "https://capitalradio.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "country": "tz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l7x1RFX3FETvwN",
     "name": "Dodoma FM 98.4",
     "sources": {
@@ -22,6 +37,21 @@
       ]
     },
     "languages": [
+      "swa"
+    ],
+    "country": "tz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ga2LKiBvg9fvdI",
+    "name": "Global Radio",
+    "sources": {
+      "streams": [
+        "https://zas7.ndx.co.za:8026/stream"
+      ]
+    },
+    "languages": [
+      "eng",
       "swa"
     ],
     "country": "tz",

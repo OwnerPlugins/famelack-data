@@ -29,6 +29,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IMsd4KvjIYuLK2",
+    "name": "Deluxe Radio",
+    "sources": {
+      "streams": [
+        "https://cmr-hosting.com:8408/;*.mp3"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EJlAxTEecmCRRT",
     "name": "Domus Radio",
     "sources": {
@@ -76,6 +90,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/kpcnnvbdfjtvv"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3VpZJtYFOeRvGo",
+    "name": "Hit FM Acoustic",
+    "sources": {
+      "streams": [
+        "https://streaming.hitfm.rs/acoustic.mp3"
       ]
     },
     "languages": [
@@ -676,6 +704,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O4ny9vtzF4YgUT",
+    "name": "Nova S Radio",
+    "sources": {
+      "streams": [
+        "https://radio.novas.tv/novas.mp3"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4hIug2cW2nxU50",
     "name": "Ob-Neob Radio",
     "sources": {
@@ -722,8 +764,8 @@
     "name": "OK Radio",
     "sources": {
       "streams": [
-        "https://sslstream.okradio.net/;",
-        "https://live7.okradio.net/;*.mp3"
+        "https://live7.okradio.net/;*.mp3",
+        "https://sslstream.okradio.net/;"
       ]
     },
     "languages": [
@@ -862,6 +904,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i8NfZbSnuGVY8i",
+    "name": "Radio 4P Zabavna",
+    "sources": {
+      "streams": [
+        "https://server4p.com/8012/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2kLTE2buLQ1frM",
     "name": "Radio 021",
     "sources": {
@@ -909,6 +965,20 @@
     "sources": {
       "streams": [
         "https://centova.dukahosting.com/proxy/021disco/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zp8I6NyaLX4Ltx",
+    "name": "Radio 021 Rock",
+    "sources": {
+      "streams": [
+        "https://centova.dukahosting.com/proxy/rock/stream"
       ]
     },
     "languages": [
@@ -1077,7 +1147,7 @@
     "name": "Radio D59B",
     "sources": {
       "streams": [
-        "https://n11.radiojar.com/gn6dqzhf9mzuv"
+        "https://n0c.radiojar.com/gn6dqzhf9mzuv"
       ]
     },
     "languages": [
@@ -1173,6 +1243,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y0HfMADDUAcvwb",
+    "name": "Radio Karolina Classics",
+    "sources": {
+      "streams": [
+        "https://streaming.karolina.rs/classics.mp3"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AmOt9fCO505A5N",
     "name": "Radio Kiss",
     "sources": {
@@ -1220,20 +1304,6 @@
     "sources": {
       "streams": [
         "https://mars.streamerr.co/8280/stream"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1W7U36D2JYwMzz",
-    "name": "Radio Krajina 019",
-    "sources": {
-      "streams": [
-        "https://cmr-hosting.com:7021/;"
       ]
     },
     "languages": [
@@ -1896,20 +1966,6 @@
     "sources": {
       "streams": [
         "https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "U8VPRaldaYYBsy",
-    "name": "S21 Radio",
-    "sources": {
-      "streams": [
-        "https://radiozender.mpbnetwerken.nl/s21radio"
       ]
     },
     "languages": [

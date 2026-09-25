@@ -5,7 +5,6 @@
     "sources": {
       "streams": [
         "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
-        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
         "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
       ]
     },
@@ -22,6 +21,20 @@
     "sources": {
       "streams": [
         "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+      ]
+    },
+    "languages": [
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PKchb4ExVntR0W",
+    "name": "Kalika FM 95.2",
+    "sources": {
+      "streams": [
+        "https://streaming.softnep.net:10828/stream"
       ]
     },
     "languages": [
@@ -123,34 +136,6 @@
     "sources": {
       "streams": [
         "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3"
-      ]
-    },
-    "languages": [
-      "nep"
-    ],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc2mP0gYMEaYZa",
-    "name": "Syangja Radio 89.6",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/fzqwdre3mp8uv"
-      ]
-    },
-    "languages": [
-      "nep"
-    ],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VWEITR8MIgM4ou",
-    "name": "Synergy FM 91.6",
-    "sources": {
-      "streams": [
-        "https://live.itech.host:3880/stream"
       ]
     },
     "languages": [

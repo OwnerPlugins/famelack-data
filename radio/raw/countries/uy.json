@@ -170,20 +170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oA7i2CsnK0DYTH",
-    "name": "Concierto Punta 95.1 FM",
-    "sources": {
-      "streams": [
-        "https://conectperu.com/8012/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JBTq1rWuQ2wLhN",
     "name": "Cosquín Rock Radio Uruguay",
     "sources": {
@@ -301,6 +287,20 @@
     "sources": {
       "streams": [
         "https://s7.myradiostream.com/10764/listen.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W9W1D5eNY04Qhx",
+    "name": "Espacio Sport 91.5 FM",
+    "sources": {
+      "streams": [
+        "https://medios.ciudaddigital.com.uy:18098/EspacioFM"
       ]
     },
     "languages": [
@@ -553,8 +553,8 @@
     "name": "Océano",
     "sources": {
       "streams": [
-        "https://oceano-2.nty.uy/netradio/listen.mp3",
-        "https://oceano-2.nty.uy/"
+        "https://oceano-2.nty.uy/",
+        "https://oceano-2.nty.uy/netradio/listen.mp3"
       ]
     },
     "languages": [
@@ -732,6 +732,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PDHjajV06dEoiv",
+    "name": "Radio Felicidad",
+    "sources": {
+      "streams": [
+        "https://medios.ciudaddigital.com.uy:18042/Felicidad"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iYm0Wn8VQwgJpK",
     "name": "Radio Fénix AM 1330",
     "sources": {
@@ -802,12 +816,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S8myZ074l4BdEV",
+    "name": "Radio Patria 1540 AM",
+    "sources": {
+      "streams": [
+        "https://medios.ciudaddigital.com.uy:18052/PatriaAM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BGaxC7gcIf8hLF",
     "name": "Radio Pipí Cucú",
     "sources": {
       "streams": [
         "https://comodin.uy/radio/8000/128.mp3",
         "https://comodin.uy/radio/8000/320.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rBEuC0bukNkm9e",
+    "name": "Radio Río Branco",
+    "sources": {
+      "streams": [
+        "https://medios.ciudaddigital.com.uy:18164/RioBranco"
       ]
     },
     "languages": [

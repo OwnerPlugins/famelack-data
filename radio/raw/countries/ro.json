@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "6aUyURebwajtxR",
+    "name": "90s Energy",
+    "sources": {
+      "streams": [
+        "https://s11.ssl-stream.com/ssl/90s_energy"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v6oXigOy9GNReL",
     "name": "149FM",
     "sources": {
@@ -34,8 +48,8 @@
     "name": "Ade FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/rshamge8mgntv",
-        "https://stream.zeno.fm/nqjp3rems2rvv"
+        "https://stream.zeno.fm/nqjp3rems2rvv",
+        "https://stream.zeno.fm/rshamge8mgntv"
       ]
     },
     "languages": [
@@ -1183,9 +1197,9 @@
     "name": "Play Radio",
     "sources": {
       "streams": [
-        "https://live.playradio.org:8443/90HD",
+        "https://live.playradio.org:8443/FMHD",
         "https://live.playradio.org:9090/FMHD",
-        "https://live.playradio.org:8443/FMHD"
+        "https://live.playradio.org:8443/90HD"
       ]
     },
     "languages": [
@@ -1634,34 +1648,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PKwuomXGftNJhR",
-    "name": "Radio Claudia",
-    "sources": {
-      "streams": [
-        "https://ssl.kenhost.ro:8091/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2CntHv7jYOrIR2",
-    "name": "Radio Crasna",
-    "sources": {
-      "streams": [
-        "https://ssl.omegahost.ro/8006/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g7XxPAoQAQGS6z",
     "name": "Radio Crazy",
     "sources": {
@@ -1709,6 +1695,20 @@
     "sources": {
       "streams": [
         "https://n01.radiojar.com/du8khw2d2wzuv"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vVJiyi1b88tcTS",
+    "name": "Radio Dada 106.6 FM",
+    "sources": {
+      "streams": [
+        "https://live.laris.ro:8004/radiodada128.mp3"
       ]
     },
     "languages": [
@@ -1954,6 +1954,20 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tKDSQ8sg7g7sEf",
+    "name": "Rádió GaGa Háromszék",
+    "sources": {
+      "streams": [
+        "https://a3.my-control-panel.com:6670/radio.mp3"
+      ]
+    },
+    "languages": [
+      "hun"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -2226,20 +2240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cupRbHdHX7Q8Lk",
-    "name": "Radio Magia Inimii Tale",
-    "sources": {
-      "streams": [
-        "https://a9.asurahosting.com:7030/radio.mp3"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fck5rHE3CZcyOd",
     "name": "Radio Mănăstirea Putna",
     "sources": {
@@ -2370,8 +2370,8 @@
     "name": "Radio Noise",
     "sources": {
       "streams": [
-        "https://live.radionoise.ro:9100/;",
-        "https://live.radionoise.ro:9100/stream"
+        "https://live.radionoise.ro:9100/stream",
+        "https://live.radionoise.ro:9100/;"
       ]
     },
     "languages": [
@@ -2551,6 +2551,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pW5cxyBXl5jO8P",
+    "name": "Radio România Internațional 3",
+    "sources": {
+      "streams": [
+        "https://stream4.srr.ro:8443/romania-rri3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron",
+      "rus"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nfkOGZ9pz6TM0M",
     "name": "Radio România Reșița",
     "sources": {
@@ -2710,8 +2726,8 @@
     "name": "Radio Stil Mix Manele",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/zt84vax7ptzuv",
-        "https://stream.zeno.fm/87sktrysmuqtv"
+        "https://stream.zeno.fm/87sktrysmuqtv",
+        "https://stream.zeno.fm/zt84vax7ptzuv"
       ]
     },
     "languages": [
@@ -3631,20 +3647,6 @@
     },
     "languages": [
       "hun"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1MW4O1mCyLKYyb",
-    "name": "Sighet FM",
-    "sources": {
-      "streams": [
-        "https://radio.zifer.ro/SighetFM"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false

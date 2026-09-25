@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ynOMgJ138tlNvS",
-    "name": "EHR Festivālu Hiti",
-    "sources": {
-      "streams": [
-        "https://stream.ehrhiti.lv:8000/Stream_73.mp3"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xU25bBKxKPbd63",
     "name": "EHR Fresh",
     "sources": {
@@ -61,20 +47,6 @@
     "sources": {
       "streams": [
         "https://stream.ehrhiti.lv:8000/Stream_67.mp3"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zNkfWna5exvbOV",
-    "name": "EHR iDeal Music",
-    "sources": {
-      "streams": [
-        "https://stream.ehrhiti.lv:8000/Stream_78.mp3"
       ]
     },
     "languages": [
@@ -277,6 +249,36 @@
     },
     "languages": [
       "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PBxAzgZLLTAQLR",
+    "name": "Radio Energy",
+    "sources": {
+      "streams": [
+        "https://radio1.radioenergy.lv:8000/",
+        "https://radio2.radioenergy.lv:9000/"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ynJ8dHQCL28wHM",
+    "name": "Radio Energy Russian",
+    "sources": {
+      "streams": [
+        "https://radio1.radioenergy.lv:8000/",
+        "https://radio2.radioenergy.lv:9000/"
+      ]
+    },
+    "languages": [
+      "rus"
     ],
     "country": "lv",
     "isGeoBlocked": false
@@ -498,12 +500,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vIGrGfidiiJ9ya",
+    "name": "XO FM",
+    "sources": {
+      "streams": [
+        "https://live.xo.fm/xofm128"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZLHojOWFKrHPjq",
     "name": "Your City Radio",
     "sources": {
       "streams": [
-        "https://c28.radioboss.fm:18234/stream",
-        "https://c34.radioboss.fm:8234/stream"
+        "https://c34.radioboss.fm:8234/stream",
+        "https://c28.radioboss.fm:18234/stream"
       ]
     },
     "languages": [

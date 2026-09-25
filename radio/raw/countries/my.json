@@ -76,8 +76,8 @@
     "name": "Asyik FM",
     "sources": {
       "streams": [
-        "https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
+        "https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac"
       ]
     },
     "languages": [
@@ -385,12 +385,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c438OuUUEuRmzQ",
+    "name": "MyFriends Station",
+    "sources": {
+      "streams": [
+        "https://cast3.asurahosting.com/proxy/myfriend/stream"
+      ]
+    },
+    "languages": [
+      "msa"
+    ],
+    "country": "my",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QoHGa0cFDRZnvY",
     "name": "Nasional FM",
     "sources": {
       "streams": [
-        "https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3",
+        "https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac"
       ]
     },
     "languages": [
@@ -617,8 +631,8 @@
     "name": "Traxx FM",
     "sources": {
       "streams": [
-        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac"
       ]
     },
     "languages": [

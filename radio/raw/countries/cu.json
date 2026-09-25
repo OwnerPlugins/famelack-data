@@ -4,9 +4,9 @@
     "name": "AFN 360 Guantanamo Bay",
     "sources": {
       "streams": [
-        "https://28513.live.streamtheworld.com/AFNE_GMO_SC",
+        "https://22653.live.streamtheworld.com/AFNE_GMO_SC",
         "https://23543.live.streamtheworld.com/AFNE_GMO_SC",
-        "https://25633.live.streamtheworld.com/AFNE_GMO_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC"
       ]
     },
     "languages": [
@@ -100,6 +100,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pmATnecqqC3Bll",
+    "name": "Radio Artemisa",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/9HzjRcjX"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IjarSwMW9pjPhs",
+    "name": "Radio Banes",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/9cMzdkK7"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f9ZrwRbR3XB3X8",
+    "name": "Radio Baraguá 91.3 FM",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/3CMM7zph"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "otSbeEb0TxKdgw",
     "name": "Radio Bayamo 98.6 FM",
     "sources": {
@@ -119,20 +161,6 @@
     "sources": {
       "streams": [
         "https://icecast.teveo.cu/j99xztkT"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ifTaajZ36yZLQY",
-    "name": "Radio Ciudad de La Habana",
-    "sources": {
-      "streams": [
-        "https://icecast.teveo.cu/g73XCjCH"
       ]
     },
     "languages": [
@@ -170,11 +198,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1YhBYqNSE8PiyN",
-    "name": "Radio Habana Cuba",
+    "nanoid": "bUb3AehlALm6xO",
+    "name": "Radio COCO",
     "sources": {
       "streams": [
-        "https://icecast.teveo.cu/McW3fLhs"
+        "https://icecast.teveo.cu/fvc4RVRz"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UkPF0Bs5FLqiIh",
+    "name": "Radio Granma",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/9RLhkmRH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n7a4Sb7lAsO0dw",
+    "name": "Radio Jaruco 104.9 FM",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/KH9tVwrC"
       ]
     },
     "languages": [
@@ -212,11 +268,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FRXh1a0fziuHn0",
-    "name": "Radio Mayabeque",
+    "nanoid": "h5tiKfVXKlFAtw",
+    "name": "Radio Metropolitana",
     "sources": {
       "streams": [
-        "https://icecast.teveo.cu/Rsrm7P9h"
+        "https://icecast.teveo.cu/ktW3mW74"
       ]
     },
     "languages": [
@@ -269,11 +325,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xfRnvsrNjPWOjx",
+    "name": "Radio Sancti Spíritus",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/NqWrgw7j"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JVOQtGvKVrWI8G",
     "name": "Radio Taíno",
     "sources": {
       "streams": [
         "https://icecast.teveo.cu/3MCwWg3V"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "msPAua9SG5v6dE",
+    "name": "Radio Victoria",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/F9tgnJVT"
       ]
     },
     "languages": [

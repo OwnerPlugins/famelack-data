@@ -141,6 +141,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VjDyLtZkpofl6l",
+    "name": "MEGATRON MIX FM",
+    "sources": {
+      "streams": [
+        "https://maxradio.azuracast.com.es/listen/radio_megatron_mix/MEGATRONMIX.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XRTZyrVBR22d4a",
     "name": "MGR Radio",
     "sources": {
@@ -240,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bbz0V0UtPjzzMk",
+    "name": "PBO Radio",
+    "sources": {
+      "streams": [
+        "https://n06.radiojar.com/2fse67zuv8hvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wNj1cujGxlMT5b",
     "name": "Peru Cumbia Radio",
     "sources": {
@@ -282,20 +310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lliXH5BW2JKFgJ",
-    "name": "Radio 100",
-    "sources": {
-      "streams": [
-        "https://cast6.asurahosting.com/proxy/xezar/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5RnwNd6gbYn1hk",
     "name": "Radio 200 Bicentenario",
     "sources": {
@@ -324,11 +338,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2v3zUGNQLpNySk",
+    "name": "Radio 1550",
+    "sources": {
+      "streams": [
+        "https://streaming.virtugo.digital:8002/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vHjCGmJ98tcLgG",
     "name": "Radio A",
     "sources": {
       "streams": [
         "https://stream.zeno.fm/qxsaiqu7pn4tv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0JQ1GsyxJi7Lmo",
+    "name": "Radio Agricultura",
+    "sources": {
+      "streams": [
+        "https://envivo.top:8443/agricultura"
       ]
     },
     "languages": [
@@ -961,6 +1003,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UOlZVDTX8Zc4mf",
+    "name": "Radio Frecuencia Popular",
+    "sources": {
+      "streams": [
+        "https://radio.sistemasandinos.org/7412/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYztuGZnD8srK5",
     "name": "Radio Frecuencia Primera",
     "sources": {
@@ -1041,8 +1097,8 @@
     "name": "Radio Huancayo",
     "sources": {
       "streams": [
-        "https://cloud9.ldwebstudios.net:7000/;",
-        "https://cloud9.ldwebstudios.net:7000/stream"
+        "https://cloud9.ldwebstudios.net:7000/stream",
+        "https://cloud9.ldwebstudios.net:7000/;"
       ]
     },
     "languages": [
@@ -1262,20 +1318,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gtSJpJ9Kzf1Clz",
-    "name": "Radio La Vaca",
-    "sources": {
-      "streams": [
-        "https://radio.streamingnacional.online/8168/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X6UZmRXSBtmZCg",
     "name": "Radio La Voz del Nor Oriente",
     "sources": {
@@ -1338,6 +1380,20 @@
     "sources": {
       "streams": [
         "https://sp.oyotunstream.com/8006/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9D2Hk0Yw7pPUZN",
+    "name": "Radio Madre de Dios",
+    "sources": {
+      "streams": [
+        "https://tupanel.info:9000/stream"
       ]
     },
     "languages": [
@@ -1448,39 +1504,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qP1Qpj9r5EiFc9",
-    "name": "Radio Moyobamba",
-    "sources": {
-      "streams": [
-        "https://radioconector.com:7005/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wpzLTB6AjHXtah",
     "name": "Radio Mundo Beatles",
     "sources": {
       "streams": [
         "https://stream.zeno.fm/y79be89qxrhvv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qDcVqdsIlfuGCm",
-    "name": "Radio Nacional del Perú",
-    "sources": {
-      "streams": [
-        "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
       ]
     },
     "languages": [
@@ -1617,6 +1645,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TYSt1L9zSkp687",
+    "name": "Radio Poder Inka 92.1 FM",
+    "sources": {
+      "streams": [
+        "https://radio.livestreamingmundial.com:7094/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M3k4MXumaTrLh8",
+    "name": "Radio Pucallpa 89.1 FM",
+    "sources": {
+      "streams": [
+        "https://sp.dattavolt.com/8026/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ySbRBs0KNqizV6",
     "name": "Radio Retro",
     "sources": {
@@ -1664,6 +1720,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/812ksk66cfeuv.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I2ehmzZomN4e3u",
+    "name": "Radio Sad Perú",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2kma2c011uquv"
       ]
     },
     "languages": [
@@ -1734,6 +1804,34 @@
     "sources": {
       "streams": [
         "https://c30.radioboss.fm:18415/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X8bJUXmIQPar5z",
+    "name": "Radio Sol de los Andes",
+    "sources": {
+      "streams": [
+        "https://cloudstream2036.conectarhosting.com/8036/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UBo49s41febpqF",
+    "name": "Radio Stereo 99 (Bagua Grande)",
+    "sources": {
+      "streams": [
+        "https://sechin.grupocentroserver.com/radio/8300/radio.mp3"
       ]
     },
     "languages": [
@@ -2016,8 +2114,8 @@
     "name": "RPP Mundial",
     "sources": {
       "streams": [
-        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
-        "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
+        "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
+        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
       ]
     },
     "languages": [

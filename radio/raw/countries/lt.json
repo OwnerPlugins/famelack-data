@@ -89,8 +89,8 @@
     "name": "Laluna",
     "sources": {
       "streams": [
-        "https://radio.m-1.fm/laluna/high",
-        "https://radio.m-1.fm/laluna/mp3"
+        "https://radio.m-1.fm/laluna/mp3",
+        "https://radio.m-1.fm/laluna/high"
       ]
     },
     "languages": [
@@ -176,8 +176,8 @@
     "name": "M-1",
     "sources": {
       "streams": [
-        "https://radio.m-1.fm/m1/mp3",
-        "https://stream.m-1.fm/M-1aacp"
+        "https://stream.m-1.fm/M-1aacp",
+        "https://radio.m-1.fm/m1/mp3"
       ]
     },
     "languages": [
@@ -231,11 +231,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bzLH14yRYfaTLI",
-    "name": "Patejago Radijas",
+    "nanoid": "zfR8RHAFT9b0qI",
+    "name": "Pasaulio muzikos radijas (PMR)",
     "sources": {
       "streams": [
-        "https://stream-46.zeno.fm/f6m1zbud5p8uv"
+        "https://pmr.lt/streams/pmr-3",
+        "https://pmr.lt/streams/pmr-1",
+        "https://pmr.lt/streams/pmr-2"
       ]
     },
     "languages": [
@@ -263,8 +265,8 @@
     "name": "Power Hit Radio",
     "sources": {
       "streams": [
-        "https://ice.leviracloud.eu/phr192-mp3",
         "https://ice2.powerhitradio.lt/PHR_AAC",
+        "https://ice.leviracloud.eu/phr192-mp3",
         "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
       ]
     },
