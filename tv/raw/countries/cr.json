@@ -104,8 +104,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -123,20 +122,6 @@
       ]
     },
     "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rbhi1IeYnyJ3gG",
-    "name": "Cedros TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -225,14 +210,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DfocyeyWMBI6M1",
-    "name": "Enlace Juvenil",
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
     "sources": {
       "streams": [
-        "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8"
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ]
     },
     "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -704,32 +690,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1lxmOusZyEa4Zg",
-    "name": "Zurqui TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
       ]
     },
     "languages": [

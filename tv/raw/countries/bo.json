@@ -170,7 +170,8 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [],
@@ -402,20 +403,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "za6KpDi86ZZAJu",
-    "name": "SPC Canal 15",
-    "sources": {
-      "streams": [
-        "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jo5rZWZDxVWDCK",
     "name": "Sucremanta TV",
     "sources": {
@@ -458,20 +445,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oOiARRZ91GwBKV",
-    "name": "TL Estrella",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lCPbDhC1z9VYdq",
     "name": "TransMedia",
     "sources": {
@@ -490,8 +463,8 @@
     "name": "TV Latina",
     "sources": {
       "streams": [
-        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
-        "https://master.tucableip.com/tvlatina/index.m3u8"
+        "https://master.tucableip.com/tvlatina/index.m3u8",
+        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
       ]
     },
     "languages": [
@@ -583,11 +556,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N0kSUvzkeZXdmq",
-    "name": "Unitel La Paz",
+    "nanoid": "8XmRascOPMJDcT",
+    "name": "Unitel Santa Cruz",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
+        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
       ]
     },
     "languages": [],

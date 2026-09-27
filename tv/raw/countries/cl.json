@@ -238,21 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1Gs106kwXgodNe",
-    "name": "Atacama TV",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-        "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hIEfh4SbrXgLQR",
     "name": "Autonoma TV",
     "sources": {
@@ -301,20 +286,6 @@
     "sources": {
       "streams": [
         "https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KKyR8E2xImg4yR",
-    "name": "Campo Abierto TV",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/catvlive/index.m3u8"
       ]
     },
     "languages": [
@@ -385,20 +356,6 @@
     "sources": {
       "streams": [
         "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xxABX6a946nQJU",
-    "name": "Canal 30 Loncomilla",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8"
       ]
     },
     "languages": [
@@ -581,7 +538,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-gbyY_L4WGw"
+        "https://www.youtube-nocookie.com/embed/qw0wKxFiw50"
       ]
     },
     "languages": [
@@ -1295,7 +1252,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0OKrvA9cXaw"
+        "https://www.youtube-nocookie.com/embed/YDPs3Ki0ZfY"
       ]
     },
     "languages": [],
@@ -1672,6 +1629,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4Ct6exF1rK9BzH",
+    "name": "Radio Frecuencia Uno",
+    "sources": {
+      "streams": [
+        "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8HaE3IUVFLphXf",
     "name": "Radio La Serena TV",
     "sources": {
@@ -2014,20 +1985,6 @@
     "sources": {
       "streams": [
         "https://v1.tustreaming.cl/sabortv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NXrxRZbnI9S3VQ",
-    "name": "San Nicolas TV",
-    "sources": {
-      "streams": [
-        "https://v4.tustreaming.cl/sannicolastv/index.m3u8"
       ]
     },
     "languages": [
@@ -2490,8 +2447,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

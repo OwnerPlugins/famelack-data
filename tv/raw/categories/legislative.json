@@ -439,6 +439,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rIKYP5py1TrF7Q",
+    "name": "CT-N Court Feed",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Cb1QitN6W4Cqb",
+    "name": "CT-N TV Conneticut",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nmv9vKmWVIcUqF",
     "name": "CVC Government",
     "sources": {
@@ -585,20 +627,6 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "X9s52ZHCIYv79e",
-    "name": "HCTV Government Channel",
-    "sources": {
-      "streams": [
-        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8"
       ]
     },
     "languages": [
@@ -974,20 +1002,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "be0rVB6CUa2XW4",
-    "name": "Pasco TV",
-    "sources": {
-      "streams": [
-        "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vlyxVSmyz2hGFc",
     "name": "PBC TV Channel 20",
     "sources": {
@@ -1224,7 +1238,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lkhH8O1ZXNM"
+        "https://www.youtube-nocookie.com/embed/VEyLFW9L0Jk"
       ]
     },
     "languages": [

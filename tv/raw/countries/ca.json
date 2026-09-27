@@ -480,11 +480,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
+    "nanoid": "LRBUacm9msNRQ8",
+    "name": "Fight Network",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -494,11 +494,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
     "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
       ]
     },
     "languages": [
@@ -526,9 +526,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -982,6 +982,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tVSimuRyVg06J3",
+    "name": "New Channel",
+    "sources": {
+      "streams": [
+        "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z35fC410AatQuT",
+    "name": "New Channel Pop!",
+    "sources": {
+      "streams": [
+        "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind",
+      "msa",
+      "por",
+      "rus"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "npjeXau21Ev4bz",
     "name": "Newfoundland Television",
     "sources": {
@@ -1194,20 +1226,6 @@
     },
     "languages": [
       "prd"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1957,20 +1975,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/3l4snRG0h1s"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X99oRpChEcKAS",
-    "name": "Super Simple: Simple Songs",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ef2fLZRnxmM"
       ]
     },
     "languages": [
