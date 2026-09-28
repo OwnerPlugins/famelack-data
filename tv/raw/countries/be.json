@@ -14,20 +14,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "OjULEJEZVhhZ9N",
-    "name": "ATV",
-    "sources": {
-      "streams": [
-        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yCMKeXQRVBIK53",
     "name": "Bouke",
     "sources": {
@@ -48,6 +34,20 @@
       "streams": [
         "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
         "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "abeLxZZAtDB502",
+    "name": "Fun Vision",
+    "sources": {
+      "streams": [
+        "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8"
       ]
     },
     "languages": [

@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PuOdackS09IXBO",
+    "name": "Bolivia TV",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TeFmbSu18GnAQ",
     "name": "Cadena A",
     "sources": {
@@ -445,6 +459,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lCPbDhC1z9VYdq",
     "name": "TransMedia",
     "sources": {
@@ -548,7 +576,20 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
+        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0kSUvzkeZXdmq",
+    "name": "Unitel La Paz",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
       ]
     },
     "languages": [],
@@ -564,20 +605,6 @@
       ]
     },
     "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u6WNgsEYDn11w",
-    "name": "Univalle Television",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/univalletv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "bo",
     "isGeoBlocked": false
   },

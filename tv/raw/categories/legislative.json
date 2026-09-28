@@ -269,20 +269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p9TPCkNNGjcV0i",
-    "name": "City of Monroe Government Channel",
-    "sources": {
-      "streams": [
-        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "asX42h8yD38q9i",
     "name": "City of Pompano Beach",
     "sources": {
@@ -636,6 +622,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X9s52ZHCIYv79e",
+    "name": "HCTV Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "sources": {
@@ -974,6 +974,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1238,7 +1252,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VEyLFW9L0Jk"
+        "https://www.youtube-nocookie.com/embed/_tPbY79SSdg"
       ]
     },
     "languages": [

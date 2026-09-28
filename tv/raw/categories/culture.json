@@ -144,21 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "bel",
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
     "sources": {
@@ -273,17 +258,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RMJta2uB0RhiFk",
-    "name": "Channel One",
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jwNP_dd96wg"
+      "streams": [
+        "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
       ]
     },
     "languages": [
-      "fas"
+      "spa"
     ],
-    "country": "us",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -552,6 +537,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "pILTgjKOONeKEW",
+    "name": "El 33 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -563,20 +563,6 @@
       "est"
     ],
     "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "31Wi6UqtxsYAm3",
-    "name": "Ev-tele",
-    "sources": {
-      "streams": [
-        "https://playtv4k.live/live/EVTELE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -824,17 +810,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eSS3Rjhr7Bc3Fu",
-    "name": "Karadeniz TV",
+    "nanoid": "MENDV9zQPKUclz",
+    "name": "Kemet TV",
     "sources": {
       "streams": [
-        "https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8"
+        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
       ]
     },
     "languages": [
-      "tur"
+      "fra"
     ],
-    "country": "tr",
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qp46ccpG1UGKBD",
+    "name": "KIIO-LD 10.4",
+    "sources": {
+      "streams": [
+        "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hye"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1296,20 +1297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z6v7ZVW8wRdbxQ",
-    "name": "Senal U",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GOBdXHd7gdoheA",
     "name": "Sercem TV",
     "sources": {
@@ -1466,6 +1453,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "cWWftSEuzr59Qo",
     "name": "TV Cuatro 4.2",
     "sources": {
@@ -1606,6 +1607,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XhURbZlUHvh8jv",
     "name": "Verso TV",
     "sources": {
@@ -1617,20 +1632,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VZBxSoe576CfEB",
-    "name": "YES",
-    "sources": {
-      "streams": [
-        "https://lana.psm.mv/live/yes.m3u8"
-      ]
-    },
-    "languages": [
-      "div"
-    ],
-    "country": "mv",
     "isGeoBlocked": false
   },
   {

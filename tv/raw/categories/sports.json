@@ -185,6 +185,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SxEZ67YPc8yPDE",
+    "name": "BEK TV Sports West",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
@@ -321,6 +335,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "plN3jsasArf7yH",
+    "name": "Digi Sport 2",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uqY1lmyz1EQJF2",
     "name": "Dong Nai TV 2",
     "sources": {
@@ -393,21 +421,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E8ErNhxgmnUtWl",
     "name": "Extreme Sports Channel",
     "sources": {
@@ -477,20 +490,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -827,7 +826,7 @@
     "name": "KSA Sports",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-HPxgKxyvZY"
+        "https://www.youtube-nocookie.com/embed/TK1XWtPXj6w"
       ]
     },
     "languages": [
@@ -1144,6 +1143,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1471,34 +1471,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kWdBvQFz5aue5n",
-    "name": "Sky Racing 1",
-    "sources": {
-      "streams": [
-        "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "mDtjo6SWz3rKx0",
-    "name": "Sky Racing 2",
-    "sources": {
-      "streams": [
-        "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "kYyFOC5D4jKYMW",
     "name": "Slopes TV",
     "sources": {
@@ -1587,24 +1559,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7bdsXT1F21Lj2s",
-    "name": "Sports Television",
-    "sources": {
-      "streams": [
-        "https://kctv.koryofront.org/stream/sports/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1670,6 +1629,20 @@
     },
     "languages": [
       "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ojnexrR2Xhymi2",
+    "name": "Star Sports 2 Telugu",
+    "sources": {
+      "streams": [
+        "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tel"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -2090,6 +2063,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "so5fgKy39odQZy",
+    "name": "VSBet HD",
+    "sources": {
+      "streams": [
+        "https://live05.meung.app/live/16226575.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
@@ -2229,20 +2216,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VZBxSoe576CfEB",
-    "name": "YES",
-    "sources": {
-      "streams": [
-        "https://lana.psm.mv/live/yes.m3u8"
-      ]
-    },
-    "languages": [
-      "div"
-    ],
-    "country": "mv",
     "isGeoBlocked": false
   }
 ]
