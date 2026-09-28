@@ -1,4 +1,4 @@
-name: Sync country data
+name: Sync fork + country data
 
 on:
   schedule:
@@ -23,14 +23,26 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Merge upstream + local -> it.json
+      - name: Config git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Aggiungi remote upstream
+        run: |
+          git remote add upstream https://github.com/famelack/famelack-data.git || true
+          git fetch upstream main
+
+      - name: Merge upstream mantenendo i miei file
+        run: |
+          git merge upstream/main --no-edit -X ours
+
+      - name: Merge it.json (upstream fresco + it.local.json)
         run: node scripts/merge-country.js it
 
       - name: Commit & push
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add tv/raw/countries/it.json
-          git diff --staged --quiet || git commit -m "chore: sync it.json (upstream + local overrides)"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: sync upstream + aggiornamento it.json"
           git pull --rebase origin main
           git push origin main
