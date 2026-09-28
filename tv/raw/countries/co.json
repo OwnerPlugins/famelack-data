@@ -170,20 +170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pxpERTjTLU5biZ",
-    "name": "Canal CHD",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "btEJDr7vMTEkmk",
     "name": "Canal Cine Dios",
     "sources": {
@@ -370,8 +356,8 @@
     "name": "CMB Television",
     "sources": {
       "streams": [
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
-        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
       ]
     },
     "languages": [
@@ -442,20 +428,6 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jWsKSPOfnPdCDP",
-    "name": "CNC Valledupar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -887,6 +859,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vIdlh7SNXt3y4k",
+    "name": "Panche Television",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uhLgXXhXSYkGEa",
     "name": "Parranda Vallenata",
     "sources": {
@@ -1083,6 +1069,20 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MbGewayZqG9s6Q",
+    "name": "TeleQuindio",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Clv7XzV3Q51izu",

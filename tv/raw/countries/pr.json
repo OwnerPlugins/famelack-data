@@ -209,20 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LNGJVkOrgPhVTB",
-    "name": "Salvacion TV",
-    "sources": {
-      "streams": [
-        "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mus49kJTQfTCmk",
     "name": "Telenorte",
     "stream_urls": [
@@ -335,6 +321,7 @@
     "name": "WIPR-TV 6.1",
     "sources": {
       "streams": [
+        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8",
         "https://streamwipr.pr/hls/stream/index.m3u8"
       ]
     },
@@ -349,7 +336,9 @@
     "name": "WKAQ-DT1 (Telemundo PR)",
     "sources": {
       "streams": [
-        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8"
       ]
     },
     "languages": [

@@ -119,20 +119,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DJbFFGGStaXQPi",
-    "name": "Anand TV",
-    "sources": {
-      "streams": [
-        "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E3w7foWiEC1jDQ",
     "name": "Archie's Weird Mysteries",
     "sources": {
@@ -429,21 +415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFvRLYDETWTBst",
     "name": "Cartoon Network",
     "sources": {
@@ -730,18 +701,6 @@
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "JS9e4HYIPiryYz",
-    "name": "Dude Perfect",
-    "sources": {
-      "streams": [
-        "https://amg07653-apmc-amg07653c4-samsung-gb-9942.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg07653-aparentmediacoinc-dudeperfectchannel-samsunggb/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": true
   },
@@ -1260,6 +1219,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "95mvfX5TCBOt4J",
+    "name": "Jungle Beat",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/N4WgbSeqG6I"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2066,6 +2039,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "sources": {
@@ -2195,20 +2180,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/xDWQ3LkccY8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "sources": {
-      "streams": [
-        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
       ]
     },
     "languages": [

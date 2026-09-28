@@ -19,6 +19,9 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bdUXpgIKUIA"
       ]
     },
     "languages": [
@@ -211,11 +214,10 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QlLx7bRrqW0"
+        "https://www.youtube-nocookie.com/embed/Rk40_h13eR4"
       ]
     },
     "languages": [
@@ -301,6 +303,20 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -584,7 +600,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jUu5pmUJwYQ"
+        "https://www.youtube-nocookie.com/embed/v9DovXvY3TM"
       ]
     },
     "languages": [
@@ -2059,11 +2075,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
+    "nanoid": "dnDnH0o46ue2tm",
+    "name": "SÖZCÜ Televizyonu",
     "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
       ]
     },
     "languages": [
@@ -2073,11 +2089,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dnDnH0o46ue2tm",
-    "name": "SÖZCÜ Televizyonu",
+    "nanoid": "zBlO9YDZ68nfoc",
+    "name": "Spacetoon Turkey",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
+      "streams": [
+        "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8"
       ]
     },
     "languages": [
@@ -2143,6 +2159,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5GoagSnDbPwxmH",
+    "name": "Tele 1",
+    "sources": {
+      "streams": [
+        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rqkOBR323x5UjG",
     "name": "Tempo TV",
     "sources": {
@@ -2189,9 +2219,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YKWBwIVGaEk"
       ]
     },
     "languages": [
