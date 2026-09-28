@@ -38,6 +38,7 @@ Add an entry to `tv/raw/countries/it.local.json`:
     "isGeoBlocked": false
   }
 ]
+```
 Modifying an existing channel
 Add an entry to it.local.json with the same nanoid as the upstream channel you want to override. At the next sync, your version will replace the upstream one in it.json.
 
@@ -50,7 +51,6 @@ The file must contain valid JSON (watch commas and brackets).
 
 
  
- ============================================
  
  # 📡 Famelack Data
 
