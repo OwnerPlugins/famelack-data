@@ -119,6 +119,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DJbFFGGStaXQPi",
+    "name": "Anand TV",
+    "sources": {
+      "streams": [
+        "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E3w7foWiEC1jDQ",
     "name": "Archie's Weird Mysteries",
     "sources": {
@@ -513,7 +527,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HCh68YRwuxk"
+        "https://www.youtube-nocookie.com/embed/99bJ3u_idAA"
       ]
     },
     "languages": [
@@ -1189,7 +1203,7 @@
     "name": "Jungle Beat",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N4WgbSeqG6I"
+        "https://www.youtube-nocookie.com/embed/f9Qz7mBVHnA"
       ]
     },
     "languages": [
@@ -2002,11 +2016,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
+    "nanoid": "c4Swg0nm0Rjn8G",
+    "name": "Rakuten TV Action Movies UK",
     "sources": {
       "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6OObHoCz5T6mVt",
+    "name": "Rakuten TV Sci-Fi UK",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
       ]
     },
     "languages": [],
@@ -2819,20 +2847,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S031zk98bWY7Ix",
-    "name": "WildBrain Kids",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/2shYZ9vQLR8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "he2lOUztjAzsDr",
     "name": "WildBrain: Teletubbies",
     "sources": {
@@ -2852,6 +2866,7 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2880,6 +2895,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

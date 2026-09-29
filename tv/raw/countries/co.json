@@ -142,11 +142,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s64BgUfTafeYF2",
+    "name": "Canal 14 Codazzi",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8056/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4tOQsHNAnrUk50",
     "name": "Canal Calima TV",
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/calimatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pxpERTjTLU5biZ",
+    "name": "Canal CHD",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
       ]
     },
     "languages": [
@@ -316,8 +344,8 @@
     "name": "CMB Television",
     "sources": {
       "streams": [
-        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
       ]
     },
     "languages": [
@@ -376,6 +404,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jWsKSPOfnPdCDP",
+    "name": "CNC Valledupar",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -548,6 +590,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
+    "sources": {
+      "streams": [
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "co",
@@ -742,6 +799,20 @@
     "sources": {
       "streams": [
         "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZfnfgO93XkAdZ",
+    "name": "Soona TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
       ]
     },
     "languages": [

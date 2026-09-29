@@ -18,6 +18,7 @@
     "name": "8XM",
     "sources": {
       "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
         "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8"
       ]
     },
@@ -32,7 +33,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/er_KeeR03sM"
+        "https://www.youtube-nocookie.com/embed/jCsno-hyUDg"
       ]
     },
     "languages": [
@@ -46,7 +47,7 @@
     "name": "92 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PfO2i8XReZA"
+        "https://www.youtube-nocookie.com/embed/B3X6wZi5PX4"
       ]
     },
     "languages": [
@@ -142,7 +143,7 @@
     "name": "Awaz Tv News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/z8bo99_KVII"
+        "https://www.youtube-nocookie.com/embed/2J-3zVaXuG8"
       ]
     },
     "languages": [
@@ -227,7 +228,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yYLcyHGc3Uc"
+        "https://www.youtube-nocookie.com/embed/8ovNozaYwMM"
       ]
     },
     "languages": [
@@ -241,7 +242,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oipVqXluMZc"
+        "https://www.youtube-nocookie.com/embed/W_hMU_HEqDY"
       ]
     },
     "languages": [
@@ -256,7 +257,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xGZhrl4KieA"
+        "https://www.youtube-nocookie.com/embed/5f5z_7vCWzA"
       ]
     },
     "languages": [
@@ -654,6 +655,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XKS3CjcZ7Ew"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "sources": {
@@ -971,20 +986,6 @@
     },
     "languages": [
       "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/F1bWNQyrllY"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

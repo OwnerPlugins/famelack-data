@@ -309,20 +309,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "msqk8hFvDiwdDB",
-    "name": "Cultura 24",
-    "sources": {
-      "streams": [
-        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "V1ZiJWm44mlgNB",
     "name": "CVN TV",
     "sources": {
@@ -840,6 +826,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lyKMcAtKzoxbWQ",
+    "name": "Radio Rumba TV",
+    "sources": {
+      "streams": [
+        "https://tv.sistemasandinos.org/rumbatv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b7ZeRZC6NDPLni",
     "name": "Radio Tropical",
     "sources": {
@@ -945,6 +945,20 @@
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BsVGc0NetKyHUo",
+    "name": "SolTV",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1110,20 +1124,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nXrcWfZsttDQtv",
-    "name": "TV MAR",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U0xG42x0mE1GTr",
     "name": "TV Peruanisima",
     "sources": {
@@ -1185,6 +1185,20 @@
     "sources": {
       "streams": [
         "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6huCeQGJavAeLu",
+    "name": "Ucayalina de Television",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
       ]
     },
     "languages": [

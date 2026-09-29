@@ -150,8 +150,7 @@
     "name": "Atfal & Mawaheb TV",
     "sources": {
       "streams": [
-        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
       ]
     },
     "languages": [
@@ -221,6 +220,20 @@
       "streams": [
         "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JCokef05ozWI8Y",
+    "name": "Balapan International",
+    "sources": {
+      "streams": [
+        "https://live-3.otcnet.ru/Balapan/index.m3u8"
       ]
     },
     "languages": [
@@ -578,20 +591,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ioAW5Hy7e9f7fU",
-    "name": "Chithiram",
-    "sources": {
-      "streams": [
-        "https://cdn.pishow.tv/ott/live/1243/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1205,7 +1204,7 @@
     "name": "Jungle Beat",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N4WgbSeqG6I"
+        "https://www.youtube-nocookie.com/embed/f9Qz7mBVHnA"
       ]
     },
     "languages": [
@@ -1259,6 +1258,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XKS3CjcZ7Ew"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "sources": {
@@ -1301,20 +1328,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "7QNwjfAH3tZtOn",
-    "name": "Koogi TV",
-    "sources": {
-      "streams": [
-        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "eg",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Mi17BkbSFMtULi",
@@ -1706,6 +1719,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "sources": {
@@ -1920,7 +1947,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/O-mfu1-bLz0"
+        "https://www.youtube-nocookie.com/embed/1LAkQmzwWNI"
       ]
     },
     "languages": [
@@ -2040,6 +2067,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/x-ub05vqk98"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -2336,6 +2377,34 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8p5yJurHiJY"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/DWI1QmgYQXY"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -2666,20 +2735,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S031zk98bWY7Ix",
-    "name": "WildBrain Kids",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/2shYZ9vQLR8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {

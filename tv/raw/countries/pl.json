@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -339,21 +353,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lgqzeQFxqCN8jW",
-    "name": "NewTV",
-    "sources": {
-      "streams": [
-        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
-        "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9fqsOnS7piqaUr",
     "name": "Now 90s & 00s",
     "sources": {
@@ -501,6 +500,20 @@
     "sources": {
       "streams": [
         "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/B7MuxcSgcgg"
       ]
     },
     "languages": [
@@ -773,6 +786,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3bTGntbVnKo"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SJ1fJzR4YH5Qub",
-    "name": "Al-Iman TV",
-    "sources": {
-      "streams": [
-        "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "adH0u7bdwEN6Q4",
     "name": "Al-Manar",
     "sources": {
@@ -215,6 +201,20 @@
     "sources": {
       "streams": [
         "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2IP0NHvFLY6hEX",
+    "name": "Palestine Al Yawm",
+    "sources": {
+      "streams": [
+        "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
       ]
     },
     "languages": [

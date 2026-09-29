@@ -659,20 +659,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SJ1fJzR4YH5Qub",
-    "name": "Al-Iman TV",
-    "sources": {
-      "streams": [
-        "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gqagHcGI6e4lYf",
     "name": "Al-Jawadain TV",
     "sources": {
@@ -1175,7 +1161,6 @@
     "sources": {
       "streams": [
         "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
-        "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8"
       ]
     },
@@ -1434,7 +1419,7 @@
         "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uTW8HNSreW0"
+        "https://www.youtube-nocookie.com/embed/ZATDzmCOzJ0"
       ]
     },
     "languages": [
@@ -1469,20 +1454,6 @@
       "ara"
     ],
     "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1684,6 +1655,20 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc90aqSkVbLUNa",
+    "name": "Canal 6 Viento Recio",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -2135,8 +2120,8 @@
     "name": "CMB Television",
     "sources": {
       "streams": [
-        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
       ]
     },
     "languages": [
@@ -2262,7 +2247,6 @@
     "name": "CVR OM Spiritual",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
         "https://cdn.pishow.tv/ott/live/957/master.m3u8",
         "https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
@@ -2615,6 +2599,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lZCJ28tnHKpEgP",
+    "name": "El Camino TV",
+    "sources": {
+      "streams": [
+        "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JgnInJPf8MJfJz",
     "name": "El Puerto TV",
     "sources": {
@@ -2909,21 +2907,6 @@
       "hun"
     ],
     "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EhXSQ0Jhhv1tef",
-    "name": "Exodus TV",
-    "sources": {
-      "streams": [
-        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
-        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
     "isGeoBlocked": false
   },
   {
@@ -3938,6 +3921,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "sources": {
+      "streams": [
+        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tP5Ewc5P83XEEQ",
     "name": "ibrahimlive",
     "sources": {
@@ -4106,18 +4103,6 @@
     ],
     "country": "ph",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JsEDLn39TTIoIZ",
-    "name": "InTouch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "ach3g4vATgIFOv",
@@ -4548,20 +4533,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7QNwjfAH3tZtOn",
-    "name": "Koogi TV",
-    "sources": {
-      "streams": [
-        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x1x2qIKyOGnRAA",
     "name": "KSCE 38.1",
     "sources": {
@@ -4692,20 +4663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VrEjjCopAu2TsV",
-    "name": "La Voz de Maria",
-    "sources": {
-      "streams": [
-        "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QQopjrBuObsS3K",
     "name": "Lalegul TV",
     "sources": {
@@ -4746,6 +4703,20 @@
       "rus"
     ],
     "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NuK9jsc16AOLPv",
+    "name": "LifeTv",
+    "sources": {
+      "streams": [
+        "https://lifetv.mpks.sk/s.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
@@ -5509,8 +5480,8 @@
     "name": "Mercy TV",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
         "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+        "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8"
       ]
     },
@@ -5539,7 +5510,7 @@
     "name": "Methmaga TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mHPElyR6wfo"
+        "https://www.youtube-nocookie.com/embed/qwek53IEYyY"
       ]
     },
     "languages": [
@@ -6630,21 +6601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JKjDnFyeBvaeC8",
-    "name": "Radio Tele Sentinel",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "hat"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TeqRUHz0t6Kdc6",
     "name": "Radio TV El Arca del Pacto",
     "sources": {
@@ -6914,6 +6870,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LNGJVkOrgPhVTB",
+    "name": "Salvacion TV",
+    "sources": {
+      "streams": [
+        "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HKqrpg1Qj0ELtn",
     "name": "Salvation TV",
     "sources": {
@@ -6942,26 +6912,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "a7p8px0xew1TNk",
-    "name": "Sangkem TV",
-    "sources": {
-      "streams": [
-        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U9A01ovFs1ubOM",
     "name": "Sankara TV",
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8"
+        "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1135/master.m3u8"
       ]
     },
     "languages": [
@@ -7566,8 +7523,8 @@
     "name": "SVBC",
     "sources": {
       "streams": [
-        "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8",
+        "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
         "https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8"
       ]
     },
@@ -8031,6 +7988,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k0nYFEHOKnqOiZ",
+    "name": "TNE",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/tnetv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {

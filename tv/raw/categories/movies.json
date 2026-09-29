@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GyD5jgzfEEiUYG",
+    "name": "Asia Flix TV",
+    "sources": {
+      "streams": [
+        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
     "sources": {
@@ -140,6 +154,18 @@
       "bho"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XP5bT3gL9RGIRP",
+    "name": "Bigscreen TV",
+    "sources": {
+      "streams": [
+        "https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -429,20 +455,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8Ucx5FG7ngDLh5",
     "name": "City Eden KinoDetektiv",
     "sources": {
@@ -457,39 +469,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N0XF0zTYtjf6Vc",
     "name": "City Eden KinoKomediya",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -1477,8 +1461,8 @@
     "sources": {
       "streams": [
         "https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
-        "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
+        "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1011/master.m3u8"
       ]
     },
     "languages": [
@@ -1499,6 +1483,21 @@
       "pan"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
+    "sources": {
+      "streams": [
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -1735,8 +1734,8 @@
     "name": "NEW K.MOVIES",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -2020,17 +2019,46 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "sources": {
       "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
-      "ita"
+      "deu"
     ],
-    "country": "it",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c4Swg0nm0Rjn8G",
+    "name": "Rakuten TV Action Movies UK",
+    "sources": {
+      "streams": [
+        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cPkdzV9fItuy2l",
+    "name": "Rakuten TV Comedy Movies Finland",
+    "sources": {
+      "streams": [
+        "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fin"
+    ],
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -2048,17 +2076,60 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9DzDnm8vJPwosX",
-    "name": "Rakuten TV Top Movies Spain",
+    "nanoid": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies Spain",
     "sources": {
       "streams": [
-        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PZAnGbp6hYUZo5",
+    "name": "Rakuten TV Drama Movies Finland",
+    "sources": {
+      "streams": [
+        "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nYCXjvra9MA0zd",
+    "name": "Rakuten TV Drama Movies Germany",
+    "sources": {
+      "streams": [
+        "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc2UvpAt3aRjGd",
+    "name": "Rakuten TV Top Movies Italy",
+    "sources": {
+      "streams": [
+        "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -2175,6 +2246,20 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "U4qFQGhb2lylGn",
+    "name": "Sine Plus",
+    "sources": {
+      "streams": [
+        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8ASIayZG97M5CC",
@@ -2325,7 +2410,8 @@
     "sources": {
       "streams": [
         "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/276/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/276/master.m3u8",
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
     },
     "languages": [
