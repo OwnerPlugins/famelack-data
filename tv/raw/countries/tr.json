@@ -81,7 +81,7 @@
     "name": "A Para",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2N0WRVeMTqM"
+        "https://www.youtube-nocookie.com/embed/REwUb21o6-w"
       ]
     },
     "languages": [
@@ -97,9 +97,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/GInhaLWrJpc"
       ]
     },
     "languages": [
@@ -256,6 +253,9 @@
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8_aEmQtRZZw"
       ]
     },
     "languages": [
@@ -803,8 +803,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1756,6 +1756,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1GHn7hBwkPvtBl",
+    "name": "Sonmez TV",
+    "sources": {
+      "streams": [
+        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -1904,9 +1918,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/7vzmhmqi-ks"
       ]
     },
     "languages": [

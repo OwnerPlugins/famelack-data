@@ -417,6 +417,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C7CqrdYHekA32V",
+    "name": "Alegria TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YbFD75G4AxdNyE",
     "name": "All the K-POP",
     "sources": {
@@ -983,62 +997,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BN8UK0JlgAMrEm",
-    "name": "City Eden Birma Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34364/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lk2MXbqIFnMEMM",
-    "name": "City Eden Classic Music",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47400/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9QIFKg7aQ0UqIc",
-    "name": "City Eden Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34100/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eLHDrGKZWgbc15",
-    "name": "City Eden Sirtaki TV",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46421/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
     "sources": {
@@ -1332,20 +1290,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E3Fuo7LqwAfWE9",
-    "name": "Deluxe Dance",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1840,20 +1784,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "abeLxZZAtDB502",
-    "name": "Fun Vision",
-    "sources": {
-      "streams": [
-        "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -2438,20 +2368,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "sources": {
-      "streams": [
-        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -3180,20 +3096,6 @@
       "ell"
     ],
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iKWwtXoSIYPCGC",
-    "name": "Metaleitor TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -4793,6 +4695,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "okDHJ83ZlAyFOY",
+    "name": "Radio Romania Oltenia-Craiova",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lu21lJ2ydo0AAT",
+    "name": "Radio Romania Targu Mures",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lyKMcAtKzoxbWQ",
     "name": "Radio Rumba TV",
     "sources": {
@@ -4804,20 +4734,6 @@
       "spa"
     ],
     "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oy0RzzLMHXV3WJ",
-    "name": "Radio San Cristobal 88.7 FM",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -5370,8 +5286,7 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/1143/master.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8",
-        "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8"
+        "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8"
       ]
     },
     "languages": [
@@ -5537,6 +5452,34 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "sources": {
+      "streams": [
+        "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -6255,20 +6198,6 @@
       "fra"
     ],
     "country": "mq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Njn8bJGKqOkI3F",
-    "name": "Tele7music",
-    "sources": {
-      "streams": [
-        "https://live.tele7music.ro/hls/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -7100,13 +7029,27 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PZIW4nghU-4"
+        "https://www.youtube-nocookie.com/embed/ZoRdx5kCp7I"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -7201,8 +7144,8 @@
     "name": "Vantage Music",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
-        "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8"
+        "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8"
       ]
     },
     "languages": [
@@ -7267,6 +7210,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {

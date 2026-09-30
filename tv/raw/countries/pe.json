@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iVA33CIrwkHFXi",
-    "name": "Andes Television",
-    "sources": {
-      "streams": [
-        "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yPFftXaL6zAl9S",
     "name": "Antares Television",
     "sources": {
@@ -300,6 +286,20 @@
     "sources": {
       "streams": [
         "https://live.obslivestream.com/crtvmux/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "msqk8hFvDiwdDB",
+    "name": "Cultura 24",
+    "sources": {
+      "streams": [
+        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
       ]
     },
     "languages": [
@@ -914,8 +914,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1124,11 +1124,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U0xG42x0mE1GTr",
-    "name": "TV Peruanisima",
+    "nanoid": "nXrcWfZsttDQtv",
+    "name": "TV MAR",
     "sources": {
       "streams": [
-        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1138,11 +1138,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ha82k7k0qWc0Us",
-    "name": "TV+ Chincha",
+    "nanoid": "U0xG42x0mE1GTr",
+    "name": "TV Peruanisima",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
       ]
     },
     "languages": [
@@ -1227,6 +1227,20 @@
     "sources": {
       "streams": [
         "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYnHHpCe4o5p06",
+    "name": "Universitaria TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
       ]
     },
     "languages": [

@@ -519,20 +519,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "sources": {
-      "streams": [
-        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NodY8gBnmYHwO8",
     "name": "Magic TV",
     "sources": {
@@ -729,20 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o2mdLct3Etcuk8",
-    "name": "Qub TV",
-    "sources": {
-      "streams": [
-        "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "V2O33fBcF0imvd",
     "name": "Radio Fx Net",
     "sources": {
@@ -763,6 +735,34 @@
     "sources": {
       "streams": [
         "https://media.3netmedia.ro/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "okDHJ83ZlAyFOY",
+    "name": "Radio Romania Oltenia-Craiova",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lu21lJ2ydo0AAT",
+    "name": "Radio Romania Targu Mures",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
       ]
     },
     "languages": [
@@ -805,20 +805,6 @@
     "sources": {
       "streams": [
         "https://live.tele7abc.ro/hls/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Njn8bJGKqOkI3F",
-    "name": "Tele7music",
-    "sources": {
-      "streams": [
-        "https://live.tele7music.ro/hls/stream/index.m3u8"
       ]
     },
     "languages": [

@@ -2336,20 +2336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mAcN4r7JdpQPS0",
     "name": "Beond TV",
     "sources": {
@@ -2581,8 +2567,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3486,7 +3472,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/99c3AXcu_9g"
+        "https://www.youtube-nocookie.com/embed/iSidarp0Mz0"
       ]
     },
     "languages": [
@@ -3728,6 +3714,20 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RMJta2uB0RhiFk",
+    "name": "Channel One",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3rueUQK9rZg"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -4336,20 +4336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6mQSbFMohfxTL1",
-    "name": "Community 12TV",
-    "sources": {
-      "streams": [
-        "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6en7wxo2pKO6rD",
     "name": "CommunityTV Channel 189",
     "sources": {
@@ -4394,7 +4380,7 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vQSPRgyCidI"
+        "https://www.youtube-nocookie.com/embed/IMmP9ffri5s"
       ]
     },
     "languages": [
@@ -5969,7 +5955,7 @@
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
         "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
-        "https://estrellatv-glewed.amagi.tv/playlist.m3u8"
+        "https://estrellatv-oando.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -7116,6 +7102,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RbFsdWUryTQQLF",
+    "name": "GunAz TV",
+    "sources": {
+      "streams": [
+        "https://tv.gunaz.tv/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cfijJszABkHa9T",
     "name": "Hagerty",
     "sources": {
@@ -7858,6 +7858,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "As1a59LBPcbNCx",
+    "name": "In Touch+",
+    "sources": {
+      "streams": [
+        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CRZbysFo83yVVC",
     "name": "INFAST",
     "sources": {
@@ -7879,6 +7891,18 @@
     "sources": {
       "streams": [
         "https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "JsEDLn39TTIoIZ",
+    "name": "InTouch+",
+    "sources": {
+      "streams": [
+        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -9194,6 +9218,7 @@
     "sources": {
       "streams": [
         "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+        "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
       ],
       "youtube": [
@@ -9792,26 +9817,82 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iKWwtXoSIYPCGC",
-    "name": "Metaleitor TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vzbETCfzbTdACv",
     "name": "Midnight Pulp",
     "sources": {
       "streams": [
         "https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8",
         "https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2SAtPtBqBfc2UY",
+    "name": "Midpen Media Center Channel 26",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tqCNZa0HLCee0u",
+    "name": "Midpen Media Center Channel 28",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J49I0cja3V1GVG",
+    "name": "Midpen Media Center Channel 29",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AQoLBvOjxVCg4W",
+    "name": "Midpen Media Center Channel 30",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V5gXDCRg4f3pWb",
+    "name": "Midpen Media Center Channel 75",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -10134,21 +10215,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KMeaFYyExwJxtY",
-    "name": "Muslim Network TV",
-    "sources": {
-      "streams": [
-        "https://afghantv.app/hls2/muslimnetwork/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "eng"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10719,7 +10785,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uk5RODxh6ww"
+        "https://www.youtube-nocookie.com/embed/XiZyhJwlDDM"
       ]
     },
     "languages": [
@@ -11643,8 +11709,8 @@
     "name": "Outside TV",
     "sources": {
       "streams": [
-        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-        "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11733,6 +11799,20 @@
     },
     "languages": [
       "fas"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "be0rVB6CUa2XW4",
+    "name": "Pasco TV",
+    "sources": {
+      "streams": [
+        "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -12516,20 +12596,6 @@
     "sources": {
       "streams": [
         "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N7V5PTuGWgF01T",
-    "name": "QVCtv: QVC 1",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZkK-uY8mZrQ"
       ]
     },
     "languages": [
@@ -13828,7 +13894,7 @@
     "name": "Shout! Studios: Get A Life",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cK7HO0Xd91U"
+        "https://www.youtube-nocookie.com/embed/yhhKQ_BGXhw"
       ]
     },
     "languages": [
@@ -15595,7 +15661,7 @@
     "name": "Times Now World",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vF71SwaZNG0"
+        "https://www.youtube-nocookie.com/embed/GcFNaWNMNVk"
       ]
     },
     "languages": [
@@ -15706,7 +15772,7 @@
     "name": "TokuSHOUTsu: Jackie Chan Movie Marathon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TiezQa78Vqc"
+        "https://www.youtube-nocookie.com/embed/1S6R6iWJREk"
       ]
     },
     "languages": [
@@ -16782,7 +16848,7 @@
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dnJ2kDqgpX8"
+        "https://www.youtube-nocookie.com/embed/f1XuqMA4XvI"
       ]
     },
     "languages": [
@@ -17626,8 +17692,7 @@
     "name": "Western Bound",
     "sources": {
       "streams": [
-        "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8",
-        "https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8"
+        "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8"
       ]
     },
     "languages": [],
@@ -17646,6 +17711,42 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9nNo4knwmUpXBD",
+    "name": "WFMZ Dorney Park Camera",
+    "sources": {
+      "streams": [
+        "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AJTmHwIJM7UaGv",
+    "name": "WFMZ PennST camera",
+    "sources": {
+      "streams": [
+        "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kpjvqmDQnkWn7e",
+    "name": "WFMZ Traffic",
+    "sources": {
+      "streams": [
+        "https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -18876,8 +18977,7 @@
     "sources": {
       "streams": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
-        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

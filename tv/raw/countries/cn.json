@@ -127,6 +127,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Re5Rs60C2x03XD",
+    "name": "CCTV+ 1",
+    "sources": {
+      "streams": [
+        "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yIwXMwM4XLZjQD",
     "name": "CCTV+ 2",
     "sources": {
@@ -587,30 +601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQS6mmZySzL6Rf",
-    "name": "上虞1新闻综合",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZMTYKvEKk1dmYw",
-    "name": "上虞經濟文化",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "sources": {
@@ -628,6 +618,18 @@
     "sources": {
       "streams": [
         "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z6LINyrJx59mNs",
+    "name": "余姚新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
       ]
     },
     "languages": [],
@@ -697,18 +699,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9wRBNHe95BnBON",
-    "name": "嵊州综合",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OV9fgTIJjuEnHm",
     "name": "延边新闻综合",
     "sources": {
@@ -719,6 +709,18 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LWZapZpACANZ13",
+    "name": "新昌休闲影视",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UKPg4OIuLFiPtH",
@@ -889,18 +891,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HGBni7wKrtguXm",
-    "name": "萧山新闻综合",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hlJLT7eqdRNqcv",
     "name": "蕭山生活頻道",
     "sources": {
@@ -959,17 +949,5 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6nQrzZYDFKwB5C",
-    "name": "餘姚姚江文化",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   }
 ]
