@@ -4,8 +4,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:1150/stream",
-        "https://radio.streemlion.com:4870/stream"
+        "https://radio.streemlion.com:4870/stream",
+        "https://radio.streemlion.com:1150/stream"
       ]
     },
     "languages": [
@@ -34,8 +34,8 @@
     "name": "Antena 1",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8"
       ]
     },
@@ -124,8 +124,8 @@
     "name": "Antena 2 Jazzin",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8",
-        "https://radiocast.rtp.pt/antena2jazzin80a.mp3"
+        "https://radiocast.rtp.pt/antena2jazzin80a.mp3",
+        "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -319,35 +319,6 @@
     },
     "languages": [
       "eng",
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GHkAziDKCMY6Cu",
-    "name": "Jovembsk",
-    "sources": {
-      "streams": [
-        "https://stream-54.zeno.fm/ppgb4k7vhqztv",
-        "https://stream-42.zeno.fm/ppgb4k7vhqztv"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ivXct5c1ibX9SR",
-    "name": "Jovembsk Mix",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/4nc1mzdp81xuv"
-      ]
-    },
-    "languages": [
       "por"
     ],
     "country": "pt",
@@ -728,6 +699,20 @@
     "sources": {
       "streams": [
         "https://radios2.justweb.pt:8064/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JgxKM0ZpxOulDl",
+    "name": "Rádio Cantinho dos Emigrantes",
+    "sources": {
+      "streams": [
+        "https://cast.redewt.net:9825/stream"
       ]
     },
     "languages": [
@@ -1350,8 +1335,8 @@
     "name": "RCP-VAR",
     "sources": {
       "streams": [
-        "https://sonic.servsonic.com/8028/stream",
-        "https://sonic.servsonic.com:7003/;"
+        "https://sonic.servsonic.com:7003/;",
+        "https://sonic.servsonic.com/8028/stream"
       ]
     },
     "languages": [
@@ -1451,9 +1436,9 @@
     "name": "RFM",
     "sources": {
       "streams": [
-        "https://22593.live.streamtheworld.com/RFMAAC.aac",
         "https://23603.live.streamtheworld.com/RFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3"
+        "https://22593.live.streamtheworld.com/RFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC"
       ]
     },
     "languages": [

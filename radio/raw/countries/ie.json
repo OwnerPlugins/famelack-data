@@ -47,8 +47,8 @@
     "name": "Beat 102-103",
     "sources": {
       "streams": [
-        "https://stream.audioxi.com/BEATAAC",
-        "https://live-bauerie.sharp-stream.com/BEAT"
+        "https://live-bauerie.sharp-stream.com/BEAT",
+        "https://stream.audioxi.com/BEATAAC"
       ]
     },
     "languages": [
@@ -63,6 +63,20 @@
     "sources": {
       "streams": [
         "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "feq5uGAEB4sSyp",
+    "name": "Biggest Disco Radio",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/s823d25743/low"
       ]
     },
     "languages": [
@@ -497,20 +511,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WOXHcrLbcoLrQh",
-    "name": "Life FM",
-    "sources": {
-      "streams": [
-        "https://uksoutha.streaming.broadcast.radio:28140/lifefm"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GIKOTIWnWl4zSl",
     "name": "Limerick's Live 95FM",
     "sources": {
@@ -572,8 +572,8 @@
     "sources": {
       "streams": [
         "https://direct.sharp-stream.com/midwestfmie.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
       ]
     },
     "languages": [
@@ -588,6 +588,20 @@
     "sources": {
       "streams": [
         "https://strw3.openstream.co/939"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ASfTtTtO52eA97",
+    "name": "MPB Radio 1",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/radio1.mp3"
       ]
     },
     "languages": [
@@ -645,8 +659,8 @@
     "name": "Newstalk",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/NT",
-        "https://live-bauerie.sharp-stream.com/NTAAC"
+        "https://live-bauerie.sharp-stream.com/NTAAC",
+        "https://edge.audioxi.com/NT"
       ]
     },
     "languages": [
@@ -1076,9 +1090,9 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW",
         "https://stream.audioxi.com/SW",
-        "https://live-bauerie.sharp-stream.com/SW"
+        "https://edge.audioxi.com/SW"
       ]
     },
     "languages": [
@@ -1148,8 +1162,8 @@
     "name": "Today FM",
     "sources": {
       "streams": [
-        "https://pri.gocaster.net/td",
         "https://stream.audioxi.com/TD",
+        "https://pri.gocaster.net/td",
         "https://live-bauerie.sharp-stream.com/TDAAC"
       ]
     },
@@ -1165,8 +1179,8 @@
     "sources": {
       "streams": [
         "https://live-bauerie.sharp-stream.com/T80",
-        "https://edge3.audioxi.com/T80",
-        "https://stream.audioxi.com/T80"
+        "https://stream.audioxi.com/T80",
+        "https://edge3.audioxi.com/T80"
       ]
     },
     "languages": [

@@ -183,34 +183,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nysHfaJW01QtdE",
-    "name": "Brava Radio",
-    "sources": {
-      "streams": [
-        "https://stream.radiojar.com/5k7t0rq3bnzuv"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H4373t1JaohhVs",
-    "name": "Brava Radio 103.8",
-    "sources": {
-      "streams": [
-        "https://n0d.radiojar.com/5k7t0rq3bnzuv"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DZHLqVHS0WHCZc",
     "name": "Bravo FM 96.1",
     "sources": {
@@ -300,9 +272,9 @@
     "name": "Cosmopolitan FM 90.4",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/u7d8heq3bnzuv",
         "https://n10.radiojar.com/u7d8heq3bnzuv",
-        "https://stream.radiojar.com/u7d8heq3bnzuv"
+        "https://n05.radiojar.com/u7d8heq3bnzuv",
+        "https://n0d.radiojar.com/u7d8heq3bnzuv"
       ]
     },
     "languages": [
@@ -453,6 +425,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CfpynH30iU6OGW",
+    "name": "Gajahmada 102.4 FM",
+    "sources": {
+      "streams": [
+        "https://server.radioimeldafm.co.id:8040/gajahmadafm"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VP8CLs7h4BoX27",
     "name": "Galuh Media",
     "sources": {
@@ -485,8 +471,8 @@
     "name": "Hard Rock FM Jakarta",
     "sources": {
       "streams": [
-        "https://n13.radiojar.com/7csmg90fuqruv",
-        "https://stream.radiojar.com/7csmg90fuqruv"
+        "https://stream.radiojar.com/7csmg90fuqruv",
+        "https://n13.radiojar.com/7csmg90fuqruv"
       ]
     },
     "languages": [
@@ -571,8 +557,22 @@
     "sources": {
       "streams": [
         "https://n07.radiojar.com/4ywdgup3bnzuv",
-        "https://stream.radiojar.com/4ywdgup3bnzuv",
-        "https://n11.radiojar.com/4ywdgup3bnzuv"
+        "https://n11.radiojar.com/4ywdgup3bnzuv",
+        "https://stream.radiojar.com/4ywdgup3bnzuv"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UDnM9kce2qBLSt",
+    "name": "Imelda 104.4 FM",
+    "sources": {
+      "streams": [
+        "https://server.radioimeldafm.co.id:8030/imeldafm"
       ]
     },
     "languages": [
@@ -784,7 +784,7 @@
       "streams": [
         "https://streaming.klcbs.id/listen/klcbs/klcbs-hd",
         "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
-        "https://streaming.klcbs.id/listen/klcbs/klcbsfm"
+        "https://streaming.klcbs.id/listen/klcbs/klcbs"
       ]
     },
     "languages": [
@@ -1086,8 +1086,8 @@
     "name": "Pas FM Jakarta",
     "sources": {
       "streams": [
-        "https://i.klikhost.com/8266/stream",
-        "https://i.klikhost.com:8266/stream/;"
+        "https://i.klikhost.com:8266/stream/;",
+        "https://i.klikhost.com/8266/stream"
       ]
     },
     "languages": [
@@ -1241,8 +1241,8 @@
     "name": "Radio Campursari 89.2 FM",
     "sources": {
       "streams": [
-        "https://streaming.campursarifm.com/listen/campursari/campursari892",
-        "https://a8.siar.us/listen/campursari/stream"
+        "https://a8.siar.us/listen/campursari/stream",
+        "https://streaming.campursarifm.com/listen/campursari/campursari892"
       ]
     },
     "languages": [
@@ -1287,6 +1287,20 @@
     "sources": {
       "streams": [
         "https://svara-stream.radioddns.net/bandung_dahliafm"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JwTWOlRs0SDQhx",
+    "name": "Radio Dakwah Islam 107.9 FM",
+    "sources": {
+      "streams": [
+        "https://i.klikhost.com/8260/;radio.mp3"
       ]
     },
     "languages": [
@@ -1399,6 +1413,20 @@
     "sources": {
       "streams": [
         "https://s1.gntr.net/listen/radio_gentara/gentara64"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "shYCH1UgYkhudv",
+    "name": "Radio Gobers",
+    "sources": {
+      "streams": [
+        "https://sx.alhasmedia.com/radio/8140/radio"
       ]
     },
     "languages": [
@@ -1680,8 +1708,8 @@
     "name": "Radio Swara Semarang",
     "sources": {
       "streams": [
-        "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
-        "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang"
+        "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+        "https://server.radioimeldafm.co.id/radio/8010/swarasemarang"
       ]
     },
     "languages": [
@@ -2267,6 +2295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UHlHyRM8pOZY6c",
+    "name": "Safasindo FM",
+    "sources": {
+      "streams": [
+        "https://radio.safasindo.com/listen/radio_safasindo/radio.mp3"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YGVXx6PyXBe30v",
     "name": "Sahabat Kehidupan FM",
     "sources": {
@@ -2386,20 +2428,6 @@
     "sources": {
       "streams": [
         "https://live.stifmnunukan.com/listen/stifm/stream"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pKxFqh4dNIbNrq",
-    "name": "Suara Al Jihad FM Banjarmasin",
-    "sources": {
-      "streams": [
-        "https://i.klikhost.com:8044/;stream.mp3"
       ]
     },
     "languages": [
@@ -2606,6 +2634,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gHG18it9MFR3nZ",
+    "name": "Trax 90.2 FM Semarang",
+    "sources": {
+      "streams": [
+        "https://n12.radiojar.com/fr9zqhv80k8uv"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xdvBEuF39iU6c0",
     "name": "Trax 101.4 FM Jakarta",
     "sources": {
@@ -2757,20 +2799,6 @@
     },
     "languages": [
       "eng",
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bxT6XmHiQ0Kvyi",
-    "name": "Xtra FM Singkil",
-    "sources": {
-      "streams": [
-        "https://i.klikhost.com/8864/;"
-      ]
-    },
-    "languages": [
       "ind"
     ],
     "country": "id",

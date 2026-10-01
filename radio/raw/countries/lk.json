@@ -74,8 +74,8 @@
     "name": "Hiru FM",
     "sources": {
       "streams": [
-        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
-        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1"
+        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1",
+        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden"
       ]
     },
     "languages": [
@@ -160,20 +160,6 @@
     "sources": {
       "streams": [
         "https://cp11.serverse.com/proxy/nethfm/stream"
-      ]
-    },
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1IyHpEmvsKd3eq",
-    "name": "Radio Plus",
-    "sources": {
-      "streams": [
-        "https://altair.streamerr.co/stream/8036"
       ]
     },
     "languages": [

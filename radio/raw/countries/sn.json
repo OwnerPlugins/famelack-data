@@ -56,6 +56,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hMGECPF1AWXxo4",
+    "name": "Central FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/t2e45xqkunhvv"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x2B69z1jHwzjR1",
+    "name": "Diassing FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/veaguaqvvk8uv"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mF3QglQK4o8LU6",
     "name": "FM Sénégal",
     "sources": {
@@ -200,8 +228,8 @@
     "name": "Radio Thiossane",
     "sources": {
       "streams": [
-        "https://listen.senemultimedia.net:8112/stream",
-        "https://stream.radiothiossane.com/"
+        "https://stream.radiothiossane.com/",
+        "https://listen.senemultimedia.net:8112/stream"
       ]
     },
     "languages": [
@@ -398,20 +426,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/0zrxvents1duv"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iDDAcOJ5LWnnbd",
-    "name": "RTS Ziguinchor",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/ua9aunfqt1duv"
       ]
     },
     "languages": [

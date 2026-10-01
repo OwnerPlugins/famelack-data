@@ -232,23 +232,9 @@
     "name": "Aspen 102.3 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
         "https://26643.live.streamtheworld.com/ASPEN.mp3",
-        "https://27383.live.streamtheworld.com/ASPEN.mp3"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Z5yBpcvdUQk1b",
-    "name": "Aura Radio",
-    "sources": {
-      "streams": [
-        "https://cp9.serverse.com/proxy/auraradio/stream"
+        "https://27383.live.streamtheworld.com/ASPEN.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3"
       ]
     },
     "languages": [
@@ -550,6 +536,20 @@
     "sources": {
       "streams": [
         "https://01.solumedia.com.ar:8112/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SoVwi3EYRyHWXw",
+    "name": "Contacto 95.3 FM",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.hostradios.com:7160/;"
       ]
     },
     "languages": [
@@ -1686,6 +1686,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FP7Ir8upuwv8aR",
+    "name": "FM Latina 92.5",
+    "sources": {
+      "streams": [
+        "https://streaming.radiosenlinea.com.ar:9640/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GrPWU0USJNceub",
     "name": "FM Líder 104.3",
     "sources": {
@@ -2494,8 +2508,8 @@
     "name": "Metro 95.1 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3"
       ]
     },
     "languages": [
@@ -2650,20 +2664,6 @@
     "sources": {
       "streams": [
         "https://argentina.shockmedia.com.ar:8014/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1uV1207xhk7wwJ",
-    "name": "Planet Music 101.1",
-    "sources": {
-      "streams": [
-        "https://strcdn.klm99.com:10991/planetmdp"
       ]
     },
     "languages": [
@@ -3016,20 +3016,6 @@
     "sources": {
       "streams": [
         "https://cdn.instream.audio:9307/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sXFb9xtmWtjFRv",
-    "name": "Radio Arias 91.1 FM",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio/:9095/stream"
       ]
     },
     "languages": [
@@ -3409,8 +3395,8 @@
     "name": "Radio Disney Argentina 94.3 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac"
       ]
     },
     "languages": [
@@ -4008,20 +3994,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W2NYJkdFUItJ4C",
-    "name": "Radio Panorama 100.1",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/radio/sgodelestero.stream/chunklist_w552289122.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YSLqNWEiVruoJO",
     "name": "Radio Profesional 89.9 FM",
     "sources": {
@@ -4365,8 +4337,8 @@
     "name": "Radio UNCo CALF 103.7 FM",
     "sources": {
       "streams": [
-        "https://cdn.instream.audio/:9032/stream",
-        "https://cdn.instream.audio:9032/stream"
+        "https://cdn.instream.audio:9032/stream",
+        "https://cdn.instream.audio/:9032/stream"
       ]
     },
     "languages": [
@@ -4689,8 +4661,8 @@
     "name": "Rock & Pop 95.9 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3"
       ]
     },
     "languages": [
@@ -4918,20 +4890,6 @@
     "sources": {
       "streams": [
         "https://servidor1.hostradios.com:8070/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SIdHrU3y58G3E9",
-    "name": "Urbana Play 104.4 FM",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio:9660/stream"
       ]
     },
     "languages": [

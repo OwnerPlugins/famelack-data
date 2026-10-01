@@ -377,8 +377,8 @@
     "name": "B 107.9 FM Tacloban",
     "sources": {
       "streams": [
-        "https://streamnavs.net:8147/live",
-        "https://streamnavs.net:8147/stream"
+        "https://streamnavs.net:8147/stream",
+        "https://streamnavs.net:8147/live"
       ]
     },
     "languages": [
@@ -589,8 +589,8 @@
     "name": "Bombo Radyo La Union",
     "sources": {
       "streams": [
-        "https://stream.zenolive.com/n6wgdtu78heuv",
-        "https://stream.zeno.fm/n6wgdtu78heuv"
+        "https://stream.zeno.fm/n6wgdtu78heuv",
+        "https://stream.zenolive.com/n6wgdtu78heuv"
       ]
     },
     "languages": [
@@ -636,6 +636,21 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/1etogiwypoztv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8GQ7UwvraQNdKC",
+    "name": "Bombo Radyo Tacloban",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/e8zw1dg0xy5tv"
       ]
     },
     "languages": [
@@ -874,9 +889,9 @@
     "name": "Eagle FM 95.5",
     "sources": {
       "streams": [
+        "https://stream.radiojar.com/yus0r2bghd3vv",
         "https://n06.radiojar.com/yus0r2bghd3vv",
-        "https://n0d.radiojar.com/yus0r2bghd3vv",
-        "https://stream.radiojar.com/yus0r2bghd3vv"
+        "https://n09.radiojar.com/yus0r2bghd3vv"
       ]
     },
     "languages": [
@@ -1657,8 +1672,8 @@
     "name": "OK-FM Sorsogon",
     "sources": {
       "streams": [
-        "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3",
-        "https://s20.reliastream.com:8178/stream"
+        "https://s20.reliastream.com:8178/stream",
+        "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3"
       ]
     },
     "languages": [
@@ -2629,21 +2644,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PVoqDhJ63WFyqU",
-    "name": "Radyong Sira!",
-    "sources": {
-      "streams": [
-        "https://a7.asurahosting.com:9110/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5Vk8OcfJLRBv0O",
     "name": "Rage Music Philippines",
     "sources": {
@@ -2684,20 +2684,6 @@
     "languages": [
       "eng",
       "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hc7hZuDVALFtmi",
-    "name": "Rhythm 101 FM Online",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/tzn3ovjs0nbvv"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -2949,6 +2935,21 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/60cb36c29heuv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wR8bTHgS3jb3Vd",
+    "name": "Star FM Cotabato",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/hf1yubc29heuv"
       ]
     },
     "languages": [
@@ -3219,9 +3220,9 @@
     "name": "Win Radio 107.5",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/sxk9ss4f4oeuv",
         "https://stream-42.zeno.fm/1noxhem5qpkuv",
-        "https://stream.zeno.fm/dx1k9na7nznvv"
+        "https://stream.zeno.fm/dx1k9na7nznvv",
+        "https://stream.zeno.fm/sxk9ss4f4oeuv"
       ]
     },
     "languages": [

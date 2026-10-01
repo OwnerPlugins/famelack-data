@@ -288,8 +288,8 @@
     "name": "Deep House Radio",
     "sources": {
       "streams": [
-        "https://live.dancemusic.ro:7000/radio.mp3",
-        "https://live.dancemusic.ro:7000/stream"
+        "https://live.dancemusic.ro:7000/stream",
+        "https://live.dancemusic.ro:7000/radio.mp3"
       ]
     },
     "languages": [
@@ -515,8 +515,8 @@
     "sources": {
       "streams": [
         "https://azura.ebsmedia.ro/listen/live/live320.aac",
-        "https://azura.ebsmedia.ro/listen/live/live128.mp3",
-        "https://azura.ebsmedia.ro/listen/live/live96.aac"
+        "https://azura.ebsmedia.ro/listen/live/live96.aac",
+        "https://azura.ebsmedia.ro/listen/live/live128.mp3"
       ]
     },
     "languages": [
@@ -593,6 +593,20 @@
     },
     "languages": [
       "hun"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "88L2elIFG0vsnp",
+    "name": "Europa FM",
+    "sources": {
+      "streams": [
+        "https://astreaming.edi.ro:8443/EuropaFM_aac"
+      ]
+    },
+    "languages": [
+      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -982,8 +996,8 @@
     "name": "Magic FM Party Mix",
     "sources": {
       "streams": [
-        "https://live.kissfm.ro/magic.party.mix",
-        "https://live.magicfm.ro/magic.party.mix"
+        "https://live.magicfm.ro/magic.party.mix",
+        "https://live.kissfm.ro/magic.party.mix"
       ]
     },
     "languages": [
@@ -1110,8 +1124,8 @@
     "name": "One FM",
     "sources": {
       "streams": [
-        "https://live.kissfm.ro/onefm.aacp",
-        "https://live.onefm.ro/onefm.aacp"
+        "https://live.onefm.ro/onefm.aacp",
+        "https://live.kissfm.ro/onefm.aacp"
       ]
     },
     "languages": [
@@ -1197,9 +1211,9 @@
     "name": "Play Radio",
     "sources": {
       "streams": [
-        "https://live.playradio.org:8443/FMHD",
+        "https://live.playradio.org:8443/90HD",
         "https://live.playradio.org:9090/FMHD",
-        "https://live.playradio.org:8443/90HD"
+        "https://live.playradio.org:8443/FMHD"
       ]
     },
     "languages": [
@@ -2370,8 +2384,8 @@
     "name": "Radio Noise",
     "sources": {
       "streams": [
-        "https://live.radionoise.ro:9100/stream",
-        "https://live.radionoise.ro:9100/;"
+        "https://live.radionoise.ro:9100/;",
+        "https://live.radionoise.ro:9100/stream"
       ]
     },
     "languages": [
@@ -2726,8 +2740,8 @@
     "name": "Radio Stil Mix Manele",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/87sktrysmuqtv",
-        "https://stream.zeno.fm/zt84vax7ptzuv"
+        "https://stream.zeno.fm/zt84vax7ptzuv",
+        "https://stream.zeno.fm/87sktrysmuqtv"
       ]
     },
     "languages": [
@@ -3652,6 +3666,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1MW4O1mCyLKYyb",
+    "name": "Sighet FM",
+    "sources": {
+      "streams": [
+        "https://radio.zifer.ro/SighetFM"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tIJP2nmt922XAM",
     "name": "Sky Radio",
     "sources": {
@@ -3982,7 +4010,6 @@
     "name": "Terra FM",
     "sources": {
       "streams": [
-        "https://cloud.radiosonicpanel.ro/8020/stream",
         "https://stream.terrafm.ro/stream"
       ]
     },
@@ -4120,20 +4147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pYtN1Z9efuHnKL",
-    "name": "Viva FM Deep Music",
-    "sources": {
-      "streams": [
-        "https://cloud.radiosonicpanel.ro/8024/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mhnj5IIfFVfIAV",
     "name": "Viva FM Fălticeni",
     "sources": {
@@ -4153,20 +4166,6 @@
     "sources": {
       "streams": [
         "https://cloud.radiosonicpanel.ro:8002/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3rra7p1pyc1Tw1",
-    "name": "Viva FM Iași",
-    "sources": {
-      "streams": [
-        "https://cloud.radiosonicpanel.ro/8002/stream"
       ]
     },
     "languages": [

@@ -256,8 +256,8 @@
     "name": "Bob's Ska Radio",
     "sources": {
       "streams": [
-        "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1",
-        "https://usa19.fastcast4u.com:2030/;"
+        "https://usa19.fastcast4u.com:2030/;",
+        "https://eu8.fastcast4u.com/proxy/chrtre00?mp=/1"
       ]
     },
     "languages": [
@@ -739,8 +739,8 @@
     "name": "Fyah 105",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/459389/stream/514595",
-        "https://play.radioking.io/fyah105-fm/514601"
+        "https://play.radioking.io/fyah105-fm/514601",
+        "https://listen.radioking.com/radio/459389/stream/514595"
       ]
     },
     "languages": [
@@ -826,7 +826,7 @@
       "streams": [
         "https://stream-27.zeno.fm/kvudezx1h2zuv",
         "https://stream.zeno.fm/cs4q33arb2zuv",
-        "https://stream-47.zeno.fm/gf58b0pt5x8uv"
+        "https://stream.zeno.fm/kvudezx1h2zuv"
       ]
     },
     "languages": [
@@ -1251,14 +1251,28 @@
     "name": "Music Galaxy Radio",
     "sources": {
       "streams": [
-        "https://eu10.fastcast4u.com:1390/;",
-        "https://eu10.fastcast4u.com/themusi2"
+        "https://eu10.fastcast4u.com/themusi2",
+        "https://eu10.fastcast4u.com:1390/;"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ubf7hSHGCWCp71",
+    "name": "MyFM",
+    "sources": {
+      "streams": [
+        "https://halo.streamerr.co/listen/myfmperth/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
     "isGeoBlocked": false
   },
   {
@@ -1535,20 +1549,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JX2HZusVVuciup",
-    "name": "Radio C-Lab",
-    "sources": {
-      "streams": [
-        "https://www.c-lab.fr/stream"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lILxWfYROfqa3r",
     "name": "Radio Dub'issimo",
     "sources": {
@@ -1808,8 +1808,8 @@
     "name": "Rastyle Radio",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/gf58b0pt5x8uv",
-        "https://stream-57.zeno.fm/gf58b0pt5x8uv"
+        "https://stream-57.zeno.fm/gf58b0pt5x8uv",
+        "https://stream.zeno.fm/gf58b0pt5x8uv"
       ]
     },
     "languages": [
@@ -2136,8 +2136,8 @@
     "sources": {
       "streams": [
         "https://ice2.somafm.com/dubstep-128-aac",
-        "https://ice2.somafm.com/dubstep-128-mp3",
-        "https://ice6.somafm.com/dubstep-128-aac"
+        "https://ice6.somafm.com/dubstep-128-aac",
+        "https://ice2.somafm.com/dubstep-128-mp3"
       ]
     },
     "languages": [
@@ -2151,8 +2151,8 @@
     "name": "SomaFM: Heavyweight Reggae",
     "sources": {
       "streams": [
-        "https://ice2.somafm.com/reggae-128-mp3",
         "https://ice6.somafm.com/reggae-128-mp3",
+        "https://ice2.somafm.com/reggae-128-mp3",
         "https://ice6.somafm.com/reggae-128-aac"
       ]
     },

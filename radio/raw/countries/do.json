@@ -144,8 +144,8 @@
     "name": "Dominicana FM",
     "sources": {
       "streams": [
-        "https://protvradiostream.com:8610/stream",
-        "https://protvradiostream.com:8610/;"
+        "https://protvradiostream.com:8610/;",
+        "https://protvradiostream.com:8610/stream"
       ]
     },
     "languages": [
@@ -215,7 +215,6 @@
     "name": "Éxtasis 89.5 FM",
     "sources": {
       "streams": [
-        "https://radio.hostlagarto.com/8070/stream",
         "https://stream.zeno.fm/f7wt0ptjpn3vv"
       ]
     },
@@ -550,11 +549,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XygfP9l3DJ96fe",
-    "name": "Radio Eternidad",
+    "nanoid": "ghtWzyWxSqnwDc",
+    "name": "Radio FM-103.5",
     "sources": {
       "streams": [
-        "https://cast5.my-control-panel.com/proxy/radioete/stream"
+        "https://radio.radiord.net/8008/;",
+        "https://radio.radiord.net/8008/;stream.mp3"
       ]
     },
     "languages": [
@@ -583,20 +583,6 @@
     "sources": {
       "streams": [
         "https://radio2.grupointernet.com/8103/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kWTPGCn4mGOGWD",
-    "name": "Radio Santa María",
-    "sources": {
-      "streams": [
-        "https://paginas.moisespaulino.com/proxy/rsantamaria/stream"
       ]
     },
     "languages": [
@@ -737,20 +723,6 @@
     "sources": {
       "streams": [
         "https://servidor38.brlogic.com:7104/live"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bHPK9hUU1SyvBB",
-    "name": "Vida FM 105.3",
-    "sources": {
-      "streams": [
-        "https://a.tunzilla.com/http://paginas.moisespaulino.com:8036/stream"
       ]
     },
     "languages": [

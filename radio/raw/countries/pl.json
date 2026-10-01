@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "nPVBJWFXhsVMMP",
+    "name": "4FUN.TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SlfNZYUdTCLCGm",
     "name": "4Music",
     "sources": {
@@ -61,9 +75,9 @@
     "name": "Antyradio",
     "sources": {
       "streams": [
+        "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
         "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
-        "https://an02.cdn.eurozet.pl/ant-web.mp3",
-        "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
+        "https://an02.cdn.eurozet.pl/ant-web.mp3"
       ]
     },
     "languages": [
@@ -120,8 +134,8 @@
     "name": "Antyradio Hard",
     "sources": {
       "streams": [
-        "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
-        "https://an01.cdn.eurozet.pl/ANTHAR.mp3"
+        "https://an01.cdn.eurozet.pl/ANTHAR.mp3",
+        "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
       ]
     },
     "languages": [
@@ -237,9 +251,9 @@
     "name": "Chillizet",
     "sources": {
       "streams": [
-        "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
         "https://ch02.cdn.eurozet.pl/chi-net.mp3",
-        "https://ch.cdn.eurozet.pl/chi-net.mp3"
+        "https://ch.cdn.eurozet.pl/chi-net.mp3",
+        "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx"
       ]
     },
     "languages": [
@@ -310,9 +324,9 @@
     "name": "Cmp3.eu",
     "sources": {
       "streams": [
-        "https://s.radiocmp3.eu/stream256",
         "https://s.radiocmp3.eu/djset256",
-        "https://s.radiocmp3.eu/edm256"
+        "https://s.radiocmp3.eu/edm256",
+        "https://s.radiocmp3.eu/stream256"
       ]
     },
     "languages": [
@@ -510,6 +524,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4NkRiyq3YJvkoq",
+    "name": "Futrzak.FM",
+    "sources": {
+      "streams": [
+        "https://audio.futrzak.fm/futrzakfm-320",
+        "https://audio.futrzak.fm/futrzakfm-128"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OcP2C31XQxJEtw",
     "name": "Happy Station",
     "sources": {
@@ -656,9 +686,9 @@
     "name": "Lem.fm",
     "sources": {
       "streams": [
-        "https://n0c.radiojar.com/2fa0gbhr9bhvv",
         "https://n08.radiojar.com/2fa0gbhr9bhvv",
-        "https://stream.radiojar.com/2fa0gbhr9bhvv"
+        "https://stream.radiojar.com/2fa0gbhr9bhvv",
+        "https://n0c.radiojar.com/2fa0gbhr9bhvv"
       ]
     },
     "languages": [
@@ -744,8 +774,8 @@
     "name": "Meloradio",
     "sources": {
       "streams": [
-        "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx",
-        "https://ml.cdn.eurozet.pl/mel-net.mp3"
+        "https://ml.cdn.eurozet.pl/mel-net.mp3",
+        "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx"
       ]
     },
     "languages": [
@@ -1083,8 +1113,8 @@
     "name": "Planeta FM",
     "sources": {
       "streams": [
-        "https://pl01.cdn.eurozet.pl/pla-net.mp3",
-        "https://pa02.cdn.eurozet.pl/pla-net.mp3"
+        "https://pa02.cdn.eurozet.pl/pla-net.mp3",
+        "https://pl01.cdn.eurozet.pl/pla-net.mp3"
       ]
     },
     "languages": [
@@ -1365,8 +1395,8 @@
     "name": "Radio 357",
     "sources": {
       "streams": [
-        "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
-        "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
+        "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+        "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
         "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8"
       ]
     },
@@ -1677,8 +1707,8 @@
     "name": "Radio DHT - Kanał 2",
     "sources": {
       "streams": [
-        "https://radiodht.com/stream_main",
-        "https://radiodht.com/stream_second"
+        "https://radiodht.com/stream_second",
+        "https://radiodht.com/stream_main"
       ]
     },
     "languages": [
@@ -1721,9 +1751,9 @@
     "name": "Radio Dźwięk",
     "sources": {
       "streams": [
-        "https://streamhls.radiodzwiek.slask.pl/dzwiek",
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3",
         "https://s3.slotex.pl:7408/;",
-        "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3"
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek"
       ]
     },
     "languages": [
@@ -2502,8 +2532,8 @@
     "name": "Radio KChT",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/274180/stream/320404",
-        "https://www.radioking.com/play/kcht/320404"
+        "https://www.radioking.com/play/kcht/320404",
+        "https://listen.radioking.com/radio/274180/stream/320404"
       ]
     },
     "languages": [
@@ -3310,8 +3340,8 @@
     "name": "Radio Plus Gdańsk",
     "sources": {
       "streams": [
-        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
-        "https://pl04.cdn.eurozet.pl/plu-gdn.mp3"
+        "https://pl04.cdn.eurozet.pl/plu-gdn.mp3",
+        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3"
       ]
     },
     "languages": [
@@ -4042,20 +4072,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F1LhwmYcK9zmOo",
-    "name": "Radio Wiatraczek",
-    "sources": {
-      "streams": [
-        "https://s3.slotex.pl:7082/stream"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K0kvw6paafeiVy",
     "name": "Radio Wnet",
     "sources": {
@@ -4102,7 +4118,7 @@
     "name": "Radio ZET",
     "sources": {
       "streams": [
-        "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+        "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
         "https://zt01.cdn.eurozet.pl/zet-net.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZLOTE_PRZEBOJE.mp3?dist=none&ppid=none"
       ]
@@ -4722,39 +4738,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfPnm9a5BA693Y",
-    "name": "RMF Beatlemania",
-    "sources": {
-      "streams": [
-        "https://rs203-krk.rmfstream.pl/BEATLEMANIA"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZWVaDlbGZ7ugiJ",
     "name": "RMF Blues",
     "sources": {
       "streams": [
         "https://rs103-krk.rmfstream.pl/BLUES"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9GczIAzeoa5031",
-    "name": "RMF Celtic",
-    "sources": {
-      "streams": [
-        "https://rs102-krk-cyfronet.rmfstream.pl/CELTIC"
       ]
     },
     "languages": [
@@ -4834,39 +4822,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4yj1Q3Vcuou0hm",
-    "name": "RMF Cuba",
-    "sources": {
-      "streams": [
-        "https://rs202-krk-cyfronet.rmfstream.pl/CUBA"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "haMucXyBFa19VQ",
     "name": "RMF Dance",
     "sources": {
       "streams": [
         "https://rs202-krk.rmfstream.pl/DANCE"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SupsFM1fHTIk0V",
-    "name": "RMF Depeche Mode",
-    "sources": {
-      "streams": [
-        "https://rs202-krk.rmfstream.pl/DEPECHEMODE"
       ]
     },
     "languages": [
@@ -4933,40 +4893,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h6wVhRpCYwdQZd",
-    "name": "RMF Français",
-    "sources": {
-      "streams": [
-        "https://rs203-krk-cyfronet.rmfstream.pl/FRANCAIS"
-      ]
-    },
-    "languages": [
-      "fra",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "utKOyXo3YiYs5q",
     "name": "RMF Gold",
     "sources": {
       "streams": [
         "https://rs103-krk-cyfronet.rmfstream.pl/GOLD"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BoROSEyXPOpBDY",
-    "name": "RMF Grunge",
-    "sources": {
-      "streams": [
-        "https://rs201-krk.rmfstream.pl/GRUNGE"
       ]
     },
     "languages": [
@@ -5038,20 +4969,6 @@
     "sources": {
       "streams": [
         "https://rs201-krk.rmfstream.pl/KOLEDY"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fq7QoSX8D71y1I",
-    "name": "RMF Lady Pank",
-    "sources": {
-      "streams": [
-        "https://rs201-krk.rmfstream.pl/LADYPANK"
       ]
     },
     "languages": [
@@ -5229,20 +5146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xg0L5NT3ALFwgA",
-    "name": "RMF MAXX Sunrise Festival",
-    "sources": {
-      "streams": [
-        "https://rs201-krk.rmfstream.pl/MAXXSUNF"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9hYkes0ptVXKb6",
     "name": "RMF MAXX Szczecin",
     "sources": {
@@ -5276,20 +5179,6 @@
     "sources": {
       "streams": [
         "https://rs201-krk.rmfstream.pl/MAXXXWLC"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VMJvfBJwm1SHPR",
-    "name": "RMF Michael Jackson",
-    "sources": {
-      "streams": [
-        "https://rs202-krk-cyfronet.rmfstream.pl/MICHALEJACKSON"
       ]
     },
     "languages": [
@@ -5523,20 +5412,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VmeskbIbbCiU5t",
-    "name": "RMF Queen",
-    "sources": {
-      "streams": [
-        "https://rs202-krk-cyfronet.rmfstream.pl/QUEEN"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qviBGNZuLxd5Zl",
     "name": "RMF Relaks",
     "sources": {
@@ -5668,34 +5543,6 @@
     "sources": {
       "streams": [
         "https://rs202-krk.rmfstream.pl/TOP5"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E6IeL7DxbRdJgs",
-    "name": "RMF Top 30 PL",
-    "sources": {
-      "streams": [
-        "https://rs203-krk-cyfronet.rmfstream.pl/TOP5PL"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YUsBOYTbAuBSH6",
-    "name": "RMF Top 30 Pop",
-    "sources": {
-      "streams": [
-        "https://rs202-krk-cyfronet.rmfstream.pl/TOP5POP"
       ]
     },
     "languages": [

@@ -225,6 +225,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y4eFnOnwsysdiT",
+    "name": "Passion Times",
+    "sources": {
+      "streams": [
+        "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "989J0Jte40SorI",
     "name": "RTHK Putonghua Channel",
     "sources": {
@@ -275,9 +289,9 @@
     "name": "RTHK Radio 2",
     "sources": {
       "streams": [
-        "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
         "https://stm2.rthk.hk/radio2",
-        "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8"
+        "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8",
+        "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
       ]
     },
     "languages": [
@@ -335,9 +349,9 @@
     "name": "RTHK Radio 4",
     "sources": {
       "streams": [
-        "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
         "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8",
-        "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8"
+        "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
+        "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
       ]
     },
     "languages": [
@@ -426,6 +440,20 @@
     "sources": {
       "streams": [
         "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EvDrJGRQQgXiMN",
+    "name": "Taishan Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3"
       ]
     },
     "languages": [

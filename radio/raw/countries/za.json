@@ -19,8 +19,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22533.live.streamtheworld.com/FM702_SC",
-        "https://25683.live.streamtheworld.com/FM702_SC"
+        "https://22353.live.streamtheworld.com/FM702_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC"
       ]
     },
     "languages": [
@@ -34,8 +34,8 @@
     "name": "919",
     "sources": {
       "streams": [
-        "https://edge.iono.fm/xice/112_low.aac",
-        "https://edge.iono.fm/xice/112_medium.aac"
+        "https://edge.iono.fm/xice/112_medium.aac",
+        "https://edge.iono.fm/xice/112_low.aac"
       ]
     },
     "languages": [
@@ -49,9 +49,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://22353.live.streamtheworld.com/FM947AAC_SC",
-        "https://27863.live.streamtheworld.com/FM947_SC",
-        "https://27943.live.streamtheworld.com/FM947_SC"
+        "https://25653.live.streamtheworld.com/FM947AAC_SC",
+        "https://27873.live.streamtheworld.com/FM947_SC",
+        "https://28033.live.streamtheworld.com/FM947_SC"
       ]
     },
     "languages": [
@@ -171,9 +171,9 @@
     "name": "Cape Talk",
     "sources": {
       "streams": [
-        "https://28513.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
+        "https://22183.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
+        "https://25683.live.streamtheworld.com/CAPE_TALK_SC"
       ]
     },
     "languages": [
@@ -1373,6 +1373,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YQp86fTnDfnSk5",
+    "name": "Springbok Radio",
+    "sources": {
+      "streams": [
+        "https://springbokradio.xyz:8443/main"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dm7h9dBciAyX8k",
     "name": "TAMBO FM",
     "sources": {
@@ -1592,6 +1604,7 @@
     "name": "zoibi FM",
     "sources": {
       "streams": [
+        "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/primary",
         "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3"
       ]
     },
