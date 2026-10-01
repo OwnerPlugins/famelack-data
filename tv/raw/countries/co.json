@@ -355,21 +355,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5UNNnPvR2HyEJi",
-    "name": "CNC Bugavision",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/cncbuga.m3u8",
-        "https://video.ejeserver.com/live/cncbuga.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
     "sources": {
@@ -893,20 +878,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "MbGewayZqG9s6Q",
-    "name": "TeleQuindio",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Clv7XzV3Q51izu",
     "name": "Telesangil",
     "sources": {
@@ -968,6 +939,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1ixTwFBg5nJH1",
+    "name": "TVGracia",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/diego_57244803/index.m3u8"
       ]
     },
     "languages": [

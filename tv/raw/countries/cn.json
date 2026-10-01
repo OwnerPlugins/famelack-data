@@ -601,6 +601,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PQS6mmZySzL6Rf",
+    "name": "上虞1新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "sources": {
@@ -689,12 +701,24 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/W1HuQdjl5SA"
+        "https://www.youtube-nocookie.com/embed/-uxX-s7aDf0"
       ]
     },
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -716,6 +740,18 @@
     "sources": {
       "streams": [
         "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rBoFSFcNpIZxe",
+    "name": "新昌新聞綜合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
       ]
     },
     "languages": [],
@@ -949,5 +985,17 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "6nQrzZYDFKwB5C",
+    "name": "餘姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
   }
 ]

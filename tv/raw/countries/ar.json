@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6TyyIy5d3GAMq5",
-    "name": "ABTV Bariloche",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SxGvKFIOfyeJ8r",
     "name": "Aire de Santa Fe",
     "sources": {
@@ -146,21 +132,6 @@
     "sources": {
       "streams": [
         "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j3vzvoCXC33jhr",
-    "name": "Bravo TV",
-    "sources": {
-      "streams": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
       ]
     },
     "languages": [
@@ -268,11 +239,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dP9dVYSF14RSuM",
+    "name": "Canal 2 Misiones",
+    "sources": {
+      "streams": [
+        "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VpgtgckDtqTAhJ",
     "name": "Canal 2 NexTV Rafaela",
     "sources": {
       "streams": [
         "https://edge.enhdtv.com/nexthd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UUoSz4ieYffPkM",
+    "name": "Canal 3 Formosa",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
       ]
     },
     "languages": [
@@ -380,6 +379,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5VJcSR2emAtR9y",
+    "name": "Canal 4 Teleaire",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UDMd7kyyZOsiGV",
     "name": "Canal 4 Villa Dolores",
     "sources": {
@@ -450,6 +463,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Dc90aqSkVbLUNa",
+    "name": "Canal 6 Viento Recio",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Lh8QNqMEer0yM",
     "name": "Canal 7 Jujuy",
     "sources": {
@@ -500,7 +527,7 @@
         "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vNU5j_QaI7U"
+        "https://www.youtube-nocookie.com/embed/iSchdtz55qc"
       ]
     },
     "languages": [
@@ -528,7 +555,7 @@
     "name": "Canal 13 San Juan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rs8l_QRqCPc"
+        "https://www.youtube-nocookie.com/embed/YE2gEnrYRgQ"
       ]
     },
     "languages": [
@@ -653,6 +680,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "16ZV6lbP1V61Qg",
+    "name": "Canal 99 Miramar",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hvu2X8tr7iZ6t2",
     "name": "Canal de la Ciudad",
     "sources": {
@@ -759,6 +800,20 @@
     "sources": {
       "streams": [
         "https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
       ]
     },
     "languages": [
@@ -1011,7 +1066,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/n8b7KriWO4c"
+        "https://www.youtube-nocookie.com/embed/sUevZ7bvMG8"
       ]
     },
     "languages": [
@@ -1081,7 +1136,7 @@
     "name": "El Tres TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1M6-y3r1Rfs"
+        "https://www.youtube-nocookie.com/embed/zQlWxAFJuW0"
       ]
     },
     "languages": [
@@ -1111,6 +1166,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/zcvuZx1RKhI"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MzJbIfUKCeqrsU",
+    "name": "Folcloreando TV",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1543,6 +1612,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4mdYQiNJkinqB7",
     "name": "T5 Satelital",
     "sources": {
@@ -1799,7 +1882,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZoRdx5kCp7I"
+        "https://www.youtube-nocookie.com/embed/VswhGZOT7y8"
       ]
     },
     "languages": [

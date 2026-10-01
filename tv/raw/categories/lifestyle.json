@@ -77,7 +77,7 @@
     "sources": {
       "streams": [
         "https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/221/master.m3u8",
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
       ]
     },
@@ -170,6 +170,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -348,6 +362,7 @@
     "name": "Food Food",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/267/master.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
       ]
     },
@@ -515,20 +530,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LOoaceDLue8eJw",
-    "name": "MediCOOL TV",
-    "sources": {
-      "streams": [
-        "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -812,20 +813,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "56l4bTTv4SRQUh",
-    "name": "Zhivi!",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w9iKnoeRBQ99pR",
-    "name": "Can Tho TV 2",
-    "sources": {
-      "streams": [
-        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
     "sources": {
@@ -181,6 +167,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -315,7 +315,7 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/9/master.m3u8",
+        "https://cdn.pishow.tv/ott/live/223/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
         "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
       ]
@@ -1370,20 +1370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
     "sources": {
@@ -1437,20 +1423,6 @@
       "spa"
     ],
     "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "sources": {
-      "streams": [
-        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
