@@ -757,6 +757,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lyKMcAtKzoxbWQ",
+    "name": "Radio Rumba TV",
+    "sources": {
+      "streams": [
+        "https://tv.sistemasandinos.org/rumbatv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b7ZeRZC6NDPLni",
     "name": "Radio Tropical",
     "sources": {
@@ -830,22 +844,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qgnWAKQV0prTA",
-    "name": "Senal Peru TV",
-    "sources": {
-      "streams": [
-        "https://livestream.perucast.com/hls/stream.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -944,20 +944,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ha82k7k0qWc0Us",
-    "name": "TV+ Chincha",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fIS8sGKNQMXO8C",
     "name": "TVenLinea",
     "sources": {
@@ -1000,6 +986,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6huCeQGJavAeLu",
+    "name": "Ucayalina de Television",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dbLCjbraoPInRW",
     "name": "Uchu TV",
     "sources": {
@@ -1019,6 +1019,20 @@
     "sources": {
       "streams": [
         "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYnHHpCe4o5p06",
+    "name": "Universitaria TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
       ]
     },
     "languages": [

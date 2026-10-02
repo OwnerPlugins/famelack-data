@@ -18,6 +18,7 @@
     "name": "8XM",
     "sources": {
       "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
         "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8"
       ]
     },
@@ -140,7 +141,7 @@
     "name": "Awaz Tv News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/z8bo99_KVII"
+        "https://www.youtube-nocookie.com/embed/JFoHNVbsJcY"
       ]
     },
     "languages": [
@@ -221,7 +222,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oipVqXluMZc"
+        "https://www.youtube-nocookie.com/embed/AYhK-ddzNek"
       ]
     },
     "languages": [
@@ -622,6 +623,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XKS3CjcZ7Ew"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "sources": {
@@ -850,8 +865,8 @@
     "name": "Praise TV",
     "sources": {
       "streams": [
-        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
-        "https://pixelsmedia.live/livepraisetv/index.m3u8"
+        "https://pixelsmedia.live/livepraisetv/index.m3u8",
+        "https://livecdn.live247stream.com/praise/tv/playlist.m3u8"
       ]
     },
     "languages": [

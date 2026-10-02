@@ -180,17 +180,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qS9h25t8tf42wr",
-    "name": "Aurora Media Films",
+    "nanoid": "GyD5jgzfEEiUYG",
+    "name": "Asia Flix TV",
     "sources": {
       "streams": [
-        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "tgl"
     ],
-    "country": "gt",
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -267,11 +267,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XP5bT3gL9RGIRP",
+    "name": "Bigscreen TV",
+    "sources": {
+      "streams": [
+        "https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FWhDbCLuy2F57c",
     "name": "BIZ Cinema",
     "sources": {
       "streams": [
-        "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
         "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -463,67 +474,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FQwfx6NTcjE41o",
     "name": "City Eden KinoDrama",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
       ]
     },
     "languages": [
@@ -938,9 +893,9 @@
     "name": "Goldmines Bollywood",
     "sources": {
       "streams": [
+        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
-        "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
+        "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1254,8 +1209,8 @@
     "sources": {
       "streams": [
         "https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
-        "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
+        "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1011/master.m3u8"
       ]
     },
     "languages": [
@@ -1276,6 +1231,21 @@
       "pan"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
+    "sources": {
+      "streams": [
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -1884,6 +1854,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "U4qFQGhb2lylGn",
+    "name": "Sine Plus",
+    "sources": {
+      "streams": [
+        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8ASIayZG97M5CC",
     "name": "SL 1",
     "sources": {
@@ -2032,7 +2016,8 @@
     "sources": {
       "streams": [
         "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/276/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/276/master.m3u8",
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
     },
     "languages": [
@@ -2085,7 +2070,7 @@
     "name": "TokuSHOUTsu: Jackie Chan Movie Marathon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TiezQa78Vqc"
+        "https://www.youtube-nocookie.com/embed/1S6R6iWJREk"
       ]
     },
     "languages": [

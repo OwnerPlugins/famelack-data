@@ -80,8 +80,8 @@
     "name": "1WAY FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac"
       ]
     },
     "languages": [
@@ -247,8 +247,8 @@
     "name": "89.7 KSGN",
     "sources": {
       "streams": [
-        "https://audio-edge-ey5nr.ams.s.radiomast.io/2a57149b-f939-4d87-aa67-daedff3e1728",
-        "https://ksgn.com/assets/audio/stream/aac"
+        "https://ksgn.com/assets/audio/stream/aac",
+        "https://audio-edge-ey5nr.ams.s.radiomast.io/2a57149b-f939-4d87-aa67-daedff3e1728"
       ]
     },
     "languages": [
@@ -1306,6 +1306,20 @@
     ]
   },
   {
+    "nanoid": "rwn0QSVR8rJZkB",
+    "name": "Alpha & Omega Radio",
+    "sources": {
+      "streams": [
+        "https://tls-chrome.live24.gr/2549"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RG5ShtEqnjE0Go",
     "name": "AM 700 The Light",
     "sources": {
@@ -1462,8 +1476,8 @@
     "name": "Ancient Faith Radio",
     "sources": {
       "streams": [
-        "https://ancientfaith.streamguys1.com/music",
         "https://ancientfaith.streamguys1.com/ancientfaith3",
+        "https://ancientfaith.streamguys1.com/talk",
         "https://ancientfaith.streamguys1.com/ancientfaith3-source"
       ]
     },
@@ -1761,8 +1775,8 @@
     "name": "Bayram FM",
     "sources": {
       "streams": [
-        "https://sslyayin.netyayin.net:10962/320.mp3",
-        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3"
+        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3",
+        "https://sslyayin.netyayin.net:10962/320.mp3"
       ]
     },
     "languages": [
@@ -1786,8 +1800,8 @@
     "name": "BBN English",
     "sources": {
       "streams": [
-        "https://audio-edge-ey5nr.ams.s.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
-        "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+        "https://audio-edge-ey5nr.ams.s.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
       ]
     },
     "languages": [
@@ -2310,6 +2324,20 @@
     "languages": [
       "heb"
     ]
+  },
+  {
+    "nanoid": "dUrD8wcz74lLxT",
+    "name": "BTN TV",
+    "sources": {
+      "streams": [
+        "https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "twO3LZWsoDw8z5",
@@ -2958,9 +2986,9 @@
     "name": "Christian Talk FM",
     "sources": {
       "streams": [
+        "https://n07.radiojar.com/cm4by4kt2ceuv",
         "https://n12.radiojar.com/cm4by4kt2ceuv",
-        "https://ample.radiojar.com/cm4by4kt2ceuv",
-        "https://n07.radiojar.com/cm4by4kt2ceuv"
+        "https://ample.radiojar.com/cm4by4kt2ceuv"
       ]
     },
     "languages": [
@@ -3028,8 +3056,8 @@
     "name": "ChristianRock.Net",
     "sources": {
       "streams": [
-        "https://listen.christianrock.net/stream/1",
-        "https://listen.christianrock.net/stream/11"
+        "https://listen.christianrock.net/stream/11",
+        "https://listen.christianrock.net/stream/1"
       ]
     },
     "languages": [
@@ -3133,6 +3161,20 @@
     ]
   },
   {
+    "nanoid": "RtkYEcWvxYqmz3",
+    "name": "CJRI 104.5",
+    "sources": {
+      "streams": [
+        "https://us3.streamingpulse.com/ssl/cjriradio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4dZ1XrzOLe3HZR",
     "name": "CJTL 96.5",
     "sources": {
@@ -3233,8 +3275,8 @@
     "name": "Comunión FM 101.1 Santa Elena",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/ksh16ht4na0uv",
-        "https://stream.zeno.fm/b3ps0ht4na0uv"
+        "https://stream.zeno.fm/b3ps0ht4na0uv",
+        "https://stream.zeno.fm/ksh16ht4na0uv"
       ]
     },
     "languages": [
@@ -3341,8 +3383,8 @@
     "name": "CRM 92.4",
     "sources": {
       "streams": [
-        "https://crm924.stream.laut.fm/crm924",
-        "https://crm924worship.stream.laut.fm/crm924_worship"
+        "https://crm924worship.stream.laut.fm/crm924_worship",
+        "https://crm924.stream.laut.fm/crm924"
       ]
     },
     "languages": [
@@ -4540,6 +4582,20 @@
     ]
   },
   {
+    "nanoid": "9fOf0coEtoMA1u",
+    "name": "Eydios Limen 101.9 FM",
+    "sources": {
+      "streams": [
+        "https://eco.onestreaming.com/proxy/imga/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZOdHP35NDAl8Zo",
     "name": "Ez az a nap! Rádió",
     "sources": {
@@ -5128,8 +5184,8 @@
     "sources": {
       "streams": [
         "https://29313.live.streamtheworld.com/WGOKAM_SC",
-        "https://26193.live.streamtheworld.com/WGOKAM_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOKAM_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOKAM_SC",
+        "https://18153.live.streamtheworld.com/WGOKAM_SC"
       ]
     },
     "languages": [
@@ -6038,8 +6094,7 @@
     "name": "Hitsujikai Radio",
     "sources": {
       "streams": [
-        "https://streaming.radio.co/se4a8e6a93/listen",
-        "https://streaming.radio.co/se4a8e6a93/low"
+        "https://streaming.radio.co/se4a8e6a93/listen"
       ]
     },
     "languages": [
@@ -6263,8 +6318,8 @@
     "name": "Hrvatski Katolički Radio",
     "sources": {
       "streams": [
-        "https://stream.hkr.hr/hkr.mp3",
-        "https://stream.hkr.hr:8000/hkr.mp3"
+        "https://stream.hkr.hr:8000/hkr.mp3",
+        "https://stream.hkr.hr/hkr.mp3"
       ]
     },
     "languages": [
@@ -6591,20 +6646,6 @@
     ]
   },
   {
-    "nanoid": "8wgPyZProzGXCZ",
-    "name": "Islamic Music Radio",
-    "sources": {
-      "streams": [
-        "https://audio.islamicmusicradio.com/imr"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "k0hqlQIPi0TrVy",
     "name": "Islamic Radio Filipino",
     "sources": {
@@ -6866,9 +6907,9 @@
     "name": "K-LOVE",
     "sources": {
       "streams": [
+        "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac",
         "https://maestro.emfcdn.com/stream_for/k-love/airable/aac",
-        "https://maestro.emfcdn.com/stream_for/k-love/iheart/aac",
-        "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        "https://maestro.emfcdn.com/stream_for/k-love/iheart/aac"
       ]
     },
     "languages": [
@@ -7636,8 +7677,8 @@
     "name": "La Voz de Jesús",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/phybdd3ph98uv",
-        "https://stream.zeno.fm/phybdd3ph98uv/;type=mp3"
+        "https://stream.zeno.fm/phybdd3ph98uv/;type=mp3",
+        "https://stream.zeno.fm/phybdd3ph98uv"
       ]
     },
     "languages": [
@@ -8274,6 +8315,20 @@
     ]
   },
   {
+    "nanoid": "RYxR8Bdz3efpnL",
+    "name": "Masjid E Salaam Bolton",
+    "sources": {
+      "streams": [
+        "https://msalaambolton.radioca.st/Stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OE2coEuO6eyW9H",
     "name": "Masjid Quba",
     "sources": {
@@ -8507,8 +8562,8 @@
     "name": "Montserrat Ràdio",
     "sources": {
       "streams": [
-        "https://enacast.com/radioabadiademontserrat/streams/HD",
-        "https://streaming.enacast.com/radioabadiademontserrat96.mp3"
+        "https://streaming.enacast.com/radioabadiademontserrat96.mp3",
+        "https://enacast.com/radioabadiademontserrat/streams/HD"
       ]
     },
     "languages": [
@@ -8829,6 +8884,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "uZhN9nvipEyWDe",
+    "name": "NewSong FM",
+    "sources": {
+      "streams": [
+        "https://us9.streamingpulse.com/ssl/NewsongFM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jLSRbNqUR67Qk3",
@@ -9193,8 +9262,8 @@
     "name": "Pemptousia FM",
     "sources": {
       "streams": [
-        "https://n0d.radiojar.com/48cz219puzzuv",
         "https://n11.radiojar.com/48cz219puzzuv",
+        "https://n0d.radiojar.com/48cz219puzzuv",
         "https://stream.radiojar.com/48cz219puzzuv"
       ]
     },
@@ -9330,8 +9399,8 @@
     "name": "PorDeus.fm",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/92ptm8uua2zuv.aac",
-        "https://stream.zenolive.com/92ptm8uua2zuv.aac"
+        "https://stream.zenolive.com/92ptm8uua2zuv.aac",
+        "https://stream.zeno.fm/92ptm8uua2zuv.aac"
       ]
     },
     "languages": [
@@ -9853,7 +9922,7 @@
     "name": "R.SA - Hinhörkanal",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6no59s01%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790287617",
+        "https://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6noqn876%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790814326",
         "https://streams.rsa-sachsen.de/rsa-hinhoer/mp3-128/streams.rsa-sachsen.de"
       ]
     },
@@ -10528,20 +10597,6 @@
     ]
   },
   {
-    "nanoid": "2QDQmFssZP8HIM",
-    "name": "Radio Central 91.9 FM",
-    "sources": {
-      "streams": [
-        "https://live.myradioserver.net:7588/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TYVNKStQxHnuRZ",
     "name": "Radio Christian Voice",
     "stream_urls": [
@@ -10806,6 +10861,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "JwTWOlRs0SDQhx",
+    "name": "Radio Dakwah Islam 107.9 FM",
+    "sources": {
+      "streams": [
+        "https://i.klikhost.com/8260/;radio.mp3"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EJHX06Oy6M6qK7",
@@ -11684,21 +11753,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zozr5wmR49Yler",
-    "name": "Radio Khushkhabri",
-    "sources": {
-      "streams": [
-        "https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3"
-      ]
-    },
-    "languages": [
-      "hin",
-      "pan"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bdoznl1K5AGniX",
     "name": "Radio KJB",
     "sources": {
@@ -12528,8 +12582,8 @@
     "name": "Radio Présence Pyrénées",
     "sources": {
       "streams": [
-        "https://live.radiopresence.com/radio-presence-pyrenees",
-        "https://direct.radiopresence.com/presence-pyrenees"
+        "https://direct.radiopresence.com/presence-pyrenees",
+        "https://live.radiopresence.com/radio-presence-pyrenees"
       ]
     },
     "languages": [
@@ -12630,8 +12684,8 @@
     "name": "Radio Quran Cairo",
     "sources": {
       "streams": [
-        "https://n0e.radiojar.com/8s5u5tpdtwzuv",
         "https://n0c.radiojar.com/8s5u5tpdtwzuv",
+        "https://n0e.radiojar.com/8s5u5tpdtwzuv",
         "https://n12.radiojar.com/8s5u5tpdtwzuv"
       ]
     },
@@ -12699,6 +12753,21 @@
       "spa",
       "eng"
     ]
+  },
+  {
+    "nanoid": "ZipmYqJYDFIBwr",
+    "name": "Radio Rema",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/hefiobzkki3uv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ],
+    "country": "bi",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lsMTsDNpzCJzaw",
@@ -13649,6 +13718,20 @@
     ]
   },
   {
+    "nanoid": "ApMSaxIqCKFEGl",
+    "name": "Radyo Fıtrat",
+    "sources": {
+      "streams": [
+        "https://radyofitrat.radyotvonline.net/"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Yan4o7RMXvfVA0",
     "name": "Radyo Gül 91.7",
     "sources": {
@@ -14022,6 +14105,20 @@
     "languages": [
       "fra"
     ]
+  },
+  {
+    "nanoid": "iXUOs9y2cdR3q8",
+    "name": "RCF Haute-Normandie",
+    "sources": {
+      "streams": [
+        "https://rcf.streamakaci.com/rcf76.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "NOcNr7qh8fPVo0",
@@ -15619,6 +15716,20 @@
     ]
   },
   {
+    "nanoid": "jnpfoTmzVK5E0I",
+    "name": "Santa Teresita Radio",
+    "sources": {
+      "streams": [
+        "https://s39.myradiostream.com/12936/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2MYLVIAa8Qztjr",
     "name": "Sara Brasil FM 107.5",
     "sources": {
@@ -15960,6 +16071,20 @@
     ]
   },
   {
+    "nanoid": "uSppWwTAAe9ywg",
+    "name": "Sodais Quran",
+    "sources": {
+      "streams": [
+        "https://backup.qurango.net/radio/abdulrahman_alsudaes"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "tn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I2oHpiAQMeBLQ6",
     "name": "SoFlow Radio",
     "sources": {
@@ -16287,20 +16412,6 @@
     "languages": [
       "ind"
     ]
-  },
-  {
-    "nanoid": "pKxFqh4dNIbNrq",
-    "name": "Suara Al Jihad FM Banjarmasin",
-    "sources": {
-      "streams": [
-        "https://i.klikhost.com:8044/;stream.mp3"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "YJWPzuQru8hQAc",
@@ -17349,20 +17460,6 @@
     ]
   },
   {
-    "nanoid": "bHPK9hUU1SyvBB",
-    "name": "Vida FM 105.3",
-    "sources": {
-      "streams": [
-        "https://a.tunzilla.com/http://paginas.moisespaulino.com:8036/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3hZAX1LSqhmgHL",
     "name": "Vie Nouvelle Afrique",
     "sources": {
@@ -17534,6 +17631,20 @@
     "languages": [
       "por"
     ]
+  },
+  {
+    "nanoid": "X0qhMo9YyyKHqI",
+    "name": "Voz FM 106.7",
+    "sources": {
+      "streams": [
+        "https://radio.saopaulo01.com.br/8110/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "fhimfHZCj6e0zb",
@@ -18053,6 +18164,18 @@
     "languages": []
   },
   {
+    "nanoid": "x1iVpt0jOpemz5",
+    "name": "WJTL 90.3 FM",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/WJTL"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C2NOkg4m3FGCoL",
     "name": "WLOK 1340 AM",
     "sources": {
@@ -18321,6 +18444,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "zzovsICxZ2puzy",
+    "name": "Zayed Radio 97.6 FM",
+    "sources": {
+      "streams": [
+        "https://zayedquran.gov.ae/stream.php"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hEkxhCcvzxwIq1",

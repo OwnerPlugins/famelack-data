@@ -439,20 +439,6 @@
     ]
   },
   {
-    "nanoid": "THRZsdxp9umd0f",
-    "name": "Rádio SiTy",
-    "sources": {
-      "streams": [
-        "https://radiosity.online:8000/aac"
-      ]
-    },
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PGA1rmanjFV5Fh",
     "name": "Radio Slovakia International",
     "sources": {
@@ -486,8 +472,8 @@
     "name": "Radio Viva",
     "sources": {
       "streams": [
-        "https://stream.sepia.sk:8000/viva128.mp3",
-        "https://stream.sepia.sk/viva128.mp3"
+        "https://stream.sepia.sk/viva128.mp3",
+        "https://stream.sepia.sk:8000/viva128.mp3"
       ]
     },
     "languages": [

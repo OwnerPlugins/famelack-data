@@ -280,9 +280,9 @@
     "name": "Cosmopolitan FM 90.4",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/u7d8heq3bnzuv",
         "https://n10.radiojar.com/u7d8heq3bnzuv",
-        "https://stream.radiojar.com/u7d8heq3bnzuv"
+        "https://n05.radiojar.com/u7d8heq3bnzuv",
+        "https://n0d.radiojar.com/u7d8heq3bnzuv"
       ]
     },
     "languages": [
@@ -463,6 +463,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CfpynH30iU6OGW",
+    "name": "Gajahmada 102.4 FM",
+    "sources": {
+      "streams": [
+        "https://server.radioimeldafm.co.id:8040/gajahmadafm"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VP8CLs7h4BoX27",
     "name": "Galuh Media",
     "sources": {
@@ -501,8 +515,8 @@
     "name": "Hard Rock FM Jakarta",
     "sources": {
       "streams": [
-        "https://n13.radiojar.com/7csmg90fuqruv",
-        "https://stream.radiojar.com/7csmg90fuqruv"
+        "https://stream.radiojar.com/7csmg90fuqruv",
+        "https://n13.radiojar.com/7csmg90fuqruv"
       ]
     },
     "languages": [
@@ -788,7 +802,7 @@
       "streams": [
         "https://streaming.klcbs.id/listen/klcbs/klcbs-hd",
         "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
-        "https://streaming.klcbs.id/listen/klcbs/klcbsfm"
+        "https://streaming.klcbs.id/listen/klcbs/klcbs"
       ]
     },
     "languages": [
@@ -1104,8 +1118,8 @@
     "name": "Pas FM Jakarta",
     "sources": {
       "streams": [
-        "https://i.klikhost.com/8266/stream",
-        "https://i.klikhost.com:8266/stream/;"
+        "https://i.klikhost.com:8266/stream/;",
+        "https://i.klikhost.com/8266/stream"
       ]
     },
     "languages": [
@@ -1204,8 +1218,8 @@
     "name": "Radio Campursari 89.2 FM",
     "sources": {
       "streams": [
-        "https://streaming.campursarifm.com/listen/campursari/campursari892",
-        "https://a8.siar.us/listen/campursari/stream"
+        "https://a8.siar.us/listen/campursari/stream",
+        "https://streaming.campursarifm.com/listen/campursari/campursari892"
       ]
     },
     "languages": [
@@ -1263,6 +1277,20 @@
     "languages": [
       "ind"
     ]
+  },
+  {
+    "nanoid": "JwTWOlRs0SDQhx",
+    "name": "Radio Dakwah Islam 107.9 FM",
+    "sources": {
+      "streams": [
+        "https://i.klikhost.com/8260/;radio.mp3"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "y9iJFaoVqV5RI7",
@@ -1367,6 +1395,20 @@
     "languages": [
       "ind"
     ]
+  },
+  {
+    "nanoid": "shYCH1UgYkhudv",
+    "name": "Radio Gobers",
+    "sources": {
+      "streams": [
+        "https://sx.alhasmedia.com/radio/8140/radio"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vCTXoxzyRx3vIu",
@@ -1658,8 +1700,8 @@
     "name": "Radio Swara Semarang",
     "sources": {
       "streams": [
-        "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
-        "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang"
+        "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+        "https://server.radioimeldafm.co.id/radio/8010/swarasemarang"
       ]
     },
     "languages": [
@@ -2214,6 +2256,20 @@
     ]
   },
   {
+    "nanoid": "UHlHyRM8pOZY6c",
+    "name": "Safasindo FM",
+    "sources": {
+      "streams": [
+        "https://radio.safasindo.com/listen/radio_safasindo/radio.mp3"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YGVXx6PyXBe30v",
     "name": "Sahabat Kehidupan FM",
     "sources": {
@@ -2385,20 +2441,6 @@
     "languages": [
       "ind"
     ]
-  },
-  {
-    "nanoid": "pKxFqh4dNIbNrq",
-    "name": "Suara Al Jihad FM Banjarmasin",
-    "sources": {
-      "streams": [
-        "https://i.klikhost.com:8044/;stream.mp3"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "rVsdgWt10IOyUS",

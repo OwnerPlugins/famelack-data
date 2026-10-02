@@ -15,8 +15,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:1150/stream",
-        "https://radio.streemlion.com:4870/stream"
+        "https://radio.streemlion.com:4870/stream",
+        "https://radio.streemlion.com:1150/stream"
       ]
     },
     "languages": [
@@ -640,6 +640,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JgxKM0ZpxOulDl",
+    "name": "Rádio Cantinho dos Emigrantes",
+    "sources": {
+      "streams": [
+        "https://cast.redewt.net:9825/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mBFaCAG0BusNzG",
     "name": "Radio CapSao",
     "sources": {
@@ -1233,8 +1247,8 @@
     "name": "RCP-VAR",
     "sources": {
       "streams": [
-        "https://sonic.servsonic.com/8028/stream",
-        "https://sonic.servsonic.com:7003/;"
+        "https://sonic.servsonic.com:7003/;",
+        "https://sonic.servsonic.com/8028/stream"
       ]
     },
     "languages": [

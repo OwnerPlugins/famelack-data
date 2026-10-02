@@ -21,7 +21,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bdUXpgIKUIA"
+        "https://www.youtube-nocookie.com/embed/o2i1o4cFRzA"
       ]
     },
     "languages": [
@@ -49,7 +49,7 @@
     "name": "A Para",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Fas1VhgP8Uk"
+        "https://www.youtube-nocookie.com/embed/REwUb21o6-w"
       ]
     },
     "languages": [
@@ -214,10 +214,11 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Rk40_h13eR4"
+        "https://www.youtube-nocookie.com/embed/8_aEmQtRZZw"
       ]
     },
     "languages": [
@@ -274,21 +275,6 @@
     "sources": {
       "streams": [
         "https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -600,7 +586,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/v9DovXvY3TM"
+        "https://www.youtube-nocookie.com/embed/Vsn5sx8afBc"
       ]
     },
     "languages": [
@@ -1149,21 +1135,6 @@
       ]
     },
     "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOMdLvvyu3y5ss",
-    "name": "GZT",
-    "sources": {
-      "streams": [
-        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "tur"
     ],
     "country": "tr",
@@ -2075,6 +2046,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1GHn7hBwkPvtBl",
+    "name": "Sonmez TV",
+    "sources": {
+      "streams": [
+        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -2599,9 +2584,6 @@
     "nanoid": "fiUFmaRESDKun4",
     "name": "TVNET",
     "sources": {
-      "streams": [
-        "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Z5bqy4gwEmc"
       ]

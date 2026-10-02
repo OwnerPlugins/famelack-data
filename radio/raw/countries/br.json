@@ -143,8 +143,8 @@
     "name": "89 FM A Rádio Rock",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
-        "https://ice.fabricahost.com.br/89aradiorockgo"
+        "https://ice.fabricahost.com.br/89aradiorockgo",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac"
       ]
     },
     "languages": [
@@ -2025,8 +2025,8 @@
     "name": "FM O Dia 100.5",
     "sources": {
       "streams": [
-        "https://streaming.livespanel.com:20000/live",
-        "https://streaming.livespanel.com:8016/fmodia"
+        "https://streaming.livespanel.com:8016/fmodia",
+        "https://streaming.livespanel.com:20000/live"
       ]
     },
     "languages": [
@@ -3219,6 +3219,20 @@
     ]
   },
   {
+    "nanoid": "qUT0k4PmEOiSH4",
+    "name": "Melphis FM 99.7",
+    "sources": {
+      "streams": [
+        "https://stm6.xcast.com.br:9836/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3IsHop9HlVmKkv",
     "name": "Metal Heads",
     "sources": {
@@ -3333,8 +3347,8 @@
     "name": "MGT Rádio Brasil Hits",
     "sources": {
       "streams": [
-        "https://cast.mgtradio.net/radio/8010/aac",
-        "https://cast.mgtradio.net/radio/8030/aac"
+        "https://cast.mgtradio.net/radio/8030/aac",
+        "https://cast.mgtradio.net/radio/8010/aac"
       ]
     },
     "languages": [
@@ -3906,8 +3920,8 @@
     "name": "Novabrasil FM 93.5",
     "sources": {
       "streams": [
-        "https://24233.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
-        "https://27323.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
+        "https://24273.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
+        "https://27573.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_ARACAJUAAC_SC"
       ]
     },
@@ -4204,8 +4218,8 @@
     "name": "PorDeus.fm",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/92ptm8uua2zuv.aac",
-        "https://stream.zenolive.com/92ptm8uua2zuv.aac"
+        "https://stream.zenolive.com/92ptm8uua2zuv.aac",
+        "https://stream.zeno.fm/92ptm8uua2zuv.aac"
       ]
     },
     "languages": [
@@ -4336,6 +4350,20 @@
     "sources": {
       "streams": [
         "https://cast2.youngtech.radio.br/radio/8290/radio"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ufBcwwEKmRan9V",
+    "name": "Rádio Aconchego",
+    "sources": {
+      "streams": [
+        "https://fm.radioaconchego.org/"
       ]
     },
     "languages": [
@@ -5959,8 +5987,8 @@
     "name": "Rádio Gaúcha 93.7 FM",
     "sources": {
       "streams": [
-        "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
-        "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8"
+        "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+        "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6116,20 +6144,6 @@
     "sources": {
       "streams": [
         "https://grenal.audiostream.com.br:20000/mp3"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bD9ekZWKmOScdu",
-    "name": "Rádio Grilli Brasil",
-    "sources": {
-      "streams": [
-        "https://redegrillibrasil.com.br/listen/grillibrasil/radio.mp3"
       ]
     },
     "languages": [
@@ -6661,8 +6675,8 @@
     "name": "Rádio Mega FM Sananduva",
     "sources": {
       "streams": [
-        "https://live.virtualcast.com.br/megasananduva",
-        "https://stm01.virtualcast.com.br:8312/megasananduva"
+        "https://stm01.virtualcast.com.br:8312/megasananduva",
+        "https://live.virtualcast.com.br/megasananduva"
       ]
     },
     "languages": [
@@ -7935,20 +7949,6 @@
     "sources": {
       "streams": [
         "https://stream02.ouveai.com.br/8066/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BuTpNe84H1Vehb",
-    "name": "Rádio Velho Brasil",
-    "sources": {
-      "streams": [
-        "https://servidor39-3.brlogic.com:8572/live"
       ]
     },
     "languages": [
@@ -12815,6 +12815,20 @@
     "languages": [
       "por"
     ]
+  },
+  {
+    "nanoid": "X0qhMo9YyyKHqI",
+    "name": "Voz FM 106.7",
+    "sources": {
+      "streams": [
+        "https://radio.saopaulo01.com.br/8110/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "nx4B5ajhrzE2bZ",

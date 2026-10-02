@@ -4,8 +4,8 @@
     "name": "AFN Incirlik 107.1 FM",
     "sources": {
       "streams": [
-        "https://29103.live.streamtheworld.com/AFNE_ICK_SC",
-        "https://25703.live.streamtheworld.com/AFNE_ICK_SC",
+        "https://21633.live.streamtheworld.com/AFNE_ICK_SC",
+        "https://25503.live.streamtheworld.com/AFNE_ICK_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC"
       ]
     },
@@ -103,8 +103,8 @@
     "name": "Bayram FM",
     "sources": {
       "streams": [
-        "https://sslyayin.netyayin.net:10962/320.mp3",
-        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3"
+        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3",
+        "https://sslyayin.netyayin.net:10962/320.mp3"
       ]
     },
     "languages": [
@@ -561,6 +561,22 @@
     "languages": [
       "tur"
     ]
+  },
+  {
+    "nanoid": "gnfozPCVcSCMFC",
+    "name": "Gundi FM",
+    "sources": {
+      "streams": [
+        "https://gundifm.ozelip.com:7830/stream",
+        "https://gundifm.ozelip.com:7830/;"
+      ]
+    },
+    "languages": [
+      "kur",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "qZPHckbSF4bG26",
@@ -1219,8 +1235,8 @@
     "name": "Power FM",
     "sources": {
       "streams": [
-        "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8",
-        "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8"
+        "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
+        "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1248,8 +1264,8 @@
     "name": "Power Love",
     "sources": {
       "streams": [
-        "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
         "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+        "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8",
         "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
       ]
     },
@@ -1619,9 +1635,9 @@
     "name": "Radyo Fenomen Dans",
     "sources": {
       "streams": [
-        "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",
         "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
-        "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8"
+        "https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8",
+        "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1687,6 +1703,20 @@
       "eng",
       "tur"
     ]
+  },
+  {
+    "nanoid": "ApMSaxIqCKFEGl",
+    "name": "Radyo Fıtrat",
+    "sources": {
+      "streams": [
+        "https://radyofitrat.radyotvonline.net/"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hRxad1SVwsq55c",
@@ -1955,8 +1985,8 @@
     "name": "Radyo ODTÜ Easy",
     "sources": {
       "streams": [
-        "https://stream3.radyoodtu.com.tr:8000/easy",
-        "https://stream.radyoodtu.com.tr/easy"
+        "https://stream.radyoodtu.com.tr/easy",
+        "https://stream3.radyoodtu.com.tr:8000/easy"
       ]
     },
     "languages": [
@@ -2396,8 +2426,8 @@
     "name": "TRT Nağme",
     "sources": {
       "streams": [
-        "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
-        "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
+        "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+        "https://rd-trtnagme.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2553,8 +2583,8 @@
     "name": "X Radio 103.8",
     "sources": {
       "streams": [
-        "https://yayin.radyomadyo.com:8770/",
-        "https://stream.xradio.com.tr:8770/stream"
+        "https://stream.xradio.com.tr:8770/stream",
+        "https://yayin.radyomadyo.com:8770/"
       ]
     },
     "languages": [

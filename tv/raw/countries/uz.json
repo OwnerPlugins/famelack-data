@@ -20,7 +20,6 @@
     "name": "BIZ Cinema",
     "sources": {
       "streams": [
-        "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
         "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -35,23 +34,7 @@
     "name": "BIZ Music",
     "sources": {
       "streams": [
-        "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
         "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B57EXBA3NLspPl",
-    "name": "BIZ TV",
-    "sources": {
-      "streams": [
-        "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
-        "https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [

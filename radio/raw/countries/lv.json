@@ -35,6 +35,20 @@
     ]
   },
   {
+    "nanoid": "ynOMgJ138tlNvS",
+    "name": "EHR Festivālu Hiti",
+    "sources": {
+      "streams": [
+        "https://stream.ehrhiti.lv:8000/Stream_73.mp3"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xU25bBKxKPbd63",
     "name": "EHR Fresh",
     "sources": {
@@ -69,6 +83,20 @@
     "languages": [
       "lav"
     ]
+  },
+  {
+    "nanoid": "zNkfWna5exvbOV",
+    "name": "EHR iDeal Music",
+    "sources": {
+      "streams": [
+        "https://stream.ehrhiti.lv:8000/Stream_78.mp3"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "YVHSa1IcD1Qr3G",
@@ -272,8 +300,8 @@
     "name": "Radio Energy",
     "sources": {
       "streams": [
-        "https://radio1.radioenergy.lv:8000/",
-        "https://radio2.radioenergy.lv:9000/"
+        "https://radio2.radioenergy.lv:9000/",
+        "https://radio1.radioenergy.lv:8000/"
       ]
     },
     "languages": [
@@ -431,8 +459,8 @@
     "name": "Star FM",
     "sources": {
       "streams": [
-        "https://live.advailo.com/audio/mp3/icecast.audio",
-        "https://starfm.live.advailo.com/audio/mp3/icecast.audio"
+        "https://starfm.live.advailo.com/audio/mp3/icecast.audio",
+        "https://live.advailo.com/audio/mp3/icecast.audio"
       ]
     },
     "languages": [
@@ -506,8 +534,8 @@
     "name": "Your City Radio",
     "sources": {
       "streams": [
-        "https://c34.radioboss.fm:8234/stream",
-        "https://c28.radioboss.fm:18234/stream"
+        "https://c28.radioboss.fm:18234/stream",
+        "https://c34.radioboss.fm:8234/stream"
       ]
     },
     "languages": [

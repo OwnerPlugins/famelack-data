@@ -54,6 +54,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TNcp5x3I40Bts1",
+    "name": "0N Oldies",
+    "sources": {
+      "streams": [
+        "https://0n-oldies.radionetz.de/0n-oldies.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "do9wno3VkaSueZ",
     "name": "0nlineradio 70er",
     "sources": {
@@ -165,8 +179,8 @@
     "name": "1A 70er Hits",
     "sources": {
       "streams": [
-        "https://stream.1a-webradio.de/saw-70er/mp3-128/radio-browser-1A/stream.mp3",
-        "https://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3"
+        "https://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3",
+        "https://stream.1a-webradio.de/saw-70er/mp3-128/radio-browser-1A/stream.mp3"
       ]
     },
     "languages": [
@@ -386,8 +400,8 @@
     "name": "antenne SACHSEN - Leipzig",
     "sources": {
       "streams": [
-        "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
         "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
         "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
       ]
     },
@@ -630,8 +644,8 @@
     "name": "Coast FM 96.3",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3"
       ]
     },
     "languages": [
@@ -719,8 +733,8 @@
     "name": "Exclusively Led Zeppelin",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio",
-        "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio"
+        "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+        "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio"
       ]
     },
     "languages": [
@@ -799,8 +813,8 @@
     "name": "Funky Radio",
     "sources": {
       "streams": [
-        "https://discofunk.streamingmedia.it/usa",
         "https://funkyradio.streamingmedia.it/play.mp3",
+        "https://discofunk.streamingmedia.it/usa",
         "https://funkyradio.streamingmedia.it/audio.aac"
       ]
     },
@@ -1011,8 +1025,8 @@
     "name": "Kiss FM 97.7",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/k7sx1n90g3quv",
-        "https://stream.zenolive.com/1sgzkhhm8ueuv"
+        "https://stream.zenolive.com/1sgzkhhm8ueuv",
+        "https://stream.zeno.fm/k7sx1n90g3quv"
       ]
     },
     "languages": [
@@ -1372,7 +1386,7 @@
       "streams": [
         "https://s1-webradio.oldie-antenne.de/oldie-antenne",
         "https://s6-webradio.antenne.de/oldies-but-goldies",
-        "https://mp3channels.webradio.antenne.de/oldies-but-goldies"
+        "https://stream.oldie-antenne.de/oldie-antenne/stream/mp3"
       ]
     },
     "languages": [
@@ -1523,9 +1537,9 @@
     "name": "R.SA - 70er Oldies",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6no59s4o%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790287691",
-        "https://streams.rsa-sachsen.de/70er/mp3-192",
-        "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de"
+        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6noqn6s9%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790813945",
+        "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de",
+        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=6noqn6s3%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790813939"
       ]
     },
     "languages": [
@@ -1551,8 +1565,8 @@
     "name": "Radio 10 60s & 70s Hits",
     "sources": {
       "streams": [
-        "https://22613.live.streamtheworld.com/TLPSTR18_SC",
-        "https://22713.live.streamtheworld.com/TLPSTR18_SC",
+        "https://25233.live.streamtheworld.com/TLPSTR18_SC",
+        "https://22663.live.streamtheworld.com/TLPSTR18_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3"
       ]
     },
@@ -1971,8 +1985,8 @@
     "sources": {
       "streams": [
         "https://goldies-high.rautemusik.fm/",
-        "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies",
-        "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies"
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies",
+        "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies"
       ]
     },
     "languages": [
@@ -2081,26 +2095,12 @@
     ]
   },
   {
-    "nanoid": "Hc7hZuDVALFtmi",
-    "name": "Rhythm 101 FM Online",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/tzn3ovjs0nbvv"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LS6Ty98ICflTKO",
     "name": "Ride Radio",
     "sources": {
       "streams": [
-        "https://ais-edge08-live365-dal02.cdnstream.com/a75084",
-        "https://streaming.live365.com/a75084"
+        "https://streaming.live365.com/a75084",
+        "https://ais-edge08-live365-dal02.cdnstream.com/a75084"
       ]
     },
     "languages": [
@@ -2558,8 +2558,8 @@
     "name": "VillageRadio.Net",
     "sources": {
       "streams": [
-        "https://ais-edge09-live365-dal02.cdnstream.com/a73319",
-        "https://streaming.live365.com/a73319"
+        "https://streaming.live365.com/a73319",
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73319"
       ]
     },
     "languages": [

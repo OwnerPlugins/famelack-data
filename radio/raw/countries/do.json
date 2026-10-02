@@ -128,8 +128,8 @@
     "name": "Dominicana FM",
     "sources": {
       "streams": [
-        "https://protvradiostream.com:8610/stream",
-        "https://protvradiostream.com:8610/;"
+        "https://protvradiostream.com:8610/;",
+        "https://protvradiostream.com:8610/stream"
       ]
     },
     "languages": [
@@ -464,11 +464,12 @@
     ]
   },
   {
-    "nanoid": "XygfP9l3DJ96fe",
-    "name": "Radio Eternidad",
+    "nanoid": "ghtWzyWxSqnwDc",
+    "name": "Radio FM-103.5",
     "sources": {
       "streams": [
-        "https://cast5.my-control-panel.com/proxy/radioete/stream"
+        "https://radio.radiord.net/8008/;",
+        "https://radio.radiord.net/8008/;stream.mp3"
       ]
     },
     "languages": [
@@ -680,20 +681,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "bHPK9hUU1SyvBB",
-    "name": "Vida FM 105.3",
-    "sources": {
-      "streams": [
-        "https://a.tunzilla.com/http://paginas.moisespaulino.com:8036/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wvn51yAdc9ExqI",

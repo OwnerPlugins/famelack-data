@@ -15,8 +15,8 @@
     "name": "ADN Radio",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac",
-        "https://27413.live.streamtheworld.com/ADNAAC.aac"
+        "https://27413.live.streamtheworld.com/ADNAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
       ]
     },
     "languages": [
@@ -400,9 +400,9 @@
     "name": "FMDOS",
     "sources": {
       "streams": [
-        "https://23243.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://24273.live.streamtheworld.com/FMDOSAAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC",
-        "https://26573.live.streamtheworld.com/FMDOSAAC_SC"
+        "https://27413.live.streamtheworld.com/FMDOSAAC_SC"
       ]
     },
     "languages": [
@@ -1191,9 +1191,9 @@
     "name": "Radio Concierto",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC"
       ]
     },
     "languages": [
@@ -1317,8 +1317,8 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/dzvavezs85ouv",
-        "https://stream.zeno.fm/3yv0enxnp7zuv",
-        "https://stream.zeno.fm/kc5hofr05tavv"
+        "https://stream.zeno.fm/bx6zuwssrnjvv",
+        "https://stream.zeno.fm/uftblekcpxguv"
       ]
     },
     "languages": [
@@ -1432,6 +1432,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "ZlkeZxsptQaIFz",
+    "name": "Radio Femenina",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/femenina.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "M5bt8VHwzhcx3N",
@@ -1738,6 +1752,20 @@
     ]
   },
   {
+    "nanoid": "jUiBe2kpHb4pUc",
+    "name": "Radio Lafken Mawida",
+    "sources": {
+      "streams": [
+        "https://radio.latina.red/lafkenmawida.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K5o8numdMZ6Lvw",
     "name": "Radio Las Nieves",
     "sources": {
@@ -1972,8 +2000,8 @@
     "name": "Radio Picarona",
     "sources": {
       "streams": [
-        "https://sonic.portalfoxmix.cl:7046/;",
-        "https://sonic.portalfoxmix.cl:7045/;"
+        "https://sonic.portalfoxmix.cl:7045/;",
+        "https://sonic.portalfoxmix.cl:7046/;"
       ]
     },
     "languages": [
@@ -2216,6 +2244,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bmbFT4laSRnAeT",
+    "name": "Radio Sol Latina",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7435"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wC1ghIzIzks5If",
     "name": "Radio Sunrise Lounge",
     "sources": {
@@ -2250,20 +2292,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "Ywg6zdZlawG2rs",
-    "name": "Radio Tiempo Salvador",
-    "sources": {
-      "streams": [
-        "https://cast235.indax.cl/8024/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "CMdulH9uBgJoo3",
@@ -2361,6 +2389,20 @@
     ]
   },
   {
+    "nanoid": "Q0p6hP8H0rZPGg",
+    "name": "Radio Universidad de Chile",
+    "sources": {
+      "streams": [
+        "https://sonic-us.arkeo.cl/8186/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p01m43NUArbcGO",
     "name": "Radio UVM",
     "sources": {
@@ -2418,7 +2460,7 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/pvs6hqz3crtvv",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC",
+        "https://24503.live.streamtheworld.com/ACTIVA_SC",
         "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3"
       ]
     },

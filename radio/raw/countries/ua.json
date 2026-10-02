@@ -214,8 +214,8 @@
     "name": "Kiss FM Ukrainian",
     "sources": {
       "streams": [
-        "https://online.kissfm.ua/KissFM_Ukr",
-        "https://online.kissfm.ua/KissFM_Ukr_HD"
+        "https://online.kissfm.ua/KissFM_Ukr_HD",
+        "https://online.kissfm.ua/KissFM_Ukr"
       ]
     },
     "languages": [
@@ -342,6 +342,20 @@
     "languages": [
       "ukr"
     ]
+  },
+  {
+    "nanoid": "FLzTaL4PbPWEhk",
+    "name": "MFM Station",
+    "sources": {
+      "streams": [
+        "https://radio.mfm.ua/online128"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dZYoDSoKHN3aJx",
@@ -807,6 +821,21 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "z3NIwvfvBc9y9x",
+    "name": "True Black Metal Radio",
+    "sources": {
+      "streams": [
+        "https://trueblackmetalradio.com:666/radio",
+        "https://trueblackmetalradio.com:8000/radio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "C8X1GBzvAcitGL",
@@ -1703,6 +1732,20 @@
     ]
   },
   {
+    "nanoid": "nJi33hyrkVIIOT",
+    "name": "Стильне радіо ПЕРЕЦ FM",
+    "sources": {
+      "streams": [
+        "https://radio.perec.fm/radio-stilnoe"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4U7ffCufBPsLxz",
     "name": "Сфера-ФМ",
     "sources": {
@@ -1738,20 +1781,6 @@
     "languages": [
       "ukr"
     ]
-  },
-  {
-    "nanoid": "NNH2Y2potnU13Z",
-    "name": "Українське радіо - Радіоточка",
-    "sources": {
-      "streams": [
-        "https://radio.ukr.radio/ur5-mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "KWmapzoW6vyP6o",
@@ -1820,8 +1849,8 @@
     "name": "Явір FM",
     "sources": {
       "streams": [
-        "https://complex.in.ua/Yavir",
-        "https://complex.in.ua/Yavir320"
+        "https://complex.in.ua/Yavir320",
+        "https://complex.in.ua/Yavir"
       ]
     },
     "languages": [

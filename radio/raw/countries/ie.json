@@ -39,8 +39,8 @@
     "name": "Beat 102-103",
     "sources": {
       "streams": [
-        "https://stream.audioxi.com/BEATAAC",
-        "https://live-bauerie.sharp-stream.com/BEAT"
+        "https://live-bauerie.sharp-stream.com/BEAT",
+        "https://stream.audioxi.com/BEATAAC"
       ]
     },
     "languages": [
@@ -58,6 +58,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "feq5uGAEB4sSyp",
+    "name": "Biggest Disco Radio",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/s823d25743/low"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "N8NpfamJga6X6D",
@@ -611,8 +625,8 @@
     "sources": {
       "streams": [
         "https://direct.sharp-stream.com/midwestfmie.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
       ]
     },
     "languages": [
@@ -654,6 +668,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "ASfTtTtO52eA97",
+    "name": "MPB Radio 1",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/radio1.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4j8bcBFb3dn3Pi",
@@ -1159,9 +1187,9 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW",
         "https://stream.audioxi.com/SW",
-        "https://live-bauerie.sharp-stream.com/SW"
+        "https://edge.audioxi.com/SW"
       ]
     },
     "languages": [
@@ -1233,8 +1261,8 @@
     "name": "Today FM",
     "sources": {
       "streams": [
-        "https://pri.gocaster.net/td",
         "https://stream.audioxi.com/TD",
+        "https://pri.gocaster.net/td",
         "https://live-bauerie.sharp-stream.com/TDAAC"
       ]
     },

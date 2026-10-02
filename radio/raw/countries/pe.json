@@ -959,20 +959,6 @@
     ]
   },
   {
-    "nanoid": "UOlZVDTX8Zc4mf",
-    "name": "Radio Frecuencia Popular",
-    "sources": {
-      "streams": [
-        "https://radio.sistemasandinos.org/7412/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MYztuGZnD8srK5",
     "name": "Radio Frecuencia Primera",
     "sources": {
@@ -1043,8 +1029,8 @@
     "name": "Radio Huancayo",
     "sources": {
       "streams": [
-        "https://cloud9.ldwebstudios.net:7000/stream",
-        "https://cloud9.ldwebstudios.net:7000/;"
+        "https://cloud9.ldwebstudios.net:7000/;",
+        "https://cloud9.ldwebstudios.net:7000/stream"
       ]
     },
     "languages": [

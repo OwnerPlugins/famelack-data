@@ -47,9 +47,6 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/qRxmjIrinz0"
       ]
     },
     "languages": [
@@ -1832,20 +1829,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gIzvEoHovI0T4u",
-    "name": "BattleBots",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/qe31L2gmphY"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -3676,6 +3659,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p9TPCkNNGjcV0i",
+    "name": "City of Monroe Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "asX42h8yD38q9i",
     "name": "City of Pompano Beach",
     "sources": {
@@ -4086,20 +4083,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6mQSbFMohfxTL1",
-    "name": "Community 12TV",
-    "sources": {
-      "streams": [
-        "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6en7wxo2pKO6rD",
     "name": "CommunityTV Channel 189",
     "sources": {
@@ -4170,7 +4153,7 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vQSPRgyCidI"
+        "https://www.youtube-nocookie.com/embed/IMmP9ffri5s"
       ]
     },
     "languages": [
@@ -5912,20 +5895,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QsX3MDH7qwn2bt",
-    "name": "FC Public Media",
-    "sources": {
-      "streams": [
-        "https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Jp3gXgqu7DE0dp",
     "name": "FCTV",
     "sources": {
@@ -6439,21 +6408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rSbwbBDpFexSew",
-    "name": "Fubo Sports Network",
-    "sources": {
-      "streams": [
-        "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "vADDMdGwASejWG",
     "name": "Fun Roads",
     "sources": {
@@ -6595,7 +6549,7 @@
     "name": "Gem Shopping",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RmIvdLrrIgM"
+        "https://www.youtube-nocookie.com/embed/iH25Y4MBOVE"
       ]
     },
     "languages": [
@@ -9014,21 +8968,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "gXMXlgPuC7hEDD",
-    "name": "Living Faith TV",
-    "sources": {
-      "streams": [
-        "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u4FqLczH01hgpB",
     "name": "LLBN His Light",
     "sources": {
@@ -9557,6 +9496,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iKWwtXoSIYPCGC",
+    "name": "Metaleitor TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -10701,8 +10654,8 @@
     "name": "NEW K-POP",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -10855,11 +10808,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "q8agflF5shjdE5",
+    "name": "News12 Westchester",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "jLGAHvaIG3O3uP",
     "name": "Newsmax",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RNNFrG4KbH0"
+        "https://www.youtube-nocookie.com/embed/N3GJ8o_qZHQ"
       ]
     },
     "languages": [
@@ -11070,20 +11037,6 @@
     },
     "languages": [
       "ara"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wSSmMMKtnu1Npb",
-    "name": "NOW News Global",
-    "sources": {
-      "streams": [
-        "https://nowhls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -11523,8 +11476,8 @@
     "name": "Outside TV",
     "sources": {
       "streams": [
-        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-        "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12346,7 +12299,7 @@
     "name": "QVCtv: QVC 1",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ufwLk92fA9k"
+        "https://www.youtube-nocookie.com/embed/pTooKFXna48"
       ]
     },
     "languages": [
@@ -12493,6 +12446,20 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uG8pl3LEpu9YZr",
+    "name": "Rainbow Junior: 44 Cats",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cM9oNdezOVs"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -12945,20 +12912,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/iyT6KqNCK-0"
     ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KjF2Vl25g6IXPG",
-    "name": "Rubble & Crew",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/p9eE_isn8dc"
-      ]
-    },
     "languages": [
       "eng"
     ],
@@ -13455,6 +13408,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3BHAyBMKjTQ8M",
+    "name": "Sesame Street",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/O2dsmwHm_oE"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QvfZ45T9wvpbFD",
     "name": "SFGovTV",
     "sources": {
@@ -13677,7 +13644,7 @@
     "name": "Shout! Studios: Get A Life",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cK7HO0Xd91U"
+        "https://www.youtube-nocookie.com/embed/yhhKQ_BGXhw"
       ]
     },
     "languages": [
@@ -14661,7 +14628,6 @@
     "name": "Telemundo Al Dia",
     "sources": {
       "streams": [
-        "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573",
         "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8"
       ]
     },
@@ -17584,8 +17550,7 @@
     "name": "Western Bound",
     "sources": {
       "streams": [
-        "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8",
-        "https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8"
+        "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8"
       ]
     },
     "languages": [],
