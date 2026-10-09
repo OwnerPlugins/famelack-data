@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "EME4N9khfw88cn",
+    "name": "AnewZ TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OckUkrPhM2s"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuxAvZJ7qbOfux",
     "name": "Ayaz TV",
     "sources": {
@@ -20,6 +34,20 @@
       "streams": [
         "https://str.yodacdn.net/azertv/index.m3u8",
         "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BhIE684tnvCL5c",
+    "name": "Azad TV",
+    "sources": {
+      "streams": [
+        "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
       ]
     },
     "languages": [

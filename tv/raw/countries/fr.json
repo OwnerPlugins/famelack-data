@@ -386,22 +386,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmuSIeE8brywZA",
-    "name": "Euronews en Español",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "32YXpnKvxn9M0K",
-    "name": "Euronews Français",
+    "nanoid": "qZx2FfhpEJUqdS",
+    "name": "Euronews French",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
@@ -419,6 +405,9 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uWIhV9gQClg"
       ]
     },
     "languages": [
@@ -428,22 +417,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
-    "name": "Euronews Italiano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JoqV25BvXTYp5C",
-    "name": "Euronews Magyar",
+    "nanoid": "Iq86nUR80ay3qv",
+    "name": "Euronews Hungarian",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/jAn7L2Kt32U"
@@ -456,8 +431,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s8LUnwDl6mY0ZL",
+    "name": "Euronews Persian",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/A8eHIQdTpvQ"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ebFbvTKN8YcHpc",
-    "name": "Euronews Polski",
+    "name": "Euronews Polish",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/fG7PjdiKaBY"
@@ -470,8 +459,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iGI0lZtaC0qVgq",
-    "name": "Euronews Português",
+    "nanoid": "GGI2245NqAePNm",
+    "name": "Euronews Portuguese",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
@@ -484,15 +473,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "edGsS9KBSmSMSh",
-    "name": "Euronews Română",
+    "nanoid": "AebbSbQ8k1zQps",
+    "name": "Euronews Russian",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XNcx7TFm6zg"
+        "https://www.youtube-nocookie.com/embed/lwYzwdBiaho"
       ]
     },
     "languages": [
-      "ron"
+      "rus"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -503,6 +492,9 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
       ]
     },
     "languages": [
@@ -512,29 +504,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SPix7L8rl3SPVz",
-    "name": "Euronews Ελληνικά",
+    "nanoid": "9eVKsiEEc1KvRY",
+    "name": "Europe 1 TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/uWIhV9gQClg"
+      "streams": [
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8"
       ]
     },
     "languages": [
-      "ell"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjpmQDsZSRhSoo",
-    "name": "Euronews Русский",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwYzwdBiaho"
-      ]
-    },
-    "languages": [
-      "rus"
+      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -713,6 +691,9 @@
     "nanoid": "H49EeQ4bvodyQ7",
     "name": "Franceinfo",
     "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NG7ZX42nZKc"
       ]
@@ -831,6 +812,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "30bfOGEz7cdNL8",
+    "name": "LCP",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ao2VustxYc4JJe",
     "name": "Le Figaro TV Ile-de-France",
     "sources": {
@@ -938,7 +933,7 @@
     "name": "Mosaïk Cristal",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3A1M2zSRsTc"
+        "https://www.youtube-nocookie.com/embed/evDkVQHf-yU"
       ]
     },
     "languages": [
@@ -953,18 +948,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "sources": {
-      "streams": [
-        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1379,6 +1362,20 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zUV96NgJVUM"
       ]
     },
     "languages": [

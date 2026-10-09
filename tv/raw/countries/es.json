@@ -87,20 +87,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "evUeZsCd7b98tf",
-    "name": "12tv",
-    "sources": {
-      "streams": [
-        "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0ql8ScPnCzsSJo",
     "name": "28 kanala",
     "sources": {
@@ -253,6 +239,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gNHieigy6r2l2U",
+    "name": "BCN Gospel TV",
+    "sources": {
+      "streams": [
+        "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MBJMQo3ahq3SeU",
     "name": "Beyblade en Español",
     "sources": {
@@ -322,35 +322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SjHQwsq7IlkAid",
-    "name": "Canal 3 TV Biar",
-    "sources": {
-      "streams": [
-        "https://avantstreaming.es/hls/canal3.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TXUgKR5bcyBflc",
-    "name": "Canal 7 TeleValencia",
-    "sources": {
-      "streams": [
-        "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CnfcZWHdpy1vl5",
     "name": "Canal 10 Emporda",
     "sources": {
@@ -393,20 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LtD5RiPuecwLxV",
-    "name": "Canal Coin TV",
-    "sources": {
-      "streams": [
-        "https://canalcoin.garjim.es/hls/directo.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OW9bAVyqxJwlzp",
     "name": "Canal Diocesano",
     "sources": {
@@ -440,20 +397,6 @@
     "sources": {
       "streams": [
         "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rNsPk0ZuXHne3A",
-    "name": "Canal Parlamento",
-    "sources": {
-      "streams": [
-        "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
       ]
     },
     "languages": [
@@ -512,7 +455,7 @@
         "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Q74FEqiq1ds"
+        "https://www.youtube-nocookie.com/embed/vjRNYL_QEEA"
       ]
     },
     "languages": [
@@ -1032,8 +975,7 @@
     "name": "Historia",
     "sources": {
       "streams": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
       ]
     },
     "languages": [
@@ -1640,20 +1582,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vDun3PAY1zC641",
-    "name": "Tac12",
-    "sources": {
-      "streams": [
-        "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gwo0Rl1MzhMfE6",
     "name": "Taroteame",
     "sources": {
@@ -1961,6 +1889,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IKMYFInzhM8nN6",
+    "name": "Ventdelnord TV",
+    "sources": {
+      "streams": [
+        "https://ventdelnord.tv:8080/hls/directe.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hw4gcMWFqlE6Dv",
     "name": "Vevo Pop Spain",
     "sources": {
@@ -1982,6 +1924,20 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f4MvB70GxNwe4i",
+    "name": "VOTV",
+    "sources": {
+      "streams": [
+        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

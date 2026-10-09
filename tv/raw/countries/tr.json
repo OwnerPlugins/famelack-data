@@ -45,26 +45,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2Sh87nZdgrfog",
-    "name": "A Para",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/REwUb21o6-w"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UyP5uli9gNPXtq",
     "name": "A Spor",
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nol9os2B8zE"
       ]
     },
     "languages": [
@@ -218,7 +207,7 @@
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8_aEmQtRZZw"
+        "https://www.youtube-nocookie.com/embed/959bjt_iryU"
       ]
     },
     "languages": [
@@ -284,10 +273,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9cbMZrwOtdSUeq",
+    "name": "Bir TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "sources": {
       "streams": [
+        "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
         "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
       ]
     },
@@ -586,7 +591,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Vsn5sx8afBc"
+        "https://www.youtube-nocookie.com/embed/0Xr-gVx6jCc"
       ]
     },
     "languages": [
@@ -1144,6 +1149,9 @@
     "nanoid": "EGLHx6bgJtwQkq",
     "name": "Haber Global",
     "sources": {
+      "streams": [
+        "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/EqoCJ8BPxtE"
       ]
@@ -1161,6 +1169,20 @@
       "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Hf1Mv2Va7QrA2",
+    "name": "Haberturk TV",
+    "sources": {
+      "streams": [
+        "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -1632,7 +1654,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SB7JzpJGH2A"
+        "https://www.youtube-nocookie.com/embed/zwNpYXQwx2g"
       ]
     },
     "languages": [

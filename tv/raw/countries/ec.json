@@ -307,20 +307,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2m0gEtXYdWeCIN",
-    "name": "Infinita TV",
-    "sources": {
-      "streams": [
-        "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BQiZCJpf4JlMdt",
     "name": "La Nueva Radio TV 97.7",
     "stream_urls": [
@@ -679,6 +665,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5YjX2szaJng7ZF",
+    "name": "Studio + TV",
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3TCmSy7n4qBhND",
     "name": "Telemar",
     "sources": {
@@ -768,20 +768,6 @@
     "sources": {
       "streams": [
         "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9TUqw93GWA6FwZ",
-    "name": "Vos y TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
       ]
     },
     "languages": [

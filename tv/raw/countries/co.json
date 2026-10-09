@@ -863,7 +863,36 @@
     "name": "NSTV",
     "sources": {
       "streams": [
+        "https://vcp3.myplaytv.com/nstv/nstv/playlist.m3u8",
         "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T73QnXQwh13Ndq",
+    "name": "NTN24",
+    "sources": {
+      "streams": [
+        "https://stream1.bitred.cl/ntn24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q5oTNG0GDKkNGK",
+    "name": "Nuestra Tele Internacional",
+    "sources": {
+      "streams": [
+        "https://stream1.bitred.cl/nuestra-tele/index.m3u8"
       ]
     },
     "languages": [
@@ -991,6 +1020,20 @@
     "sources": {
       "streams": [
         "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZfnfgO93XkAdZ",
+    "name": "Soona TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
       ]
     },
     "languages": [

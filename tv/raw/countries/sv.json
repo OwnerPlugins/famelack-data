@@ -4,7 +4,8 @@
     "name": "Agape TV",
     "sources": {
       "streams": [
-        "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8"
+        "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+        "https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8"
       ]
     },
     "languages": [
@@ -46,6 +47,20 @@
     "sources": {
       "streams": [
         "https://stream.giostreaming.app/canal11/canal11.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mhF9kMjqHvyiE9",
+    "name": "Canal TRV",
+    "sources": {
+      "streams": [
+        "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
       ]
     },
     "languages": [

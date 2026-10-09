@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "iTbSyptSI7ovhK",
+    "name": "1KZN TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LyB1P5SiU3vOaG",
     "name": "6 Wise Tv",
     "sources": {
@@ -55,20 +69,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PCHpCRc0yRAZbi",
-    "name": "Canal IPe",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "sources": {
@@ -113,20 +113,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "29x0D5l70jxbBR",
-    "name": "Green TV",
-    "sources": {
-      "streams": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Lzh8NoZwGUGsG2",
@@ -271,13 +257,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/sts/index.m3u8",
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://flussonic.linkintel.ru/sts/index.m3u8",
+        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -291,8 +291,8 @@
     "name": "STS Love",
     "sources": {
       "streams": [
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8",
-        "https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ]
     },
     "languages": [

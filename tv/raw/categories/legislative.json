@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNsPk0ZuXHne3A",
-    "name": "Canal Parlamento",
-    "sources": {
-      "streams": [
-        "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
     "sources": {
@@ -563,6 +549,85 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xdokYBHmV0ZqHz",
+    "name": "EbS",
+    "sources": {
+      "streams": [
+        "https://streams.prd.commavservices.eu/live/ebs/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul",
+      "ces",
+      "dan",
+      "deu",
+      "ell",
+      "eng",
+      "est",
+      "fin",
+      "fra",
+      "gle",
+      "hrv",
+      "hun",
+      "ita",
+      "lav",
+      "lit",
+      "mlt",
+      "nld",
+      "pol",
+      "por",
+      "ron",
+      "slk",
+      "slv",
+      "spa",
+      "swe",
+      "ukr"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uV9cHG9Bbd3pt9",
+    "name": "EbS+",
+    "sources": {
+      "streams": [
+        "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bos",
+      "bul",
+      "ces",
+      "dan",
+      "deu",
+      "ell",
+      "eng",
+      "est",
+      "fin",
+      "fra",
+      "gle",
+      "hrv",
+      "hun",
+      "ita",
+      "lav",
+      "lit",
+      "mkd",
+      "mlt",
+      "nld",
+      "pol",
+      "por",
+      "ron",
+      "slk",
+      "slv",
+      "spa",
+      "sqi",
+      "srp",
+      "swe"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -643,6 +708,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p69vsxFs98WVu8",
+    "name": "Hluttaw S & D",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -740,6 +819,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "30bfOGEz7cdNL8",
+    "name": "LCP",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -913,7 +1006,7 @@
     "name": "Nova24TV 2",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sVhrVNTqmHo"
+        "https://www.youtube-nocookie.com/embed/7KHhGntQJKc"
       ]
     },
     "languages": [
@@ -1074,6 +1167,22 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6s6gtsiN1GEpMO",
+    "name": "Rada TV",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {

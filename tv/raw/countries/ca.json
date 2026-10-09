@@ -58,20 +58,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YD8ihVxcEILfkx",
-    "name": "Azan TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fruS79xWb73ha2",
     "name": "Barney the Dinosaur",
     "sources": {
@@ -262,7 +248,7 @@
     "name": "CBC News Quebec",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WIgNWfoZQ4g"
+        "https://www.youtube-nocookie.com/embed/yYuNhmY4iLs"
       ]
     },
     "languages": [
@@ -392,6 +378,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZjrdyB3hSZu0bK",
+    "name": "CP24",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/cp24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZXvLfybRDCi9xD",
     "name": "DesheBideshe TV",
     "sources": {
@@ -411,6 +411,20 @@
     "sources": {
       "streams": [
         "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NYOzLMHn9DVS1q",
+    "name": "Doyel TV",
+    "sources": {
+      "streams": [
+        "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
       ]
     },
     "languages": [

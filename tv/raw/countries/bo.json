@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w3bpP2FDGFGLPQ",
-    "name": "AYNI TV",
+    "nanoid": "PuOdackS09IXBO",
+    "name": "Bolivia TV",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8"
+        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
       ]
     },
     "languages": [
@@ -197,6 +197,20 @@
     "sources": {
       "streams": [
         "https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4HfmIkncFKbS69",
+    "name": "Imperial TV",
+    "sources": {
+      "streams": [
+        "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8"
       ]
     },
     "languages": [
@@ -360,16 +374,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "crhuDV1URlafW7",
-    "name": "Red Rubi",
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
+        "https://master.tucableip.com/redtvshop/index.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F3BYfjJnpkzbsO",
+    "name": "Red Uno",
+    "sources": {
+      "streams": [
+        "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "bo",
     "isGeoBlocked": false
   },
@@ -388,6 +414,20 @@
     ],
     "country": "bo",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "za6KpDi86ZZAJu",
+    "name": "SPC Canal 15",
+    "sources": {
+      "streams": [
+        "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jo5rZWZDxVWDCK",
@@ -423,34 +463,6 @@
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FQtLVabcRW3R96",
-    "name": "Tele Fe Bolivia",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oOiARRZ91GwBKV",
-    "name": "TL Estrella",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
       ]
     },
     "languages": [
@@ -575,8 +587,7 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
+        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
       ]
     },
     "languages": [],
@@ -619,11 +630,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uLnAaMvBQP6gl2",
-    "name": "Vos TV",
+    "nanoid": "GMFO5ANQ5nEa2e",
+    "name": "UPEA TV",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
+        "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
       ]
     },
     "languages": [

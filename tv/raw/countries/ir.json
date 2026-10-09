@@ -69,6 +69,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FjdLgphriWW4if",
+    "name": "Al-Kawthar TV",
+    "sources": {
+      "streams": [
+        "https://cdn.faina.ir/faina-stream/tenants/3887e2cb-0766-419d-ac8a-6303ca2f09dc/videos/8582ec07-fbdf-4ef1-9ccd-346fcd76aac2/hls/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uo4r4AgtnKSByN",
     "name": "Arax TV",
     "sources": {
@@ -573,11 +585,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3IdSqyUsjeV7nB",
-    "name": "ICC plus",
+    "nanoid": "xx5fSvkMwtXOAg",
+    "name": "HodHod Farsi TV",
     "sources": {
       "streams": [
-        "https://icchls.wns.live/hls/stream.m3u8"
+        "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
       ]
     },
     "languages": [
@@ -912,6 +924,20 @@
     "sources": {
       "streams": [
         "https://euhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P7HHjZISueKx11",
+    "name": "Persiana Reality",
+    "sources": {
+      "streams": [
+        "https://realhls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [

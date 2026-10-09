@@ -97,6 +97,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0MeH4u5WZGBr4b",
+    "name": "Al Sharqiya",
+    "sources": {
+      "streams": [
+        "https://indexforce.com/tvhighres/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uIjblLy9ix24di",
+    "name": "Al Sharqiya News",
+    "sources": {
+      "streams": [
+        "https://indexforce.com/newshighres/mystream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gqagHcGI6e4lYf",
     "name": "Al-Jawadain TV",
     "sources": {
@@ -344,22 +372,6 @@
     ],
     "languages": [
       "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9RdvwjYBwgdvbP",
-    "name": "Kurdistan TV",
-    "sources": {
-      "streams": [
-        "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "kur",
-      "tur"
     ],
     "country": "iq",
     "isGeoBlocked": false

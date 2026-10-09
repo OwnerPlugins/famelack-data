@@ -71,6 +71,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47516/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
     "sources": {
@@ -83,6 +97,20 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iHcfV4gwyUQYof",
+    "name": "Dens Food Channel",
+    "sources": {
+      "streams": [
+        "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Y8AFU7NIgn2ZOP",
@@ -273,9 +301,9 @@
     "name": "Tastemade Travel",
     "sources": {
       "streams": [
-        "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
         "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
-        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
+        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8",
+        "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8"
       ]
     },
     "languages": [
@@ -303,8 +331,8 @@
     "name": "Telecafe",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv",
+        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [

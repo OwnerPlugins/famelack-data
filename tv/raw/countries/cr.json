@@ -202,11 +202,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
+    "nanoid": "wXST2Lc3NQDzOF",
+    "name": "Coto Brus TV",
     "sources": {
       "streams": [
-        "https://video0.rogohosting.com:19360/8006/8006.m3u8"
+        "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
       ]
     },
     "languages": [
@@ -555,6 +555,34 @@
     "sources": {
       "streams": [
         "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "sources": {
+      "streams": [
+        "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [

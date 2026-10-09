@@ -41,6 +41,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3qqNu9ZcAbmKFU",
+    "name": "Cape Town TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IsHsuTjDtTUjjX",
     "name": "Cartoon Network Africa",
     "stream_urls": [],
@@ -72,7 +86,8 @@
     "name": "Faith Africa",
     "sources": {
       "streams": [
-        "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8"
+        "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+        "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -245,7 +260,7 @@
     "name": "Tshwane TV",
     "sources": {
       "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -255,11 +270,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Es7qApbSf615KN",
-    "name": "TV BRICS Africa",
+    "nanoid": "OFNCxJwQlhXnh3",
+    "name": "Tshwane TV",
     "sources": {
       "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
       ]
     },
     "languages": [

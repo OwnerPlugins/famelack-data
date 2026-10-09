@@ -42,15 +42,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S1KgpgFLSsbIi2",
-    "name": "Dream TV",
+    "nanoid": "RgMMgkjkxfK5cI",
+    "name": "Bukedde TV 1",
     "sources": {
       "streams": [
-        "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+        "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "lug"
     ],
     "country": "ug",
@@ -90,8 +89,7 @@
     "name": "KSTV Uganda",
     "sources": {
       "streams": [
-        "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
-        "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8"
+        "https://live.esteem.africa/kstv/hls/0/stream.m3u8"
       ]
     },
     "languages": [
@@ -125,6 +123,23 @@
     "languages": [
       "cgg",
       "lug"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ibOddTJcAbkJ9l",
+    "name": "TV West",
+    "sources": {
+      "streams": [
+        "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cgg",
+      "nyn",
+      "nyo",
+      "ttj"
     ],
     "country": "ug",
     "isGeoBlocked": false
