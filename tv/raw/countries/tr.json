@@ -330,20 +330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WjndAfYgzOKuol",
     "name": "BRTV",
     "sources": {
@@ -625,20 +611,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0Xr-gVx6jCc"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6TzIP2eJ3m8bpX",
     "name": "Elsharq TV",
     "sources": {
@@ -786,6 +758,20 @@
     "sources": {
       "streams": [
         "https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6D9IHQIDu6y7l",
+    "name": "Güldür Güldür Show",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RKo3stUideQ"
       ]
     },
     "languages": [
@@ -1046,20 +1032,6 @@
     "sources": {
       "streams": [
         "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WlWPbkUSbOHRgd",
-    "name": "Kanal 34",
-    "sources": {
-      "streams": [
-        "https://live.euromediacenter.com/kanal34/tracks-v1a1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1460,11 +1432,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BO4YypoB7kcaVn",
+    "name": "Neo Haber",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GIntzeUgHcQOIa",
     "name": "Number 1 Ask",
     "sources": {
       "streams": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qe2ak6SCt98R2p",
+    "name": "Number 1 Damar",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1514,6 +1514,21 @@
     ],
     "country": "tr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "pGp24DvGOMHEiZ",
+    "name": "Persiana Turkiye",
+    "sources": {
+      "streams": [
+        "https://turkhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "fEdPdOM5VlxlUw",
@@ -1680,20 +1695,6 @@
       ]
     },
     "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
-    "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -2057,6 +2058,20 @@
     },
     "languages": [
       "ara"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MhRzY1TKeTMMWB",
+    "name": "TurkHaber TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
     ],
     "country": "tr",
     "isGeoBlocked": false

@@ -114,17 +114,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zoKJMDHzQaixA6",
-    "name": "TV Today Janakpur",
+    "nanoid": "QG38AVnrFiIrOE",
+    "name": "YRF Music Nepal",
     "sources": {
       "streams": [
-        "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+        "https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "mai",
-      "nep"
+      "hin"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XjpTFUX5g4pbgr",
+    "name": "Zoom Nepal",
+    "sources": {
+      "streams": [
+        "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
     ],
     "country": "np",
     "isGeoBlocked": false

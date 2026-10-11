@@ -42,6 +42,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2Gi4riOGPwTn6u",
+    "name": "Current Time TV",
+    "sources": {
+      "streams": [
+        "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dbyEgy08JOPZdU",
     "name": "DVTV Extra",
     "sources": {
@@ -84,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Cpn6uRs6WJZHOr",
-    "name": "HAHA TV",
-    "sources": {
-      "streams": [
-        "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "slk"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vSFSSUY1YrEDW7",
     "name": "JC1",
     "sources": {
@@ -135,20 +136,6 @@
     },
     "languages": [
       "cze"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uoQs1GLoP77edf",
-    "name": "Mnau TV",
-    "sources": {
-      "streams": [
-        "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
     ],
     "country": "cz",
     "isGeoBlocked": false

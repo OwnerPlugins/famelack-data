@@ -255,9 +255,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -556,7 +556,7 @@
     "languages": [
       "eng"
     ],
-    "country": "in",
+    "country": "nl",
     "isGeoBlocked": true
   },
   {
@@ -617,6 +617,20 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xwu9RwQkvtgOhW",
+    "name": "Love The Planet DE",
+    "sources": {
+      "streams": [
+        "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "tE3WIvWTPSPArw",
@@ -730,6 +744,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2bTTopTiGfPsS",
+    "name": "National Geographic Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -945,7 +973,7 @@
     "languages": [
       "eng"
     ],
-    "country": "us",
+    "country": "de",
     "isGeoBlocked": true
   },
   {
@@ -1058,7 +1086,7 @@
     "languages": [
       "eng"
     ],
-    "country": "uk",
+    "country": "ch",
     "isGeoBlocked": false
   },
   {

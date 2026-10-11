@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "f4J3TEsOIcCxKd",
-    "name": "4Dmas Noticias TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zhUhSGilKc6sOP",
     "name": "AGR FM TV",
     "sources": {
@@ -252,6 +238,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OETM24DdxaHZfM",
+    "name": "Invasiva TV",
+    "sources": {
+      "streams": [
+        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
@@ -313,6 +313,20 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KiwbZFxfIOXSsb",
+    "name": "Nande Portetepe TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
       ]
     },
     "languages": [
@@ -407,6 +421,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DTGn1oGPUrbYoj",
+    "name": "Paraguay TV",
+    "sources": {
+      "streams": [
+        "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+      ]
+    },
+    "languages": [
+      "gug",
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BUOGme9iVm1bq",
     "name": "Popu TV",
     "sources": {
@@ -491,11 +520,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CghjvXX91l15l6",
+    "name": "RB TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dLi3714dJiy1F0",
     "name": "RCC TV",
     "sources": {
       "streams": [
         "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERBtwPcBChyLTj",
+    "name": "Red Digital",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
       ]
     },
     "languages": [
@@ -566,6 +623,20 @@
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3mt6RVBhhnDwq",
+    "name": "Tigo Sports+",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8"
       ]
     },
     "languages": [

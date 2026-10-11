@@ -142,6 +142,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t77vURUv4tfKdi",
+    "name": "Canal 9 Cosespu",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "s64BgUfTafeYF2",
+    "name": "Canal 14 Codazzi",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8056/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "sources": {
@@ -303,6 +331,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HyuGqSkoeJg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xvmC3xU65tS3Gl",
+    "name": "Caracol TV",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8"
       ]
     },
     "languages": [
@@ -1025,20 +1067,6 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AmiFkXyyhlLrz0",
-    "name": "Veo Televisión",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

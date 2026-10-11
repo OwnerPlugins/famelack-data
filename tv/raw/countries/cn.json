@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "aMJAlbdlzTVVGv",
+    "name": "ABN China",
+    "sources": {
+      "streams": [
+        "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zRxr2ZAtzWPYCP",
     "name": "Ando TV",
     "sources": {
@@ -54,20 +68,6 @@
     ],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "sources": {
-      "streams": [
-        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "jPny5x45PjO9YA",
@@ -275,7 +275,7 @@
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pSMrCCPCZuA"
+        "https://www.youtube-nocookie.com/embed/0t5RT9FYCF8"
       ]
     },
     "languages": [
