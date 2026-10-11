@@ -270,6 +270,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pTxoOzbrB9RhS5",
+    "name": "Canal RCN",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/RCN/RCN.isml/RCN.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KjfXoBdjtuGuIn",
     "name": "Canal Telefamilia",
     "sources": {
@@ -374,21 +388,6 @@
       "streams": [
         "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
         "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5UNNnPvR2HyEJi",
-    "name": "CNC Bugavision",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/cncbuga.m3u8",
-        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ]
     },
     "languages": [
@@ -907,20 +906,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -1067,6 +1052,20 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmiFkXyyhlLrz0",
+    "name": "Veo Televisión",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

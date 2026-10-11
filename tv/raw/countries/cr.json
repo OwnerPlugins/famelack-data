@@ -60,8 +60,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -324,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
-    "sources": {
-      "streams": [
-        "https://rtmp.info/iqtv/envivo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hWONN4ANlWd0XQ",
     "name": "La Potente Radio TV",
     "sources": {
@@ -428,20 +413,6 @@
     "sources": {
       "streams": [
         "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HYkbd92n6SC6wf",
-    "name": "San Jose TV",
-    "sources": {
-      "streams": [
-        "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -582,6 +553,20 @@
     "sources": {
       "streams": [
         "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [

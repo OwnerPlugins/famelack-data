@@ -227,20 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "sources": {
@@ -436,6 +422,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -677,6 +677,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
+      ]
+    },
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
     "sources": {
@@ -765,9 +780,9 @@
     "name": "Disney Junior East",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/disneyjr/index.m3u8",
         "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8"
+        "https://tvsen7.aynascope.net/disney/index.m3u8",
+        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
       ]
     },
     "languages": [
@@ -1214,20 +1229,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "sources": {
-      "streams": [
-        "https://foxkidstv.be:3369/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -1947,7 +1948,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZmUeEyb97Hc"
+        "https://www.youtube-nocookie.com/embed/6psq0M_dRh4"
       ]
     },
     "languages": [
@@ -2130,7 +2131,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [

@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LyB1P5SiU3vOaG",
-    "name": "6 Wise Tv",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8150/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "sources": {
@@ -67,6 +53,20 @@
       "spa"
     ],
     "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GqeqAajjIHfMlp",
+    "name": "Discovery Family East",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -116,6 +116,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "29x0D5l70jxbBR",
+    "name": "Green TV",
+    "sources": {
+      "streams": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "sources": {
@@ -159,17 +173,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
     "sources": {
       "streams": [
-        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "eng"
     ],
-    "country": "es",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -177,7 +191,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [

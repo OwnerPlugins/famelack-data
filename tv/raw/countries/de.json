@@ -282,21 +282,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kxfwLfpFpzHMm2",
-    "name": "Deluxe Rap",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "04DHM2NaCjakkb",
     "name": "DMF",
     "sources": {
@@ -358,7 +343,7 @@
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "H4HR8svz54XngH",
@@ -885,18 +870,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZUrwxBDVVmyicG",
     "name": "NDR Fernsehen International",
     "sources": {
@@ -1263,6 +1236,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZDDOpXN3O4NOok",
+    "name": "ProSieben Maxx",
+    "sources": {
+      "streams": [
+        "https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OLmlejUUhCqlk2",
     "name": "QVC",
     "sources": {
@@ -1334,11 +1321,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "sources": {
       "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
@@ -1348,11 +1335,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rahlDGPnE1FWrR",
-    "name": "Rakuten TV Crime Series Germany",
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
     "sources": {
       "streams": [
-        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
       ]
     },
     "languages": [],
@@ -1448,7 +1435,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
