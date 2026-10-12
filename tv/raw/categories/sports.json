@@ -320,8 +320,8 @@
     "sources": {
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
       ]
     },
     "languages": [
@@ -736,20 +736,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WFwHBC1wCRvRfv",
     "name": "FightBox",
     "sources": {
@@ -920,6 +906,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zSqcM4N6tJjo6K",
+    "name": "Futbol TV",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -1131,6 +1131,22 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hQwO2hX6QgN3n6",
+    "name": "M Sports",
+    "sources": {
+      "streams": [
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1844,6 +1860,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1880,6 +1897,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ojnexrR2Xhymi2",
+    "name": "Star Sports 2 Telugu",
+    "sources": {
+      "streams": [
+        "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tel"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2032,9 +2063,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/KHtlHjiBn_k"
       ]
     },
     "languages": [

@@ -126,17 +126,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
+    "nanoid": "Z2RG0xDeG0qYnE",
+    "name": "Cartoon Network East",
     "sources": {
       "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+        "https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "eng",
+      "spa"
     ],
-    "country": "pl",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6PXWfNXySezA4E",
+    "name": "Cartoon Network Latin America South Atlantic",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -377,6 +392,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -565,7 +594,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SaNP77CQl_E"
+        "https://www.youtube-nocookie.com/embed/13ck0pnYSo4"
       ]
     },
     "languages": [

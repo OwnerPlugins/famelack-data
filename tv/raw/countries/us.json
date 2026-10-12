@@ -110,6 +110,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LyB1P5SiU3vOaG",
+    "name": "6 Wise Tv",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8150/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aA2yZLdL75JAVB",
     "name": "21 Jump Street",
     "sources": {
@@ -1913,6 +1927,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ruuutOA0HHbnPt",
+    "name": "AXN Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oq8Jp518iUm4tz",
     "name": "AXS TV",
     "sources": {
@@ -2513,8 +2541,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3212,6 +3240,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z2RG0xDeG0qYnE",
+    "name": "Cartoon Network East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6PXWfNXySezA4E",
+    "name": "Cartoon Network Latin America South Atlantic",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "sources": {
@@ -3416,6 +3473,9 @@
       "streams": [
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SGGJBg6wBDc"
       ]
     },
     "languages": [
@@ -3802,6 +3862,20 @@
     "sources": {
       "streams": [
         "https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q4Id1BJPFdPvTp",
+    "name": "Cinecanal South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8"
       ]
     },
     "languages": [
@@ -4208,11 +4282,40 @@
     "name": "CNN en Espanol",
     "sources": {
       "streams": [
+        "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
         "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8"
       ]
     },
     "languages": [
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JqWiz4SRzmNeW1",
+    "name": "CNN International Europe",
+    "sources": {
+      "streams": [
+        "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1GeNmy1dEJWQ4h",
+    "name": "CNN International North America",
+    "sources": {
+      "streams": [
+        "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -4445,9 +4548,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
+        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -5241,15 +5344,13 @@
   },
   {
     "nanoid": "GqeqAajjIHfMlp",
-    "name": "Discovery Family East",
+    "name": "Discovery Family",
     "sources": {
       "streams": [
         "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -7007,8 +7108,8 @@
     "name": "Giggle Mug",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
-        "https://tvsen6.aynaott.com/ytv/index.m3u8"
+        "https://tvsen6.aynaott.com/ytv/index.m3u8",
+        "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8"
       ]
     },
     "languages": [
@@ -7357,6 +7458,36 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nbJaIRnlOXsI50",
+    "name": "HBO East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b9hyRXnC242UxT",
+    "name": "HBO Hits East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -8961,6 +9092,20 @@
       "streams": [
         "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
         "https://tvsen7.aynascope.net/laff/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QCanIPPvtrIdKY",
+    "name": "Lake Havasu City 4",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11068,8 +11213,8 @@
     "name": "NEW K.MOVIES",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -11091,20 +11236,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yJ6qb835TTUKh1",
-    "name": "News12 Bronx",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "EmHOTWEORpvSsZ",
@@ -13782,20 +13913,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "n44FjJKe27jd1A",
-    "name": "SCVTV",
-    "sources": {
-      "streams": [
-        "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FtjwemSuY7cLgy",
     "name": "Sensical Jr",
     "sources": {
@@ -14446,6 +14563,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -14956,25 +15074,27 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "X20ezVvgfOtILT",
-    "name": "TCM East",
+    "nanoid": "yGabeV3DXTcBzp",
+    "name": "TBS West",
     "sources": {
       "streams": [
-        "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
+        "https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "eng",
+      "por",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "iKamvnY73w2HJ6",
-    "name": "TCM West",
+    "nanoid": "X20ezVvgfOtILT",
+    "name": "TCM East",
     "sources": {
       "streams": [
-        "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8"
+        "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
       ]
     },
     "languages": [
@@ -16249,20 +16369,6 @@
     "sources": {
       "streams": [
         "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "sNd7eV7PoGPFi6",
-    "name": "truTV West",
-    "sources": {
-      "streams": [
-        "https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8"
       ]
     },
     "languages": [
@@ -17935,18 +18041,6 @@
     "sources": {
       "streams": [
         "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AJTmHwIJM7UaGv",
-    "name": "WFMZ PennST camera",
-    "sources": {
-      "streams": [
-        "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
       ]
     },
     "languages": [],

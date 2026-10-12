@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w9iKnoeRBQ99pR",
-    "name": "Can Tho TV 2",
-    "sources": {
-      "streams": [
-        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
     "sources": {
@@ -329,7 +315,7 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/223/master.m3u8",
+        "https://cdn.pishow.tv/ott/live/9/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
         "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
       ]
@@ -1661,6 +1647,20 @@
       "spa"
     ],
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

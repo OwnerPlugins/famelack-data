@@ -16,6 +16,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "MW4dJ69gdqJN9m",
+    "name": "Asian Food Network Vietnam",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=215"
+      ]
+    },
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UScHhHKQkcsuIt",
     "name": "BBC Food",
     "sources": {
@@ -69,6 +84,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47516/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -129,6 +158,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7mF9lPyV9Hym2p",
+    "name": "Food Network",
+    "sources": {
+      "streams": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZlkeMII1Cl5GKN",
     "name": "Food Network",
     "sources": {
@@ -161,9 +204,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

@@ -103,7 +103,8 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
       ]
     },
     "languages": [
@@ -223,21 +224,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
-    "sources": {
-      "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XI0tj0hHgDA4kn",
     "name": "Extra TV 42",
     "sources": {
@@ -314,6 +300,20 @@
     "sources": {
       "streams": [
         "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
+    "sources": {
+      "streams": [
+        "https://rtmp.info/iqtv/envivo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -413,6 +413,20 @@
     "sources": {
       "streams": [
         "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYkbd92n6SC6wf",
+    "name": "San Jose TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
       ]
     },
     "languages": [

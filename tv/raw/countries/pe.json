@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/asiritv/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0vujAjUQp2jlO3",
     "name": "ATV",
     "sources": {
@@ -393,6 +379,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
+    "sources": {
+      "streams": [
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mHRulAqsRUqjO2",
     "name": "Genios TV",
     "sources": {
@@ -426,20 +426,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8VadQ9bvVXyzrj",
-    "name": "Intuitiva TV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/cableperu/live.m3u8"
       ]
     },
     "languages": [
@@ -491,11 +477,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3hbUF3ouea162A",
-    "name": "La Fabulosa TV",
+    "nanoid": "jxlsDXo2Z9WhXZ",
+    "name": "Kora TV",
     "sources": {
       "streams": [
-        "https://eu1.servers10.com:8081/8004/index.m3u8"
+        "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
       ]
     },
     "languages": [
@@ -567,6 +553,20 @@
     "sources": {
       "streams": [
         "https://chankillo.agenciastreaming.com/lidertv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nlIWMt52mBQ3do",
+    "name": "Master TV",
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/mastertv/index.m3u8"
       ]
     },
     "languages": [
@@ -677,20 +677,6 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zJfNt7gPSar8fv",
-    "name": "NZK Television",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8258/index.m3u8"
       ]
     },
     "languages": [
@@ -900,8 +886,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live.obslivestream.com/selvatv/index.m3u8",
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+        "https://live.obslivestream.com/selvatv/index.m3u8"
       ]
     },
     "languages": [
@@ -925,25 +911,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zh2LPdg7e5WVXA",
-    "name": "Siscom TV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/siscomtv/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uycnDk5RgNSyIc",
     "name": "Solar Television",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
       ]
     },
@@ -1348,11 +1319,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
+    "nanoid": "3IUBVhMnjgOvDA",
+    "name": "Wayra TV",
     "sources": {
       "streams": [
-        "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1362,11 +1333,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3IUBVhMnjgOvDA",
-    "name": "Wayra TV",
+    "nanoid": "3sCHCCSjqRabC1",
+    "name": "Willax Televisión",
     "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Oh8wFthq6z8"
       ]
     },
     "languages": [

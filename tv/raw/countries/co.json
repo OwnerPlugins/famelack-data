@@ -142,34 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t77vURUv4tfKdi",
-    "name": "Canal 9 Cosespu",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8056/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "sources": {
@@ -298,20 +270,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IQeHwKhnf3rNNm",
-    "name": "Canal Telesantiago",
-    "sources": {
-      "streams": [
-        "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8wch0b4bAAxnPo",
     "name": "Canal Womtv",
     "sources": {
@@ -388,6 +346,21 @@
       "streams": [
         "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
         "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5UNNnPvR2HyEJi",
+    "name": "CNC Bugavision",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ]
     },
     "languages": [
@@ -906,6 +879,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -1052,20 +1039,6 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AmiFkXyyhlLrz0",
-    "name": "Veo Televisión",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

@@ -480,20 +480,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oj7vX3xxxcxlj0",
     "name": "Fugget About It",
     "sources": {
@@ -540,9 +526,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1168,20 +1154,6 @@
     },
     "languages": [
       "pan"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fap14DtXmRg1DV",
-    "name": "Sohail TV",
-    "sources": {
-      "streams": [
-        "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
-      ]
-    },
-    "languages": [
-      "prd"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1908,7 +1880,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3EOIx7NzVGY"
+        "https://www.youtube-nocookie.com/embed/rwB8PzmEjwY"
       ]
     },
     "languages": [
