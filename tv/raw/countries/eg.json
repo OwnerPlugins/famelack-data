@@ -70,6 +70,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cldgrOT0slw0oJ",
+    "name": "Coptic TV",
+    "sources": {
+      "streams": [
+        "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSBCv9wMIeHZkP",
     "name": "El Radio 9090 FM",
     "sources": {
@@ -88,7 +102,7 @@
     "name": "eXtra news",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/913Dlmx2-aw"
+        "https://www.youtube-nocookie.com/embed/NSZSpVy-liM"
       ]
     },
     "languages": [
@@ -131,20 +145,6 @@
     "sources": {
       "streams": [
         "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sq4B9IaZBUPu1Y",
-    "name": "Watan TV",
-    "sources": {
-      "streams": [
-        "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
       ]
     },
     "languages": [

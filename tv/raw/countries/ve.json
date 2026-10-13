@@ -28,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
+    "nanoid": "ciUS0lRhmTtePT",
+    "name": "Anzoategui TV",
     "sources": {
       "streams": [
-        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "sources": {
       "streams": [
-        "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -117,20 +117,6 @@
     "sources": {
       "streams": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BcpXd12u6A6rk7",
-    "name": "Contactv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -338,6 +324,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tJa1zHfUu6eux2",
+    "name": "Reforma TV",
+    "sources": {
+      "streams": [
+        "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AjxmxQL6ROzUdd",
     "name": "ShowVen TV",
     "sources": {
@@ -385,6 +385,20 @@
     "sources": {
       "streams": [
         "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -527,6 +541,20 @@
     "sources": {
       "streams": [
         "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [

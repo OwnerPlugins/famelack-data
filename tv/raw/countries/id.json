@@ -73,39 +73,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YJjt1kMM9xV6J0",
-    "name": "Astro Blitar TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KOhwshxakg9PIS",
     "name": "Banjar TV",
     "sources": {
       "streams": [
         "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oc19gUQD1UBDsM",
-    "name": "Banten TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -134,6 +106,20 @@
     "sources": {
       "streams": [
         "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u2sCANZ3ft5IKm",
+    "name": "Bungo TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -285,11 +271,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "swg1noloxNDS5D",
-    "name": "Ficom Channel",
+    "nanoid": "LISekcgicAyOGd",
+    "name": "Garuda TV",
     "sources": {
       "streams": [
-        "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+        "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
       ]
     },
     "languages": [
@@ -299,11 +285,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LISekcgicAyOGd",
-    "name": "Garuda TV",
+    "nanoid": "sGIxGHruoXGkMd",
+    "name": "Gazwah TV",
     "sources": {
-      "streams": [
-        "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6wuB0kCpWW0"
       ]
     },
     "languages": [
@@ -388,20 +374,6 @@
     "sources": {
       "streams": [
         "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "sources": {
-      "streams": [
-        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       ]
     },
     "languages": [
@@ -510,20 +482,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AixeZaoPbQBLhF",
-    "name": "MDTV",
-    "sources": {
-      "streams": [
-        "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "sources": {
@@ -541,6 +499,9 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
@@ -627,20 +588,6 @@
     "sources": {
       "streams": [
         "https://pujatv.siar.us/live/pujatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ha2zWLoq5d13uY",
-    "name": "Radar Lampung TV",
-    "sources": {
-      "streams": [
-        "https://www.streaming.radartv.co.id/hls/test.m3u8"
       ]
     },
     "languages": [
@@ -752,20 +699,6 @@
       "streams": [
         "https://live.salira.tv:3870/stream/play.m3u8",
         "https://live.salira.tv/p/3870/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Cx1Butu3HjYB81",
-    "name": "Sampit TV",
-    "sources": {
-      "streams": [
-        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
       ]
     },
     "languages": [
