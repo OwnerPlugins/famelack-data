@@ -255,6 +255,7 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -971,9 +972,6 @@
     "sources": {
       "streams": [
         "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jHMsvYrf-UA"
       ]
     },
     "languages": [
@@ -1379,7 +1377,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SqG7VC3lvIk"
+        "https://www.youtube-nocookie.com/embed/32Ijveo1NEs"
       ]
     },
     "languages": [
@@ -1407,7 +1405,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/UgaiV4Ztjsc"
+        "https://www.youtube-nocookie.com/embed/RdfCt4FZ5yc"
       ]
     },
     "languages": [
@@ -1922,6 +1920,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5GoagSnDbPwxmH",
+    "name": "Tele 1",
+    "sources": {
+      "streams": [
+        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rqkOBR323x5UjG",
     "name": "Tempo TV",
     "sources": {
@@ -1972,9 +1984,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4uooUrl3O4c"
       ]
     },
     "languages": [
@@ -2010,6 +2019,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bzh3LBtnY69p4n",
+    "name": "TRT 2",
+    "sources": {
+      "streams": [
+        "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Tsl1TXkC1cdSTl",

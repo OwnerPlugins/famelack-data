@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JAreuKNijuO7ug",
-    "name": "Bruno Masi TV",
+    "nanoid": "uGCjnDiIPhWb6B",
+    "name": "Alt Media TV",
     "sources": {
       "streams": [
-        "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m9MWDoCCb8N1mw",
-    "name": "C9N",
+    "nanoid": "JAreuKNijuO7ug",
+    "name": "Bruno Masi TV",
     "sources": {
       "streams": [
-        "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8"
+        "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -238,20 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OETM24DdxaHZfM",
-    "name": "Invasiva TV",
-    "sources": {
-      "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
@@ -407,6 +393,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DTGn1oGPUrbYoj",
     "name": "Paraguay TV",
     "sources": {
@@ -492,6 +492,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TeqRUHz0t6Kdc6",
+    "name": "Radio TV El Arca del Pacto",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CghjvXX91l15l6",
     "name": "RB TV",
     "sources": {
@@ -567,20 +581,6 @@
     "sources": {
       "streams": [
         "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y9Zfz6JHuFmN3C",
-    "name": "SNT",
-    "sources": {
-      "streams": [
-        "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [

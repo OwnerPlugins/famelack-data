@@ -55,27 +55,25 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "k6kILJ1P88D8yy",
-    "name": "CLTV 36",
+    "nanoid": "xO426KlalATtSy",
+    "name": "Dream TV Philippines",
     "sources": {
       "streams": [
-        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "pam",
       "tgl"
     ],
     "country": "ph",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xO426KlalATtSy",
-    "name": "Dream TV Philippines",
+    "nanoid": "KutUbScYEcqvqz",
+    "name": "Durian TV",
     "sources": {
       "streams": [
-        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+        "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
       ]
     },
     "languages": [
@@ -280,20 +278,6 @@
     "sources": {
       "streams": [
         "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iy4DzSWvO3GYHT",
-    "name": "Teleradyo Serbisyo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YHXU5mbklvw"
       ]
     },
     "languages": [

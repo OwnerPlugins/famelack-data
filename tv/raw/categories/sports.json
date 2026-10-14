@@ -273,6 +273,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "ASHioV3EjpMKWq",
+    "name": "CDN Deportes",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/036.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0vPnZheEHBV86R",
     "name": "Colimdo TV",
     "sources": {
@@ -306,8 +320,8 @@
     "sources": {
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
       ]
     },
     "languages": [
@@ -622,21 +636,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M5stHfuDBD6Elk",
     "name": "Eurosport 1 Turkiye",
     "sources": {
@@ -921,34 +920,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zSqcM4N6tJjo6K",
-    "name": "Futbol TV",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -2063,7 +2034,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2093,9 +2065,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4uooUrl3O4c"
       ]
     },
     "languages": [
@@ -2175,20 +2144,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {

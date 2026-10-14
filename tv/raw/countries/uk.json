@@ -438,7 +438,7 @@
     "name": "Cartoon Network",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0iFCrhRvk1I"
+        "https://www.youtube-nocookie.com/embed/kbXvg0eu0ZM"
       ]
     },
     "languages": [
@@ -584,7 +584,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0Dye24v5aLk"
+        "https://www.youtube-nocookie.com/embed/Mux-2yu5PkE"
       ]
     },
     "languages": [
@@ -911,20 +911,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D6bV62QbdgsCop",
-    "name": "FMTV",
-    "sources": {
-      "streams": [
-        "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1289,6 +1275,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gys71zV2iZxyaQ",
+    "name": "ITV2",
+    "sources": {
+      "streams": [
+        "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jZuXXsqNOFPOWg",
+    "name": "ITV3",
+    "sources": {
+      "streams": [
+        "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2pVze4CUDh4mrp",
+    "name": "ITV4",
+    "sources": {
+      "streams": [
+        "https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T9uJqYlg2DgnoL",
     "name": "Jack Hanna",
     "sources": {
@@ -1297,6 +1325,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "95mvfX5TCBOt4J",
+    "name": "Jungle Beat",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LnVvGexrhPg"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1731,8 +1773,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
-        "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
+        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2098,11 +2139,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "Ys9b9lAAuDchCF",
+    "name": "Rakuten TV Comedy Movies UK",
     "sources": {
       "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
       ]
     },
     "languages": [
@@ -2437,6 +2478,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/DFYaNjzI1aI"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FHK5UlnxDJr0Kz",
+    "name": "Tastemade UK",
+    "sources": {
+      "streams": [
+        "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3001,9 +3056,9 @@
     "name": "Wonder",
     "sources": {
       "streams": [
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
