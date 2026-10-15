@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8889/hls/4fk.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "sources": {
@@ -588,6 +602,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/kimZMZ9y7Bw"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "sources": {
@@ -817,20 +845,6 @@
     "sources": {
       "streams": [
         "https://stream.tvkstella.pl/stella/stella.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Se7x9HGaZbNY8X",
-    "name": "TVP Info",
-    "sources": {
-      "streams": [
-        "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
       ]
     },
     "languages": [

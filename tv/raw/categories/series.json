@@ -246,20 +246,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -507,6 +493,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kQcoVGJEguMaJQ",
+    "name": "Farscape",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_IKIyKwvBbI"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "R2dRVGPNTufpT3",
     "name": "Fear Factor US",
     "sources": {
@@ -598,30 +598,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nbJaIRnlOXsI50",
-    "name": "HBO East",
+    "nanoid": "jMajOHWjzDHSSI",
+    "name": "HBO 2 Latin America",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/hbo/index.m3u8"
+        "https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "b9hyRXnC242UxT",
-    "name": "HBO Hits East",
+    "nanoid": "qr5SJlcRAJmYsA",
+    "name": "HBO Xtreme Latin America",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "spa"
     ],
     "country": "us",
@@ -662,6 +660,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1023,6 +1022,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i6qK9glkflv1h2",
+    "name": "Star Channel Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "sources": {
@@ -1043,20 +1056,6 @@
       "streams": [
         "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
         "https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jBHty7VgENQxrk",
-    "name": "SYFY East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/syfy/index.m3u8"
       ]
     },
     "languages": [
@@ -1147,6 +1146,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eH1h99AZo4vgfa",
+    "name": "TNT Novelas Panregional",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JU01sbHNW54UMe",
+    "name": "TNT Series Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false

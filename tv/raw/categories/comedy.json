@@ -131,7 +131,8 @@
     "name": "Comedy Central Latin America Panregional",
     "sources": {
       "streams": [
-        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8"
       ]
     },
     "languages": [
@@ -273,8 +274,7 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
-        "https://tvsen7.aynascope.net/laff/index.m3u8"
+        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8"
       ]
     },
     "languages": [
@@ -386,6 +386,34 @@
     "sources": {
       "streams": [
         "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/DsdpTA1t9qQ"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MPRp8mc4jK8"
       ]
     },
     "languages": [

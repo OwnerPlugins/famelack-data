@@ -420,6 +420,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AJP8r9gOLSUx6e",
+    "name": "Discovery Turbo",
+    "sources": {
+      "streams": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8IMTT46FrSh8vx",
     "name": "DMAX",
     "sources": {
@@ -1083,6 +1097,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zH1wikEA6iyust",
     "name": "Padre Pio TV",
     "sources": {
@@ -1172,6 +1200,20 @@
     "sources": {
       "streams": [
         "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S8N3Bm3LD8AIRI",
+    "name": "Prima TV",
+    "sources": {
+      "streams": [
+        "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1577,28 +1619,42 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LEHhe8FljTY3bK",
-    "name": "Rakuten TV Asian Cinema Italy",
+    "nanoid": "4XypCIgUkqx4tL",
+    "name": "Rakuten TV Action Movies Italy",
     "sources": {
       "streams": [
-        "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pVq6NYAblJFq99",
-    "name": "Rakuten TV Drama Movies Italy",
-    "sources": {
-      "streams": [
-        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
+    "sources": {
+      "streams": [
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NnyzHhJkjsfZ3n",
+    "name": "Rakuten TV Crime Series Italy",
+    "sources": {
+      "streams": [
+        "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1650,20 +1706,6 @@
     "sources": {
       "streams": [
         "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NjWedgmgQT0ySg",
-    "name": "Rete Oro",
-    "sources": {
-      "streams": [
-        "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1918,9 +1960,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [

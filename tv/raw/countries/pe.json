@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "zLbErKeLWlYtjV",
+    "name": "Agro TV",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YeKuxDQNxxKjD2",
     "name": "Altura TV",
     "sources": {
@@ -75,6 +89,20 @@
     "sources": {
       "streams": [
         "https://vdo.oyotunserver.com/arpegio/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/asiritv/live.m3u8"
       ]
     },
     "languages": [
@@ -197,6 +225,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rqAA_XwDPqs"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hHL0MOROCgmSKr",
     "name": "CR Television",
     "sources": {
@@ -300,6 +342,20 @@
     "sources": {
       "streams": [
         "https://mc.servidor.stream:19360/8274/8274.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
+    "sources": {
+      "streams": [
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
       ]
     },
     "languages": [
@@ -756,6 +812,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mb8oy05yGkCcpe",
+    "name": "Radio Onda Digital",
+    "sources": {
+      "streams": [
+        "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lyKMcAtKzoxbWQ",
     "name": "Radio Rumba TV",
     "sources": {
@@ -846,20 +916,6 @@
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
         "https://live.obslivestream.com/selvatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qgnWAKQV0prTA",
-    "name": "Senal Peru TV",
-    "sources": {
-      "streams": [
-        "https://livestream.perucast.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1059,20 +1115,6 @@
     "sources": {
       "streams": [
         "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nXrcWfZsttDQtv",
-    "name": "TV MAR",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1297,20 +1339,6 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3sCHCCSjqRabC1",
-    "name": "Willax Televisión",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9GUdpZ9-g8k"
       ]
     },
     "languages": [

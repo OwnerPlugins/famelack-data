@@ -176,6 +176,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ugGAivxJyE8GHx",
+    "name": "AAC Television",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hQ84iLiqemI"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZfBBFVjbIIQRDd",
     "name": "ABC 2 Baltimore MD (WMAR)",
     "sources": {
@@ -770,6 +784,21 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK8PVX2owrcCxQ",
+    "name": "Adult Swim West [Not 24/7;Geo-blocked]",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1733,20 +1762,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pIaARl6KDZd5QH",
-    "name": "Asian Culture TV",
-    "sources": {
-      "streams": [
-        "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C3mGhUJUZGhZ3e",
     "name": "AsianCrush",
     "sources": {
@@ -1985,8 +2000,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -2528,8 +2542,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3214,10 +3228,10 @@
   },
   {
     "nanoid": "Z2RG0xDeG0qYnE",
-    "name": "Cartoon Network East",
+    "name": "Cartoon Network [Not 24/7;Geo-blocked]",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+        "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
       ]
     },
     "languages": [
@@ -3225,7 +3239,7 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6PXWfNXySezA4E",
@@ -3448,7 +3462,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lLtdBrhYJuI"
+        "https://www.youtube-nocookie.com/embed/Uqf67ODWspg"
       ]
     },
     "languages": [
@@ -3477,6 +3491,20 @@
     "sources": {
       "streams": [
         "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pWdx8BZTFfbTjG",
+    "name": "CBS News Los Angeles",
+    "sources": {
+      "streams": [
+        "https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8"
       ]
     },
     "languages": [
@@ -3698,7 +3726,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/G0CBfZ7977U"
+        "https://www.youtube-nocookie.com/embed/DLTiP2PeUFU"
       ]
     },
     "languages": [
@@ -4097,6 +4125,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lapNjLqtIWM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/iAn1QpPxIYA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fT1CQ25imNXXMk",
     "name": "Cloudflare TV",
     "sources": {
@@ -4262,7 +4318,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Wtyq7SimFUgv5A",
@@ -4355,7 +4411,8 @@
     "name": "Comedy Central Latin America Panregional",
     "sources": {
       "streams": [
-        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
+        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8"
       ]
     },
     "languages": [
@@ -5426,23 +5483,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U8REylkpG4igqA",
-    "name": "Disney Junior East",
-    "sources": {
-      "streams": [
-        "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "VKKpehR0qNSoUY",
     "name": "Disney Junior: Bluey",
     "sources": {
@@ -6161,7 +6201,7 @@
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
         "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
-        "https://estrellatv-glewed.amagi.tv/playlist.m3u8"
+        "https://estrellatv-oando.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6319,6 +6359,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kQcoVGJEguMaJQ",
+    "name": "Farscape",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_IKIyKwvBbI"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sNGgqsLaPmiNb6",
     "name": "Fashion Finds",
     "sources": {
@@ -6439,21 +6493,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c0yG5xI2YUavP8",
-    "name": "FilAmTV Network",
-    "sources": {
-      "streams": [
-        "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -6917,6 +6956,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dkrylRKUB8aEG3",
+    "name": "FX Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oZutvo7Pi5sMjN",
     "name": "Galavision East HD",
     "sources": {
@@ -7031,7 +7084,7 @@
     "name": "Gem Shopping",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/in3TvqLBQLI"
+        "https://www.youtube-nocookie.com/embed/bQl5dCYFEGU"
       ]
     },
     "languages": [
@@ -7464,41 +7517,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nbJaIRnlOXsI50",
-    "name": "HBO East",
+    "nanoid": "jMajOHWjzDHSSI",
+    "name": "HBO 2 Latin America",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/hbo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b9hyRXnC242UxT",
-    "name": "HBO Hits East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8jimwkiBX0Z3GC",
-    "name": "HBO Latin America",
-    "sources": {
-      "streams": [
-        "https://streaming.onnethn.com/HBO/playlist.m3u8"
+        "https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8"
       ]
     },
     "languages": [
@@ -7506,6 +7529,77 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EfMysIwBQHxW6i",
+    "name": "HBO Family Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8jimwkiBX0Z3GC",
+    "name": "HBO Latin America",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/HBO/playlist.m3u8",
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "JtL1k6Wa8seFkO",
+    "name": "HBO Mundi Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oNYe2BSjQcCnsI",
+    "name": "HBO Signature Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qr5SJlcRAJmYsA",
+    "name": "HBO Xtreme Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RXqBWsd1tTWpY4",
@@ -9105,8 +9199,7 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
-        "https://tvsen7.aynascope.net/laff/index.m3u8"
+        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8"
       ]
     },
     "languages": [
@@ -9166,20 +9259,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qofy3kRsNMvDOl",
-    "name": "Latino Channel TV",
-    "sources": {
-      "streams": [
-        "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10445,6 +10524,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cLwvb2v3C2gKAM",
+    "name": "MS NOW",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/msnbc/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eD7pY7pmACLEBN",
     "name": "MSG SportsZone",
     "sources": {
@@ -11064,7 +11157,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GKOAmJ9uuSE"
+        "https://www.youtube-nocookie.com/embed/jcPgeulLxt8"
       ]
     },
     "languages": [
@@ -11230,34 +11323,6 @@
     "sources": {
       "streams": [
         "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EmHOTWEORpvSsZ",
-    "name": "News12 Brooklyn",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EtiKHivASIxm20",
-    "name": "News12 Conneticut",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
       ]
     },
     "languages": [
@@ -11457,20 +11522,6 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8",
         "https://d265y4sk8257lt.cloudfront.net/nh.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ev2uIcLTDA86aM",
-    "name": "Nick Jr. East HD",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nickjr/index.m3u8"
       ]
     },
     "languages": [
@@ -11795,7 +11846,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-n5YVFPdDTE"
+        "https://www.youtube-nocookie.com/embed/PflvYNR3eUk"
       ]
     },
     "languages": [
@@ -11893,6 +11944,20 @@
     "sources": {
       "streams": [
         "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6yxlrAzivVzei0",
+    "name": "Ontario Public Access Channel",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12070,20 +12135,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H2I3G9vUtdy0Ar",
-    "name": "Pacific Island Network",
-    "sources": {
-      "streams": [
-        "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
     "sources": {
@@ -12112,15 +12163,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "be0rVB6CUa2XW4",
-    "name": "Pasco TV",
+    "nanoid": "ifgoiVKQmlH45I",
+    "name": "Pasiones Latin America",
     "sources": {
       "streams": [
-        "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -12478,21 +12529,6 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "boIyW9Cc7GD6MO",
-    "name": "PCT Channel 27",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -13871,6 +13907,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j75ZApEnyoPKtC",
+    "name": "Scottsdale Channel 11",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1xUrLLfAVjsUaN",
     "name": "Screen Dreams",
     "sources": {
@@ -14212,11 +14262,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MPRp8mc4jK8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7DpQICMHFWq9zR",
     "name": "Shout! Studios: Pee-wee's Playhouse",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/gXkLwk_0W3o"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P0LU27eSLAz1HY",
+    "name": "Shout! Studios: Speed Racer",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gHdaSZ3rFlM"
       ]
     },
     "languages": [
@@ -14605,6 +14683,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i6qK9glkflv1h2",
+    "name": "Star Channel Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XifADMMbjQzF6V",
     "name": "StashTV Black Stories",
     "sources": {
@@ -14793,6 +14885,18 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "8Bzu7mecu34r20",
+    "name": "SURFER TV",
+    "sources": {
+      "streams": [
+        "https://dgwfm675921lp.cloudfront.net/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Equ2Sdy5orU6N9",
     "name": "Surfing+",
     "sources": {
@@ -14853,20 +14957,6 @@
     "sources": {
       "streams": [
         "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jBHty7VgENQxrk",
-    "name": "SYFY East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/syfy/index.m3u8"
       ]
     },
     "languages": [
@@ -15164,20 +15254,6 @@
     "sources": {
       "streams": [
         "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tJbJDDKt3d57P6",
-    "name": "TeenNick East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/teennick/index.m3u8"
       ]
     },
     "languages": [
@@ -16094,6 +16170,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "P6SVSRk7OTDYh5",
+    "name": "TNT Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JU01sbHNW54UMe",
+    "name": "TNT Series Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AV6zfkWJ1ysSXd",
     "name": "TNT West",
     "sources": {
@@ -16174,6 +16278,20 @@
     },
     "languages": [
       "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vxuvNL1pu9DfjK",
+    "name": "TokuSHOUTsu: Speed Racer",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/80yZwIsxBe4"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -17187,6 +17305,9 @@
         "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/yI6JOeIBEjU"
       ]
     },
     "languages": [
@@ -17217,21 +17338,6 @@
     },
     "languages": [
       "vie"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fnsN4s1Nk39gF9",
-    "name": "Vegas Life TV",
-    "sources": {
-      "streams": [
-        "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -18326,13 +18432,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ovI84fax81LicB",
+    "name": "Willamette Falls Media Center",
+    "sources": {
+      "streams": [
+        "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eiMNDNqakzRMns",
     "name": "Willow",
     "sources": {
       "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
+        "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       ]
     },
     "languages": [
@@ -18794,8 +18912,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
-        "https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
       ]
     },
     "languages": [
@@ -18937,6 +19054,20 @@
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Ndns6qOA3E0TP",
+    "name": "WWE",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pxOZsW-dtkM"
       ]
     },
     "languages": [
@@ -19268,7 +19399,8 @@
     "sources": {
       "streams": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
-        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
+        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

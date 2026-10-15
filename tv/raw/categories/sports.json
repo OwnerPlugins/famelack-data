@@ -76,20 +76,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "roeCDcGE1uwKQ6",
-    "name": "Al Iraqia Sport",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "sources": {
@@ -320,8 +306,8 @@
     "sources": {
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
       ]
     },
     "languages": [
@@ -395,34 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iaIjprbhz2Z6yy",
-    "name": "ESPN",
-    "sources": {
-      "streams": [
-        "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7ODiHAZwCmluGb",
-    "name": "ESPN 2",
-    "sources": {
-      "streams": [
-        "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UaNiFkG4kf7HPd",
     "name": "ESPN 2 Latin America Argentina",
     "sources": {
@@ -451,20 +409,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ds0bBu4MWjYnU2",
-    "name": "ESPN 3",
-    "sources": {
-      "streams": [
-        "https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HQCC1x7HYw1qFT",
     "name": "ESPN 3 Latin America Argentina",
     "sources": {
@@ -490,20 +434,6 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UVrouXTClHvscI",
-    "name": "ESPN 4",
-    "sources": {
-      "streams": [
-        "https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -634,6 +564,20 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "lbyfmgKEc7ZRqZ",
+    "name": "Eurosport",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "M5stHfuDBD6Elk",
@@ -1831,9 +1775,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2147,17 +2091,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pElLdHSdSC7QVb",
-    "name": "TV Cuatro 4.3",
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
     "sources": {
       "streams": [
-        "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8"
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "mx",
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -2336,9 +2280,7 @@
     "name": "Willow",
     "sources": {
       "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
+        "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       ]
     },
     "languages": [
@@ -2432,6 +2374,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8Ndns6qOA3E0TP",
+    "name": "WWE",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pxOZsW-dtkM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KfPyDEuOOc6z6o",

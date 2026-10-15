@@ -33,22 +33,7 @@
     "name": "Afro Magic Channel",
     "sources": {
       "streams": [
-        "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
         "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
       ]
     },
     "languages": [
@@ -110,6 +95,20 @@
       "ltz"
     ],
     "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/asiritv/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -243,6 +242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QtyIEE9DZnKUAu",
+    "name": "Canal 17 RTVD",
+    "sources": {
+      "streams": [
+        "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tF5n1NaStHSPlK",
     "name": "Canal Diplomatico",
     "sources": {
@@ -275,7 +288,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/G0CBfZ7977U"
+        "https://www.youtube-nocookie.com/embed/DLTiP2PeUFU"
       ]
     },
     "languages": [
@@ -433,7 +446,6 @@
     "name": "DD Bharati",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/10/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
       ],
       "youtube": [
@@ -1225,6 +1237,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DKHLUT1IqpMkXM",
     "name": "Presumiendo Mexico",
     "sources": {
@@ -1250,6 +1276,21 @@
       "eng"
     ],
     "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wqtEMGQtkW2vmM",
+    "name": "Radio Suyai TV",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8",
+        "https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -1398,6 +1439,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QP7DyV43LNSLl9",
     "name": "StoryChannel TV",
     "sources": {
@@ -1447,6 +1502,20 @@
       "eng"
     ],
     "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zxSTa9IKp200xg",
+    "name": "Suyai TV",
+    "sources": {
+      "streams": [
+        "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -1524,17 +1593,17 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "cWWftSEuzr59Qo",
-    "name": "TV Cuatro 4.2",
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
     "sources": {
       "streams": [
-        "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "mx",
+    "country": "cr",
     "isGeoBlocked": false
   },
   {

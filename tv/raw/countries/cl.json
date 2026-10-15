@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "At9xDVwnRJnJwN",
-    "name": "13 Kids",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bl19xd6Od9LNtI",
     "name": "13 Realities",
     "sources": {
@@ -102,7 +88,7 @@
     "name": "24 Horas",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0OLSC2gx1vc"
+        "https://www.youtube-nocookie.com/embed/DQZZvH3ZjH8"
       ]
     },
     "languages": [
@@ -521,20 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4dKzonwHr1dN8",
-    "name": "ChileVision",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/FGpzcqQB_Ac"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "sources": {
@@ -581,7 +553,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AjKSUuffcuc"
+        "https://www.youtube-nocookie.com/embed/HXQKceg8eDY"
       ]
     },
     "languages": [
@@ -624,20 +596,6 @@
     "sources": {
       "streams": [
         "https://stream.blserver.cl/hls/ctv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i7jOCnWyYw935a",
-    "name": "Contivision",
-    "sources": {
-      "streams": [
-        "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -841,6 +799,48 @@
     ],
     "country": "cl",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ratiMYbPjlz1Pp",
+    "name": "EnerGeek Radio",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "i6l8MV9GANNiZj",
@@ -1068,6 +1068,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ehZn59d9qGaAlZ",
+    "name": "La Clave",
+    "sources": {
+      "streams": [
+        "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xsGsgxzJZVaZWc",
     "name": "La Comarca TV",
     "sources": {
@@ -1241,7 +1255,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_KwTUjw9dmI"
+        "https://www.youtube-nocookie.com/embed/yudqneZm-Cs"
       ]
     },
     "languages": [],
@@ -1744,6 +1758,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wqtEMGQtkW2vmM",
+    "name": "Radio Suyai TV",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8",
+        "https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "x3MegkwECTjfLb",
     "name": "Radio TV Fortaleza",
     "sources": {
@@ -1870,12 +1899,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "weA8rjP034Saqz",
+    "name": "Rial TV",
+    "sources": {
+      "streams": [
+        "https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wbxTJadDYrDCsD",
     "name": "Ritoque TV",
     "sources": {
       "streams": [
-        "https://v2.tustreaming.cl/unetev/index.m3u8",
-        "https://streaming.purum.cl/ritoquetv/index.m3u8"
+        "https://streaming.purum.cl/ritoquetv/index.m3u8",
+        "https://v2.tustreaming.cl/unetev/index.m3u8"
       ]
     },
     "languages": [
@@ -2030,6 +2073,20 @@
     "sources": {
       "streams": [
         "https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zxSTa9IKp200xg",
+    "name": "Suyai TV",
+    "sources": {
+      "streams": [
+        "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8"
       ]
     },
     "languages": [
@@ -2421,8 +2478,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

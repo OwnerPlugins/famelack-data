@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u9WnFUyWIFrzh4",
+    "name": "Amazing Discoveries TV",
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
+        "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "sources": {
@@ -662,20 +677,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "nHDxIofgkugzZk",
-    "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rpQ8RA1mbZgwRB",
     "name": "Ici Radio-Canada Télé Estrie (CKSH-DT)",
     "sources": {
@@ -695,20 +696,6 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MxGLQzbmn1eRI9",
-    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
     "languages": [
@@ -746,39 +733,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qpj1oGnAfj0tNs",
-    "name": "Ici Radio-Canada Télé Québec (CBVT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "v8YRKpn8C7SA8f",
     "name": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "fEhQEHi1zhQ9J9",
-    "name": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
       ]
     },
     "languages": [
@@ -2089,7 +2048,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OYtLBYax_eI"
+        "https://www.youtube-nocookie.com/embed/Kk4oES7P4pI"
       ]
     },
     "languages": [
