@@ -259,9 +259,6 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/aatrECPC-Oo"
       ]
     },
     "languages": [
@@ -375,6 +372,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dnAjiRdyXVXCGu",
+    "name": "Outdoor Channel Vietnam",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=216"
+      ]
+    },
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {

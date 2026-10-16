@@ -60,8 +60,7 @@
     "name": "Aire de Santa Fe",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8",
-        "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8"
+        "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8"
       ]
     },
     "languages": [
@@ -420,20 +419,6 @@
     "sources": {
       "streams": [
         "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lp6abhRcVXYInw",
-    "name": "Canal 5 TV Chepes",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
       ]
     },
     "languages": [
@@ -814,9 +799,7 @@
         "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -867,6 +850,35 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/85q4bg3jqJo"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
+      ]
+    },
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kaWD4k5fRzrmVH",
+    "name": "Disney Channel Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -933,7 +945,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Xr-uRZfNBYs"
+        "https://www.youtube-nocookie.com/embed/5W7zzpd28os"
       ]
     },
     "languages": [
@@ -1012,7 +1024,49 @@
     "name": "El Tres TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z09qhb0ihzg"
+        "https://www.youtube-nocookie.com/embed/WiyY_ZmXTpo"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UaNiFkG4kf7HPd",
+    "name": "ESPN 2 Latin America Argentina",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HQCC1x7HYw1qFT",
+    "name": "ESPN 3 Latin America Argentina",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AxN2fJUCTjZSHD",
+    "name": "ESPN Latin America Argentina",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1041,7 +1095,7 @@
     "name": "FMVale975",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zcvuZx1RKhI"
+        "https://www.youtube-nocookie.com/embed/Oqj8dVOdwOk"
       ]
     },
     "languages": [
@@ -1521,11 +1575,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YxnrRBtigW6aWE",
+    "name": "Space South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4mdYQiNJkinqB7",
     "name": "T5 Satelital",
     "sources": {
       "streams": [
         "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
+    "sources": {
+      "streams": [
+        "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1674,14 +1756,15 @@
     "name": "TyC Sports",
     "sources": {
       "streams": [
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3ZLaMvkVe8VBbx",

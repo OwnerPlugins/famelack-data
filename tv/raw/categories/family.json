@@ -69,6 +69,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PCHpCRc0yRAZbi",
+    "name": "Canal IPe",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GqeqAajjIHfMlp",
+    "name": "Discovery Family",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "sources": {
@@ -108,6 +134,20 @@
       "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EfMysIwBQHxW6i",
+    "name": "HBO Family Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -218,7 +258,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [

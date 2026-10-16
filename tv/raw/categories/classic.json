@@ -189,20 +189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "odbTAV6ttz1zzI",
-    "name": "Persiana Nostalgia",
-    "sources": {
-      "streams": [
-        "https://noshls.persiana.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AG1c9dyu0hTbFo",
     "name": "Retro",
     "sources": {
@@ -214,6 +200,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UNigLBaZrxsC5x",
+    "name": "Retro Cartoon",
+    "sources": {
+      "streams": [
+        "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -310,6 +310,34 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X20ezVvgfOtILT",
+    "name": "TCM East",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "iKamvnY73w2HJ6",
+    "name": "TCM West",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "qZJLmt0dETdzDZ",

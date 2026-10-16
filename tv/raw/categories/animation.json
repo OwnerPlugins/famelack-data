@@ -101,7 +101,7 @@
     "name": "Aqua Teen Hunger Force",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/m6x6jh-CKKk"
+        "https://www.youtube-nocookie.com/embed/SEfgFQP2g1g"
       ]
     },
     "languages": [
@@ -139,45 +139,71 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NS0fu_Q7X8E"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UXWOiM2L1q57AI",
-    "name": "Camp Lakebottom",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LBoTtQXGTqY"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
+    "nanoid": "co6UrhPBemum5j",
+    "name": "Cartoon Network",
     "sources": {
       "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+        "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "hin",
+      "kan",
+      "mal",
+      "mar",
+      "tam",
+      "tel"
     ],
-    "country": "pl",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z2RG0xDeG0qYnE",
+    "name": "Cartoon Network [Not 24/7;Geo-blocked]",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "TAW3V6RUdxKtJQ",
+    "name": "Cartoon Network HD+",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "kan",
+      "mal",
+      "mar",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6PXWfNXySezA4E",
+    "name": "Cartoon Network Latin America South Atlantic",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -223,6 +249,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
+      ]
+    },
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kaWD4k5fRzrmVH",
+    "name": "Disney Channel Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xhpSHNk65C34T5",
     "name": "Disney Channel: Gravity Falls",
     "sources": {
@@ -263,6 +318,34 @@
     ],
     "country": "pa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "s3sqg6vutusQdl",
@@ -373,6 +456,34 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dLuyF7ipbY6e1u",
+    "name": "Hasbro: G.I. JOE",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/TZ3mxF4U__k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VVVtm9fLhy7n1l",
+    "name": "Hasbro: Power Rangers",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Fl-WGssGnak"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0KHOlcS3CSZQO6",
@@ -558,17 +669,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B7oUuXqbWsfBhP",
-    "name": "OGGY",
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/1R8767hzeLk"
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "por"
     ],
-    "country": "fr",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -576,7 +687,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b1o5gtIU088"
+        "https://www.youtube-nocookie.com/embed/CArlAdAg-60"
       ]
     },
     "languages": [
@@ -806,6 +917,22 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMiSgDeElnJcAd",
+    "name": "Tooncast",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/TOONCAST/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por",
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

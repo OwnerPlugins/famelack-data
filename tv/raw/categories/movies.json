@@ -87,7 +87,8 @@
     "name": "All Time Movies",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
       ]
     },
     "languages": [
@@ -180,20 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
     "sources": {
@@ -264,18 +251,6 @@
       "bho"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XP5bT3gL9RGIRP",
-    "name": "Bigscreen TV",
-    "sources": {
-      "streams": [
-        "https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -475,87 +450,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
+    "nanoid": "ks0hiTpGZVcka8",
+    "name": "Cinemax Latin America",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+        "https://streaming.onnethn.com/CINEMAX/playlist.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "spa"
     ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -564,20 +469,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -935,8 +826,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/1459/master.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8",
-        "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+        "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
       ]
     },
     "languages": [
@@ -980,7 +871,7 @@
       "streams": [
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
         "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8"
+        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
       ]
     },
     "languages": [
@@ -1091,6 +982,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jMajOHWjzDHSSI",
+    "name": "HBO 2 Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "JtL1k6Wa8seFkO",
+    "name": "HBO Mundi Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qr5SJlcRAJmYsA",
+    "name": "HBO Xtreme Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6K6oFgTHq5fj7V",
     "name": "Hero",
     "sources": {
@@ -1130,6 +1063,62 @@
       "fas"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HW3VPKyt6mpMGb",
+    "name": "iFilm 2",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilm2.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FThMLWk2PqeTHZ",
+    "name": "iFilm Arabic",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmar.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ELGjlFyEtfJ19e",
+    "name": "iFilm English",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmen.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3vaXRs7MKcSOW",
+    "name": "iFilm Persian",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmfa.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -2037,20 +2026,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "U4qFQGhb2lylGn",
-    "name": "Sine Plus",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ASIayZG97M5CC",
     "name": "SL 1",
     "sources": {
@@ -2135,6 +2110,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6qK9glkflv1h2",
+    "name": "Star Channel Latin America South",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

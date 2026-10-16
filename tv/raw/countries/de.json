@@ -317,6 +317,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nSzgFY1wA728Rf",
+    "name": "Disney Channel",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/disneyX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "04DHM2NaCjakkb",
     "name": "DMF",
     "sources": {
@@ -363,7 +377,7 @@
       "spa"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "T1qgpA3LWRh4Lf",
@@ -654,7 +668,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
+        "https://www.youtube-nocookie.com/embed/YO54qTdz6QI"
       ]
     },
     "languages": [
@@ -669,6 +683,20 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RefcIuSWqtTcds",
+    "name": "kabel eins Doku",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/dokuX/index.m3u8"
       ]
     },
     "languages": [
@@ -1226,11 +1254,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rahlDGPnE1FWrR",
-    "name": "Rakuten TV Crime Series Germany",
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
     "sources": {
       "streams": [
-        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
       ]
     },
     "languages": [],
@@ -1363,7 +1391,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1740,6 +1769,35 @@
     "sources": {
       "streams": [
         "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OR0bcDdbzNJR50",
+    "name": "Terra Mater WILD English",
+    "sources": {
+      "streams": [
+        "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OfmMpkKE1FtNkl",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tlcX/index.m3u8"
       ]
     },
     "languages": [

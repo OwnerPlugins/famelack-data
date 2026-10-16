@@ -4780,6 +4780,20 @@
     ]
   },
   {
+    "nanoid": "k2jhV7G3DcUrth",
+    "name": "FM Bolivia",
+    "sources": {
+      "streams": [
+        "https://stm11.xcast.com.br:11300/stream/1/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LMgFeyHYI5D3Gw",
     "name": "FM Centenario 99.3",
     "sources": {
@@ -8125,6 +8139,20 @@
     ]
   },
   {
+    "nanoid": "bHQufWp6tKprYS",
+    "name": "La Nueva 106.9 FM",
+    "sources": {
+      "streams": [
+        "https://lanueva106.radioca.st/stream/1/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dmOm3CM4AThq6q",
     "name": "La Nueva Mega",
     "sources": {
@@ -8239,6 +8267,7 @@
     "name": "La Patrona 95.1 FM",
     "sources": {
       "streams": [
+        "https://streamingcwsradio30.com:7064/listen.pls/",
         "https://streamingcwsradio30.com:7064/;"
       ]
     },
@@ -12156,6 +12185,20 @@
     ]
   },
   {
+    "nanoid": "JIr27ro7x5QI05",
+    "name": "Puerto Limón Radio",
+    "sources": {
+      "streams": [
+        "https://puertolimonradio-rowrigos.radioca.st/listen.pls/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "k6nVqeyCTmPATK",
     "name": "Puro Texas Conjunto Radio",
     "sources": {
@@ -12221,7 +12264,8 @@
     "name": "Radiante 98.3 FM",
     "sources": {
       "streams": [
-        "https://streamingcwsradio30.com:7034/;"
+        "https://streamingcwsradio30.com:7034/;",
+        "https://streamingcwsradio30.com:7034/listen.pls/"
       ]
     },
     "languages": [
@@ -12793,6 +12837,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ICiZqzGRWK5pVU",
+    "name": "Radio Buenaza",
+    "sources": {
+      "streams": [
+        "https://sp.dattavolt.com:7033/listen.pls/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -13703,8 +13761,9 @@
     "name": "Radio Huancayo",
     "sources": {
       "streams": [
-        "https://cloud9.ldwebstudios.net:7000/;",
-        "https://cloud9.ldwebstudios.net:7000/stream"
+        "https://cloud9.ldwebstudios.net:7000/listen.pls/",
+        "https://cloud9.ldwebstudios.net:7000/stream",
+        "https://cloud9.ldwebstudios.net:7000/;"
       ]
     },
     "languages": [
@@ -13781,6 +13840,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "h04aMQvHHACl2z",
+    "name": "Radio Karibeña",
+    "sources": {
+      "streams": [
+        "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uoKpdAraNDF2Lb",
@@ -14099,7 +14172,8 @@
     "name": "Radio Lobo 88.3 FM",
     "sources": {
       "streams": [
-        "https://radios.radiohd.com.mx/8270/;"
+        "https://radios.radiohd.com.mx/8270/;",
+        "https://radios.radiohd.com.mx/8270/listen.pls/"
       ]
     },
     "languages": [
