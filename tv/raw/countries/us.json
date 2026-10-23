@@ -1229,6 +1229,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "xcUkg7UZiNSkId",
+    "name": "AMC Series Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/AMC/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8dgbu5qacFQbPF",
     "name": "America's Got Talent",
     "sources": {
@@ -1286,13 +1300,14 @@
     "name": "American Ninja Warrior",
     "sources": {
       "streams": [
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042",
         "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/WIKQnA-1_zU"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1449,20 +1464,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "seqaCHQa1FBzut",
-    "name": "Antiks Cartoons: Antiks",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JuA5YN-qoZ0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
     "stream_urls": [
@@ -1516,6 +1517,20 @@
     },
     "languages": [
       "arm"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pIaARl6KDZd5QH",
+    "name": "Asian Culture TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -1675,11 +1690,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ruuutOA0HHbnPt",
-    "name": "AXN Latin America South",
+    "nanoid": "tlbQUPJ9djM9AV",
+    "name": "AXN Latin America Central America",
     "sources": {
       "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8"
+        "https://streaming.onnethn.com/AXN_HD/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1776,20 +1791,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gIzvEoHovI0T4u",
-    "name": "BattleBots",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/S2i8yNTNgEw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2470,7 +2471,7 @@
     "name": "Botflix aiTV: Pleasant Programming",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TlGQqESctls"
+        "https://www.youtube-nocookie.com/embed/n2pXyIbha88"
       ]
     },
     "languages": [
@@ -2484,7 +2485,7 @@
     "name": "Botflix aiTV: Robot Radioo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tRRIgkokEjo"
+        "https://www.youtube-nocookie.com/embed/XchujZ3SzOs"
       ]
     },
     "languages": [
@@ -2498,7 +2499,7 @@
     "name": "Botflix aiTV: Robot TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RX6SgN8APEQ"
+        "https://www.youtube-nocookie.com/embed/l7GBaRz90o4"
       ]
     },
     "languages": [
@@ -2512,7 +2513,35 @@
     "name": "Botflix aiTV: VH010",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/a8amJAH-TJI"
+        "https://www.youtube-nocookie.com/embed/aIqNAYqyWWk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U8DWoyH3h5I2lE",
+    "name": "Botflix Radioo",
+    "sources": {
+      "streams": [
+        "https://hls.botflix.tv/radioo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jjxluM4t32zhEk",
+    "name": "Botflix TV",
+    "sources": {
+      "streams": [
+        "https://hls.botflix.tv/tv/index.m3u8"
       ]
     },
     "languages": [
@@ -2961,6 +2990,7 @@
     "name": "Cartoon Network [Not 24/7;Geo-blocked]",
     "sources": {
       "streams": [
+        "https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
         "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
       ]
     },
@@ -2970,20 +3000,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6PXWfNXySezA4E",
-    "name": "Cartoon Network Latin America South Atlantic",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "tIGqdwnTT3ZqJq",
@@ -3004,7 +3020,7 @@
     "name": "Cartoon Network: Clarence",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/POYAaMNaB8Q"
+        "https://www.youtube-nocookie.com/embed/bBvejOgHDQY"
       ]
     },
     "languages": [
@@ -4102,8 +4118,7 @@
     "name": "Comedy Central Latin America Panregional",
     "sources": {
       "streams": [
-        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8",
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8"
+        "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
       ]
     },
     "languages": [
@@ -4134,8 +4149,8 @@
     "sources": {
       "streams": [
         "https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8",
-        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8"
+        "https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-tuneinus/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960"
       ]
     },
     "languages": [
@@ -4229,7 +4244,7 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IMmP9ffri5s"
+        "https://www.youtube-nocookie.com/embed/434nAi7ibV4"
       ]
     },
     "languages": [
@@ -5189,6 +5204,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "U8REylkpG4igqA",
+    "name": "Disney Junior East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/disney/index.m3u8",
+        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "VKKpehR0qNSoUY",
     "name": "Disney Junior: Bluey",
     "sources": {
@@ -5351,22 +5382,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mQGKQKap37yrTj",
-    "name": "Diya TV",
-    "sources": {
-      "streams": [
-        "https://stream.diyatvinc.com/diya.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin",
-      "pan"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -5865,8 +5880,7 @@
     "name": "ESPN 5 Latin America South",
     "sources": {
       "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8"
+        "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
       ]
     },
     "languages": [
@@ -5880,8 +5894,7 @@
     "name": "ESPN 6 Latin America",
     "sources": {
       "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8"
+        "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
       ]
     },
     "languages": [
@@ -6045,7 +6058,7 @@
     "name": "Farscape",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_IKIyKwvBbI"
+        "https://www.youtube-nocookie.com/embed/lo6XhOlFTFs"
       ]
     },
     "languages": [
@@ -6169,6 +6182,21 @@
     "youtube_urls": [],
     "languages": [
       "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c0yG5xI2YUavP8",
+    "name": "FilAmTV Network",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -6320,7 +6348,7 @@
     "name": "Food Network",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/COxo9IfLIds"
+        "https://www.youtube-nocookie.com/embed/q9YfFLlIRhQ"
       ]
     },
     "languages": [
@@ -6625,20 +6653,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dkrylRKUB8aEG3",
-    "name": "FX Latin America South",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oZutvo7Pi5sMjN",
     "name": "Galavision East HD",
     "sources": {
@@ -6764,7 +6778,7 @@
     "name": "Gem Shopping",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bQl5dCYFEGU"
+        "https://www.youtube-nocookie.com/embed/waRf5HCUs7o"
       ]
     },
     "languages": [
@@ -7252,8 +7266,7 @@
     "name": "HBO Latin America",
     "sources": {
       "streams": [
-        "https://streaming.onnethn.com/HBO/playlist.m3u8",
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8"
+        "https://streaming.onnethn.com/HBO/playlist.m3u8"
       ]
     },
     "languages": [
@@ -7261,48 +7274,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "JtL1k6Wa8seFkO",
-    "name": "HBO Mundi Latin America",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNYe2BSjQcCnsI",
-    "name": "HBO Signature Latin America",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qr5SJlcRAJmYsA",
-    "name": "HBO Xtreme Latin America",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "RXqBWsd1tTWpY4",
@@ -7840,18 +7811,6 @@
     "languages": [
       "eng"
     ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "As1a59LBPcbNCx",
-    "name": "In Touch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -8924,7 +8883,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lk7BZpk1PZ4"
+        "https://www.youtube-nocookie.com/embed/7YGrEa4PPHA"
       ]
     },
     "languages": [
@@ -8948,6 +8907,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZKjuki5ljxTb8m",
+    "name": "Las Vegas Tonight with Dale Davidson",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DV7qJ0lLePfnaP",
     "name": "Lassie",
     "sources": {
@@ -8956,6 +8929,20 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qofy3kRsNMvDOl",
+    "name": "Latino Channel TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -9467,6 +9454,20 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "79QHa8udaHmujw",
+    "name": "Lucas & Friends",
+    "sources": {
+      "streams": [
+        "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8"
       ]
     },
     "languages": [
@@ -10206,6 +10207,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bdMQX2BCZexBtf",
+    "name": "MTV Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/MTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9pWgUOLbE5LECP",
     "name": "Murder She Wrote",
     "sources": {
@@ -10299,7 +10314,7 @@
     "name": "Mystery Science Theater 3000: FOREVER-a-thon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wQ_iYWL3JYs"
+        "https://www.youtube-nocookie.com/embed/bUaHUrzjiEU"
       ]
     },
     "languages": [
@@ -10692,8 +10707,8 @@
     "name": "NBC 6 Santa Barbara CA (KSBY)",
     "sources": {
       "streams": [
-        "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8",
+        "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8"
       ]
     },
     "languages": [
@@ -11085,6 +11100,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "EmHOTWEORpvSsZ",
+    "name": "News12 Brooklyn",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "kStaIms86sY53l",
     "name": "News12 Hudson Valley",
     "stream_urls": [
@@ -11293,6 +11336,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LhLrzvZ35u0Jdu",
+    "name": "Nick Jr. Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/NICK_JR/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nlsdaZ2L48vHzM",
     "name": "Nickelodeon Latin America Panregional",
     "sources": {
@@ -11325,20 +11382,6 @@
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f39IJRVJcdw1WH",
-    "name": "NorCast Weather",
-    "sources": {
-      "streams": [
-        "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8"
       ]
     },
     "languages": [
@@ -11873,6 +11916,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H2I3G9vUtdy0Ar",
+    "name": "Pacific Island Network",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
     "sources": {
@@ -11908,7 +11965,7 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -12236,6 +12293,21 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "boIyW9Cc7GD6MO",
+    "name": "PCT Channel 27",
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -13539,7 +13611,7 @@
     "name": "Science Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zrxsGyAHbuw"
+        "https://www.youtube-nocookie.com/embed/QOP5_mdJOF0"
       ]
     },
     "languages": [
@@ -14287,20 +14359,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tjg8L7lKOORAsp",
-    "name": "Spirit TV",
-    "sources": {
-      "streams": [
-        "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W12MJtCI2qv2s8",
     "name": "SpongeBob SquarePants Official",
     "stream_urls": [],
@@ -14535,20 +14593,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9dFVOPLJHFY"
     ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FK7yIcWeinLWEP",
-    "name": "Super Soccer Cartoons: SupaStrikas",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HYMqkNVNo1g"
-      ]
-    },
     "languages": [
       "eng"
     ],
@@ -16188,6 +16232,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "sNd7eV7PoGPFi6",
+    "name": "truTV West",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YW2wRZp3wabzWm",
     "name": "TSTV",
     "sources": {
@@ -17052,6 +17110,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fnsN4s1Nk39gF9",
+    "name": "Vegas Life TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OC4IguEAZH56es",
     "name": "Velayat TV Network",
     "sources": {
@@ -17395,20 +17468,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/400k2SKoeh4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xae9GkiaWEJxkK",
-    "name": "Warner Bros. Rewind: Classic Battle Scenes",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/syGEWLIT_aM"
       ]
     },
     "languages": [
@@ -17970,6 +18029,18 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9nNo4knwmUpXBD",
+    "name": "WFMZ Dorney Park Camera",
+    "sources": {
+      "streams": [
+        "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -19253,8 +19324,7 @@
     "sources": {
       "streams": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
-        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

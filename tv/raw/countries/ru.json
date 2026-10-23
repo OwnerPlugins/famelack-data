@@ -90,22 +90,7 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mAl50UnEXvw3NE",
-    "name": "Afontovo",
-    "sources": {
-      "streams": [
-        "https://stream.afontovo.ru/hd.m3u8"
       ]
     },
     "languages": [
@@ -228,20 +213,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d8w13QXT1QMGcP",
-    "name": "BRIDGE Classic",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XSlKJ9xyYgIwpX",
     "name": "BST",
     "sources": {
@@ -272,20 +243,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "J6iMoLxR0lXzRq",
-    "name": "Carousel International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yVNR591w218Gmb",
     "name": "Channel 5",
     "sources": {
@@ -298,20 +255,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "KHBOPqN1N1kfWq",
-    "name": "Channel 5 International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "KbWB9VVRnnT7UN",
@@ -400,20 +343,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Ypbxcr1PDcytnl",
-    "name": "Channel One CIS",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BcWD8hMDkGztFC",
     "name": "Channel One Europa",
     "sources": {
@@ -455,11 +384,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JIOxlnAu1GPh23",
+    "name": "City Eden TV",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9L2pscQHcBOxS5",
     "name": "Da Vinci",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -541,39 +497,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JOk08lPb0p5Pn7",
-    "name": "Dom kino International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0mWCL95xgNA6aw",
-    "name": "Dom kino Premium",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vDqcQAqeGhXHYm",
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -588,7 +515,6 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
@@ -689,48 +615,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U23UVl8gZjsMJc",
-    "name": "Europa Plus TV",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3b8CTZ3nNtF2zo",
-    "name": "Evrokino",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E8ErNhxgmnUtWl",
-    "name": "Extreme Sports Channel",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aRjIA0jbBSoQ8N",
     "name": "FashionTV",
     "sources": {
@@ -787,20 +671,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "DvvFbQYA85hLbG",
-    "name": "Friday! International Kazakhstan",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qR0alRDphlQYmL",
     "name": "Glazami Turista",
     "sources": {
@@ -847,8 +717,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -887,25 +757,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HCIwHwFml9tgIS",
-    "name": "India",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iq4LfiXtlMe7B1",
     "name": "Indiyskoye Kino",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -948,20 +803,6 @@
     "sources": {
       "streams": [
         "https://istoki.tv/live/stream1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vWHREmfFSnsmrs",
-    "name": "Istoriya",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1026,36 +867,7 @@
     "name": "KinoHit",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JUh78ibwjZjSWp",
-    "name": "Kinokomedija",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dsE5vm4OzdIPUw",
-    "name": "Kinomix",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1083,22 +895,7 @@
     "name": "Kinopremyera",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYuDqHbwg5Xw82",
-    "name": "Kinosemja",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1126,22 +923,7 @@
     "name": "Kinosvidanie",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QyIQ9kOGZDQke9",
-    "name": "Kinouzhas",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1250,20 +1032,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCKzIsjsqPD6SA",
-    "name": "Lapki Live",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S00p2qbV49fypF",
     "name": "LenTV24",
     "sources": {
@@ -1335,26 +1103,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ojg4B5WCF3Vv0k",
-    "name": "Match! Planeta",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RQT4a6XQReMGRa",
     "name": "Match! Ultra 4K",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/match/index.m3u8",
-        "https://fs.uplink.kz/match/mono.m3u8?token=onlinetv"
+        "https://flussonic.linkintel.ru/match/index.m3u8"
       ]
     },
     "languages": [
@@ -1405,27 +1158,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M5xMH8eJsKVp5N",
-    "name": "Mosfilm Gold Collection",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P3LDP54vU2oJPU",
     "name": "Moskva 24",
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58",
-        "https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv",
-        "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8"
+        "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8",
+        "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8"
       ]
     },
     "languages": [
@@ -1467,7 +1206,6 @@
     "name": "Muz-TV",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
       ]
@@ -1524,36 +1262,7 @@
     "name": "Nashe Novoe Kino",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jDb8tgaBS3dpwH",
-    "name": "National Geographic",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FmClQA6aIx4mGP",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1624,20 +1333,6 @@
     "sources": {
       "streams": [
         "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E0XOi7kyOzOH98",
-    "name": "Nostalgia",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1722,8 +1417,7 @@
     "name": "NTV Mir",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/213.m3u8",
-        "https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv"
+        "https://streaming.thestream.cyou/live/213.m3u8"
       ]
     },
     "languages": [
@@ -1744,20 +1438,6 @@
       "eng",
       "rus",
       "sah"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lNGCkJoFH408tm",
-    "name": "O! International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
@@ -1786,20 +1466,6 @@
     },
     "languages": [
       "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y6ugwepGDeNuxE",
-    "name": "Oruzhie",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -1862,34 +1528,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ClrLVtv3nyuxRh",
-    "name": "Patriot",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B7WkDibBeXn5uW",
-    "name": "Peretz International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kDIn5P06JUE8QJ",
     "name": "Perviy Krymskiy",
     "sources": {
@@ -1908,22 +1546,7 @@
     "name": "Pobeda",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/43.m3u8",
-        "https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3EEayoY7m4WXhg",
-    "name": "Poehali!",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv"
+        "https://streaming.thestream.cyou/live/43.m3u8"
       ]
     },
     "languages": [
@@ -2093,20 +1716,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "euqTyS4tZ6H2HV",
-    "name": "REN TV International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AG1c9dyu0hTbFo",
     "name": "Retro",
     "sources": {
@@ -2125,7 +1734,6 @@
     "name": "Rodnoe Kino",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2257,9 +1865,9 @@
     "name": "Russia-K",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+        "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
       ]
     },
     "languages": [
@@ -2269,39 +1877,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "mDGWc57rxVMaS9",
-    "name": "Russkiy Illusion",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "txZM6XCGS8gAEh",
     "name": "Russkiy roman",
     "sources": {
       "streams": [
         "https://vod.tuva.ru/rusroman/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jJzPjlZwq4ZxB5",
-    "name": "Rybalka i okhota",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2373,34 +1953,6 @@
       "streams": [
         "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8",
         "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CknMbZ3aYMLqGf",
-    "name": "Sarafan",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XkYvBK3s0q2AZ3",
-    "name": "Setanta Sports 1",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2537,34 +2089,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9f7IFEFwv1iC1Z",
-    "name": "START Air",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bkAtAH6I5504lk",
-    "name": "START World",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4fSWekqVzO4BQS",
     "name": "Strana FM",
     "sources": {
@@ -2585,7 +2109,7 @@
       "streams": [
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
         "https://flussonic.linkintel.ru/sts/index.m3u8",
-        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },
     "languages": [
@@ -2595,25 +2119,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "U03XNglu5PbVmX",
-    "name": "STS kids International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d8wK3YuIEkuIYv",
     "name": "STS Love",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ]
     },
@@ -2670,7 +2179,6 @@
     "name": "T24",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2699,7 +2207,6 @@
     "name": "Telecafe",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2801,7 +2308,6 @@
     "sources": {
       "streams": [
         "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
-        "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2830,7 +2336,6 @@
     "name": "Tochka otryva",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2874,20 +2379,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2960,7 +2451,6 @@
     "name": "U",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/u/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
       ]
     },
@@ -3018,7 +2508,6 @@
     "name": "V gostyakh u skazki",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -3043,54 +2532,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pZthsgjcG9ZCMb",
-    "name": "viju Explore",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XdbeDHcvZuIPU",
-    "name": "viju History",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gN2eRoSlW9AHDR",
-    "name": "viju TV1000",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -3104,7 +2550,6 @@
     "name": "viju TV1000 action",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -3119,7 +2564,6 @@
     "name": "viju TV1000 russkoe",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
         "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
       ]
@@ -3135,7 +2579,6 @@
     "name": "viju+ Sport",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -3151,6 +2594,20 @@
     "sources": {
       "streams": [
         "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3203,20 +2660,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "UhQYXBVqQscSRo",
-    "name": "Vremya",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UduqqsC4bcIebm",
     "name": "Yuvelirochka",
     "sources": {
@@ -3235,7 +2678,6 @@
     "name": "Zoopark",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
       ]
     },

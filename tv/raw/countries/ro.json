@@ -306,20 +306,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qFwIIjAFYuKLPE",
-    "name": "Etno TV",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Aw91unFPHKA4b2",
     "name": "Euronews Romania",
     "sources": {
@@ -589,6 +575,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3hq4NpWZFKw05F",
+    "name": "Kiss TV",
+    "sources": {
+      "streams": [
+        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NodY8gBnmYHwO8",
+    "name": "Magic TV",
+    "sources": {
+      "streams": [
+        "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dfvV9SkyUqJgjs",
     "name": "MeteoTV",
     "stream_urls": [],
@@ -755,15 +769,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xb6sSVxIqQCLnS",
-    "name": "Nostalgia TV",
+    "nanoid": "19bVQttgqOEZ2W",
+    "name": "NHL AntenaPlay",
     "sources": {
       "streams": [
-        "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
+        "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -778,20 +792,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z71jjGo1p2SVWS",
-    "name": "Prima News",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -921,11 +921,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jEPGXGbsLAf0No",
+    "name": "Tequila Music TV",
+    "sources": {
+      "streams": [
+        "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXZGbTAyHEypM",
+    "name": "TraLaLa DSN",
+    "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XUYPIY4ntZdroJ",
     "name": "TraLaLa TV",
     "sources": {
       "streams": [
         "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lYU8MwJ7rLlvO8",
+    "name": "Travel Mix",
+    "sources": {
+      "streams": [
+        "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -962,7 +1004,7 @@
     "name": "Tu Decizi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DqL7PwiZ3uY"
+        "https://www.youtube-nocookie.com/embed/XNbwnDZ0e94"
       ]
     },
     "languages": [

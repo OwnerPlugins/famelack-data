@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lVgs60Eg6mCkW",
-    "name": "Amazonia TV",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mj1YeHn29dAddM",
     "name": "Amazonica TV",
     "sources": {
@@ -75,20 +61,6 @@
     "sources": {
       "streams": [
         "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4DBElJ7eVRBwAz",
-    "name": "Arpegio TV",
-    "sources": {
-      "streams": [
-        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
       ]
     },
     "languages": [
@@ -174,20 +146,6 @@
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
         "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PCHpCRc0yRAZbi",
-    "name": "Canal IPe",
-    "sources": {
-      "streams": [
-        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -816,8 +774,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -897,6 +855,20 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/iv8TD3KoN8Y"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nXrcWfZsttDQtv",
+    "name": "TV MAR",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "pe",
     "isGeoBlocked": false

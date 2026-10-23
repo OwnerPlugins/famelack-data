@@ -846,7 +846,6 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -875,8 +874,8 @@
     "name": "Animal Planet",
     "sources": {
       "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
-        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
+        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
+        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
       ]
     },
     "languages": [
@@ -1269,6 +1268,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FOmh48Vhhwgsmx",
+    "name": "Ecovision",
+    "sources": {
+      "streams": [
+        "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "455SjvDokn1Rzo",
     "name": "Epic Crimes",
     "sources": {
@@ -1415,20 +1428,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vWHREmfFSnsmrs",
-    "name": "Istoriya",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YhG2yKqVnyrY83",
     "name": "Italiana",
     "sources": {
@@ -1454,6 +1453,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ydI9RzI56VdmqS",
+    "name": "Karbala Documentary",
+    "sources": {
+      "streams": [
+        "https://ktvlive.online/stream/hls/ch3.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
     "isGeoBlocked": false
   },
   {
@@ -1617,20 +1630,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jDb8tgaBS3dpwH",
-    "name": "National Geographic",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g2bTTopTiGfPsS",
     "name": "National Geographic Latin America Panregional",
     "sources": {
@@ -1642,20 +1641,6 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FmClQA6aIx4mGP",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1830,7 +1815,7 @@
   },
   {
     "nanoid": "0mulGVhtSW9kDC",
-    "name": "RTД",
+    "name": "RT Documentary Russian",
     "sources": {
       "streams": [
         "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
@@ -1970,39 +1955,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pZthsgjcG9ZCMb",
-    "name": "viju Explore",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XdbeDHcvZuIPU",
-    "name": "viju History",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
       ]
     },

@@ -140,20 +140,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VW0YFydw9mhrOx",
-    "name": "Deportes TVC",
-    "sources": {
-      "streams": [
-        "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8vLOrCAwtecYqt",
     "name": "Dios Te Ve",
     "sources": {
@@ -307,6 +293,21 @@
     ],
     "country": "hn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LIhd65TAfR2Oiq",
+    "name": "JEMR TV",
+    "sources": {
+      "streams": [
+        "https://tv.webmedialive.com/jmrtv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "YShLtvidjqB1kx",
@@ -565,6 +566,20 @@
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/telerayo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YjpTIsdhrTKDB8",
+    "name": "Television Metropolis 19.1",
+    "sources": {
+      "streams": [
+        "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
       ]
     },
     "languages": [

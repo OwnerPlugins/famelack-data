@@ -41,6 +41,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TKjF9Dh5jBDraW",
+    "name": "Ashiil TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wgCHFkD8F6PNpc",
+    "name": "Astha TV",
+    "sources": {
+      "streams": [
+        "https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJjt1kMM9xV6J0",
     "name": "Astro Blitar TV",
     "sources": {
@@ -122,6 +150,20 @@
     ],
     "country": "id",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XPSVuVs1TyQFaN",
+    "name": "BTV",
+    "sources": {
+      "streams": [
+        "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "u2sCANZ3ft5IKm",
@@ -481,14 +523,14 @@
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/o602MxuwDk8"
+        "https://www.youtube-nocookie.com/embed/3Q4z6cmKgSo"
       ]
     },
     "languages": [
@@ -584,6 +626,20 @@
     "sources": {
       "streams": [
         "https://www.streaming.radartv.co.id/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggkBalQqNc86oy",
+    "name": "Puja TV Aceh",
+    "sources": {
+      "streams": [
+        "https://pujatv.siar.us/live/pujatv.m3u8"
       ]
     },
     "languages": [
@@ -772,6 +828,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2XkFMpRoLYu9Ma",
+    "name": "Selaparang TV",
+    "sources": {
+      "streams": [
+        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pJu6TwMXSbyJfF",
     "name": "SMTV",
     "stream_urls": [
@@ -825,6 +895,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UBEBkz6SKTk"
     ],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ElMOzKMmZlOwFg",
+    "name": "Surau TV",
+    "sources": {
+      "streams": [
+        "https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],

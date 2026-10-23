@@ -87,7 +87,7 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "QnYbafq8SSO9v0",
@@ -193,6 +193,20 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P9F04WuZHvAcsW",
+    "name": "Lang Son TV",
+    "sources": {
+      "streams": [
+        "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "PYD65sKTsyBg8u",
@@ -314,6 +328,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1MCy1aaHLTwmEY",
+    "name": "ON Music",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TkKPx05Xyb5rMG",
+    "name": "ON Vie Giai Tri",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnAjiRdyXVXCGu",
     "name": "Outdoor Channel Vietnam",
     "sources": {
@@ -347,7 +389,21 @@
     "name": "Quang Lập Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rQZ9j6r0wro"
+        "https://www.youtube-nocookie.com/embed/2CD-lLZW_gg"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H71VIaKYOBP3i5",
+    "name": "Quang Nam TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=80"
       ]
     },
     "languages": [

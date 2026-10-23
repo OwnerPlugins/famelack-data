@@ -231,7 +231,6 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -246,7 +245,6 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
@@ -831,6 +829,22 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OyLFauKzvJ2lSK",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
