@@ -101,7 +101,7 @@
     "name": "Aqua Teen Hunger Force",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/m6x6jh-CKKk"
+        "https://www.youtube-nocookie.com/embed/-1mrwkgH2i0"
       ]
     },
     "languages": [
@@ -139,25 +139,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
+    "nanoid": "jjxluM4t32zhEk",
+    "name": "Botflix TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NS0fu_Q7X8E"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UXWOiM2L1q57AI",
-    "name": "Camp Lakebottom",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LBoTtQXGTqY"
+      "streams": [
+        "https://hls.botflix.tv/tv/index.m3u8"
       ]
     },
     "languages": [
@@ -178,6 +164,68 @@
       "eng"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0lVBw32w9JPjcN",
+    "name": "Cartoon Network",
+    "sources": {
+      "streams": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "co6UrhPBemum5j",
+    "name": "Cartoon Network",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin",
+      "kan",
+      "mal",
+      "mar",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z2RG0xDeG0qYnE",
+    "name": "Cartoon Network [Not 24/7;Geo-blocked]",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+        "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "TAW3V6RUdxKtJQ",
+    "name": "Cartoon Network HD+",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -213,13 +261,28 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IMmP9ffri5s"
+        "https://www.youtube-nocookie.com/embed/434nAi7ibV4"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
+      ]
+    },
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -263,6 +326,34 @@
     ],
     "country": "pa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "s3sqg6vutusQdl",
@@ -309,7 +400,7 @@
     "name": "Fugget About It",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
+        "https://www.youtube-nocookie.com/embed/T8wD3IdVHEE"
       ]
     },
     "languages": [
@@ -373,6 +464,34 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dLuyF7ipbY6e1u",
+    "name": "Hasbro: G.I. JOE",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/TZ3mxF4U__k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VVVtm9fLhy7n1l",
+    "name": "Hasbro: Power Rangers",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Fl-WGssGnak"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0KHOlcS3CSZQO6",
@@ -562,7 +681,7 @@
     "name": "OGGY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1R8767hzeLk"
+        "https://www.youtube-nocookie.com/embed/pxmIY1oPW6w"
       ]
     },
     "languages": [
@@ -576,7 +695,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b1o5gtIU088"
+        "https://www.youtube-nocookie.com/embed/iBNw1964kko"
       ]
     },
     "languages": [
@@ -647,7 +766,7 @@
     "name": "Shaun the Sheep Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2mbA1SQcrZA"
+        "https://www.youtube-nocookie.com/embed/2TGO4YtKP1Q"
       ]
     },
     "languages": [
@@ -667,20 +786,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/zUV96NgJVUM"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -806,6 +911,22 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMiSgDeElnJcAd",
+    "name": "Tooncast",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/TOONCAST/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por",
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

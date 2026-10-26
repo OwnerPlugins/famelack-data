@@ -28,31 +28,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "nqC1XmTU0qJuuy",
-    "name": "Bollywood Film",
+    "nanoid": "TZNdjDVfVrlQUD",
+    "name": "Bollywood Classic Romania",
     "sources": {
       "streams": [
-        "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8"
+        "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8"
       ]
     },
     "languages": [
+      "hin",
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d8w13QXT1QMGcP",
-    "name": "BRIDGE Classic",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -165,27 +152,13 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lk7BZpk1PZ4"
+        "https://www.youtube-nocookie.com/embed/7YGrEa4PPHA"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "odbTAV6ttz1zzI",
-    "name": "Persiana Nostalgia",
-    "sources": {
-      "streams": [
-        "https://noshls.persiana.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -214,6 +187,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UNigLBaZrxsC5x",
+    "name": "Retro Cartoon",
+    "sources": {
+      "streams": [
+        "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -312,6 +299,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X20ezVvgfOtILT",
+    "name": "TCM East",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "iKamvnY73w2HJ6",
+    "name": "TCM West",
+    "sources": {
+      "streams": [
+        "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "qZJLmt0dETdzDZ",
     "name": "The Archive",
     "sources": {
@@ -357,7 +372,7 @@
     "name": "TokuSHOUTsu: Kamen Rider Series",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/34p1anWUxDo"
+        "https://www.youtube-nocookie.com/embed/x3PtKUqFz1U"
       ]
     },
     "languages": [
@@ -568,20 +583,6 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xae9GkiaWEJxkK",
-    "name": "Warner Bros. Rewind: Classic Battle Scenes",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/syGEWLIT_aM"
       ]
     },
     "languages": [

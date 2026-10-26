@@ -87,7 +87,8 @@
     "name": "All Time Movies",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
       ]
     },
     "languages": [
@@ -475,6 +476,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ks0hiTpGZVcka8",
+    "name": "Cinemax Latin America",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/CINEMAX/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gUswhqxHZdKrP1",
     "name": "City Eden KinoAction",
     "sources": {
@@ -517,20 +532,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zzxh5uo44jq1FL",
     "name": "City Eden KinoFantastika",
     "sources": {
@@ -564,20 +565,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -636,34 +623,6 @@
       "streams": [
         "https://streaming.thestream.cyou/live/44.m3u8",
         "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JOk08lPb0p5Pn7",
-    "name": "Dom kino International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0mWCL95xgNA6aw",
-    "name": "Dom kino Premium",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -935,8 +894,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/1459/master.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8",
-        "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+        "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
       ]
     },
     "languages": [
@@ -980,7 +939,7 @@
       "streams": [
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
         "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8"
+        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
       ]
     },
     "languages": [
@@ -995,8 +954,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
-        "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
+        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1091,6 +1050,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jMajOHWjzDHSSI",
+    "name": "HBO 2 Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "JtL1k6Wa8seFkO",
+    "name": "HBO Mundi Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qr5SJlcRAJmYsA",
+    "name": "HBO Xtreme Latin America",
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6K6oFgTHq5fj7V",
     "name": "Hero",
     "sources": {
@@ -1133,11 +1134,66 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HW3VPKyt6mpMGb",
+    "name": "iFilm 2",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilm2.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FThMLWk2PqeTHZ",
+    "name": "iFilm Arabic",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmar.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ELGjlFyEtfJ19e",
+    "name": "iFilm English",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmen.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3vaXRs7MKcSOW",
+    "name": "iFilm Persian",
+    "sources": {
+      "streams": [
+        "https://live.presstv.co.uk/hls/ifilmfa.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iq4LfiXtlMe7B1",
     "name": "Indiyskoye Kino",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1180,9 +1236,9 @@
     "name": "Kairali We",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/1530/master.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
-        "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8"
+        "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1530/master.m3u8"
       ]
     },
     "languages": [
@@ -1230,20 +1286,6 @@
       "uzb"
     ],
     "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QyIQ9kOGZDQke9",
-    "name": "Kinouzhas",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1446,21 +1488,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9BFxyMjB6LONXi",
-    "name": "Mirovoe kino",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "kaz",
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zNKcIL8vSfNOiJ",
     "name": "Mix Hollywood",
     "sources": {
@@ -1544,20 +1571,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tw5NbQPdliX1Cu",
-    "name": "Muzhskoe kino",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AWbO3MTrOLeQig",
     "name": "MyTime Movie Network",
     "sources": {
@@ -1604,7 +1617,6 @@
     "name": "Nashe Novoe Kino",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1668,20 +1680,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xb6sSVxIqQCLnS",
-    "name": "Nostalgia TV",
-    "sources": {
-      "streams": [
-        "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mhvyiXoz4qgSYK",
     "name": "ON Movies",
     "sources": {
@@ -1700,8 +1698,8 @@
     "name": "Oscar Movies Bhojpuri",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/233/master.m3u8",
-        "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8"
+        "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/233/master.m3u8"
       ]
     },
     "languages": [
@@ -1966,20 +1964,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mDGWc57rxVMaS9",
-    "name": "Russkiy Illusion",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "txZM6XCGS8gAEh",
     "name": "Russkiy roman",
     "sources": {
@@ -2166,34 +2150,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9f7IFEFwv1iC1Z",
-    "name": "START Air",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bkAtAH6I5504lk",
-    "name": "START World",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7IkC4ULHCXJ2FZ",
     "name": "Studio One +",
     "sources": {
@@ -2260,20 +2216,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2381,25 +2323,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gN2eRoSlW9AHDR",
-    "name": "viju TV1000",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q5p4g67XWwNDIs",
     "name": "viju TV1000 action",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2414,7 +2341,6 @@
     "name": "viju TV1000 russkoe",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
         "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
       ]

@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "C7CqrdYHekA32V",
-    "name": "Alegria TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KvjjAMUdkPUKh1",
     "name": "Amitel TV",
     "sources": {
@@ -28,11 +14,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DRw9wn4aT071aO",
+    "name": "As Contenidos",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/ascontenido/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FuTnPCDlGaBjIO",
     "name": "Audiokiss",
     "sources": {
       "streams": [
         "https://master.tucableip.com/audiokisstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w3bpP2FDGFGLPQ",
+    "name": "AYNI TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -184,7 +198,8 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [],
@@ -318,20 +333,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OPWUaOk2V7zsOP",
-    "name": "Radio Mega TV Amazonia",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1Snebdc8j861KM",
     "name": "Radio Universitaria San Andres",
     "sources": {
@@ -369,6 +370,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "crhuDV1URlafW7",
+    "name": "Red Rubi",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "bo",
     "isGeoBlocked": false
@@ -463,6 +478,34 @@
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FQtLVabcRW3R96",
+    "name": "Tele Fe Bolivia",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
       ]
     },
     "languages": [
@@ -635,6 +678,20 @@
     "sources": {
       "streams": [
         "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uLnAaMvBQP6gl2",
+    "name": "Vos TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
       ]
     },
     "languages": [

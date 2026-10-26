@@ -250,6 +250,7 @@
     "name": "Das Erste",
     "sources": {
       "streams": [
+        "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
         "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
       ]
     },
@@ -257,7 +258,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "FM7JnUFlNQHUFD",
@@ -269,20 +270,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E3Fuo7LqwAfWE9",
-    "name": "Deluxe Dance",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -302,16 +289,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kxfwLfpFpzHMm2",
-    "name": "Deluxe Rap",
+    "nanoid": "nSzgFY1wA728Rf",
+    "name": "Disney Channel",
     "sources": {
       "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+        "https://s6.hopslan.com/disneyX/index.m3u8"
       ]
     },
     "languages": [
-      "deu",
-      "eng"
+      "deu"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -363,7 +349,7 @@
       "spa"
     ],
     "country": "de",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "T1qgpA3LWRh4Lf",
@@ -511,6 +497,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gTV3Fyovgig"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "sources": {
@@ -654,7 +654,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
+        "https://www.youtube-nocookie.com/embed/YO54qTdz6QI"
       ]
     },
     "languages": [
@@ -669,6 +669,34 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RefcIuSWqtTcds",
+    "name": "kabel eins Doku",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/dokuX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0ijH2Oxomh8"
       ]
     },
     "languages": [
@@ -1155,6 +1183,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZDDOpXN3O4NOok",
+    "name": "ProSieben Maxx",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/pro7maxxX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OLmlejUUhCqlk2",
     "name": "QVC",
     "sources": {
@@ -1211,12 +1253,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FfKKaHEk2MpmA6",
-    "name": "Radio Weser TV Bremen",
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
     "sources": {
       "streams": [
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-        "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
@@ -1226,14 +1267,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rahlDGPnE1FWrR",
-    "name": "Rakuten TV Crime Series Germany",
+    "nanoid": "mMN16NkXBOiZlV",
+    "name": "Rakuten TV Comedy Movies Germany",
     "sources": {
       "streams": [
-        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1363,7 +1406,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1735,11 +1779,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JC3Zk1LuuJp1Jk",
+    "name": "TELE 5",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tele5X/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "APsiDTtaBUvYQA",
     "name": "teltOwkanal",
     "sources": {
       "streams": [
         "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OR0bcDdbzNJR50",
+    "name": "Terra Mater WILD English",
+    "sources": {
+      "streams": [
+        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OfmMpkKE1FtNkl",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tlcX/index.m3u8"
       ]
     },
     "languages": [

@@ -198,6 +198,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8IMTT46FrSh8vx",
+    "name": "DMAX",
+    "sources": {
+      "streams": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
     "sources": {
@@ -216,7 +231,6 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -231,7 +245,6 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
@@ -396,20 +409,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3VXLFsdtTTonDX",
-    "name": "Guide Love TV",
-    "sources": {
-      "streams": [
-        "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OgCZtD8wAAsw56",
     "name": "HANDICAP TV",
     "sources": {
@@ -434,6 +433,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GHnjLMaDiCJzWr",
+    "name": "HGTV",
+    "sources": {
+      "streams": [
+        "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -802,6 +816,36 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OfmMpkKE1FtNkl",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/tlcX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OyLFauKzvJ2lSK",
+    "name": "TLC",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "IkfmKBtuIvKiX8",
-    "name": "Ada TV",
-    "sources": {
-      "streams": [
-        "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f",
-        "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "cy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RBsWEaAAzkcFkK",
     "name": "ANT1 Cyprus",
     "sources": {
@@ -187,8 +172,8 @@
     "name": "Sat 7 Turk",
     "sources": {
       "streams": [
-        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
         "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
         "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
       ]
     },

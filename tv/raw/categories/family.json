@@ -69,6 +69,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GqeqAajjIHfMlp",
+    "name": "Discovery Family",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "sources": {
@@ -113,6 +125,35 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "29x0D5l70jxbBR",
+    "name": "Green TV",
+    "sources": {
+      "streams": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kqvwW1XwAcBjR3",
+    "name": "Hope Channel PROYECTO JA",
+    "sources": {
+      "streams": [
+        "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Lzh8NoZwGUGsG2",
@@ -218,7 +259,8 @@
     "name": "RiC",
     "sources": {
       "streams": [
-        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8"
       ]
     },
     "languages": [
@@ -277,7 +319,7 @@
       "streams": [
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
         "https://flussonic.linkintel.ru/sts/index.m3u8",
-        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },
     "languages": [
@@ -291,7 +333,6 @@
     "name": "STS Love",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ]
     },

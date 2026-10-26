@@ -386,20 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qZx2FfhpEJUqdS",
-    "name": "Euronews French",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x5fWrafkMRpDW8",
     "name": "Euronews Greek",
     "sources": {
@@ -412,20 +398,6 @@
     },
     "languages": [
       "ell"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Iq86nUR80ay3qv",
-    "name": "Euronews Hungarian",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jAn7L2Kt32U"
-      ]
-    },
-    "languages": [
-      "hun"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -454,34 +426,6 @@
     },
     "languages": [
       "pol"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GGI2245NqAePNm",
-    "name": "Euronews Portuguese",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AebbSbQ8k1zQps",
-    "name": "Euronews Russian",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwYzwdBiaho"
-      ]
-    },
-    "languages": [
-      "rus"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -676,6 +620,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EGsBwKlWFjIivG",
+    "name": "France 24 Español",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+        "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
+        "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zTv0hCakAhg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nkxebd37eO0ltl",
     "name": "France 24 FAST English",
     "sources": {
@@ -808,6 +771,20 @@
       ]
     },
     "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oETakhtKOAAoma",
+    "name": "L'Equipe",
+    "sources": {
+      "streams": [
+        "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -955,12 +932,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
+    "sources": {
+      "streams": [
+        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
     "sources": {
       "streams": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
       ]
     },
     "languages": [
@@ -990,7 +978,7 @@
     "name": "OGGY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1R8767hzeLk"
+        "https://www.youtube-nocookie.com/embed/pxmIY1oPW6w"
       ]
     },
     "languages": [
@@ -1306,6 +1294,42 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iLva87P8XGqzZK",
+    "name": "Rakuten TV Films Romance",
+    "sources": {
+      "streams": [
+        "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "sources": {
+      "streams": [
+        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1cCEN7WNbjDun",
     "name": "Revry Europe (Frequency backend)",
     "sources": {
@@ -1323,6 +1347,34 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XtwNWKkOc-w"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pNZPBmJUBxUNCk",
+    "name": "RMC Decouverte",
+    "sources": {
+      "streams": [
+        "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oHu9taZgmNAnls",
+    "name": "RMC Life",
+    "sources": {
+      "streams": [
+        "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1362,20 +1414,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/zUV96NgJVUM"
       ]
     },
     "languages": [
@@ -1467,6 +1505,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LPPYKgzOw76HUC",
+    "name": "The '80s Guy: Darksynth FM",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IosjNLdAlnk"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1767,6 +1819,7 @@
     "name": "TV5Monde Asia",
     "sources": {
       "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9852",
         "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
       ]
     },
@@ -1917,7 +1970,7 @@
     "name": "Zig & Sharko",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0flIX2kXnZs"
+        "https://www.youtube-nocookie.com/embed/8GB2ZKIkK2w"
       ]
     },
     "languages": [

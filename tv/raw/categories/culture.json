@@ -18,8 +18,7 @@
     "name": "Abai TV",
     "sources": {
       "streams": [
-        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
-        "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv"
+        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -33,22 +32,7 @@
     "name": "Afro Magic Channel",
     "sources": {
       "streams": [
-        "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
         "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
       ]
     },
     "languages": [
@@ -155,18 +139,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sdiObwInEYoWku",
-    "name": "Balchi TV",
+    "nanoid": "VtHTEOxTK0CD0C",
+    "name": "Belarus-3",
     "sources": {
       "streams": [
-        "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
       ]
     },
     "languages": [
-      "nld",
-      "pap"
+      "bel",
+      "rus"
     ],
-    "country": "aw",
+    "country": "by",
     "isGeoBlocked": false
   },
   {
@@ -242,17 +226,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QtyIEE9DZnKUAu",
-    "name": "Canal 17 RTVD",
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
     "sources": {
       "streams": [
-        "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+        "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "mal"
     ],
-    "country": "do",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -267,20 +251,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kcUlTpEd2EjJLo",
-    "name": "Capital 21",
-    "sources": {
-      "streams": [
-        "https://video.cdmx.gob.mx/redes/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -384,20 +354,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m1fqGkSb3kQ4GK",
-    "name": "Ciracu TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -975,20 +931,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b1w0a8CZ0CNs0I",
-    "name": "Medeniyyet TV",
-    "sources": {
-      "streams": [
-        "https://str.yodacdn.net/medeniyyettele/index.m3u8"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AQoLBvOjxVCg4W",
     "name": "Midpen Media Center Channel 30",
     "sources": {
@@ -1099,8 +1041,7 @@
     "name": "NTV Mir",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/213.m3u8",
-        "https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv"
+        "https://streaming.thestream.cyou/live/213.m3u8"
       ]
     },
     "languages": [
@@ -1224,7 +1165,8 @@
     "name": "Radio Suyai TV",
     "sources": {
       "streams": [
-        "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8"
+        "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8",
+        "https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8"
       ]
     },
     "languages": [
@@ -1262,40 +1204,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+        "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
       ]
     },
     "languages": [
@@ -1472,6 +1387,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zxSTa9IKp200xg",
+    "name": "Suyai TV",
+    "sources": {
+      "streams": [
+        "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bZLmwi1rLZYaKq",
     "name": "Telepace 2",
     "sources": {
@@ -1513,7 +1442,7 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "SQGH8tX9KocSpb",
@@ -1544,34 +1473,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cWWftSEuzr59Qo",
-    "name": "TV Cuatro 4.2",
-    "sources": {
-      "streams": [
-        "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "J4eb8pMfTeVAGZ",
@@ -1726,20 +1627,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VZBxSoe576CfEB",
-    "name": "YES",
-    "sources": {
-      "streams": [
-        "https://lana.psm.mv/live/yes.m3u8"
-      ]
-    },
-    "languages": [
-      "div"
-    ],
-    "country": "mv",
     "isGeoBlocked": false
   },
   {

@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lVgs60Eg6mCkW",
-    "name": "Amazonia TV",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mj1YeHn29dAddM",
     "name": "Amazonica TV",
     "sources": {
@@ -75,20 +61,6 @@
     "sources": {
       "streams": [
         "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4DBElJ7eVRBwAz",
-    "name": "Arpegio TV",
-    "sources": {
-      "streams": [
-        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
       ]
     },
     "languages": [
@@ -802,8 +774,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -977,20 +949,6 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dbLCjbraoPInRW",
-    "name": "Uchu TV",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
       ]
     },
     "languages": [

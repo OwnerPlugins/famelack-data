@@ -846,7 +846,6 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -868,6 +867,23 @@
       "ara"
     ],
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CffTMvOdCGylCI",
+    "name": "Animal Planet",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
+        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1034,6 +1050,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GDeVF43cbBphiD",
     "name": "ClickTV Chile",
     "sources": {
@@ -1052,7 +1082,7 @@
     "name": "CNA Insider",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fSUMKrxPEd8"
+        "https://www.youtube-nocookie.com/embed/9Y4kOQk_K3Y"
       ]
     },
     "languages": [
@@ -1368,6 +1398,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3JfxiMIqhgZ6Ng",
+    "name": "Investigation Discovery",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FlqGAqnBqpvJeH",
     "name": "INWILD",
     "stream_urls": [
@@ -1379,21 +1424,35 @@
     "languages": [
       "eng"
     ],
-    "country": "in",
+    "country": "nl",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vWHREmfFSnsmrs",
-    "name": "Istoriya",
+    "nanoid": "YhG2yKqVnyrY83",
+    "name": "Italiana",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "ita"
     ],
-    "country": "ru",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RefcIuSWqtTcds",
+    "name": "kabel eins Doku",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/dokuX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1440,6 +1499,35 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xwu9RwQkvtgOhW",
+    "name": "Love The Planet DE",
+    "sources": {
+      "streams": [
+        "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vc83h8nvdBt03n",
+    "name": "Love The Planet English",
+    "sources": {
+      "streams": [
+        "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "tE3WIvWTPSPArw",
@@ -1542,31 +1630,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jDb8tgaBS3dpwH",
-    "name": "National Geographic",
+    "nanoid": "g2bTTopTiGfPsS",
+    "name": "National Geographic Latin America Panregional",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
+        "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "spa"
     ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FmClQA6aIx4mGP",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1741,7 +1815,7 @@
   },
   {
     "nanoid": "0mulGVhtSW9kDC",
-    "name": "RTД",
+    "name": "RT Documentary Russian",
     "sources": {
       "streams": [
         "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
@@ -1779,7 +1853,7 @@
     "languages": [
       "eng"
     ],
-    "country": "us",
+    "country": "de",
     "isGeoBlocked": true
   },
   {
@@ -1825,6 +1899,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ELDNWWv9rjJl60",
+    "name": "Viasat Explore",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9qxiwyypjNrlXI",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PfbaswQwxPL2la",
     "name": "Viasat History",
     "sources": {
@@ -1839,31 +1941,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pZthsgjcG9ZCMb",
-    "name": "viju Explore",
+    "nanoid": "grL6LmvbHNpgqD",
+    "name": "Viasat Nature",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
+        "https://shift03.isp.bg/ViasatNature_HD/index.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "bul"
     ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XdbeDHcvZuIPU",
-    "name": "viju History",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
@@ -1871,7 +1959,6 @@
     "name": "viju Nature",
     "sources": {
       "streams": [
-        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1892,7 +1979,7 @@
     "languages": [
       "eng"
     ],
-    "country": "uk",
+    "country": "ch",
     "isGeoBlocked": false
   },
   {

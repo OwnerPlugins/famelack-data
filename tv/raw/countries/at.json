@@ -45,7 +45,7 @@
     "name": "FairON",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0S-jGDLn_bY"
+        "https://www.youtube-nocookie.com/embed/H9UWof1Thm0"
       ]
     },
     "languages": [
@@ -60,20 +60,6 @@
     "sources": {
       "streams": [
         "https://stream.fs1.tv/hls/webstream.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KfXvvS2DuTflFJ",
-    "name": "Gemeinde TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/uzycQIDzzms"
       ]
     },
     "languages": [
@@ -242,6 +228,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Ku7ciqz5Zk4"
     ],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gRCF1WhcrFMXld",
+    "name": "ORF 1",
+    "sources": {
+      "streams": [
+        "https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
