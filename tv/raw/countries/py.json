@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "f4J3TEsOIcCxKd",
+    "name": "4Dmas Noticias TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zhUhSGilKc6sOP",
     "name": "AGR FM TV",
     "sources": {
@@ -201,20 +215,6 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OETM24DdxaHZfM",
-    "name": "Invasiva TV",
-    "sources": {
-      "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
       ]
     },
     "languages": [

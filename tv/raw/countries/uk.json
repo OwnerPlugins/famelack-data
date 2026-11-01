@@ -830,6 +830,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NOygrZkydmJ7CX",
+    "name": "Enduro Life Media",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9_G1d8g5f3M"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "sources": {
@@ -1020,6 +1034,20 @@
         "https://cdn.pishow.tv/ott/live/1391/master.m3u8",
         "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oS8yaG00faaZ9t",
+    "name": "Goodwood Road & Racing",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/53RgbQ3qRUY"
       ]
     },
     "languages": [
@@ -1591,9 +1619,9 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
+        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
-        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
-        "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8"
       ]
     },
     "languages": [
@@ -2180,6 +2208,42 @@
     "languages": [
       "eng"
     ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "sources": {
+      "streams": [
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },

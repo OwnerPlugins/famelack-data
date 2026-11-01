@@ -100,6 +100,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mAl50UnEXvw3NE",
+    "name": "Afontovo",
+    "sources": {
+      "streams": [
+        "https://stream.afontovo.ru/hd.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -717,8 +731,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1985,6 +1999,90 @@
       ]
     },
     "languages": [],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rzeNGQqOs9ouwZ",
+    "name": "Smotrim 100% Detskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orDXxZRC4vUyeM",
+    "name": "Smotrim 100% Fakty",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6UMqfCWAL6fJyw",
+    "name": "Smotrim 100% Klassika",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AEW5rUSukyBObX",
+    "name": "Smotrim 100% Lyubov",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xskSlYuVIwl8pa",
+    "name": "Smotrim 100% Muzhskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xmXphKZ88u1bWW",
+    "name": "Smotrim 100% Prazdnik",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
