@@ -46,8 +46,7 @@
     "name": "A1 TV",
     "sources": {
       "streams": [
-        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
-        "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
+        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8"
       ]
     },
     "languages": [
@@ -1039,6 +1038,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u8iyoWWdtmeeSC",
+    "name": "RTV Horizon",
+    "sources": {
+      "streams": [
+        "https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u3qWb4sI9MDIZI",
     "name": "RTV LOVE",
     "sources": {
@@ -1142,20 +1155,6 @@
     "sources": {
       "streams": [
         "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ua4a0OdjOruHxv",
-    "name": "RTV Rijnstreek TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
       ]
     },
     "languages": [

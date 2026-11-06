@@ -39,18 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aHLC2ZM9DagUy4",
-    "name": "Dak Lak TV",
-    "sources": {
-      "streams": [
-        "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VCFZo6dbs3n20W",
     "name": "DGV",
     "stream_urls": [],
@@ -186,6 +174,20 @@
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9ZSN52LIo3A5tR",
+    "name": "HTV5",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=151"
       ]
     },
     "languages": [
@@ -333,6 +335,48 @@
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bC7FnL6dhaFoeF",
+    "name": "ON O2TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0sEcu7vpoK0Bhd",
+    "name": "ON Style TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oyNC9P1TqXwMzL",
+    "name": "ON Vie Dramas",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=177"
       ]
     },
     "languages": [

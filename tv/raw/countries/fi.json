@@ -197,6 +197,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Sey5sFeH4sTPhh",
+    "name": "STAR Channel",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xqKdOYRVMSVleX",
     "name": "Taivas TV7",
     "sources": {
@@ -228,6 +243,7 @@
     "sources": {
       "streams": [
         "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
         "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8"
       ]
     },
@@ -243,6 +259,7 @@
     "sources": {
       "streams": [
         "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
         "https://live-fi.tvkaista.net/yle-tv1/live.m3u8"
       ]
     },
@@ -258,6 +275,7 @@
     "sources": {
       "streams": [
         "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
         "https://live-fi.tvkaista.net/yle-tv2/live.m3u8"
       ]
     },

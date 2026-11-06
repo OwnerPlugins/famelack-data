@@ -97,34 +97,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "roeCDcGE1uwKQ6",
-    "name": "Al Iraqia Sport",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UEXwoyYx1GFZis",
     "name": "Al Janoub TV",
     "sources": {
@@ -307,20 +279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "umvB9tV3Rb1OXe",
-    "name": "EmanTv",
-    "sources": {
-      "streams": [
-        "https://avr.host247.net/live/emantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HF0s5qptKRRfON",
     "name": "FarmodaTV",
     "sources": {
@@ -477,6 +435,20 @@
     ],
     "country": "iq",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8P55Nhxc3IvzFZ",
+    "name": "MahdawiounTV",
+    "sources": {
+      "streams": [
+        "https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "XqC5PVMCK6bt9P",

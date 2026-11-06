@@ -171,7 +171,6 @@
     "name": "Comedy Dynamics",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8",
         "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
         "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
       ]
@@ -194,6 +193,20 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCIEKxr3ezot69",
+    "name": "Comedy.TV",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -255,7 +268,7 @@
     "name": "Güldür Güldür Show",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_ZBKz_JZorw"
+        "https://www.youtube-nocookie.com/embed/-Gr6jzWUUlg"
       ]
     },
     "languages": [
@@ -311,8 +324,7 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
-        "https://tvsen7.aynascope.net/laff/index.m3u8"
+        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8"
       ]
     },
     "languages": [
@@ -326,7 +338,7 @@
     "name": "Laugh After Dark",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/haghwnbtbeA"
+        "https://www.youtube-nocookie.com/embed/4T60b-jyKSQ"
       ]
     },
     "languages": [
@@ -406,7 +418,7 @@
     "name": "Mystery Science Theater 3000: FOREVER-a-thon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bUaHUrzjiEU"
+        "https://www.youtube-nocookie.com/embed/zwnU3UaUq_k"
       ]
     },
     "languages": [
@@ -526,6 +538,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9ZJFiM1tnthINF",
+    "name": "Telecyan",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yenlo48DOLbqmP",
     "name": "The Chat Show Channel",
     "sources": {
@@ -574,7 +600,7 @@
     "name": "Viasat Kino Comedy",
     "sources": {
       "streams": [
-        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249"
+        "https://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ=="
       ]
     },
     "languages": [

@@ -629,6 +629,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4vOFCDijqZFXmc",
+    "name": "Eurosport 1 Russia",
+    "sources": {
+      "streams": [
+        "https://s7.iptv-24.net/1439/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zHRzx1BQHIMJEZ",
+    "name": "Eurosport 2 Russia",
+    "sources": {
+      "streams": [
+        "https://s7.iptv-24.net/1452/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aRjIA0jbBSoQ8N",
     "name": "FashionTV",
     "sources": {
@@ -1947,20 +1975,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Hde8aJv6IJm4i",
-    "name": "Samara-GIS",
-    "sources": {
-      "streams": [
-        "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hQgDaeyJfdzNfx",
     "name": "Sankt-Peterburg",
     "sources": {
@@ -2306,20 +2320,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ozRj7AWKTero4N",
-    "name": "TeleDom",
-    "sources": {
-      "streams": [
-        "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8"
       ]
     },
     "languages": [

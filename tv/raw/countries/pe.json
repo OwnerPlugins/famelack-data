@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mj1YeHn29dAddM",
-    "name": "Amazonica TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iVA33CIrwkHFXi",
     "name": "Andes Television",
     "sources": {
@@ -61,6 +47,20 @@
     "sources": {
       "streams": [
         "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4DBElJ7eVRBwAz",
+    "name": "Arpegio TV",
+    "sources": {
+      "streams": [
+        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
       ]
     },
     "languages": [
@@ -341,20 +341,6 @@
     "sources": {
       "streams": [
         "https://video2.lhdserver.es/cableperu/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UjSZg1tYKKZuy2",
-    "name": "JN 19",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3028/live/jntv19live.m3u8"
       ]
     },
     "languages": [
@@ -659,20 +645,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4BOCgwziwKJjLk",
-    "name": "Radio Chalaca",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3414/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rIUi7QauvvK3mU",
     "name": "Radio Master",
     "sources": {
@@ -743,20 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CTMJoIrDQnrlHz",
-    "name": "Region TV Callao",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3757/live/regiontvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ygSClri36pKd9x",
     "name": "RN Television",
     "sources": {
@@ -788,8 +746,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live.obslivestream.com/selvatv/index.m3u8",
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+        "https://live.obslivestream.com/selvatv/index.m3u8"
       ]
     },
     "languages": [
@@ -888,6 +846,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NDlCo3GFyqRAnN",
+    "name": "TV Kaliente",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nXrcWfZsttDQtv",
     "name": "TV MAR",
     "sources": {
@@ -935,20 +907,6 @@
     "sources": {
       "streams": [
         "https://srt.tvdatta.com/tvenlinea/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XOM9Q1cGWigMXK",
-    "name": "TVLibertad",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/D9rIMfZTwjE"
       ]
     },
     "languages": [
@@ -1061,20 +1019,6 @@
     "sources": {
       "streams": [
         "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "trHTZPVHEp7Bhk",
-    "name": "Vision",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8"
       ]
     },
     "languages": [

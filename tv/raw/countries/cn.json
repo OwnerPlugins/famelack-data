@@ -236,7 +236,6 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
         "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
@@ -299,7 +298,6 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
         "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
@@ -315,7 +313,6 @@
     "name": "Discovering China",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
         "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
       ]
     },
@@ -412,6 +409,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rtPiwt6yOXtJQS",
+    "name": "Jingmen Comprehensive News Channel",
+    "sources": {
+      "streams": [
+        "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sxmEu2IrHYwAmm",
     "name": "Lanzhou Comprehensive News Channel",
     "sources": {
@@ -464,20 +475,6 @@
     },
     "languages": [
       "mon",
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IV9oDGVXC1kS4J",
-    "name": "Qinghai TV",
-    "sources": {
-      "streams": [
-        "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8"
-      ]
-    },
-    "languages": [
       "zho"
     ],
     "country": "cn",
@@ -555,15 +552,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "53B4roOe9CYOhE",
-    "name": "Xizang TV Chinese",
+    "nanoid": "7mONw0VJAeLxnq",
+    "name": "Xizang TV Tibetan",
     "sources": {
       "streams": [
-        "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8"
+        "https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8"
       ]
     },
     "languages": [
-      "zho"
+      "bod"
     ],
     "country": "cn",
     "isGeoBlocked": false

@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q8tff6lSni8zyo",
+    "name": "Canal 1",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/CANAL1/CANAL1.isml/CANAL1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "G9r4ymgFpyAcFs",
     "name": "Canal 2 Alpavision Neiva",
     "sources": {
@@ -398,7 +412,7 @@
     "name": "CityTv",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Q1CEBkYUkeM"
+        "https://www.youtube-nocookie.com/embed/bUFWXxn7s8E"
       ]
     },
     "languages": [
@@ -891,7 +905,7 @@
     "name": "Noticias Caracol",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XE-HAP0KALo"
+        "https://www.youtube-nocookie.com/embed/MYZi0THS3B0"
       ]
     },
     "languages": [
@@ -1077,6 +1091,20 @@
     "sources": {
       "streams": [
         "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZfnfgO93XkAdZ",
+    "name": "Soona TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
       ]
     },
     "languages": [

@@ -8,7 +8,7 @@
         "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iipR5yUp36o"
+        "https://www.youtube-nocookie.com/embed/KQhNZQ_Uag8"
       ]
     },
     "languages": [
@@ -60,7 +60,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/V1b6nTzIknA"
+        "https://www.youtube-nocookie.com/embed/S_-uVzcokmE"
       ]
     },
     "languages": [
@@ -94,6 +94,7 @@
     "name": "CNA International",
     "sources": {
       "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=112",
         "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8"
       ],
       "youtube": [
@@ -153,6 +154,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bt1m1v4h1CmExI",
+    "name": "NHK World-Japan",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IimtbuqYIE8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "country": "jp",
     "isGeoBlocked": true
   },
   {

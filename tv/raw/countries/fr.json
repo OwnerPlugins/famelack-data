@@ -654,25 +654,8 @@
     "nanoid": "H49EeQ4bvodyQ7",
     "name": "Franceinfo",
     "sources": {
-      "streams": [
-        "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NG7ZX42nZKc"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ok1XbdadbIAXgd",
-    "name": "Francophonie24",
-    "sources": {
-      "streams": [
-        "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -910,7 +893,7 @@
     "name": "Mosaïk Cristal",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/evDkVQHf-yU"
+        "https://www.youtube-nocookie.com/embed/4u1JWH05H64"
       ]
     },
     "languages": [
@@ -1399,6 +1382,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/O_lDHikFUoY"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "sources": {
@@ -1795,8 +1792,7 @@
     "name": "TV5Monde Asia",
     "sources": {
       "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=9852",
-        "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9852"
       ]
     },
     "languages": [
@@ -1946,7 +1942,7 @@
     "name": "Zig & Sharko",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N-if6-bKd-4"
+        "https://www.youtube-nocookie.com/embed/hWDQZeOraxs"
       ]
     },
     "languages": [
